@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-13">13.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:48</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>209</bibl>
+                        </msItem>
+                    </msContents>  
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1826-06-17">17.6.1826</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_173" />
+                <p>
+                    <l>Öijärillä s:17: Kesä=Kuussa w:1826,</l>
+                    <l>Herra Gottlundille!</l>
+                </p>
+                <p>
+                    <l>Minä käsitin sinun kirjaiš Helluntai</l>
+                    <l>päiwänä Östmarkisša, josša se rykätty</l>
+                    <l>Nummero oli. Siinä minä neän että</l>
+                    <l>Talpuan Suomalaiset suaawat Kirkkoja,</l>
+                    <l>waan eipä tuo käyp niin kuin myö mei=</l>
+                    <l>nasimme hyö suaap wuaan Ruohtalaiš</l>
+                    <l>Kappelin, myökin Norin suomalaiset</l>
+                    <l>oisimma jo aikoa tainna suaaha sa=</l>
+                    <l>man ehton, meille on aikoa tarittu</l>
+                    <l>Kappeliloita ja Norlaista Jumalan pal=</l>
+                    <l>welusta; waan myö ej oo sitä tarjoa</l>
+                    <l>wastaan ottanut. Minä pelkeän että ko=</l>
+                    <l>ko asja on jo turmeluxen alla koska</l>
+                    <l>niin suuri joukko suomalaisia kuin Tal=</l>
+                    <l>puassa on, owat niihin Kappeliloihen</l>
+                    <l>ja Ruohtalaiš Jumalan pelwelukseen</l>
+                    <l>suostuneet.</l>
+                </p>
+                <p>
+                    <l>Tänne on puhe kulkenna että <unclear>Nysuokunan</unclear></l>
+                    <l>Kirkosša on ylöš Luettu, että Kekliassa pi=</l>
+                    <l>tä Talpuan suomalaisille yhön kirkon pyyättä=</l>
+                    <l>män, toisen Kirkon Leikawaitnalla; waan minä</l>
+                    <l>en usko Ryksin ja Östmarkin suomalaisten huoli=</l>
+                    <l>wan Kirkosta, kuin ej myö Norin suomalaiset</l>
+                </p>
+                <pb n="2" facs="0268_0078096_174" />
+                <p>
+                    <l>peäse heijän keralla samaan Kirkkoon.</l>
+                    <l>Minä oon uoittanna Jmmoiselta Kirjoa</l>
+                    <l>Kuultaksein tokko hän oikein eešs tuli; Porkka</l>
+                    <l>ej tullu hänen keralla mänemän, Muuanherra</l>
+                    <l>keännytti hänen. waan sanoo tuo Porkka Im=</l>
+                    <l>moisen suaaneen yhen suomalaiš miehen towe=</l>
+                    <l>rikseen, Ejkön han tok lie tullu oikein eesš.</l>
+                    <l>Waan se on minusta kumma kuin ej sinä o</l>
+                    <l>jo tuosta mulle tietoa antanna; Ejkä minä</l>
+                    <l>oo mitää wastuusta suaanna niien kirjaien</l>
+                    <l>piäälle kuin minä Jmmoisen keralla kirjoitin,</l>
+                    <l>mikä han syy siihen Lie?" Lienetkö taaš</l>
+                    <l>pannu kirjat mänemän toista tietä.__</l>
+                </p>
+                <p>
+                    <l>Minun pitäiš sulle antoa tion, etä minä</l>
+                    <l>oon puhutellu tätä uutta Östmarkin Pappia,</l>
+                    <l>hän ottaa wastaan minun kirjat, ja taaš</l>
+                    <l>panee heijät postiin niin hywin kuin waha</l>
+                    <l>Pappiki; hän mahtaa olla hywä ja siweä</l>
+                    <l>mieš. Sen eistä sinä taijat kirjat Laittoa Öst=</l>
+                    <l>markin kautta.__</l>
+                </p>
+                <p>
+                    <l>Sikaisen Jsä on käynnä teällä minun Luo=</l>
+                    <l>nain, hän sure wahwasti poikoan, hän ej</l>
+                    <l>oo suaanna kirjoa Poijaltaan Kahteen astai=</l>
+                    <l>kaan, wiimesen kirjan kuin hän sai poijaltān,</l>
+                    <l>se oil kirjoitettu <hi rend="underline">på et torp=ställe under</hi></l>
+                    <l><hi rend="underline">Sunnby i Hutinge Soçken</hi>. Siellä Sikainen Oilli</l>
+                    <l>silloin palwelukseš, ja kehu oikein hywäx pal=</l>
+                    <l>we</l>
+                </p>
+                <pb n="3" facs="0268_0078096_175" />
+                <p>
+                    <l>weluš paikax. Siinä kirjasšaan käske Sikai=</l>
+                    <l>nen Jsäsä wastoaman, ja paneman kirjan piääl=</l>
+                    <l>le näin, <hi rend="underline">Brefwet Lefnaš i Stockholm på Björn=</hi></l>
+                    <l><hi rend="underline">Gårds Gatan Huset Nº3</hi>. Sikaisen Isä teki</l>
+                    <l>näin ja Lähätti kirjan, ja käski poikase wast</l>
+                    <l>eis kirjoittaman kuinka hän woi; waan <add>sitte</add> ej oo</l>
+                    <l>Sikaisesta mitää kuulunna.</l>
+                </p>
+                <p>
+                    <l>Niin nyt pyytä ja Rukoile Sikaisen Jsä sinua</l>
+                    <l>ettäš tekisin niin hywin ja kysysit hänen pe=</l>
+                    <l>rään minnekkä Sikainen joutui siitä Sunne=</l>
+                    <l>pyyn torpasta Hutinkin pitäjästä; tokko hän</l>
+                    <l>wielä Elä, wai kuinka hänen Rauhansa sopii,</l>
+                    <l>ja eikö hän eneä mieliš tulla koto maiheen,</l>
+                    <l>Isä haloaiš wielä häntä nähä ennen kuin</l>
+                    <l>Kuoliš; sinun <hi rend="underline">pitäiš käskeäiš</hi> häntä kirjoitta=</l>
+                    <l>man kotiin, još sinä sasit tiedon hänen piääl-</l>
+                    <l>le missä hän nyt olexele, niin sinun pitäis</l>
+                    <l>tehäis hywin ja kirjottoaiš wastauksen hänen</l>
+                    <l>Jsälle minun kauttain. Se on Tahwoi Sikaisen</l>
+                    <l>ainoa Rukouš.___</l>
+                </p>
+                <p>
+                    <l>Tämä kirja seuroa Poppiuxen Kirjassa Tuk=</l>
+                    <l>holmmin kautta.__</l>
+                </p>
+                <p>
+                    <l>Teällä on kaikki Löysät Miehet joilla ej ole</l>
+                    <l>torpia käyttännä Kahta Miestä wouwin ja</l>
+                    <l>amtmannin tykönä kysymässä Ejkö hyö saiš</l>
+                    <l>pywätä Norlaisten autio=Mehille. waan wout</l>
+                    <l>ja amtmanni oliwat wastanneet ettei se taija</l>
+                    <l>käyä Laatuun pywätä toisen Mehälle, ilman me=</l>
+                    <l>hän isännän Luata.</l>
+                </p>
+                <p>Teällä on kulkenna puhe, että Norin Rikierinkille</p>
+                <pb n="4" facs="0268_0078096_176" />
+                <p>
+                    <l>Kristianiin oiš pitännä tulla oikeuen Kunin=</l>
+                    <l>kaalta, että Löysän wäin pitäiš suaaha pywä=</l>
+                    <l>tä autio=Mehille, jotka mehat makoawat pe=</l>
+                    <l>ninkuorman poiš Kartanoista ja peästä Ruu=</l>
+                    <l>nun werolle; sillä näitä miehiä on käytetty</l>
+                    <l>kysymäsšä.___ Kyllä Kuninkaš kysyi meiltä</l>
+                    <l>toko siellä Norin puolla on pykyy paikkoja, ja</l>
+                    <l>suawatko pyätä. On kowinki, wastasimme myö,</l>
+                    <l>että täitaiš tulla niin hywiä tiloja kuin ne</l>
+                    <l>jotka on tehtynäi, waan siellä ej suaa yxkää</l>
+                    <l>pywätä, Kauppa Miehet kieltäwät, Norlaiš ta=</l>
+                    <l>Loin poijat myöš kieltäwat pykeämästä Mehilleen.</l>
+                    <l>Niin se on paha, sanoi Kuninkaš; waan siihen</l>
+                    <l>pitää tulla toisen oikeuen, <hi rend="underline">Landet skalla upod</hi>=</l>
+                    <l><hi rend="underline">Laš</hi>. wastaiš Kuninkaš.___</l>
+                </p>
+                <p>
+                    <l>Niin tämän puhen tautta myö olemme atellu,</l>
+                    <l>tohtinna Kuninkaš oiš antoaki senlaisen oikeuen</l>
+                    <l>Rikierinkille; ja nämä Herrat tahtowat Sali=</l>
+                    <l>ta sitä oikeutta. Sillä on nyt Löysät miehet</l>
+                    <l>minua pyytännä Kirjoittaman Poppiuxelle, että</l>
+                    <l>hän kysyiš Kuninkaalta tästä asjasta tokko hyö</l>
+                    <l>saiš pywätä, ja suaaha Ruunun weron piääs=</l>
+                    <l>leen, ja että hyö saiš kuulta mitä Kuninkaš ta=</l>
+                    <l>hään wastoa, kuin wuaan Kuninkaš suostuu</l>
+                    <l>että hyö saišpywätä, niin hyö meinoa yximielisest</l>
+                    <l>Rueta syökeämän uutta oikeutta Kuninkaista.__</l>
+                </p>
+                <p>
+                    <l>waan minä uskon, että kuin sinä oisit suaap<add>u</add>illa</l>
+                    <l>Tukulmisša, että se oisi parasta kuin sinä tekisit niin</l>
+                    <l>hywin ja kysysit Prinsiltä tästä asjasta. Ja sitte an=</l>
+                    <l>tasit mulle wastauxen mitä Prinsi tähään wastoa.</l>
+                    <l>Poppiuš se on wanha, ja eikä taija huolia kysy=</l>
+                    <l><ref>#<note>viittaus marginaaliin</note></ref></l>
+                    <l><hi rend="underline">Poawo Räisäinen</hi></l>
+                </p>
+                <p>
+                    <l><ref>#<note>lisätty marginaaliin</note></ref> ä, sitä wähemmän mulle kirjoittoa wastuusta. Ejpä han mont=</l>
+                    <l>gommery=kä oo kehanna mulle kirjoittoa. waika hän on nuoremp. </l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

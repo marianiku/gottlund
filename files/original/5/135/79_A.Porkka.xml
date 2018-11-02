@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka > Carl Axel Gottlund</title>
+                <author>Antti Porkka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:14</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>79</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Runsjön">Runsjön (Rumsjön, Rensjön)</placeName>
+                        <date when="1822-12-08">8.12.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_039" />
+                <p>
+                    <l>Runsjönilä sinä 8 päivänä Joulu Kuusa</l>
+                    <l>v: 1822</l>
+                </p>
+                <p>Herra Koarle Gottlundille!	</p>
+                <p>
+                    <l>Palio Kiitoxia Chartasta jonka Herra on</l>
+                    <l>minulle Laitanna, Ja hän vielä siihen niin</l>
+                    <l>selkiästi ylös pannu Kaiki maat ja Kaapun=</l>
+                    <l>kit, Että minä sen hyvin ymmärrän, Ja löyvän</l>
+                    <l>Kaiki paikat, Joita avisit puhu, Turkilaisten</l>
+                    <l>sotasta: sen tai oraisen poika öylön minulle.</l>
+                    <l>männä sunnuntaina minä <unclear>Käistin</unclear> ne präntätyt</l>
+                    <l>Listat, Ja on niitä jakailu näihin lik kylin,</l>
+                    <l>van pohois suomalaisin minä en niitä tule</l>
+                    <l>saaman ennen Kuin joulaamuna kirkolla.</l>
+                    <l>Ne suomalaiset Kieriat Jotka minä <unclear>hoivin</unclear></l>
+                    <l>Kaarlestaista, on Jo aikoa sitten öjiärile männy,</l>
+                    <l>minä en niihin Käisni Koskenna, vaika Räisäinen</l>
+                    <l>Kiriutti minulle jotta niitä myyä, Ja hänele</l>
+                    <l>Rahat Hankia, sillä minä sain tietä, Jota</l>
+                    <l>Konti=akat juoksuti valeita viikeron Ja</l>
+                    <l>Salmellen, <del>Mun</del> Mun Kjerioisa Miövän, Ja</l>
+                    <l>Rahat Enax teköväin; Ryöskeäis senmoiset</l>
+                    <l>valet yltyä upsalankin, <del>van</del> sillä se on</l>
+                    <l>vanha sanan tapa: Jossa matalin aita on,</l>
+                    <l>siitä Kaiki ylte pyrki. Nuo ei <unclear>minuan</unclear></l>
+                </p>
+                <pb n="2" facs="0268_0077775_040" />
+                <p>
+                    <l>Koske, silä minä piän Kunnian Jos mä Köyhä</l>
+                    <l>oon, Ja naoroi <unclear>nuila</unclear> Räisäisenkin Kuin viimen</l>
+                    <l>yxissä oltin.</l>
+                </p>
+                <p>
+                    <l>Kuin minä Kesällä Kuilin Koarlestaissa, niin</l>
+                    <l>multa mäin 2.Riksiä Riksselisä, Kärrystä, siloista</l>
+                    <l>Ja Tynnerpuusta Joissa minä heitä satelta peitin,</l>
+                    <l>Ja 5 päiweä minä oilin paikassa omalla Hewoi=</l>
+                    <l>sela, paraisa Heinaikana, Josta Räisäinen <del>o</del> on</l>
+                    <l>Jo Herran Käskyn Jälken puhutelu Norin</l>
+                    <l>puolelaisiam Jotka on luvanna tuosta viliana</l>
+                    <l>palkitansa, Ja ne on aina Rehelisiä Norin</l>
+                    <l>puola. Ruohtin puolai Moinjat on luvanna</l>
+                    <l>tuosta palkitansa, van ei se o vielä tapahtuna</l>
+                    <l>muilta Kuin Kaarle Sjkainen Leikavaitinalta,</l>
+                    <l>se on osaltan antanna Kuin Mies; 3 Kappoa</l>
+                    <l>ohria. Minä en o tuosta taina mielestäin</l>
+                    <l>Herrale vailitoa, sillä minä en o toivonna</l>
+                    <l>Hänen tuosta Huolivan Jos tuo tuli tyhjän</l>
+                    <l>tehyxi, sitä taita uusein saaha enemp tyhiän</l>
+                    <l>tehä, van Herralla on Erinomaitain Huoli</l>
+                    <l>Kaikesta. Kax viikoa sitä minä lähäitin</l>
+                    <l>maxun viiko Sanomista, Ja pyysin yhen</l>
+                    <l>Kappalen Ens vuoinkin pääle, Ja minä</l>
+                    <l>en vielä tiiä Jos uuseampia tahoitan.</l>
+                    <l>Sen Maa Kaupan Jota minä puhuin, niin</l>
+                    <l>Minä on pois heitännä, Kuin minä vaan </l>
+                </p>
+                <pb n="3" facs="0268_0077775_041" />
+                <p>
+                    <l>olusin hyvä pitämän tämän joka mulla on.</l>
+                    <l>Minä en tullut tänä syxynä Syyniä tiölein</l>
+                    <l>pitänex, Eipä se mahtanna tulla Räisäiselläkän,</l>
+                    <l>Ja minulla Ei tässä Kyläsä vielä ole palion</l>
+                    <l>tiötä, minä en oo tassä olut Jos Kaxi vuota</l>
+                    <l>oli Keväilä; van Kuin mun tiöin olis tässä, Jonka</l>
+                    <l>minä tein syntymä paikallain, febakan Ja</l>
+                    <l>Kähkölän väilillä sillä torpalla sen suuren</l>
+                    <l>suon Rannassa, sinä minä tein suuren työn,</l>
+                    <l>van se oli Kaik turhassa, sillä siinä paleltui</l>
+                    <l>Joka vuöisi. ( minä tuota vielä enemmän Kertoan,</l>
+                    <l>silä minä Neän, Että Herra ei Kyllästy pitkin</l>
+                    <l>Kierioin) siinä paleltui vuointulo minulta</l>
+                    <l>Kuusi vuota perakanan, Jotei Ruokaikoa</l>
+                    <l>olut syxyilä pienilenkän lapselle, Jos <unclear>siemenin</unclear></l>
+                    <l>ja Elon toisen Käistä <unclear>Hankia</unclear>, se saatoi mun</l>
+                    <l>polvillein, Ja täyvyn myyvä satällein Eriki</l>
+                    <l>Porkale, Joka miestä parrate tuosa meinais</l>
+                    <l>vilioa saaha, van samanpa se Nauti Kuin</l>
+                    <l>Minäkin, minä muutin tuosa vuona 1816 syxyllä</l>
+                    <l>Ilman vähintäkän Eloneovoa Roakille pohois</l>
+                    <l>Leikavatinalla, Jossa minä olin 3<hi rend="superscript"><hi rend="underline">nt</hi></hi> vuota, mun</l>
+                    <l>piti vuona 1817 ottaa Ruunun vilioa siemenex</l>
+                    <l>3 Tynnöriä Kaoroia Ja 1. Tynnöriä ohria, Josta</l>
+                    <l>on vielä velkaa, Ja sitte samana vuona</l>
+                    <l>Kesällä minä Kiriutin ansökninkin maa</l>
+                    <l>Herralle</l>
+                </p>
+                <pb n="4" facs="0268_0077775_042" />
+                <p>
+                    <l>jotta saaha Jotai Kappoa parkin sekan Lapsile,</l>
+                    <l>Ja Pappi Kieriuti sen peäle totexi, minä</l>
+                    <l>vein jte sen maaherralle Joka oli vasserrossa,</l>
+                    <l>Ja <del>oti</del> se oti sen Kansan, Monian wiikonpeästä</l>
+                    <l>Lähäti hän sen minulle peäle <unclear>Kjeriutatũ</unclear>, Etä</l>
+                    <l>mun Kjeriũtoa peälein vähä vilioa, Ja sitä</l>
+                    <l>noutaisa viiä Hännele saman ansökninkin</l>
+                    <l>takaisin, Joka kohta tehtin, Ja minä sain</l>
+                    <l>6 veärinkiä ohria, Jolla minä Kesän vietin</l>
+                    <l>Lapsinein, Ja nekin on maxux tullut, Ja</l>
+                    <l>site ei oo siitä ansökninkistä Kuuluna mitä.</l>
+                    <l>se Torpa oli vielä <unclear>Kulninp</unclear> Kuin se Jonka</l>
+                    <l>mä möin, silä piti mun vaihtoa tämän</l>
+                    <l>tilan Ja saaha Rahaa väliä, minulla on</l>
+                    <l>tahtonia Kova onni völiätä pienästä,</l>
+                    <l>Kuin minä olin 14<hi rend="superscript"><hi rend="underline">na</hi></hi>aiastaian vanha niin</l>
+                    <l>minä myllyssä muursin oikean Käsi vartein</l>
+                    <l>Jotta Käis makais Kyynäs peässä, Ja Luut</l>
+                    <l>pistin pihalle Ja Katkeais suonet ja</l>
+                    <l>Nahan, Josta minä Koko talven Makaisin</l>
+                    <l>vaivaissa, Ja palion vaivoa vielä nytkin,</l>
+                    <l>tänä vuonna Liioitenkin.–</l>
+                </p>
+                <p>
+                    <l>Ola ja Eiriki Porka fepakassa, ne tahtoi</l>
+                    <l>Tuomarin Kansa Lakin, He ei anna Hänelle</l>
+                    <l><del>en</del> Enemän Kuin pitä, Ennen He Riitele ne</l>
+                    <l>Rahat pois.<ref>#<note>viittaus seuraavalle sivulle</note></ref></l>
+                </p>
+                <pb n="5" facs="0268_0077775_043" />
+                <p>
+                    <l># Nyt on <unclear>Månyalla</unclear> olut Kärät, Ja</l>
+                    <l>sielä on niitä Kolmaisti piety, Ja</l>
+                    <l>Kolmet murha tiöitä, sanotan Janin</l>
+                    <l>peäle vetinöityxi, Ja Neljäns Etä Hän</l>
+                    <l>oli aikoina vaimoansa <unclear>tapoas</unclear> sielä</l>
+                    <l>ei saana Jan ola sisällä Kuin veitnät</l>
+                    <l>puhui, Eikä veitinät Kuin Jania puhu-,</l>
+                    <l>tettin; Jan oli ulkopuolella Kuulu</l>
+                    <l>Kuin yx vetinöi Hänen peäle, Niin Hän</l>
+                    <l>sanoi: Kuin minä peäsen Irti, niin minä</l>
+                    <l>tapan sen. Kuni toinen tuili sisän, niin</l>
+                    <l>se toimiti sen, niin Tuomari sanoi: Eipä</l>
+                    <l>sen pie peästä, Ja Janin sanotan, ploki </l>
+                    <l>jalaisa viiyxi Koarlestani <unclear>vankihuonesen</unclear></l>
+                    <l>sieltä taas tuuvan viiko <del>Ha</del> <unclear>Huomesta</unclear></l>
+                    <l>vestaviikin, Jossa asia varsin peätetän.</l>
+                    <l>Ryxin Papin sanotan Mångalla Rätän</l>
+                    <l>Eessä niin väsynen, Etä Hän Rukuilli</l>
+                    <l>saahansa Istuita, van ei <del>tu</del> Tuomari</l>
+                    <l>siihen suostunna, Jos Hänen täyty siinä</l>
+                    <l>seisoa 3<hi rend="superscript"><hi rend="underline">nt</hi></hi> tunniia, Ja varoitan Papin</l>
+                    <l>Ja</l>
+                </p>
+                <pb n="6" facs="0268_0077775_044" />
+                <p>
+                    <l>Länsmannin, Kuin Tuomariakin syytetävän.</l>
+                    <l>Männä Tiistaina Kuin paperit oli</l>
+                    <l>Jaitu Käräkylässä vastaviikissä, niin</l>
+                    <l>oli Tuomari Käskennä almuun pihalle.</l>
+                    <l>siite Kysyi Lautamiehiltä: Toko He</l>
+                    <l>tahtoivat Häntä vielä Tuomarixi?</l>
+                    <l>nuo vastaisivat: tahoime, niin se </l>
+                    <l>site muile piti <unclear>Kestit</unclear>, van sen Ei</l>
+                    <l>pitäis tuomarina olla, se tuomihte</l>
+                    <l>Kuin sokeat akat tappelo.</l>
+                    <l>pänäin Hän Rupea <del>pehiä</del> pehmiä=</l>
+                    <l>män pitä taowata Jieriuttamasta;</l>
+                    <l>olkon Jumala Herran Kansa, Ja suokon</l>
+                    <l>Hyweä Joulua, Raohaa Ja Terveytä.</l>
+                    <l>toivotta</l>
+                </p>
+                <p>Antj Porka</p>
+            </div>
+        </body>
+    </text>
+</TEI>

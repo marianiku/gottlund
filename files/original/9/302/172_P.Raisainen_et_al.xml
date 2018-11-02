@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen, Nils Riekkinen, Antti Riekkinen, Juhoi Nawilainen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen, Nils Riekkinen, Antti Riekkinen, Juhoi Nawilainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-21">21.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">        
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <author><surname>Riekkinen</surname>
+                                <forename>Nils</forename></author> 
+                            <author><surname>Riekkinen</surname>
+                                <forename>Antti</forename></author> 
+                            <author><surname>Nawilainen</surname>
+                                <forename>Juhoi</forename></author> 
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>172</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-01-01">1.1.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_036" /> 
+                <p>Öijärillä sinä 1.p- Tammi kuussa wuo<ref>n<note>viivallinen n-kirjain</note></ref>a 1823.__</p>
+                <p>Herra Gottlundille	Poawo Räisäiseltä.</p>
+                <p>
+                    <l>Minun Luonain käyw tässä ejlöin kax Miestä</l>
+                    <l>Nils Riekkinen <del>Puwilta</del> <add>Pennalasta</add>, ja Antti Antin poika Riekki=</l>
+                    <l>nen Kössilästä; Hyö pyysiwät minua teillä kirjuttaman</l>
+                    <l>jnlakit, heijän jnlakiloistaan. Waan ne on niin pit=</l>
+                    <l>kät. minulta ulos kirjuttoa. Naissä on kax suurta Tuomio=</l>
+                    <l>ta, jotka on Jossä=heärän ja Fryxtals=heärän Rajan Ri=</l>
+                    <l>josta. Se ensmäinen Tuomio on tehty wuonna 1785. sinä 18.</l>
+                    <l>paiw Lokakuussa. Toinen Tuomio <del>k</del> joka on päätös Tuomio,</l>
+                    <l>on tehty wuotta jälkeen; sinä 14. päiw: Kesäkuussa, ja se on</l>
+                    <l>semmoinen, että silloin <add>on</add>  pietty Heratssyyniä.</l>
+                </p>
+                <p>
+                    <l>waan nyt seura tämän kautta 4. muuta paperia, jotka</l>
+                    <l>hyö ois mun tahtonna ulos kirjuttaman, ne on selwiä</l>
+                    <l>lukea, ja työ ymmärrätte heihin paremmin kuin mi-</l>
+                    <l>minä. Kosk minä illalla käsittin kirjoja, Joista minä</l>
+                    <l>neän että meillä on lupa tulla Herraijen päiwille,</l>
+                    <l>Niin taijamme nämä Tuomiot ottoa silloi Kanssaa<ref>m<note>viivallinen m-kirjain</note></ref>e.</l>
+                    <l>Nämä Miehet käsk minun teitä Rukoileman ettäs te=</l>
+                    <l>kisit niin hywin ja autasit heitä tässä asjassa jos ma=</l>
+                    <l>honlinen on. kyllä hyö waiwan maxoa.</l>
+                </p>
+                <p>
+                    <l><hi rend="underline">Paawo Räisäinen</hi> Nils Riekkinen Antti Riekki</l>
+                    <l>-nen</l>
+                </p>
+                <p><ref>*<note>lisätty marginaaliin</note></ref>Tämän piäällä nämä miehe<del>n</del><add>t</add> pyytäs wastuusta</p>
+                <pb n="2" facs="0268_0078096_037" /> 
+                <p>
+                    <l>Tässä ois wielä! Puwilaisten ja Riskulaisten ja Pennalai=</l>
+                    <l>sten, Kontrakti=seteil, jonka ala kaikki ne Puonnit niimeensä</l>
+                    <l>kajotettiin kirjuttam frederusin Pattrunalta; joka tehtiin wuo<ref>n<note>viivallinen n-kirjain</note></ref>a</l>
+                    <l>1801. sinä 27. päiw: Marraskuussa, että heijän piti Prukille ajoa</l>
+                    <l>10. kuormoa Kolia Miehelle joka talw; tahi pois torpalt joka ej sitä</l>
+                    <l>tie. Ja sitten on ansyöknink sitä wastaan, jonka Lansherralta</l>
+                    <l>syökasiwät että piästaxen siitä rasitoxestä.__</l>
+                </p>
+                <p>
+                    <l>Nämäki molemmat kirjat ois Riekkiset mun tahtonna <del>ylon</del> uloš</l>
+                    <l>kirjuttaman. Waan nämäkin on niin pitkiä; ja ne on nukka sel=</l>
+                    <l>wiä jlman ylös kirjuttamata; Enkä minä heitä nyt Lähätä,</l>
+                    <l>waan jos niin ois että heitä tarwittais, niin taitasimme ottoa</l>
+                    <l>nekin kanssa<ref>m<note>viivallinen m-kirjain</note></ref>e kuin Herraen päiwille tulemme.___</l>
+                    <l>____________</l>
+                </p>
+                <p>
+                    <l>Öijärillä	Annettu Uuten wuoten pänä</l>
+                    <l>Se meille oisˇ aj wan tarpeenlinen, Još myö peääsisi<ref>m<note>viivallinen m-kirjain</note></ref>e</l>
+                    <l>Herraien päiwille; ryösteäis pä tuo Kuninkas autoa meitä</l>
+                    <l>sinun kauttais, että saisimme jonkulaisen oikeuen kauppa</l>
+                    <l>miesten ja Merkkällöien yliten, jopa ne toais rupea</l>
+                    <l>kowin rasittaman paikoissaan suomalaisia; Howissuoku=</l>
+                    <l>nan mehillä on merkkäil ulos sanottanna nyt ennen Joulua</l>
+                    <l>mest joka puonnin pois hiemmoilta, ja tämmännä käräi=</l>
+                    <l>siin six 10. p: tässä kuussa sen piälle, että jos tahtowat asua</l>
+                    <l>hiemmoilase, niin pitä ottoa semmoiset Kontrahit kuin Nils=</l>
+                    <l>si antoi. waan minä kielsin weljeän Roatikalan oloa, ettei</l>
+                    <l>ottoa semmoista Kontrahtia jos Lykätä saan kewäisiin asti ehkä</l>
+                    <l>tulis toinen muutos. Merkailit ne wannu silmäkourassa että</l>
+                    <l>se on waletta, että suomalaiset suaa Rahoja Lainnax kassoista.</l>
+                    <l>Kuninkas ej sitä oo ikän tainna pyyteäkän, ejpä hänestä</l>
+                    <l>Kauppa Miehet tiä mitään. Waan oilpaan tämä rulia: <ref>*<note>symboli, viittaa kirjeen jatkumiseen seuraavalla sivulla</note></ref></l>
+                </p>
+                <pb n="3" facs="0268_0078096_038" /> 
+                <p>
+                    <l><ref>*<note>edellisen sivun symboli toistuu</note></ref>Nyt Joulun pyhinä oil tellätty kax miestä outalasta,</l>
+                    <l>ja Merkäilin Welji, tätä Öijärin mehteä syynihtemän,</l>
+                    <l>ja kyliä ylös kahtoman. Mehän ja kylät oil meärä myyä</l>
+                    <l>toais yhelle Wieralle kauppa miehelle, Heijerman Niimiselle</l>
+                    <l>waan tarjottiin sitä nyt muka meillekin asujamille, waan</l>
+                    <l>ej wähempän kuin 15000. tyskään. Ej myö sitä oo hywä anta=</l>
+                    <l>man, wastasimme myö. waan jos niin ois, nin 6000. myö</l>
+                    <l>annamme, myö tahomme ite työ<ref>m<note>viivallinen m-kirjain</note></ref>e ruowata, ja myö tahomme</l>
+                    <l>esteä kauppa miehet myymästä meitä wieralle, myö onme</l>
+                    <l>jo männy Kuninkaan kanssa sillä yhteen että suaahakseme Rahoja</l>
+                    <l>Lainnax kassasta. se on suuri wale wastais ne miehet, oispa</l>
+                    <l>sitten meijäki pitännä suaaha kassasta Lainna<del>n</del> Mehtäi<ref>m<note>viivallinen m-kirjain</note></ref>e</l>
+                    <l>Lunastoxex, kuin Myö pyysime Rikierinkiltä. oottekos työ pyy=</l>
+                    <l>tännä Kuninkasta niin kuin me oomme? wastasi<ref>m<note>viivallinen m-kirjain</note></ref>e myö.</l>
+                    <l>Ej myö tuotaan oo, waan Rikierink on se sama kuin Kunin=</l>
+                    <l>kaskin wastais hyö toias. ja sitten rupesiwat nauraman ja</l>
+                    <l>muka tekiwät meistä narria ja sanoiwat työ ootten Lykyn</l>
+                    <l>Lapsia koska Kuninkas teitä niin auttaa. Ja toais sanoiwat</l>
+                    <l>jos tuo niinni ois, niin ej Kuninkas kauppa Miehiltä pois</l>
+                    <l>Tuomihte wähemmäx kuin se on wiäärtti, teijän tilat on sen</l>
+                    <l>wiärtti kuin työ tarjoatte, ja on tuö mehtäi tok 7. eli 8000.</l>
+                    <l>weärtti, kyllä kauppa Miehet on niin hywin tutut Kuninkaan</l>
+                    <l>kanssa kuin työkin. waan mul on se atoš että ne oil tellätty</l>
+                </p>
+                <pb n="4" facs="0268_0078096_039" /> 
+                <p>
+                    <l>meiltä Narroaman kuin myö nyt oisimme Luanna heijä tahon</l>
+                    <l>jälken niin se <add>ois</add> ollu arwattawa että se ois seisonna. waan jos myö</l>
+                    <l>nyt Kuninkaalta Rahat suaamme Lainnax jonka ma nyt kyllä hywin</l>
+                    <l>uskon, waika ej ne ollu uskowanaan. Niin myö <add>ej</add> oo hywä sum<ref>m<note>viivallinen m-kirjain</note></ref>oa</l>
+                    <l>antaman jota ne tahtoi. waan kylla mä tuon uskon että se ois</l>
+                    <l>käynnä wähempän kuin warsin ois piäälle ruettu tarjoaman.</l>
+                    <l>waan myö ej ois hywä enemp kuin 6000. Spt. antaman._</l>
+                </p>
+                <p>Poawo R‒n.</p>
+                <p>
+                    <l>Tässä on nyt Johan Person Nawilainen Oralasta eli Swartberg</l>
+                    <l>Sekin on Pahoin ahtistoxessa! hän on tullu pois sanotux hie<ref>m<note>viivallinen m-kirjain</note></ref>allaan </l>
+                    <l>Sillä ej kuin ej hän oo ottanna Contrahtia semoista että käywä</l>
+                    <l>Spiikki Prukin työssä joka päiwä Läpitse wuoten; ja wielä sitten=</l>
+                    <l>pois hie<ref>m<note>viivallinen m-kirjain</note></ref>altä kuin yhenni päiwän fieltiä löis ettei työllä ois.__</l>
+                    <l>Hän Rukoile teitä h<del>ä</del><add>a</add>rtaast minun kauttain ettäs tekisit niin hy=</l>
+                    <l>win ja neuoisit häntä, kuinka hänen pitäis jsäntänsä kans=</l>
+                    <l>sa <hi rend="underline">Laittaiteman</hi>; hän on jstunna siinä jsänsä jälestä, ja ne on</l>
+                    <l>siinä Laps Lapsen jälken asunna, ejkä semmoista Contrahtia</l>
+                    <l>jkän ennen pakotettu ottaman.__</l>
+                </p>
+                <p>
+                    <l>Juhoi Nawilainen.__</l>
+                    <l>Poawo R-n.</l>
+                </p>
+                <p>
+                    <l>Nyt on jes Jaçob Nilssi kuollu, se kuol Joulun alais paiwinä.</l>
+                    <l>Tästä on Lystaan mäkiläiset sangen jloiset. Se on maannan kaiken</l>
+                    <l>keseä, waan kuitenkin ol kesällä sanonna, kuin ma tästä para=</l>
+                    <l>neisin kyllä mä teitä Laiskat koirat oppettasin. Nyt suaatte maa</l>
+                    <l>ta kotona Laiskana. Niin nyt sowat sanoneet ja nauraneet että</l>
+                    <l>nyt sai Jutas hywän paistin Joul=jlax.</l>
+                </p>
+                <p>Poawo Räisäinen.</p> 
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen, Paavo Suaastainen, Pietar Havuinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen, Paavo Suaastainen, Pietar Havuinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-14">14.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:3</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">        
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <author><surname>Suaastainen</surname>
+                                <forename>Paavo</forename></author>
+                            <author><surname>Havuinen</surname>
+                                <forename>Pietar</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>164</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Suaastainen ja Havuinen sanelleet oman kirjeensä Räisäiselle</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1822-08-00">0.8.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_007" /> 
+                <p>Öijärillä sinä 23. Elokuussa w:1822.</p>
+                <p>Taloin Mies Poawo Suaastainen! Herra G ‒nd.</p>
+                <p>    
+                    <l>Minä pyyän teitä Rakas Herra, tämän minun</l>
+                    <l>kirjain kuatta; että <del>ois</del> jos ois Mahtonlinen,</l>
+                    <l>niin tekisit, nin hywin ja jlmottasit Ruunulle</l>
+                    <l>Mejiänkin asjoita. Minä Poawo Kaarloinpoika</l>
+                    <l>Suaastainen sain luan pyyätä Matti Weteläiseltä</l>
+                    <l>Kinsyönin Mehälle Ruohinmäix kututaan, Johoonka</l>
+                    <l>minä aloitin Mannä kesänä Lopulta Toukokuuta</l>
+                    <l>pyykeämän ja Raiwoamaan; waan on niin wähä</l>
+                    <l>Raiwumuaata sillä puolla jolla minä pyykeän ettei</l>
+                    <l>siinä suaa <hi rend="underline">pahaistakaan</hi> tiloa; waan tämä mun</l>
+                    <l>pyyky paikkain, on juurin Ruohtalaisten Mehän Ra=</l>
+                    <l>jalla, yhen Kartanon jota kututaan Branäsix, Näijen</l>
+                    <l>Mehällä oisˇ sangen <unclear>hywä</unclear> pyykypaikka, waan siheen</l>
+                    <l>ej suaa Ruohtalaisilta Lupaa pyyätä waikka se on</l>
+                    <l><hi rend="underline">Likipitäin</hi> kax peninkuormoa poisˇ heijän Kar=</l>
+                    <l>tanosta, ja juuri Luo piäässä heijän mehtiä.__</l>
+                    <l>Minä tykkeäsin kuin tämä asja tulisˇ Kuninkal=</l>
+                    <l>le jlmi annetux; niin Ruunu taitais olla mies</l>
+                    <l>Ruohtaisilta pois ottaman Luo piään tätä meh=</l>
+                    <l>teä, ja panna pyykärlöitä hanen piäälle, siihen</l>
+                    <l>tulis hywin puolen wiäärinkin Hiemma, ja wielä</l>
+                    <l>sittenkin oisˇ Ruohtalaisilla mehteä kyllä weronsa jälkeen.</l>
+                    <l>Josˇ niin <add>hyvin</add> tekisit ettäsˇ Ruunulle rupiaisit tätä asjoa ilmoit-</l>
+                    <l>tamaan, niin tällä mehällä, jota myö meinoaisimme,</l>
+                    <l>on kolmet pienelänteä Mäkeä, Knutin mäk, jonka</l>
+                    <l>pohjos puolla on Ruohin mäk. Niin näijen mäkien</l>
+                    <l>jtä <del>juolla</del> puolla on yx lammikko jota kututaan.</l>
+                </p>
+                <pb n="2" facs="0268_0078096_008" /> 
+                <p>
+                    <l>Lyyskiäärnäx, siitä juoxoo pien puro pohjoseen päin</l>
+                    <l>Litin jokeen; ja toaisˇ sen lammikon heit jtä puol=</l>
+                    <l>la juoxe Lyys=Elwä Etelään päin: Niin näistä</l>
+                    <l>wesistä tahtoisimme myö suaaha Luoteseen päin</l>
+                    <l>Kinsyönin Rajaan, Mehta traktin; ja Ruweta sen</l>
+                    <l>piäälle pyykeämän, ja suaaha weron itellemme</l>
+                    <l>Minä, ja Laur Pietarinpoika Haw<del>o</del><add>u</add>inen Kalasåsta,</l>
+                    <l>ja sitten on sillä Mehällä yx torpali Olli Ollin</l>
+                    <l>poika, <add>Riita=aho</add> Myö Kolmet ottaisimme 1/8. <hi rend="superscript"><hi rend="underline">san</hi></hi> hiemman</l>
+                    <l>Weron piäälleemme.__ Niin tämä on nyt niin</l>
+                    <l>paljon jos toinen ojkeus tulis Ruohtalaisten Liika Me=</l>
+                    <l>hille: Niin minä Suaastainen Rukulen teitä Rakas ˇ</l>
+                    <l>Herra Ettäs pitäsit minut muistissais ja Hawuisen</l>
+                    <l>ja Ollin Riita=aholta, Että myö saisinme niin</l>
+                    <l>kuin me olemme pyytännä. Siinä on mehtiä</l>
+                    <l>Ruohtalaisillä Kahenpuolen sitä minun mainit=</l>
+                    <l>tua Mehteä, jotka oisˇ samalla tilalla ja yhtä</l>
+                    <l>kaukana Ruohtalaisten Kartanoista; Niiheni</l>
+                    <l>tahtois moin toimeenlinen, <del>Rueta</del> Mies ˇ Ruweta</l>
+                    <l>pyykeämän, waan ej taija suaaha, Se on Meijän</l>
+                    <l>mielestä aiwan paha oikeuš että Ruohtalaisten</l>
+                    <l>pitää suaaha hallita niin paljot mehät niin kau=</l>
+                    <l>kana poisˇ Luotaansa, ja hywät pyykypaikat ma=</l>
+                    <l>koawat turhina mehtinä, ja kansa se sikiä enemp</l>
+                    <l>ja enemp; ja omat Ruohtalaisten Lapset ejwät</l>
+                    <l>taija mehtään ja kiwisille maille pyyätä jotka on</l>
+                    <l>wuaana sileisiin, Niin myö <hi>tykkeämme</hi>, että još</l>
+                    <l>Ruunu tämän tietä saisˇ, ej hän tok jkään muu=</l>
+                    <l>ten josˇ autais Suomalaisia tahi Mäklöillä asu=</l>
+                    <l>waisia. waan meiltä ej se jkään taija tulla ilmi</l>
+                    <l>annetux, sillä myö oonme kowan wähäkelpoisia.</l>
+                    <l>Waan nyt myö turwoatemme teiheen Rakas Herra</l>
+                    <l>sillä kuim me onme kuullu ettäsˇ oot Niin Monet</l>
+                    <l>asjat muilta suomalaisilta piäälleisˇ otta<ref>n<note>viivallinen n-kirjain</note></ref>a. Niin</l>
+                    <l>juuri sen tähe mekin <hi rend="underline">oonme Rohwasenna<ref>m<note>viivallinen m-kirjain</note></ref>e</hi> tei=</l>
+                    <l>jän tyköön kirjuttamaan, Ettäs tekisit meille</l>
+                </p>
+                <pb n="3" facs="0268_0078096_009" /> 
+                <p>
+                    <l>Talpuan mehtäläisille saman Laupinen</l>
+                    <l>kuin muillekin Suomalaisille._</l>
+                </p>
+                <p>
+                    <l>Paul Suaastainen</l>
+                    <l><hi rend="underline">Ruohin=mäki.</hi></l>
+                </p>
+                <p>
+                    <l>Pietar Hawuinen</l>	
+                    <l>Herra Gottlundille</l>
+                </p>
+                <p>
+                    <l>Minun jsäin Per Larsson pyykäis 40. astaikoa</l>
+                    <l>sitten; Persbyläisten mehtä oisille, yhen torpan</l>
+                    <l>jota Kalåsen kutsutaan, Niin silloin kuin mun</l>
+                    <l>jsäin pyykäisˇ, niin <del>8</del> oil 8.osa miestä sillä meh=</l>
+                    <l>tä trakttilla. Niin sitten kuin minun jsäin</l>
+                    <l>tuossa hetken asui, niin rupeis hän heiltä</l>
+                    <l>muutamia oisia ostamaan, ja sai kauppa=</l>
+                    <l>kirjat heijän piäälle, ja sitten kuin <add>minä</add> tulin</l>
+                    <l>Kylän haltiax, Niin oon minä osta<ref>n<note>viivallinen n-kirjain</note></ref>a muu=</l>
+                    <l>tamia <hi rend="underline">oisia</hi>, ja oon suaanna kauppakirjat</l>
+                    <l>heijänkin piäälle, että niitä on nyt Kahtexsan</l>
+                    <l>kauppakirjoa ja 8. tinklyysninkiä; sillä jokai-</l>
+                    <l>nen kauppa tinklyysätty. Ja on minä</l>
+                    <l>ostanna yhen osan Persbyyn Kartanoon joka</l>
+                    <l>on näissä samoissa kauppakirjossa, sitä osoa</l>
+                    <l>on yx toinen rukanna ja mulle arentuun maxa<ref>n<note>viivallinen n-kirjain</note></ref>a</l>
+                    <l>joka wuos, ja minä toais werot, ja muut ulos teot</l>
+                    <l>Ruunulle.__</l>
+                </p>
+                <p>
+                    <l>Nyt on nämä Pohjosˇ Persbyläiset, joita on koko</l>
+                    <l>Kartakunta, Tämmännä minut pyörtyyn</l>
+                    <l>piäälle, ja tahtowat pyörtätä multä pois sen</l>
+                    <l>osan Kartanosta, ja ne mehtä osat jotka mun</l>
+                    <l>jsäin, ja minä oon Ostanna, ja sen torpan</l>
+                    <l>jonka mun jsäin, ja minä oonme ylös pyya<ref>n<note>viivallinen n-kirjain</note></ref>ä</l>
+                </p>
+                <pb n="4" facs="0268_0078096_010" /> 
+                <p>
+                    <l>tuoreesta korwesta, ja wielä <hi rend="underline">Kruunin</hi> hei=</l>
+                    <l>le maxanna: Tuosta minä wähä kyllä, josˇ</l>
+                    <l>nuo oisˇ hywä sen osan Kartanosta jälleen</l>
+                    <l>pyörteämän. Waan se oisˇ Minusta pahemp</l>
+                    <l>kuin hyö oisˇ sen torpan Kaläsan jolla minä</l>
+                    <l>asun jälleen pyörteämän, jonkä myö oonme</l>
+                    <l>niin waikeasti, kiwisestä muaasta ylösˇ ottan=</l>
+                    <l>na; Ja wielä jlman mitään maxua työstä,</l>
+                    <l>niin kuin heijän tämminkissä seisoo; Että</l>
+                    <l>minä ja mun jsäin olemme niistä mehtä oisis=</l>
+                    <l>ta niin paljon, jo ulos wetännä, että meijän</l>
+                    <l>ois jo pitännä kyllä suaaha, Rahostamme ja työs=</l>
+                    <l>täämme._ Sillä hyö sanoo, että hyö on weron</l>
+                    <l>maxanna mehtä <hi rend="underline">oisista</hi> ja torpasta, sillä minä</l>
+                    <l>tulin suaamaan <hi rend="underline">herin</hi> wähä weroa piäällein</l>
+                    <l>niisä mehtä kaupoissa. Waan jos taas niin on,</l>
+                    <l>että mulla on lian pien wero; niin se ej oo Ruoh-</l>
+                    <l>talaisilta pois, mutt se on Ruunulta pois. sillä Ruoh-</l>
+                    <l>talaisilla on suuremmat ulko mehät allaan kuin</l>
+                    <l>heillä on weroa niien piäälle. Ja toais niin on</l>
+                    <l>nämä mehtä trakttit jolla minä asun Kax pe=</l>
+                    <l>ninkuormoa kaukana Persbyyn Kartanosta.__</l>
+                    <l>Sillä minä nyt Rukuilen teitä Rakas Herra, että jos</l>
+                    <l>Persbyyläiset nyt woittaisi heijän meininkinsä jälkeen</l>
+                    <l>Näissä Talpuan käräissa, joihenka minut on lä<ref>m<note>viivallinen m-kirjain</note></ref>ätty,</l>
+                    <l>sixi 7. paiw: Lokakuuta; että soisit niin Laupias ja</l>
+                    <l>auttasit minua, että minä saisin Ruunun weron</l>
+                    <l>piäällein, sen minä panisin ennen, kuin Ruohtalai=</l>
+                    <l>sille weroa tekisin._ Ja wielä sitten niin <add>minä</add> pyyän teitä</l>
+                    <l>ettäs tekisit niin hywin ja neuwoisit minua, mitenkä</l>
+                    <l>minun pitäisˇ Ruohtalaisten kanssa käräissä <hi rend="underline">Laittaiteman</hi></l>
+                    <l>sillä minä en tiä Lakia ejkä heijän oikeutta. ja tekisit</l>
+                    <l>niin hywin jalaitasit wastuuxen Paawo Räisäiselle tämän</l>
+                    <l>piäälle; niin kylla minun pitää teijät maxoa Kustanuxes=</l>
+                    <l>tais.__	</l>	
+                </p>
+                <p>
+                    <l>Pers Persson Hawuinen</l>
+                    <l>från Galåsen.</l>
+                </p> 
+                <pb n="5" facs="0268_0078096_011" />   
+                <p>Öijärillä sinä 24. paiv: Elokuussa w. 1822._</p>
+                <p>
+                    <l>Poawo Räisäinen</l> 	
+                    <l>Herra Gottlundille</l>
+                </p>
+                <p>
+                    <l>Ne miehet jotka tiäällä Eölöin käwi! tahtoi=</l>
+                    <l>wat mun teille jlmi antaman Talpuan Suomalais=</l>
+                    <l>ten Ruunun=Wiljosta; hyö sanoiwat kuullesa, että</l>
+                    <l>teijän ois pitännä Ruunulta suaaha altix heijän</l>
+                    <l>Ruunu=wilja welat. waan nyt äsköttäin on Herrat</l>
+                    <l>Talpuassa pitäneet täminöitä Ruunu=wilja we=</l>
+                    <l>loista, ja welka miesten piti kulettoa pantit tämi=</l>
+                    <l>nöihin, ja oil miäärä kalut panna auksioniin,</l>
+                    <l>welka miehet nuon tekk´. waan sitten ejwät kuiten=</l>
+                    <l>kaan panneet kaluja auksioniin, mutt wäki sai</l>
+                    <l>wijä kaluunsa kukii kotinsa; Talpualaiset on tätä</l>
+                    <l>paljon jhmetellyt mitä tämän piti olla: ja oliwat</l>
+                    <l>pyytännä Poawo Suaastaista, mun kauttain tätä</l>
+                    <l>asjoa teiltä kysymän; ne pelkeä Herraijen rupia=</l>
+                    <l>wan tekemän skelmyyttä; jos työ ojsitten suaanna</l>
+                    <l>heijan walan altix; Niin taitasit han heille Lähätteä</l>
+                    <l>wastauxen; Niin myösˇ Piåtair Hawuiselle! Se oil vis=</l>
+                    <l>siin pahalla mielin Ruohtalaisten tautta; waan</l>
+                    <l>minä tykkäisin että hänellä oil hywät Kauppa</l>
+                    <l>kirjat, minä Luexelin heitä, waan <add>minä </add> ej ymärähei=</l>
+                    <l>jän Lakia, Ejkä hänkä sanonna ymärtäwänsä,</l>
+                    <l>jos pyys nuin teitä Ruukuileman, että neuositten</l>
+                    <l>häntä siinä asjassa. __</l>
+                </p>
+                <pb n="6" facs="0268_0078096_012" />   
+                <p>
+                    <l>Minä ej o wielä suaanna synytetyx kiwi rau=</l>
+                    <l>nioita ja työtäin, waan kyllämä sen tien parin</l>
+                    <l>tahi kolmen wiikkoan perästä, Se on paljo</l>
+                    <l>hywin minun mielestäin kuin työ niin suuren</l>
+                    <l>huolen pion minusta <hi rend="underline">piätten</hi>, että wielä tahoitten</l>
+                    <l>mulle kunniata hankia minun työn teosta. – </l>
+                    <l>Milloinka han minä kaikki maxanen, sen tien-</l>
+                    <l>nöö Jumala: Waan kuin Jumala antais hywiä</l>
+                    <l>wuosia, ja kaikki asjat hywin käwis, niin ej se</l>
+                    <l>multä <hi rend="underline">piä</hi> tullä =uneutetuxi; Ja kyllä minä</l>
+                    <l>Rohitan muitakin Suomalaisia tawaransa</l>
+                    <l>jälkeen teitä muistissan pitämään, ja teijän</l>
+                    <l>kustanusta ja waiwoanne maxamaan. Sen</l>
+                    <l>jälken kuin hyö on mulle Luanneet teitä muis=</l>
+                    <l>tissaan piteäxeen. – </l>
+                </p>
+                <p>
+                    <l>Minun Napuurin Matti Karwainen, hänki</l>
+                    <l>tahtoisˇ synyteä sen työn jonka hän on tehnyt sitte</l>
+                    <l>kuin Öijärille tuil; Sillä hänen poika sai nähä</l>
+                    <l>minun paperloien sessa senki kirjan, hän on ihen</l>
+                    <l>Pyhäpäiwinä käynnä <hi rend="underline">Luexelemassa</hi> Suomalaisia</l>
+                    <l>kirjotuxia, se oil tämän puhunna jsälleen. että</l>
+                    <l>mulla olewan luwan synyytteä työn, ja suaawain</l>
+                    <l>kunnia merkkiä; Niin sitten kuin Karwainen tämän</l>
+                    <l>sai tietä, on hän minua pyytännä suaahaxen tehä</l>
+                    <l><hi rend="underline">samoin</hi>. Niin en minä häntä tuosta taija esteä,</l>
+                    <l>suaanoo hän synyteä, ja Lähätteä synikirjansa silloin</l>
+                    <l>kuin minäkin. Niin työ <hi rend="underline">suaanetten</hi> tehä hänen syni=</l>
+                    <l>kirjansa kanssa miten tahoitten. – </l>
+                </p>
+                <p>Poawo Räisäinen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

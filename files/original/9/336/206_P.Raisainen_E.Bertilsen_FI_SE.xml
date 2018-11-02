@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen, E. Bertilsen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen, E. Bertilsen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-07">7.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:45</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <author><surname>Bertilsen</surname>
+                                <forename>E.</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>206</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Räisäinen ja Bertilsen kirjoittaneet oman osuutensa. Kaksi sivua ruotsia tai norjaa.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="se-SE" usage="60">svenska</language>
+                <language ident="fi-FI" usage="30">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1826-04-17">17.4.1826</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_161" />
+                
+                <p>
+                    <l><gap/> Paul Ledersen</l>
+                    <l>Räjsäjne</l>
+                    <l>Öijeren</l>
+                </p>
+                
+                <pb n="2" facs="0268_0078096_162" />
+                <p>
+                    <l>Tässä minä Laitan sulle Weteläisen</l>
+                    <l>kirjan Lystin=wuox Lukea, Ettäš</l>
+                    <l>suaat nähä mitä hän mulle wastoa</l>
+                    <l>niistä Rykätyistä anmallanniloista.__</l>
+                    <l>Hän sanoo ettei hänellä oo waroa</l>
+                    <l>Tarinoista Lähätteä Rahoija, ennen=</l>
+                    <l>kuin suaa nähä tokko mitää apua</l>
+                    <l>tuloo, meijän ansökninkistä. Ej hän</l>
+                    <l>usko, Kuninkaan olewan hywä meitä</l>
+                    <l>auttaman, niin kauan kuin ei hänellä</l>
+                    <l>oo paremp walta Norin ylite. Ejkä</l>
+                    <l>hän neä siitä mitää parannusta tu=</l>
+                    <l>lewan, još kuinka monta kertoa Laitetaa</l>
+                    <l>Miehiä Ruohtiin apua ehtimän.</l>
+                </p>
+                <p>
+                    <l>Tästä sinä taijat nähä kuinka epä=</l>
+                    <l>uskoisex suomalaiset on nyt jo tullu</l>
+                    <l>sitte männeen kesän, ja se on sillä,</l>
+                    <l>kuin ej mitää piäätöstö tullu niiten</l>
+                    <l>miesten asjan piäälle, jotka kesällä käwi</l>
+                    <l>Tukulmisša; ejwätkä suaanna Uutta</l>
+                    <l>Comitétä.</l>
+                </p>
+                <p>
+                    <l>Öijeren d: 17. April 1826,</l>
+                    <l><hi rend="underline">Poawo Räisäine</hi></l>
+                </p>
+                
+                <pb n="3" facs="0268_0078096_163" />
+                
+                <p>[ruotsia tai norjaa]</p>
+                <pb n="4" facs="0268_0078096_164" />
+                
+                <p>[ruotsia tai norjaa]</p>
+ 
+            </div>
+        </body>
+    </text>
+</TEI>

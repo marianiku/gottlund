@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Staffan Immoinen > Carl Axel Gottlund</title>
+                <author>Staffan Immoinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-05">5.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:11:2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Immoinen</surname>
+                                <forename>Staffan</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>16</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Lekvattnet (Lautasalmi)">Lekvattnet (Lautasalmi)</placeName>
+                        <date when="1825-10-15">15.10.1825</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077754_003" />
+                <p>
+                    <l>Öijärillä sinä 15. p: Lokakūssa w: 1825.</l>
+                    <l>Rakas herra kotlun</l>
+                </p>
+                <p>
+                    <l>nyt tiällä on nähty. jotta ei sielä ouki s<add>i</add>itä</l>
+                    <l>muan ru<add>u</add>kista mitä<add>ä</add>n. sitä ei käyki kyntämin=</l>
+                    <l>en. ia ei siinä ouuki multa. kuin hyvin väh=</l>
+                    <l>än. ia huono sekiin. iotta se ei kasva mitän.</l>
+                    <l>seun paliasta viivynkiiä. hyö on sen nähny=</l>
+                    <l>nynnä enneniki. ia minä olen koitellunna.</l>
+                    <l>ruohin ia norian puolella. ia vuovon vaika</l>
+                    <l>osi mikä kyntö mies. niin ei se käyki luatu</l>
+                    <l>niin siitä tellinkistä ei ole mitän. niin minä ruko=</l>
+                    <l>ilen teitä. iotta työ rupeiston minuva autaman.</l>
+                    <l>vähän. Sillä ne ei ouki käynä ne asiat. mitkän</l>
+                    <l>paikat sillä lailla kujn nitä <del>puhuttin</del></l>
+                </p>
+                <pb n="2" facs="0268_0077754_004" />
+                <p>
+                    <l>puhuttin. mut minä kärsin sen. jos minuva au=</l>
+                    <l>tetan sen verran jotta minä tulen suomen pu=</l>
+                    <l>olelen. minä en. <del>muin</del> mūn tähe pyrkis muti</l>
+                    <l>sillo kuin ne miehet. tuli tokholmin. niin min=</l>
+                    <l>ä olin terve joteniki. mut siten minä tulin niin</l>
+                    <l>kehnoksi. iota minä kolmen vikkon suana unta</l>
+                    <l>silmällein. ia se oli niin paha vaiva. minula</l>
+                    <l>ia minä läksin pois orasen luonta. ia siiten olen</l>
+                    <l>ollunna räisäsen luonna. ia siten minä olen</l>
+                    <l>tullut niin tervekisi jumalan kiitos. iotta minä</l>
+                    <l>olen iaksanna vähän työtä tehä. mut ei oikei=</l>
+                    <l>n terve. niin. sen tähe minä pyrin pois. ja us=</l>
+                    <l>koke työ nämä puheet. minä en huolisi vaika</l>
+                    <l>minä osin misä. ionku aian kuin minä osin</l>
+                    <l>terve. niin minä olen atellunna iotta minä</l>
+                    <l>tulisin oikisa aisa suomeen minun täyty</l>
+                    <l><del>iutto</del> uotto tieto mitä työ virkatton</l>
+                </p>
+                <pb n="3" facs="0268_0077754_005" />
+                <p>
+                    <l>muta minä en tahioki <del>y</del> kuin työ ositton.</l>
+                    <l>niin hyvä iota pytästö Passia. tahi jos var=</l>
+                    <l>osto iotta minä piäsisin sillä vanhalla</l>
+                    <l>passilla. ia siitte laitasto sen Papin kirian.</l>
+                    <l>myö ei muistetu otto sitä lähtisä. minä toivosin</l>
+                    <l>kuinen minä tule tervekis. jotta piäsisin om=</l>
+                    <l>an muahan. jos varoto iota meri on sula sillo</l>
+                    <l>kuin minä suan teiltä tiion. niin minä <del>tulen</del></l>
+                    <l>lähen pyrkimän pois jos suiki minä jaksan</l>
+                    <l>jotta minä tulisin siihen mahan jossa olen</l>
+                    <l><del>su</del> syntynä. ia saisin nähä sen opin ia suom=</l>
+                    <l>alaist papit ios ei mitän muta monta tuhtta</l>
+                    <l>kiitota  sen eite kuin muistton minuva niin</l>
+                    <l>hyvät puhet myö sen erkin <del>kon</del> kansa</l>
+                    <l>puhttin</l>
+                    <l>Tahvan Immonen</l>
+                </p>
+                <pb n="3" facs="0268_0077754_006" />
+                <p>
+                    <l>Meihelle </l>
+                    <l>Korkiat oppinelle</l>
+                    <l>Herkarl axel</l>
+                    <l>gottlun</l>
+                </p>
+                <p>
+                    <l>minä rukoilen iotta </l>
+                    <l>työ tekisitö nikuin</l>
+                    <l>minä täsä teilen</l>
+                    <l>jlmoitan</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

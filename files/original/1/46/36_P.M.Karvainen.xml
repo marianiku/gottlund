@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pekka Matinpoika Karvainen > Carl Axel Gottlund</title>
+                <author>Pekka Matinpoika Karvainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:14:17</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Karvainen</surname>
+                                <forename>Pekka Matinpoika</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>36</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Kalnässet, Øyern">Kalnässet, Øyern</placeName>
+                        <date when="1873-03-25">25.3.1873</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077759_081" />
+                <p>
+                    <l>Aholla lässä kalnäsia s. 25. Marsi</l>
+                    <l>1873.</l>
+                </p>
+                <p>
+                    <l>Lektorillen hyväst kunnioitetũllen</l>
+                    <l>Carl A: Gottlũnnillen!</l>
+                </p>
+                <p>
+                    <l>En mũũten oo kuullut jos Työ vielä</l>
+                    <l>elättön, sillä teköö mielein tũais kirjuttamān mon-</l>
+                    <l>jan sanan Teillen, jos ei tũasta muuta oo niin ontua</l>
+                    <l>ratoix ~ Kuin ma vũan jotenni sũan olla tervennä</l>
+                    <l>niin tũlen Tejiän luoxe Helsingin tänä vuonna ~</l>
+                    <l> Mũn tekis mielein käumään kahtomān mũan=</l>
+                    <l>paikoin raũtateitä mũöten(:myöten:) kuin ma kerran</l>
+                    <l>niin kauvas jaxan ~ Nyt emme vivũ kauvan reisulla</l>
+                    <l>Tokolmīn. Meilläkin on nyt teällä hyvä mũantie</l>
+                    <l>joka kũlkoo niituien lävite tässa Róuvanrannalla.</l>
+                    <l>Keskivairit ja Postkantor on Kirkonlũona roit=</l>
+                    <l>nankankālla lässä Revholtoa ~ Sīhen on paiskain=</l>
+                    <l>nān kolt mũarämmäliä jotka kaikki hantũa=</l>
+                    <l>vat vielä joxenni hyvin ~ Räisälän mehtä</l>
+                    <l>ja torpat on äsköittäin mũötũ yhellen Drammen=</l>
+                    <l>serillen, jonka nim on <hi rend="underline">Kapion</hi> 170,000 Spdl<hi rend="superscript"><hi rend="underline">erin</hi></hi></l>
+                    <l>Kuin kävis laillen, niin kuin minä tũlisin</l>
+                    <l>sinne minä leisasin hũoneen ja kostin</l>
+                </p>
+                <pb n="2" facs="0268_0077759_082" />
+                <p>
+                    <l>monjax ajiax siellä Mũalla eleäxein näistä</l>
+                    <l>poikessa; teällä on niin kova köũhän styrelsi,</l>
+                    <l>jotta ne hätutävät. Minä on pitänna jaun</l>
+                    <l>mun lapslavallein (laglig skifte:) van en peäse</l>
+                    <l><hi rend="underline">pahajen</hi> Imeisten tautta. 40 Speisiä vũotuista</l>
+                    <l>köũhän veroa, ja minä tũkkeän jotta minä</l>
+                    <l>en kärsi niin ysöä ũlostekoa, minä joka oon</l>
+                    <l>eloleipämies. Teällä on seittynen köũhän=</l>
+                    <l>lag, jossa sũokũnassa <hi rend="underline">ũlälläpitäitöö</hi> sina sen pi=</l>
+                    <l>tä <hi rend="underline">Lekinsä</hi> maxoa, ja se otetan ulös med pok”</l>
+                    <l>jos ei enemmän löũväk ~ Kuin en minä ois riktũ=</l>
+                    <l>vua jakoa pitännä ei ois ollũ mitää sanomista eikä</l>
+                    <l>kũlleämistä ~ Se koũlũmies Qvale joka Manũ=</l>
+                    <l>skriftilöitä puhui eli kirjutti <hi rend="underline">tahtojaxensa</hi> Teilta-</l>
+                    <l>se owpeässũ Postaabnerix Roitnan kankan Post</l>
+                    <l>kantorillen; eipä se oo ysömp krejia, jos yhen</l>
+                    <l>kerran vikossa. Onko nyt molemat Poikanne ko=</l>
+                    <l>tona ja Tyttärenne? Onko viela Lektorin reis=</l>
+                    <l>susta tella käuvessä miitai Kirjoia ulos tullut?</l>
+                    <l>Wän teällä ne ovat Sahatukit riktuvasten</l>
+                    <l>kallīta, <hi rend="underline">kymmenkũnnan Speisiä</hi> 12 alu langt</l>
+                    <l>8<hi rend="underline">tone</hi> i toppen pr tollft vid Flotnings vatten=</l>
+                </p>
+                <pb n="3" facs="0268_0077759_083" />
+                <p>
+                    <l>dragene. Ennen kuin mulla oil mehtia ei</l>
+                    <l>ikaan sihen aikan suatũ ¼ osoakan sita vastan.</l>
+                    <l>Johoi Räisäinen se kokoo olla koulumiessä</l>
+                    <l>vān se on niin pahoin halta kankuistān,</l>
+                    <l>pũara <hi rend="underline">jäktasta</hi> ~ Männeen vuoitinen vuoin=</l>
+                    <l>tulo teällä ois tũllũt joxenni hyvä vān</l>
+                    <l><hi rend="underline">veis</hi> tärväis paljo viljoa männä sũxũnä. Pati=</l>
+                    <l>sia tuil renti paljon vān ne on märän=</l>
+                    <l>nä tänä talvena enemmän kuin puolet kai=</l>
+                    <l>kilta Imeisilta niinhyvin Suokunoissa kuin</l>
+                    <l>teälläkin. Hevoiset ovat erinomaittain kallita</l>
+                    <l>teällä norissa ja ruohissa, ei ikään vähem=</l>
+                    <l>mällä rättä Hevoista <add>sũa</add> kuin 150 ja 200 Speciä</l>
+                    <l>kappalesta ~ Hantuako Norlaiset – hyvin</l>
+                    <l>Tũkkia ja leisakko ne mehtiä ja pũkeäkkö </l>
+                    <l>ne <unclear>damppi</unclear> ja Veis sahoja sietä Suomessa?</l>
+                    <l>millä hollia mũassa nesiellä hollastavat?</l>
+                    <l>Eikös ne monjat siellä tienanne, kuinsin=</l>
+                    <l>ne ũseamp ja ũseamp vaelta ~</l>
+                </p>
+                <p>
+                    <l>Minä tahoin tervehtiä ja helsata Teillen Kaikil=</l>
+                    <l>len ystävänlisest.</l>
+                    <l>Pekka Karvainen</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

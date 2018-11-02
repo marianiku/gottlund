@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:31</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>148</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="puuttuu">puuttuu</placeName>
+                        <date when="1822-07-27">27.7.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_084" />
+                <p>[ruotsia]</p>
+                <pb n="2" facs="0268_0077781_085" />
+                <p>[ruotsia]</p>
+                <pb n="3" facs="0268_0077781_086" />
+                <p>[ruotsia]</p>
+                <pb n="4" facs="0268_0077781_087" />
+                <p>[kaksi ensimmäistä kappaletta ruotsia]</p>
+                <p>
+                    <l>7. Ej-pä Östkala ja <unclear>Jukelsruu</unclear>, mulle oo parempoa</l>
+                    <l>tietoa antanna, Ejwät antanna tietoa mikä sen</l>
+                    <l>niin oil Joka <del>Fannäsin</del> Ostkalan ylös pyykäis, ja</l>
+                    <l>Jukelsruun. Ejkä miheen aikaan se puol Kyleä pant=</l>
+                    <l>tiin pantiin, tahi milloin jukelsruu myötiin, eikä</l>
+                    <l>niien niimiä mainita. Ne owat mulle kirjutoxella tämän</l>
+                    <l>tion antanna.__</l>
+                    <l>Waan silloin kuin östkalan ja jnkelsruun miehet an=</l>
+                    <l>toi wulmahtinsa; silloin hyö walitit että Nilsi on paljon</l>
+                    <l>heitä Rasitta<ref>n<note>viivallinen n-kirjain</note></ref>a; ja hyö walitit samaten kuin pohjoš</l>
+                    <l>Suomalaiset, ja niin kuin siinä ysössä kirjassa seisoi</l>
+                    <l>Nilsin waiwoamisesta.__ __</l>
+                    <l>Samaten on Fannäsin mehällä asuwaiset, walitta<ref>n<note>viivallinen n-kirjain</note></ref>a</l>
+                    <l>Nilsin Rasitoxesta, että kyllä Nilsin armot on ylöttyn-</l>
+                    <l>nä joka paikkaan.__</l>
+                </p>
+                <p>
+                    <l>8. Nyt messumoar=wiikolla, oil Nilsi käinnä ulos ajoak</l>
+                    <l>seensa Lystaan mäkiläiset, kuin ei hyö mää siihen kontrak=</l>
+                    <l>tiin; että hän suaa sakoittaa niin piän kuin ej hyö tule</l>
+                    <l>työlle, kuin hän tahtoo. 16. killinkiä joka henkeltä paiwästä.</l>
+                    <l>ja 32. killinkiä hepoiselta päiwästä joka fieltiä lyö.__</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

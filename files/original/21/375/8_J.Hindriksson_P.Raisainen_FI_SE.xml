@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Joseph Hindriksson &amp; Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Joseph Hindriksson &amp; Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-05"></date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:5:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Hindriksson</surname>
+                                <forename>Joseph</forename></author>
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>8</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Kirjeen kolme ensimmäistä sivua: Joseph Hindrikssonin ruotsinkielinen kirje. Neljäs sivu: Paavo Räisäisen suomenkielinen viesti.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="se-SE" usage="66">svenska</language>
+                <language ident="fi-FI" usage="33">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Graaberget i Elverum Socken">Graaberget i Elverum Socken</placeName>
+                        <date when="1822-06-20">20.6.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077748_001" />
+                <p>[Kirje ruotsiksi]</p>
+                <pb n="2" facs="0268_0077748_002" />
+                <p></p>
+                <pb n="3" facs="0268_0077748_003" />
+                <p></p>
+                <pb n="4" facs="0268_0077748_004" />               
+                <p>
+                    <l>Herra Gottlundi</l>
+                    <l>Minun isäin pyytää teitä kaikella nöũrũellä, ettäs</l>
+                    <l>tekisit niin hywin, ja ostaisit hänelle wara silmät</l>
+                    <l>tahi nenä Laisit, jossa on kanpit tahi pookat,</l>
+                    <l>ja Lähättäsit ne ylös postissa ja tion mitä – maxawat,</l>
+                    <l>Niin hän tahtoo kirja Rahaien kanssa Lähätteä maxun.</l>
+                    <l>Hän sanoo, ettei hän tiäällä Löywä kelwollisia nenä</l>
+                    <l>Laisloita, jos yhet woan on nähnynnä, yhellä miehellä</l>
+                    <l>jotka oil upsalassa ostetut, ne oliwat hänen mieleiset.</l>
+                    <l>Wanhat mahtaa olla kuin Lapset, tätä se on niin</l>
+                    <l>useen pyytännä mun teiltä pyytämän. ja <del>kahotta</del>-</l>
+                    <l>ostaisa pitäis teiän kahottaa 64. astaijan wanha <gap/></l>
+                    <l>miehellä, kuin se - - - näkis. niin hänni Lūle heilla</l>
+                    <l>näkewänsä. - - - </l>	
+                    <l><hi rend="underline">Poawo Räisäinen</hi></l>
+                </p> 
+            </div>
+        </body>
+    </text>
+</TEI>

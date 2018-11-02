@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:21</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>138</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Räisäinen kirjoittanut kirjeen. Kirje koskee seuraavien henkilöiden asiaa: Olli Pietarin poika penna, Pietais Eriçinpoika 
+                            Porka, Laur Johoin poika Waissinen, Pietais Pietairin poika Waissinen. Kirjeessä 
+                            oletettavasti Gottlundin muistiinpanoja (vertikaalisesti marginaalissa). Niitä ei ole
+                            kirjoitettu puhtaaksi. Kirjeen lopussa paperin laidassa on kirjoitusta, joka näkyy vain osin
+                            (ei näy sen vertaa, että saisi selvää mitä siinä lukee).</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1822-05-25">25.5.1825</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_051" />
+                <p>Öijärillä sinä 25. päiv: Toukokuussa W:1822.</p>
+                <p>
+                    <l>Taloin poika Poavo Räisäinen! Armoillinen Herra</l>
+                    <l><hi rend="underline">Gottlundi</hi></l>
+                </p>
+                <p>
+                    <l>Näitä kirjoja Mahtaa jo tulla nin paljon</l>
+                    <l>teältä Lähätetyx teille, että Mahtaisitten jo kylläs=</l>
+                    <l>tyä niihin - -</l>
+                    <l>Teällä käwi Torstaina nämä 4. Taloin poikoa,</l>
+                    <l>Lyystaan=Mäistä, Jotka owat sen häjyn, <unclear>Akent</unclear></l>
+                    <l>Nilssen alla, joha ennen Filiçommisia halliht. –</l>
+                    <l>Nämä Taloin poijat Jtkiwät kuin Lapset, ja</l>
+                    <l>walitit heijän suurta tuskoa; Ja sanoiwat, Että</l>
+                    <l>heijän täytyy Pois Männä hiemmoiltaansa. kuin ej</l>
+                    <l>muuta muutosta tule; he sanoiwat, etta heijän</l>
+                    <l>pitää miehen ja waimon käywä joka paiwä hä=</l>
+                    <l>nen työssä niin pitkä kuin kesä on; ja kuin ej</l>
+                    <l>hyö sitä jaksa tehä, niin siitten Sakoittaa hän</l>
+                    <l>heijät, ja pantoa, ja wie heiltä ne wähat Rihkamat</l>
+                    <l>pois kuin heillä on. ja wiela sittenkin taitasiwat</l>
+                    <l>jotenkin tulla ajkoon, waan se on kaikkein pahin,</l>
+                    <l>kuin heijän pitää Ruuan ite piteä joka päiwä,</l>
+                    <l>ja siten hälnelle työtä tehä. - –</l>
+                    <l>Nyt nämä Taloin poijat ejwät joutuneet</l>
+                    <l><unclear>Kyntöajialta</unclear>, hänelle työtä tekemään, Sillä</l>
+                </p>
+                <pb n="2" facs="0268_0077781_052" />
+                <p>
+                    <l>heillä on wähä työ wäkeä, ejwätkä jtekkään</l>
+                    <l>tainneet omoa työtäänsä jätteä tekemätä,</l>
+                    <l>niin sanoiwat hänen Luwanneen että kesällä</l>
+                    <l>tullaxeen Niitämään Muaahaan pellot ennen kuin</l>
+                    <l>joutuwat ett’-ej teijän piä olla heista kankoa:</l>
+                    <l>Sillä nämä Miehet, Rukuiliwat Minua Juma=</l>
+                    <l>lan niimen kautta, teille Kirjuttamaan että</l>
+                    <l>hyö Sais semmoisen Kirjutoxen teiltä, että</l>
+                    <l>syö sais tänä kesänä olla Rauhassa Nilsiltä</l>
+                    <l>ja tehä omoa työtänsä, elikkä se hätyyttä hei=</l>
+                    <l>jät jo ennen kuin se aika tuloo, että Ruunu</l>
+                    <l>Lunasta heitä. Minä koin heitä Lohtuttoa, ja</l>
+                    <l>sanoin otottoa weikkoinen, 2. tahi 3. wiikkoa, kyllä</l>
+                    <l>se tuloo par<add>e</add>mp; Waan hyö Rukuiliwat Lakkaama=</l>
+                    <l>ta, Että minun piti Luata tämän Kirjan heijän</l>
+                    <l>ejsta kirjuttoa.___ Niin minäkiin pyyän teitä heijän</l>
+                    <l>Ejstä, ettäs tekisit nin hywin ja annasit heillen</l>
+                    <l>yhen Lohtutos Kirjan. Että hyö sais olla Rauhassa</l>
+                    <l>siltä Jlkeältä Nilaailtä, Ryösteäis Koira ennätteä</l>
+                    <l>pahat teha, niin kuin <add>on</add> Luwanna; ennen kuin Kunin=</l>
+                    <l>kaan kanssa tulisiwat kauppaan._</l>
+                </p>
+                <p><hi rend="underline">Poavo Räisäinen</hi></p>
+                <p>
+                    <l>Olli Pietarin poika penna, Lyystaanmäistä.____</l>
+                    <l>Pietais Eriçinpoika Porka, Lyystaanmäistä.</l>
+                    <l>Laur Johoin poika Waissinen Lyystaanmäistä.</l>
+                    <l>Pietais Pietairin poika Waissinen Lyystaanmäistä</l>
+                </p>
+                <pb n="3" facs="0268_0077781_053" />
+                <p>
+                    <l>Aamulla Meinoan wijä wouwille Kirjansa</l>
+                    <l>Tästä on 5 peninkuormoa wouwin Luokse.___</l>
+                </p>
+                <p>
+                    <l>Kauppa Kirjat on myös tullu, Ejkä mitään</l>
+                    <l>tietoa, mitä maxawat. Josta ma jo kirjutin</l>
+                    <l>männä Lauantaina.- -</l>
+                    <l>Waan Nyt Minä oon kuitenkin Antanna Lähi=</l>
+                    <l>mäisille Napuriloilleil Kaupan piäällen Kirjoja,</l>
+                    <l>siihen kuinnika suaahan tietä heijän hinta.</l>
+                    <l>Nyt on jo ostettu kaikki Postillat ja 9. wirsikirjoa</l>
+                    <l>10. Katesmusta 11. A.B.c. Kirjoa, 3. Kappalta muita</l>
+                    <l>Kirjoja. waan Nyt en minä taija wierailla</l>
+                    <l>parwata yhtään Kirjoa, ejkä myyä ennen kuin ma</l>
+                    <l>suaan tietä mitä ne maxawat. –</l>
+                </p>
+                <p>Poavo Räisäinen</p>
+                <p>
+                    <l>Niin monta tuhatta Kostjumaloa Bibellöistä!</l>
+                    <l>Olkoon teillen:</l>
+                    <l>Kaikki ne jotka tällä wiikolla owat Bibellöittänsä=</l>
+                    <l>perinyt! Owat niin jloissaansa kuin hyö saiwat</l>
+                    <l>Bibelin, ja siitten siitä kuin näkiwät niin paljon</l>
+                    <l>Kirjoja Kaupaxi Löytywän Tässä suaaha, ja oisi=</l>
+                    <l>wat jo niitä tahtoinna ostoa._ __</l>
+                    <l>Ja kiitteliwät ja Kunnioitteliwat sinua wälilläänsä,</l>
+                    <l>ja sanoiwat, ej myö jkään ois Syksyllä tainna</l>
+                </p>
+                <p>
+                    <l><ref>*<note>lisätty marginaaliin</note></ref>Sen sikalan Emännän, Miehen niimen, minä niimen, minä Kirjutin wiäärin. se on</l>
+                    <l><unclear>Stallan Jonsson</unclear> H<gap/></l>
+                </p>
+                <pb n="4" facs="0268_0077781_054" />
+                <p>
+                    <l>uskoa tämän miehen semmoisia asjoja</l>
+                    <l>matkaan suaattawan kuin me nyt neämme. –</l>
+                    <l>Ja sanoiwat, kyllä myö nyt taijanme Uskoa sen</l>
+                    <l>suaawan toise<ref>n<note>viivallinen n-kirjain</note></ref>i asian ajiolle . . __</l>
+                </p>
+                <p>
+                    <l>Terveyksia meiltä Kaikilta, ja Minulta kaikkein</l>
+                    <l>enimmät, Koskas Minua teällä, piät parassa</l>
+                    <l>ystäwänääns.</l>
+                </p>
+                <p>Poawo Räisäinen</p>
+                <p>
+                    <l>Waan yhtä asioa Minä kysysin teiltä kuin ma</l>
+                    <l>tohtisin? Mitä se on, kuin työ sanoiten minun</l>
+                    <l>Kirjuttawain paljon parenmin kuin työ.__</l>
+                    <l>Minä ej oo ollunna Skoulussa enemmän kuin</l>
+                    <l>puoli kuutetta wiikkoa; Minä ej taija paremp</l>
+                    <l>olla. Etsä han pilkanne Minua, Sen tähe jos</l>
+                    <l>ma Bokstawin koin tehä paraittain kuin ma</l>
+                    <l>taijan että jmeiset taitais tuota Lukea, niin</l>
+                    <l>en minä kuitenkaan taija Stawata, ejkä wissiin</l>
+                    <l>paikkaan Rättä bokstawia panna, Ejkä punkti=</l>
+                    <l>loita niin kuinne pitäis olla. Niin kuin oppi=</l>
+                    <l>nuut tekewät, Kyllä minä Sen ymärän, waan</l>
+                    <l>Minnekäs minä jouwun, Minun täytyy jotenkin</l>
+                    <l>asiain eis tunkea. Ja hywäpä tuo on, kuin </l>
+                    <l>työ tuon kuitenkin, niin hywin ymmärätten.</l>
+                </p>
+                <p>
+                    <l>Jumala pitäköön teitä Terwenna koto mat=</l>
+                    <l>kalla, tokkoš tämä Kirja eneä Ehtinöö si<ref>n<note>viivallinen n-kirjain</note></ref>e</l>
+                    <l>ennen kuin Lähettön._ _</l>
+                </p>
+                <p>Poavo Räisäinen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

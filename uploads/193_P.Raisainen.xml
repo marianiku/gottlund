@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-30">30.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:32</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>193</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-11-29">28.11.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_093" />
+                
+                <p>Öijärillä sinä 29.p: Marraskuussa w:1823_</p>
+                <p>Poawo Räisäinen  Herra Gottlundille!</p>
+                <p>
+                    <l>Minä oon käsittännä kaxi teitän kirjoa.</l>
+                    <l>waan en oo jounna heijän piäälle ennen wastoa=</l>
+                    <l>man. Teällä on Nyt tullu niin paljon teke=</l>
+                    <l>mistä tukin hakkoamisen keralla, ja ajon</l>
+                    <l>kanssa, ettei myö jouwa piäätä<ref>m<note>viivallinen m-kirjain</note></ref>e  sammutta=</l>
+                    <l>man još oiš walkeassa. Minä tahoin nyt</l>
+                    <l>tässä teille toimittoa enskertoa, minkälaisia</l>
+                    <l>jsäntiä myö Öijärin <hi rend="underline">Mehtäläiset</hi> oomme suan-</l>
+                    <l>na, ne on paljon kowempia kuin ennen Jaçob</l>
+                    <l>Nilssi. Nyt tässä Lopusta Syyskuuta piti mei=</l>
+                    <l>jän joka puonnin myötätä heitä Merkkälin</l>
+                    <l>tykönä; Siellä myö tuli<ref>m<note>viivallinen m-kirjain</note></ref>e  pariin housuja</l>
+                    <l>heijän käsissä; <unclear>siillä</unclear> ois meijän tahoittuna</l>
+                    <l>kontrahtiloita ottaman. ja oltiin meille</l>
+                    <l>willissä siitä kuin myös sun peälleis usko<ref>m<note>viivallinen m-kirjain</note></ref>e ,</l>
+                    <l>ja sanottiin Gottlundi on hurja, ja työ ootte</l>
+                    <l>tyhmiä jotka hänen piäällees uskowat. Ja</l>
+                    <l>sitte mulle wielä enemmän oltiin willissä</l>
+                    <l>siitä kuin minä Tukulmissa käwin, ja käi=</l>
+                    <l>tiin minut enskertoa ulos sanoman ja pi=</l>
+                    <l>halle wiskoaman, ja sanottiin mäne helwet</l>
+                    <l>tiin ja suomeen josta sukuis on tulu, kyllä</l>
+                    <l>myö omme suaanna tietä mitä <hi rend="underline">Reiloa</hi> sinä</l>
+                </p>
+                
+                <pb n="2" facs="0268_0078096_094" />
+                
+                <p>
+                    <l>ja Gottlundi ootten pitännä wälillänne</l>
+                    <l>Kirjutosten kerralla; Missä nyt on rahat</l>
+                    <l>joitais mänit perään Gottlundilta. Niin tuo=</l>
+                    <l>hoon minä wastasin; eipä rahoja Gottlundin</l>
+                    <l>meille oo welkoa sentähe jos myö oomme</l>
+                    <l>häntä pyytännä Kuninkasta puhutteleman</l>
+                    <l>meijän eite, että suaahaksemme Kuninkaalta</l>
+                    <l>rahat Lainnax mehtäimme Lunastoksex.</l>
+                    <l>Nin tähään hyö toais wastais. Paskoa työ</l>
+                    <l>ej suaanna Kuninkasta ieš enš kertoa nä=</l>
+                    <l>häkkä tahi puhutella; sainmoppa ninki</l>
+                    <l>wastasin minä, ja hän Lupais meijät te=</l>
+                    <l>häkseen wapaxi; Niin taais wastais Rein=</l>
+                    <l>holm. Niin još työ suaatte Kuninkaalta</l>
+                    <l>rahat, niin Minä tien sentähe ku<ref>m<note>viivallinen m-kirjain</note></ref>inma </l>
+                    <l>tahoin myön teijän mehteä tahi ej; minä</l>
+                    <l>oon sen Friisä Auksionissa ostanna; Mahoit=</l>
+                    <l>te olla siellä ite ostamassa; ja taais oon</l>
+                    <l>minä yhtiloinen kuin ma rahat suaan, jos</l>
+                    <l>ma myönni, waan minä en eneä myö sa-</l>
+                    <l>maan kuin ma annoin, Minulla on ollu</l>
+                    <l>suuri wastus ja alreija sitä kaupasta.__</l>
+                </p>
+                <p>
+                    <l>Niin toas minä wastasin, eipä sun ois sitä</l>
+                    <l>renkännä ostoa, jopa; myö Lähätinme epuu</l>
+                    <l>kirjan auksioniin. Niin silloin jo hyttäis</l>
+                    <l>käillään ja mildei meinanna minua paiskata</l>
+                    <l>korwalle, ja sanoi pitäis kö meijän kuu<ref>n<note>viivallinen n-kirjain</note></ref>ella </l>
+                </p>
+                
+                <pb n="3" facs="0268_0078096_095" />
+                
+                <p>
+                    <l>teijän narri kirjoja. Sitten kiäännäitiin</l>
+                    <l>meihen kaikkiin päin, ja kax wetineä otti peäl=</l>
+                    <l>le kuunteleman ja sanoi, nyt ensmäisex minä</l>
+                    <l>sanon teijät joka puonnin ulos torpiltaa<ref>n<note>viivallinen n-kirjain</note></ref>e </l>
+                    <l>ennen Joulua, sen tähe kuin työ kewäillä</l>
+                    <l>kielsitte multa tukin hakkuun; Ja nyt toi=</l>
+                    <l>sex, minä panen teijän piäälle, että teijän</l>
+                    <l>pitää aioa 15.tä tolttia tukkia joka Hewoi=</l>
+                    <l>selle. Ja nyt pitää alottoanne Mikkelin jäl=</l>
+                    <l>keissä pänä kokoon <hi rend="underline">Lunnoaman</hi>, kuin etten</l>
+                    <l>sillon alota, niin <add>kyllä</add> minä teijät Löwän, Minä</l>
+                    <l>opeten teitä oleman jäũkeät ja wastahakaiset</l>
+                    <l>minun käskyiän, ja uskoman joutawia puheita:</l>
+                    <l>sitten wielä sanoo mulle sinä Paul oot rikkoin-</l>
+                    <l>na päxlö Rättäis, sillä kuins mänit Tukulmiin</l>
+                    <l>jlman jsäntiens Luwata.___</l>
+                </p>
+                <p>
+                    <l>Niin sitten täũtyi meijän männä meärättynä</l>
+                    <l>pänä Tukkia ajaman, waikka meillä seisoi</l>
+                    <l>kuiwoa Luwoa pihalla ej sitä kysytty perän.</l>
+                    <l>sen kaltaista myö ej ennen oo hawainna, waik=</l>
+                    <l>ka han on ollu pahoin ja strenkiste ennenki.__</l>
+                </p>
+                <p>
+                    <l>Sitten kuin tämä työ oil hywin tehty, niin orteil</l>
+                    <l>tuloo että hakatanme 300. tolttia tukkia uuesta;</l>
+                    <l>kuin se oil tehty, niin toais tuloo orteil että ko=</l>
+                    <l>koon Lunnata neki, kuin tuo tehtiin, niin tuloo toas</l>
+                    <l>sana että ruetamme pitkälle <add>tielle</add> ajaman, ja tämä ajo</l>
+                    <l>woaroa meille kaiken talwea, Niin että meillä</l>
+                    <l>on niin kiire, että se käũ työlääst jos myö suaa<ref>m<note>viivallinen m-kirjain</note></ref>e</l>
+                    <l>kotiin puita poltaaksemme, ja Ryskätyx irti jũwiä</l>
+                </p>
+                
+                <pb n="4" facs="0268_0078096_096" />
+                
+                <p>
+                    <l>syywäxemme.</l>
+                </p>
+                <p>
+                    <l>Tämä nyt käy meijän kanssa niin kuin silloin</l>
+                    <l>kuin Moses Jsraelin kansaa rupeis Juohtattaman</l>
+                    <l>Ulos Ekyptistä. Että Herrat sanoo meille,</l>
+                    <l>niin kuin Toisessa Mosexen Kirjassa 5. <unclear>Luk,:</unclear> </l>
+                    <l>9.w: seisoo. Rasitettakon Kansa työllä, että</l>
+                    <l>heillä olis kyllä tekemistä, ja ej Luotaisi</l>
+                    <l>heitänsä walhpuheisiin. Niin juri tämä</l>
+                    <l>nyt käy sinun ja minun kansa, kuin Mosexen</l>
+                    <l>ja Aaronin käwi; että Kansa sanoo minulle, ja</l>
+                    <l>myös sinusta, niin kuin 21. w: samassa Lukussa</l>
+                    <l>seisoo. Te olette tehnet meijät haisewaisexi Her=</l>
+                    <l>raien etesä, ja heijän palweliainsa etessä.__</l>
+                </p>
+                <p>
+                    <l>Tämän on mulle moni meijän mehtäläisistä</l>
+                    <l>sanonna, ettei tämä jkään ois näin käy<ref>n<note>viivallinen n-kirjain</note></ref>ä , jlman</l>
+                    <l>sinuta ja suomenherrata, merkkäil se kowin</l>
+                    <l>suuttui teiheen ja näin, ja yllytti Kauppa mies=</l>
+                    <l>ten ostaman tämän mehän niin Kalliiseen,</l>
+                    <l>wielä liotenki niin on mun ranniin Karwai=</l>
+                    <l>wainen härmissään meijän peälle, että se on</l>
+                    <l>sinua kironna, ja sanonna, kuin ej hänen jal=</l>
+                    <l>kansa jkään ois tänne astunna, Koskei siitä pa=</l>
+                    <l>remppoaka apua suaatu jos woan wihät peällen=</l>
+                    <l>me. Waan kuin Jumala meitä autais niinkuin</l>
+                    <l>Mosesta ja Aaronita, niin kyllä meijän asjat</l>
+                    <l>wielä hywin taitais kaywä. waan taita niin olla</l>
+                    <l>että tämä kansa on Jumalattomia, ettej Jumala</l>
+                    <l>kuule heijän Rukoustan; ja toas taitaa olla mon=</l>
+                    <l>ta jotka ei paljon Rukoile. waan oon ma tuota</l>
+                    <l>kuullu monen köyhän Rukoilewan, kuin Jumala auttais</l>
+                    <l>että Gottlunnin asjat käwis toteen; ja että Jumala</l>
+                    <l><ref>+<note>viittaus seuraavalle sivulle</note></ref>,</l>
+                </p>
+                
+                <pb n="5" facs="0268_0078096_097" />
+                
+                <p>
+                    <l>+, keöntäis Kuninkaan sytämmen meijän puoleen</l>
+                    <l>että paremmuus tulis tällen elämälle. <del>niin</del> eikös</l>
+                    <l>tuo oo uskottawa että Jumala kuuloo kyöhän Rukouk=</l>
+                    <l>sen kuin se on poara hurskas.</l>
+                </p>
+                <p>
+                    <l>Ejpä se käynnä Fideçomisin Mehtäijen keralla</l>
+                    <l>niin kuin Luultiin, ja niin kuin minä wi<ref>m<note>viivallinen m-kirjain</note></ref>en  kirju=</l>
+                    <l>tin. Kuin auksionit tuil niin saiwat huutoa</l>
+                    <l>yltö kuka enimmäns ennätti, että mehät korotettiin</l>
+                    <l>kolmeen ja neljään hintaan yli taxerinkin. Waan</l>
+                    <l>kanssa ne kuitenki suomalaiset riippuiwat että</l>
+                    <l>ne saiwat teilslakin. Waan nyt ej tule kuitenka</l>
+                    <l>kaiki mehät seisowaiset, jos toas apruperataan</l>
+                    <l>uuesta auksioniin, waikka kolmaist ja neljäist owat</l>
+                    <l>jo ollu auksionin piäällä; Nyt tuloo toas auksion</l>
+                    <l>sinä 19. p: Joulukuussa niille mehille jotka ej tullu</l>
+                    <l>seisowaiset, ja niillä tahoitaan enempeä. Ne <add>on</add> nämä</l>
+                    <l>mehhät jotka nut tuloo açtionin piäälle; Grasperin <unclear>Meji</unclear></l>
+                    <l>Räisälän mehtä, Roituaperin mehtä, Wålperin <unclear>Meji</unclear></l>
+                    <l>Kyölän mehtä, Wärälin mehtä, Faunäsin Meji</l>
+                    <l>Östkalan Mehtä, muut Ankerin Mehtäläiset</l>
+                    <l>owat tullu <hi rend="underline">apruperatux</hi>, ja owat jo suaa<ref>n<note>viivallinen n-kirjain</note></ref>a </l>
+                    <l>Kaupakirjat mehtäien ja tilaijensa piäälle.</l>
+                    <l>Waan ennen kuin saiwat kauppakirjat niin</l>
+                    <l>piti heijän kahwata takaus miehen muualta,</l>
+                    <l>Rikerink ej eneä männy heijän eite porjiin, jos</l>
+                    <l>wastattiin; Myö ej eneä mäne teijän eite takauxen</l>
+                    <l>mehät on tullu Liän kalliiste ylös huuetux ne ej</l>
+                    <l>oo eneä sen weärtit. waan sitä ej suomalaiset ruo=</l>
+                    <l>wanna niien täytyi kanssa riippua jlman ois wie=</l>
+                    <l>raat wiennä mehät ja tilat, ja auksionissa ylös</l>
+                </p>
+                
+                <pb n="6" facs="0268_0078096_098" />
+                <p>
+                    <l>Luettiin, että kuka nyt mehät ja tilat östa, hän</l>
+                    <l>teke asuaisten keralla mitä hän tahloo, joko hän</l>
+                    <l>antaa heijän istua tahi ej, sen ruowoa hän, ej</l>
+                    <l>siinä Rönnigsrätteä yhöllenkä Luettu. Niin tästä</l>
+                    <l>suomalaiset pelästyi että ne ois tarjonna yltö jos</l>
+                    <l>wieraat ois miten paljon tarjonna. ja sanoiwat</l>
+                    <l>että moni tarjois wihallaan yli suomalaisten; että</l>
+                    <l>oliwat aina Lisännä 100. tyskää kerralla yli suoma-</l>
+                    <l>Laisten; Kyölän mehtä se kohois aina 13000. Sp:tyskän</l>
+                    <l>waikka se ej o taxerattu enemmästä kuin 6000. Sptj-</l>
+                    <l>tämäki mehtä ois tullu seisowainen waan eiwät</l>
+                    <l>suaa yhtää takaus miestä, sillä toais tarjotaan</l>
+                    <l>ylös uesta. Niin nyt. pelkeä suomalaiset että</l>
+                    <l>Norin rikierink ja Kauppa miehet on tehny</l>
+                    <l>kelmyen ja pistäneet tämän neũon yhteen, ej=</l>
+                    <l>wätkä huoli siitä jos Kuninkas ois kuinka</l>
+                    <l>hywän oikeuen suomalaisten ite antanna</l>
+                    <l>Rikierinkille.__ Niin nyt kolmet wiikkoa sitten</l>
+                    <l>piti mun kirjuttoa Räisälän, Kyölän, Roitua=</l>
+                    <l>perin, wålperin, Grasperin, Wärälin mehtä=</l>
+                    <l>Läisten eite prinsille kyselmyksen, Pappiuxen</l>
+                    <l>kautta tästä asjasta, kuinka hyö rupea teke=</l>
+                    <l>män mehän oston keralla, tokko Kuninkas</l>
+                    <l>heitä auttaa, jos hyö kowin kalliisen mehät</l>
+                    <l>ja työnsä ausionin piäällä <unclear>huutais</unclear>; minkä</l>
+                    <l>wastuen han Poppius heille suaanoo!! wai tok=</l>
+                    <l>ko huolinoo Prinsiä heijän eite puhutella!!</l>
+                    <l>muuta en minä oo Poppiuxelle kirjuttana, en=</l>
+                    <l>kä ois tätäkä hänelle kirjutta<ref>n<note>viivallinen n-kirjain</note></ref>a  mutt sulle,</l>
+                    <l>waan ne sanoiwat sieltä ei taija tulla wastausta</l>
+                    <l>siheen kuin auksion tuloo. waan tokko tulloo</l>
+                </p>
+                
+                <pb n="7" facs="0268_0078096_099" />
+                
+                <p>
+                    <l>Tukulmistaka heille siheen wastausta.___</l>
+                    <l>Mitä Olli Tanelin poika Lutualta kirjutti mulle</l>
+                    <l>kesällä sitä ei o mitää. Ne on Ryslön Miehet</l>
+                    <l>suaanna ite ostoa Mehtäsä. Grewin osto ej tullu</l>
+                    <l>seisowainen sillä kuin se oil Ruohtalainen, kaup=</l>
+                    <l>pa miehet pelkäis hänen Ruohtiin tukit Rūkoa=</l>
+                    <l>wan ne ei tahoi sinne tūkia myömään. Sepä</l>
+                    <l>se on niien pelko, kuin suomalaiset sais mehät,</l>
+                    <l>että ne möys Ruohtiin, silläpä ne niin wahwasti</l>
+                    <l>seisowat suomalaisia wastān. Ja nyt jo pu=</l>
+                    <l>huwat wahwasti että riita tuloo, Norin ja</l>
+                    <l>Ruohin wälillä. fronjömmin Leänin pitäsi jo</l>
+                    <l>Laitteleitä walmiix, ja tulla piirittämän win</l>
+                    <l>kerin ja paneman täyen amusionin piäälle.</l>
+                    <l>Nien pitäis olla niin wihoissaan siitä kuin</l>
+                    <l>Kuninkas ajatti männä talwena tykit ja kanu=</l>
+                    <l>nat Kristianiin pois winkeristä. Ja ois pitän=</l>
+                    <l>na heijän sanoa ettei enemp hyö tahoi olla</l>
+                    <l>Ruohtalaisen Lapspuolla. Waan minä ej tuota</l>
+                    <l>taija wielä Uskoa, mitenkä hyö niin pien woi=</l>
+                    <l>ma tataa Ruohtalaisen eijsä seisoa; Ja jos rii=</l>
+                    <l>an nostawat niin kyllä ne siinä suaa ruoskoa</l>
+                    <l>persieseensä.__</l>
+                </p>
+                <p>
+                    <l>Ej se o weärtti meiltä rueta riitelemän</l>
+                    <l>Kauppa Miesten keralla, teällä ej suaa kui=</l>
+                    <l>tenka yhtää rätteä, ennen kuin Kuninkas jou=</l>
+                    <l>tuu piää asjan kanssa. waan niin pä nuo</l>
+                    <l>teällä sanoo, ettei Kuninkas Norissa mitää</l>
+                </p>
+                
+                <pb n="8" facs="0268_0078096_100" />
+                
+                <p>
+                    <l>ruowoa. Waan minä aatelen että hän</l>
+                    <l>wielä ruowoa, kuin pōra hän kerran</l>
+                    <l>joutuis, ja se Comite kerran ois ollu.</l>
+                    <l>Waan minä Rukoilen sinua, minun puo=</l>
+                    <l>lelta, ettäs tekisit niinkuins oot Luanna,</l>
+                    <l>ja tulisit tänne Comiteelle jlman ej se</l>
+                    <l>jkään rättään käy. waan kyllä nuo</l>
+                    <l>meijän jsännät wannui ettei sinä tä<ref>n<note>viivallinen n-kirjain</note></ref>e </l>
+                    <l>tahi tulla, ja wielä sitten niin sanoiwat</l>
+                    <l>jos hän nyt warastaiteis tänne tule=</l>
+                    <l>man ja myö suaamme tietä, että työ</l>
+                    <l>häntä huusoatte yön yltö, niin teijän</l>
+                    <l>pitää pahoin käywä ja myö aresteroa=</l>
+                    <l>me hänen.___</l>
+                </p>
+                <p>
+                    <l>Se Olli Koarloin poika Mulika on nyt</l>
+                    <l>mulla renkina, kyllä se mahta olla Flin=</l>
+                    <l>ki poika, ja taitaa hän jo wähä kirjuttoa</l>
+                    <l>hän on 19. wuoten wanha.__</l>
+                </p>
+                <p>
+                    <l>Mitä toais Anti Porkasta Naim=aholta</l>
+                    <l>puhu=tan niin ei se waleta ole, se olin</l>
+                    <l>minä joka hänen eite kirjutin ja minä</l>
+                    <l>tiesin hänen asjansa, hän tuil wissiin jo</l>
+                    <l>männä kesänä Comisionissa pois tuomitux</l>
+                    <l>Öijärin mehältä, ja Anti Hotakalle Ronkai=</l>
+                    <l>torpalla on Luattu sakoa, siitä kuin hän on</l>
+                    <l>häntä huusanna waan ej tuota wielä oo</l>
+                    <l>sakoitettu.____ Gruessä on ruettu Kirkoa pyyke=</l>
+                    <l>män, ja pohjos suomalaisten jotka sille Kirkol=</l>
+                    <l>kuulu pitä kansa pyyätä, waan Bradwola peäse.</l>
+                    <l><ref>+<note>viittaus seuraavalle sivulle</note></ref></l>
+                </p>
+                
+                <pb n="9" facs="0268_0078096_101" />
+                
+                <p>
+                    <l>+ Mitä nyt tuloo sanowaxi niihen miehiin!</l>
+                    <l>jotka opettais meitä ahoja kyntämän, niin</l>
+                    <l>siihen ei teällä wielä yxkää mitää taija sa=</l>
+                    <l>noa ennen kuin Comite on ollu, ja sillä suaa=</l>
+                    <l>haan puhua kuins tänne tulet.__</l>
+                </p>
+                <p>
+                    <l>Bibel Listat ja wirsi Taulut minä oon kirjut=</l>
+                    <l>tanna ja Lähättännä kulleki.</l>
+                    <l>Ej Bibelit wielä o tullu, <del><hi rend="underline">niitä</hi></del> minä</l>
+                    <l>telläsin Porkan niitä hankiman <unclear>Koarlestaj</unclear>:</l>
+                    <l>waan <del><hi rend="underline">on ollu</hi></del> Porkka on ollu sjukana.</l>
+                    <l>Niin hän telläis Juna <unclear>Ulanpaian</unclear> Met=</l>
+                    <l>bäçkilta Bibelilöitä noutaman, ja an=</l>
+                    <l>toj hänelle kuitin että niitä suaaha.__</l>
+                </p>
+                <p>
+                    <l>waan sille oil wastattu ettei teältä kirjo=</l>
+                    <l>ja anneta ennen kuin Bruzelius tuloo we=</l>
+                    <l>nältä kotiin ja suaawat paremman tion</l>
+                    <l>häneltä, sillä Bruzeluxen puoti poijalle on</l>
+                    <l>tullu semmoinen kirja Upsalasta ettei hänen</l>
+                    <l>pia yhtaa kirjoa ennen kuin hän tuloo</l>
+                    <l>kotiin. Tämä Juna Ollin poika Metbäkiltä</l>
+                    <l>oil Koarlestassa sinä 10. p: Marraskuussa.</l>
+                    <l><unclear>Niis</unclear> nyt myö ej tiä muuta jos sinä suaat</l>
+                    <l>ite Bibelit Reçomentera irti Kaarlestasta</l>
+                    <l>ja Kirjuttoa toisen kirjan mulle mil-</l>
+                    <l>loinka niitä suaahan männä noutaman.</l>
+                    <l>Minä oon Soikaiselta kysynnä Lukkarin as-</l>
+                    <l>jasta, ja se on wastanna, että se on sanken </l>
+                    <l>totta että Lukkair oli ylöskantanna ne ka=</l>
+                    <l>pat jotka Ruunu oil antanna Lahjax.__</l>
+                </p>
+                
+                <pb n="10" facs="0268_0078096_102" />
+                
+                <p>
+                    <l>Samaten on se myös sanken totta, että Öst=</l>
+                    <l>markin Papin entinen sisar oil ruotin piääl=</l>
+                    <l>lä tahi Lekissa Östmarkin kartanossa.___</l>
+                </p>
+                <p>
+                    <l>Waan kuin hän tuil niin wanhax että wuo=</l>
+                    <l>teella makais niin Pappi otti Luoxesa, ja pi=</l>
+                    <l>ti hänen Luonaan kuolin paiwan.__</l>
+                </p>
+                <p>
+                    <l>Niin nyt myös Orainen ja Matti Hämä-</l>
+                    <l>Läinen Leikawatinalta, Totistawat</l>
+                    <l>että Ryxin papin swekerska sai, niitä</l>
+                    <l>jywiä, joita Köyhäien ois pitännä</l>
+                    <l>suaaha; Ja muutamia wuosia sitten</l>
+                    <l>niin pappi ois tahtonna häntä Lasten</l>
+                    <l>ämmäx Ryxin pitäjään, ja sitten</l>
+                    <l>ois hännelle pitännä olla wuon pal=</l>
+                    <l>kax 12. killinkia joka sawulta.__</l>
+                    <l>waan suomalaiset Löi sen Muaahan.</l>
+                </p>
+                <p>
+                    <l>Ej mitää enemp jos Elä hywin</l>
+                    <l>Walinille Maxoi Kuninkas 9. tyskeä</l>
+                    <l>ja 16.killi<ref>g<note>viivallinen g-kirjain</note></ref>iä ja 4. tyskeä poara otet=</l>
+                    <l>meijän Rahosta hänelle huushyrästä.__</l>
+                    <l>Olli Hämäläinen e joo wielä hahe<ref>n<note>viivallinen n-kirjain</note></ref>a </l>
+                    <l>Kau<ref>p<note>viivallinen p-kirjain</note></ref>a kirjoja ‒ Myötyistä Kirjosta</l>
+                    <l>minä Lähätän rahat ens Postissa.___</l>
+                </p>
+                <p><hi rend="underline">Poavo Räisäinen</hi></p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

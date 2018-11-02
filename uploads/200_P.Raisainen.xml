@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-03">3.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:39</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>200</bibl>
+                        </msItem>
+                    </msContents>            
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1825-03-12">12.3.1825</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_135" />
+                
+                <p>Piäätoxexi, mina kirjoitan.</p>
+                <p>
+                    <l>Sinun pitä tehäiš niin hywin</l>
+                    <l>ja kirjoittaaiš mulle wasta=</l>
+                    <l>uksen, tokko nämä kirjat ja</l>
+                    <l>Rahat on ojkein <del>oik</del> sinun</l>
+                    <l>käsiis tullu. Ja mitä muu=</l>
+                    <l>ta rupea kuuluman siitä</l>
+                    <l>meijän suuresta asjasta.__</l>
+                </p>
+                <p>
+                    <l>Tokko suaahan toista <hi rend="underline">under</hi>=</l>
+                    <l><hi rend="underline">sökninkiä</hi> tahi Comitetä.</l>
+                    <l>Ej siitä Comitestä ollu mitää</l>
+                    <l>Jota ne Kesällä <del>la</del> pitiwät.</l>
+                    <l>Kuin ej myö suaa tänne pa=</l>
+                    <l>rempia Herroja ja Eswaltoa</l>
+                    <l>Comitetä pitäman, ja jotka</l>
+                    <l>paremmin meijän parasta</l>
+                    <l>etsi; kuin ne kesänliset Her-</l>
+                    <l>rat. Niin ej suinka meijän</l>
+                    <l>asjasta tule muuta kuin</l>
+                    <l>häpeä palkoa. Ne Herrat</l>
+                    <l>pitiwät poara Ruohtalaisten</l>
+                </p>
+                
+                <pb n="2" facs="0268_0078096_136" />
+                
+                <p>
+                    <l>puolta, ja ejwätkä yhenkä</l>
+                    <l>näissä olewien Herraien wikoja</l>
+                    <l>ottanet kuulosakkaan, sitä wä=</l>
+                    <l>hemmin kyseltiin. Mutt’ poara</l>
+                    <l>kyseliwät nien Herraien wikoija,</l>
+                    <l>jotka tiesiwät paraix niinkuin</l>
+                    <l>Östmarkin papin, ja wiitsannan</l>
+                    <l>Papin, joka oil uus palwelux</l>
+                    <l>sesša, niin Lettaförssilla ej ollu</l>
+                    <l>yhtää Pappia, Ejpä hyö ky=</l>
+                    <l>selly Ruxin Papin wikoja,</l>
+                    <l>Jolle oisš suomalaiset tainna</l>
+                    <l>löyteä wikoja kyllä.__</l>
+                </p>
+                <p>
+                    <l>Hywä kultanen Herra, Reisto=</l>
+                    <l>a; että wielä suaatasiin toinen</l>
+                    <l>ũndersökning ja Norinni suo=</l>
+                    <l>malaisille yhtajkoa, ja sitte</l>
+                    <l>oisit ite kerralla. Niin saiš</l>
+                    <l>Ruohtalaiset ja Norlaiset</l>
+                    <l>nähä, jotka nyt on tulleet</l>
+                    <l>niin ysökspiäältän, siitä kuin</l>
+                    <l>ej Comitosä meille mitää hyweä</l>
+                    <l>Luattu, ejkä Tukulmista ollu</l>
+                    <l>Herroja.___</l>
+                </p>
+                <p>Poawo R‒nen</p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

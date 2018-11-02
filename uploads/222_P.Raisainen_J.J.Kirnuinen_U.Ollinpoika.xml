@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen, Juho Juhoinpoika Kirnuinen, Ula Ollinpoika > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen, Juho Juhoinpoika Kirnuinen, Ula Ollinpoika</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-13">13.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:61</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <author><surname>Kirnuinen</surname>
+                                <forename>Juho Juhoinpoika</forename></author>
+                            <author><surname>Ullalasta</surname>
+                                <forename>Ula Ollinpoika</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>222</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Paavo Räisäinen kirjeen kirjoittaja ja toisten kirjeiden sanelija, Kirnuinen ja Ula Ollinpoika sanelleet kirjeensä</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1830-10-09">9.10.1830</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_222"/>
+                
+                <p>Øijärillä sinä 28 Loka=Kuusša w: 1830.__</p>
+                <p>Herra Gottlundille  !</p>
+                <p>
+                    <l>Myö miehet Juohoi Juhoin poika Kirniunen, ja</l>
+                    <l>myöš Ula Ollinpoika tahi Ullalan mieš Wä=</l>
+                    <l>tiltä; myö jotka olimma sinun luonaanš männä</l>
+                    <l>Syysšä nuoin Lopulta Marraš Kuuta, ja läximme</l>
+                    <l>poiš sieltä alusta Joulu=Kuuta. Myö saimme si<ref>n<note>viivallinen n-kirjain</note></ref>un </l>
+                    <l>kauttaiš sisään yhen ansökninkin kuninkalle meijän</l>
+                    <l>Tilaijen Jutusta; joka myöš tuil Grewe=Brahen</l>
+                    <l>kautta annetux. Ja meillen myöš lupaiš sekä Ku=</l>
+                    <l>ninkašettä Brahe; että meijän soaha kreijat ja</l>
+                    <l>myöš wastauxen teällä Norin Rikierinkin luona,</l>
+                    <l>ja wiellä myöš peälisex niin Kuninkaš Lupaiš että</l>
+                    <l>meijän häntä kohtata Stortinkilla Christianissa, niin</l>
+                    <l>hän reistoa suorittoa meijän asjoja.___</l>
+                </p>
+                <p>
+                    <l>Waan nyt ei oo Kuninkaš ite tullu Stortinkille</l>
+                    <l>Eikä myöš yhtää wastusta Norin Rikierinkille meijän</l>
+                    <l>tieten, Myö oomme herin joka Kuukauš kysynyt wastu=</l>
+                    <l>sta meijän wouwin ja <del><hi rend="underline">Läs</hi></del> Nimismiehen Luota, </l>
+                    <l>waan hyö aina meille owat wastanneet; etteiwät</l>
+                    <l>hyö oo mitään kreijoa Rikierinkistä soanna tämän</l>
+                    <l>asjan peälle. Grewe=Brahe wielä myöš lupaiš</l>
+                    <l>että hän puhuttele Kuninkasta etta ei meitä piä</l>
+                    <l>soaha yhönkä Runierata eikä ryökötellä ennen kuin</l>
+                    <l>peätös tuloo asjalle, ja siitä myö omme myöš peäš=</l>
+                    <l>nyt</l>
+                </p>
+                <pb n="2" facs="0268_0078096_223"/>
+                <p>
+                    <l>nyt tähään asti sitte kuin myö siellä käwi<ref>m<note>viivallinen m-kirjain</note></ref>e</l>
+                    <l>waan se on meistä kumma kuin ei meijän piä</l>
+                    <l>soaha yhtää wastusta ja peätöstä asjan peälle.__</l>
+                </p>
+                <p>
+                    <l>Niin nyt tämän tautta, myö tahtoimme kaikein</l>
+                    <l>nöyrimmasti Rukoilla sinua Rakaš Herra! Ettäš</l>
+                    <l>tekisit niin hywin ja kysysit Grewe Brahelta</l>
+                    <l>tokko ne wärälin Kreijat tuil Lähätetyx Norin</l>
+                    <l>Rikierinkille tahi ei, wai mite<add>n</add>kä sen asjan keralla</l>
+                    <l>oil Laita? Ja pytäsit pientä kirjallista wastu=</l>
+                    <l>sta tämän peälle Grewe Brahelta, että myö sai=</l>
+                    <l>simme sen näijen Puuwin miesten keralla.___</l>
+                </p>
+                <p>
+                    <l>Juhoi Juhoinpoka Kirnuinen</l>
+                    <l><hi rend="underline">Ula Ollinpoika Ullalasta.</hi></l>
+                </p>
+                <p>Herra Gottlundille Pawali Räisäiselta!</p>
+                <p>
+                    <l>Mattis se tuil kotiin sinä 15 p: Loka=Kuus=</l>
+                    <l>sa, oikein hywin hän sanoo tulesa ramille.</l>
+                    <l>Sitten hän on täsšä sairastanna kylmetyš tautia,</l>
+                    <l>joka kommanš päiwä se on ollu hänen peälläse.</l>
+                    <l>Niin mitä muuta Mattiin tuloo, niin minä tyk=</l>
+                    <l>keän pahoin, sillä kuin ei hän tahtoinna oppette=</l>
+                    <l>leita Miehex. Kuin minä häntä torun, niin hän</l>
+                    <l>wastoa minua, siellä en minä oiš tullu oppinex</l>
+                    <l>20<hi rend="superscript"><hi rend="underline">nen</hi></hi> astaikaan, ja kylläpä minä elän Puonniš</l>
+                    <l>seätysša niin hywin kuin oppinunnai.___</l>
+                </p>
+                <pb n="3" facs="0268_0078096_224"/>
+                <p>
+                    <l>Sinä kirjutat Matin keralla ja sanot että mun </l>
+                    <l>antoa hänelle 12 Riksiä <unclear>joka</unclear> mun on sulle welkoa</l>
+                    <l>kirjoista. Se on minusta hyweä kauppoa Matille</l>
+                    <l>soaha Rahoija, ja enšhänen peälle kustennat.</l>
+                    <l>Minun tuloo sinua kostella hänen eite, waikei</l>
+                    <l>hän ite lie ymmärtännä.___</l>
+                </p>
+                <p>
+                    <l>Ne kirjat joitaš puhuit, ne minä lähätän</l>
+                    <l>aikoa myöten Kömille, ja pyän Kömin Pattronoa</l>
+                    <l>että hän ne oikein Lähättä sulle.</l>
+                </p>
+                <p>
+                    <l>Kuinš kirjutat mulle; niin kirjuta misšäs asut.</l>
+                    <l>minä en tiä wisšiin misšäs asut.__</l>
+                </p>
+                <p><hi rend="underline">Poawo Räisäinen</hi></p>
+                <p>
+                    <l>Oiš pitännä enemp kirjuttoa</l>
+                    <l>  waan niin kiire.___</l>
+                </p>
+                <pb n="4" facs="0268_0078096_225"/>
+                <p>>
+                    <l>Till</l>
+                    <l>Hög Lärde och wälärwär=</l>
+                    <l>diga Magstj:___</l>
+                    <l>Carl Axel Gottlund!</l>
+                    <l><hi rend="underline">Stokholm</hi></l>
+                    <l>Bor hös en Jtaliensk</l>
+                    <l>Handlar I Stads=smedje</l>
+                    <l><hi rend="underline">Gatan</hi></l>
+                </p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

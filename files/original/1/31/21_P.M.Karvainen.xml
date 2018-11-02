@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pekka Matinpoika Karvainen > Carl Axel Gottlund</title>
+                <author>Pekka Matinpoika Karvainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:14:2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Karvainen</surname>
+                                <forename>Pekka Matinpoika</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>21</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Kalnässet, Øyern">Kalnässet, Øyern</placeName>
+                        <date when="1848-01-11">11.1.1848</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077759_006" />
+                <p>
+                    <l>Erinomaittain hyvin kunniotettavallen </l>
+                    <l>Herrallen C.A.Gottlundille!</l>
+                </p>
+                <p>
+                    <l>Wielä työ meijät teällä Fielloissa </l>
+                    <l>asuvaiset muistossanne piätton ja otten </l>
+                    <l>tuais meillen monenlaisia kirjoja, tänne </l>
+                    <l>laittanna, ne koreat Kuvat ja Avisat </l>
+                    <l>tulivat tänne Heinaikana <add>1847</add> josta minä</l>
+                    <l>paljon kiitän ja kostelen; ne maxavat</l>
+                    <l>monta rahoa ja vaivoa, my emme </l>
+                    <l>taija mitä tienastia teillen heisha tehä </l>
+                    <l>jälleen. – Ovat nuö aviisal rattoisia lukea </l>
+                    <l>van ne ovat meijän vaikeita suha <hi rend="underline">heitä</hi> </l>
+                    <l>sieltä Hellsinkistä, jotta ei niitä maha </l>
+                    <l>meiltä tũlla otetũxe muuten kuin ej </l>
+                    <l>heitä otettais pakoittain niinkuin ½ vũosi=</l>
+                </p>
+                <pb n="2" facs="0268_0077759_007" />
+                <p>
+                    <l>kulkũa taakissa jos niin ois nũo taitais tulla </l>
+                    <l>Reisuvaisten kanssa. – Ois mulla, ja monella mũũlla </l>
+                    <l>hyvä lyst tieteä mitenkä määttön kaikki Suoma=</l>
+                    <l>laiset sen suuren Wenään Rikierinkin alla </l>
+                    <l>jos tuota ois luvanlinen kysellä? Tämä </l>
+                    <l>pien mejän Muamma on ikään kuin rikastunna </l>
+                    <l>sittenkuin tultiin Ruohin Waltakunnan ala. Ei tuos=</l>
+                    <l>ta meijan norin Suomalaisten taija olla paljo mittä </l>
+                    <l>apua, sillä kuin meitä ŷsin osa tahtoo olla ysös=</l>
+                    <l>sä köuhuvessä ja pitä monen asua niinkuin </l>
+                    <l>muijen alla – joka koituu vaikeax sen jokai=</l>
+                    <l>nen mahta ymmärteä. – Monella ois teällä </l>
+                    <l>hyvä tahto pois teältä muuttoa, van minnek=</l>
+                    <l>käs ne mänisivät, sillä kuin meitä on lijan mon=</l>
+                    <l>ta peätunnä tähän Mualimaan. – Norin väkeä </l>
+                    <l>on jo monta satoa ja monena vuonna muuttan=</l>
+                    <l>Bergenstiftista ja Nummedahlista Poihjus=</l>
+                    <l>Amerikaan, van ej yhtää Suomalaista teälta </l>
+                    <l>vielä oo pois muuttanna vaikka monen taitas </l>
+                    <l>olla hyvin tarpeen männä sinne kuin jossa </l>
+                    <l>paremmin leipeä löutys. – Kiitos olkoon </l>
+                    <l>ei oo mun eikä mun perein mittää kylleä=</l>
+                    <l>mistä van ei ookaa sanottu jotta <hi rend="underline">kaikkien</hi> sũa </l>
+                    <l>olla yhella lailla <add>elo</add> viskattu. - Teällä Norissa</l>
+                </p>
+                <pb n="3" facs="0268_0077759_008" />
+                <p>
+                    <l>ei ois paha näinä aikoina eleä pura kuin ois meillä </l>
+                    <l>meijän esivanhuxiemme suuret tũkki=mehät. Teällä </l>
+                    <l>on nyt Sahatukit (:Sågblockar:) korkeassa hinnassa  </l>
+                    <l>teällä ei oo Tukkitoltilla paha suaha 7 ja 8 Hopea Speciä </l>
+                    <l>kuin ne ovat 8 kynäreä pitkiä ja 12 Til 14 Tom paxuja </l>
+                    <l>latvalta flyötink veisdragiloissa. Norin Elvissä  </l>
+                    <l>lemnatut. – Kovat ja kouhat vuoit ovat nämät </l>
+                    <l>kax viimesta vuotta teälla ollunna. – Kylät ja </l>
+                    <l>Tukkimehät ovat teälla häpeänlisesti korkeassa </l>
+                    <l>hinnassa. – van eivät ookaan Ruhni puolla puolin </l>
+                    <l>niin kallita, van siellä on kaikella <unclear>laillap</unclear> </l>
+                    <l>son suuremmat ulosteot (: Udgiftern:) Fattig [--] </l>
+                    <l>forgdeen er nu heri Landet megel anslondig og bror. – </l>
+                    <l>Onko kylät ja mehät forholdsviis kallita siellä </l>
+                    <l>Suomessa, ja tuilko siella hyva wuois nyt viimessä </l>
+                    <l>vuonna 1847. – Kallnasissa sinä 11<hi rend="superscript"><hi rend="underline">lena</hi></hi> paivona Tammikuussa </l>
+                    <l>v 1848. -</l>
+                </p>
+                <p>Pekka Karvainen </p>
+                <p>
+                    <l>P.K.</l>
+                    <l>Pitä eloänne  hyvin, ja helssata meilta teälta, kaikillen </l>
+                    <l><hi rend="underline">Suomalaisillen</hi> jotka meijät tietätavät tealla Norin ja Ruo=</l>
+                    <l>hin rajolla mäkilöissa ja mäkien kũlmissa ja kallioien </l>
+                    <l>kjelissä kouhuvessa asuvan. –</l>
+                </p> 
+                <p>P. Karvainen</p>
+                <pb n="4" facs="0268_0077759_009" />
+                <p>
+                    <l>S. T.</l>
+                    <l>Lektoren vid Keiserliga Alexanders</l>
+                    <l>Universitetet, Höglärde Herr.</l>
+                    <l>C. A. Gottlund</l>
+                    <l><hi rend="underline">Hellsingfors</hi></l>
+                    <l>Finland</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

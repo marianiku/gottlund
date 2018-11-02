@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-14">14.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:5</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">        
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author> 
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>166</bibl>
+                        </msItem>
+                    </msContents>      
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Östmarkin pappila">Östmarkin pappila</placeName>
+                        <date when="1822-10-06">6.10.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_017" /> 
+                <p>
+                    <l>No nyt, minä sain kirjoja tässä tänä pänä,</l>
+                    <l>waan en jouwa wastaaman heijän piäälle.__</l>
+                    <l>Waan tässä minä nyt Lähätän 40. Rds: Bankota,</l>
+                    <l>kirjosta. Waan ois tässä monjaita kymmeniä, waan</l>
+                    <l>en suaa heitä ysömmix Raoix, nin olkan toistax.</l>
+                    <l>Niin se oil paha kuin en minä ymmarta<ref>n<note>viivallinen n-kirjain</note></ref>ä</l>
+                    <l>sitä kirjoa pare<ref>m<note>viivallinen m-kirjain</note></ref>in Kesällä; Ne ois jounna olla</l>
+                    <l>hakemata, waan kirjat ej piä tulla turhan.</l>
+                    <l>Ja josma oisin suaa<ref>n<note>viivallinen n-kirjain</note></ref>a nämä Kirjat ennen! niin</l>
+                    <l>mä oisin ollu Christianissa; waan amulla Lähte</l>
+                    <l>Kuninkas kotinsa, nin kuin mulle on sanuttu.</l>
+                    <l>Östmarkin papilassa sinä 6.p: Lokakuussa w:1822.</l>
+                </p>
+                <p><hi rend="underline">Poawo Räisäinen</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

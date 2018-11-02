@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:15</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>132</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="puuttuu">puuttuu</placeName>
+                        <date when="1822-05-07">7.5.1825</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_035" />
+                <p>annettu 7. p: Toukokuu: 1822.</p>
+                <p>Poavo Räisäinen! Herra K: Gottlund<hi rend="underline">ille</hi></p>
+                <p>
+                    <l>Se on minusta paha, kuin ej Sikainen</l>
+                    <l>tainna Jmeisex Laitaita, Se on minun</l>
+                    <l>Emäntäin kanssa Lasten Lapsia.</l>
+                    <l>Se taitaa olla paremp kuin Lähätät.</l>
+                    <l>Räiwän kotiin, hän ej taija tulla pa=</l>
+                    <l>renmax, Jos toiseeni palweluxeni tu=</l>
+                    <l>lisi. Sen han ite paraite ymmärät.</l>
+                    <l>kyllä se ois hywä kuin tuosta jotenkiin</l>
+                    <l>miehen saisitten, waan joka ej ole kel=</l>
+                    <l>wollinen yhössä palwelloxsessa, Se ej</l>
+                    <l>tahoi olla toisessakaan. ~~ ~</l>
+                    <l>Minun poikoan jotais puhuit, En</l>
+                    <l>minä ole hywä niin pitkeä tietä kus=</l>
+                    <l>toamaan, minä oon Lian köyhä siheen.</l>
+                    <l>Se on Lian nuori, hän ej jaxa käũwä,</l>
+                    <l>mutt’ minun täũtys kytin Leijata hälel=</l>
+                    <l>le. Se taitaiš tulla kallis. ~ ~</l>
+                    <l>Waan kyllä mä tuonni tekisin josma</l>
+                    <l>Rahat Lainnoaisin, Kuin ma Lũlisin  </l>
+                    <l>miehen hänestä tulewan; waan intäkuin</l>
+                    <l>tulis yhönlainen kuin Sikainen, niin</l>
+                    <l>ois häpeä palkoa. ~</l>
+                </p>
+                <p>keännä toinen puol</p>
+                <pb n="2" facs="0268_0077781_036" />
+                <p>
+                    <l>Wān jos niin oiš, ettäs tänne oisitte</l>
+                    <l>tulemoina niin kuin yhössä Kirjassaanne</l>
+                    <l>seisoo, ettäs parin tahi kolmen wuon</l>
+                    <l>piäästä tuletten tänne. Ryösteäisitten silloin</l>
+                    <l>poijan ottoa Kanssaanne. Ej hänessä</l>
+                    <l>wielä mitään pahoja tapoja oli näkynä [toisen n:n päällä viiva],</l>
+                    <l>waan mikäs nuoria tietä, Kyllä hänellä</l>
+                    <l>on hywä oppi Lukemaan, hän tajtaa jo</l>
+                    <l>parenmin Lukea kuin Minä, näitä</l>
+                    <l>Turun Wiikko Sanomia. Minä panisin</l>
+                    <l>hänen mielellain teijän Kanssa: ~</l>
+                </p>
+                <p>Poijan niimi on <hi rend="underline">Johannes</hi> Räisäinen</p>
+                <p>
+                    <l>Mitä Östmarkin Papi ottaa Postira=</l>
+                    <l>hax, en <add>taia</add> vissiin sanoa, Ensmäisen</l>
+                    <l>Kirjan jonka ma Lähätin, sanoi hän</l>
+                    <l>olewan wiis killinkiä Bankota, Loitin.</l>
+                    <l>jlman Rekomenteroamata, waan kuin</l>
+                    <l>Rekomenteroa niin maxaa 12. Killinkiä</l>
+                    <l>Loiti. ja <add>minä</add> oon joka Kirjain Rekomenteran.</l>
+                    <l>Hän sanoi minä oon männy Wuoskon</l>
+                    <l>traktiin Postmestarin Kanssa, Kyllä myö</l>
+                    <l>suaamme tehä Räkninkin Syksyllä</l>
+                    <l>sanoi hän</l>
+                </p>
+                <p>Poawo Räi<hi rend="underline">säinen</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

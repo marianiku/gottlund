@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Daniel Halvorsen Lehmoinen, Kari Anders Dotter, Cal Calsĕn Ciolsion Sikanen, Paũl Johansen > Carl Axel Gottlund</title>
+                <author>Daniel Halvorsen Lehmoinen, Kari Anders Dotter, Cal Calsĕn Ciolsion Sikanen, Paũl Johansen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:19:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Lehmoinen</surname>
+                                <forename>Daniel Halvorsen</forename></author>
+                            <author><surname>Anders Dotter</surname>
+                                <forename>Karin</forename></author>
+                            <author><surname>Sikanen</surname>
+                                <forename>Cal Calsĕn Ciolsion</forename></author>
+                            <author><surname>Johansen</surname>
+                                <forename>Paũl</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>42</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Revholttet i Kalnäset">Revholttet i Kalnäset</placeName>
+                        <date when="1822-06-29">29.6.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077764_001" />
+                <p>
+                    <l>minun pitä kiriuddaman Lin kosden nimen Herrallen</l>
+                    <l>minä en oosann niien nimeä ennen nei ei ollud yh</l>
+                    <l>hösä miötis sä iod da minä ontaina Saha niien nii</l>
+                    <l>meä – taoos mulla ÿx tässä tooinen orpo Carloo</l>
+                    <l>Carloo Poika eioo yhtä turvai Isää eigämunna ia</l>
+                    <l>hän onlähisin ontel Piölsionillen ja karhu kÿttä –</l>
+                    <l>Dannel Andin Poika <del>Type</del> Tÿs bergistä Taihtos apua</l>
+                    <l>Hän on tullut keenox ialosda hän on kait kas</l>
+                    <l>su Suonett ialos <unclear>daisa</unclear> hän on aam Punna 63 karhua</l>
+                    <l>Ja monda muda tuÿ riä ja monda tuhatta kietosda –</l>
+                    <l>minulda Herlallen Gott Lund tillen minun tielaldai</l>
+                    <l>Ja min Palion Pÿhhä Raamatuÿda gon hän onmellen <del>lä</del></l>
+                    <l>hättännä meilen tänne – ei mitän enemmän täällä ker</l>
+                    <l><unclear>daina</unclear> terveixxiä Palion minulda –</l>
+                </p>
+                <p>
+                    <l>Revholtt den 29 kesäkuu</l>
+                    <l>1822 Daniel Lehmoinen</l>
+                </p>
+                <p>
+                    <l>Til Hvittnun</l>			
+                    <l>Paũl Johansen</l>             		
+                    <l>Peder Pedersen</l>			
+                </p>					
+                <p>
+                    <l>Ala kiriuttanna Linkosen leskii</l>
+                    <l>Kuumalane Kari Anders Dotter</l>
+                    <l>Cal Calsĕn Ciolsion</l>
+                    <l>Sikanen</l>
+                </p>
+                <pb n="2" facs="0268_0077764_002" />
+                <p>
+                    <l>Herrallen</l>
+                    <l>Korkiasti oppinelle</l>
+                    <l>ja Hyvin Kunnio</l>
+                    <l>Tavallen Cal Gott</l>
+                    <l>a/ Lund</l>
+                    <l>Upsalassa</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

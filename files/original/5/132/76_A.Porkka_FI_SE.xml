@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka > Carl Axel Gottlund</title>
+                <author>Antti Porkka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-25-06">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>76</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="70">suomi</language>
+                <language ident="se-SE" usage="30">svenska</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Runsjön">Runsjön (Rumsjön, Rensjön)</placeName>
+                        <date when="1822-10-19">19.10.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_032" />
+                <p>Rũnsjönilä sinä 19 päivänä Loka=Kuusa v: 1822</p>
+                <p>Anti Porkka Koarle Gottlundjle</p>
+                <p>
+                    <l>Tässä nyt seoraa Räkninki febakalaisten</l>
+                    <l><unclear>syniikostuikile</unclear></l>
+                </p>
+                <p>[ruotsiksi kirjoitettu lasku]</p>
+                <pb n="2" facs="0268_0077775_033" />
+                <p>[ruotsink. lasku jatkuu]</p>
+                <p>
+                    <l>östmarkin papi Käske minun Herrale vielä</l>
+                    <l>muistuttaman yhtä toista oikeuta, Joka</l>
+                    <l>olis pitännä männä vuona, eli toisa vuona</l>
+                    <l>Kuininkalta Lauketa; Joka sisälle pitäis,</l>
+                    <l>Etä senmoiset myllyn = Ja sahan =synit</l>
+                    <l>pitäis tuomarin Käräisä peätämän, Jota</l>
+                    <l>Ej paikale Renkeäis männä. van Jos ej tätä</l>
+                    <l>oliskan, nin se on otanna Lijaxi arvoltan.</l>
+                    <l>Minä en o vielä saana Rahoia Kokon viiko</l>
+                    <l>sanomista, van pitä piän tulla, Kuin Kaiki</l>
+                    <l>tulo Käräistä Koitin. palio terveyxiä Kai=</l>
+                    <l>kiltä febakalaisilta, Ja Enimitäin vanhalta </l>
+                    <l>Eriki Porkalta. niin minultakin</l>
+                </p>
+                <p>Antj Porka</p>
+            </div>
+        </body>
+    </text>
+</TEI>

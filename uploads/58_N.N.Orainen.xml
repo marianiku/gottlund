@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nils Nilsson Orainen > Carl Axel Gottlund</title>
+                <author>Nils Nilsson Orainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:24:9</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Orainen</surname>
+                                <forename>Nils Nilsson</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>58</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="se-SE" usage="100">svenska</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Norra Lekvattnet">Norra Lekvattnet</placeName>
+                        <date when="1825-06-30">30.6.1825</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077769_021" />
+                <p>Leikavatten sinä 31 päivänä kussa <add>kūssa</add> 1825</p>
+                <p>Niles oraiseltä Herralle C Gottlundille upsalassa</p>
+                <p>
+                    <l>Ei minulla ole nyt kaukan olluun kiriūa</l>
+                    <l>herralta enkä ole minä hänelle kiriūttana</l>
+                    <l>sillä en minä ole hyvin tienä missä hän</l>
+                    <l>on vaeltanna mutta olen kuitenkin suona</l>
+                    <l>tietä että herra vielä samalla tavalla kun</l>
+                    <l>ennenkin meiian asian <unclear>aina</unclear> eikä ole <unclear>Lakrunua</unclear></l>
+                    <l>eikä väsynna sen suuren tiön ja <unclear>kosauoxusen</unclear></l>
+                    <l>tähen kūin tiö otiten piälinne meiidän</l>
+                    <l>tähtemme ja me olemme vielä siina</l>
+                    <l>samassa ūskossa kūn ennen kiin että</l>
+                    <l>se hyvin käypii sillä <del>me</del> me nyt-</l>
+                    <l><unclear>amūlla</unclear> laitamme parit miestä lähteman</l>
+                    <l>Tokholmin ūūtta under sökningin py</l>
+                    <l>tämän ioiten miöten minä täman</l>
+                    <l>kirian laitan Lats <unclear>kahton</unclear> jos sieltä</l>
+                    <l>herroa lähte – hyvässä toivossa me</l>
+                    <l>olemme sen paremmin jos täna </l>
+                    <l>syxsyna tapahtussi</l>
+                </p>
+                <pb n="2" facs="0268_0077769_022" />
+                <p>
+                    <l>no mitä mun tuloo Immosesta sanon</l>
+                    <l>nin on hän ollunna minun tykynain parit</l>
+                    <l><del><gap/></del> wiikkon ja tehnyt sitä tiötä kun</l>
+                    <l>minäkin sillä hän tūlii <unclear>miyhä</unclear> että kuin</l>
+                    <l>palot oli jo kylvetty etteii kyntämistä</l>
+                    <l>eikä <gap/> tekemista tule ennen syxsya</l>
+                    <l>ja tulo hän tiälä olemän syxsyn että</l>
+                    <l><del>san</del> <unclear>sanon</unclear>sitte wähä mitenksi se tulo</l>
+                    <l>tervexsin palion ja jumala palkitkon</l>
+                    <l>herran kaikesta hänen waivastan</l>
+                </p>
+                <p>Nils orainen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

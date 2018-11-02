@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka &amp; Matj Olinpoika Hämäläinen > Carl Axel Gottlund</title>
+                <author>Antti Porkka &amp; Matj Olinpoika Hämäläinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:26</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <author><surname>Hämäläinen</surname>
+                                <forename>Matj Olinpoika</forename>
+                            </author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>91</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Porkka kirjoittanut oman kirjeensä ja toiminut kirjurina, Hämäläinen sanellut kirjeensä.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Norra Lekvattnet">Norra Lekvattnet</placeName>
+                        <date when="1828-03-18">18.3.1828</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_074" />
+                <p>pohois Leikavatna <unclear>de</unclear> 18<unclear><hi rend="superscript>"><hi rend="underline">de </hi></hi></unclear> Mars 1828</p>
+                <p>Herra Gottlund<hi rend="underline">ille</hi>!</p>
+                <p>
+                    <l>Jos tämä Kjeria tapoaisi Herran, </l>
+                    <l>niin minä pyytäisin selittämän</l>
+                    <l>minulle yhen asian, Jonka kauta</l>
+                    <l>minä olen tullut suuren <unclear>Kustinkin</unclear>.</l>
+                    <l>Entinen Herân Tuomari Niles Junan</l>
+                    <l>poika Swänbysta, Joka <add>on</add> <unclear>Magafiinin</unclear></l>
+                    <l>Haltia fryksändi<hi rend="underline">ssa</hi>, syökäis minua</l>
+                    <l>männeen vuoten Talvkäräiassä,</l>
+                    <l>yhen Tynnörin ja 2 weärinkin Lai-</l>
+                    <l>nasta, Joita en Minä <del>en</del> ole Ikän</l>
+                    <l>saanut, van tulin tuomituxi ne</l>
+                    <l>maxaman, – Nyt minä Tämmäisin</l>
+                    <l>Hänen syys käräisin, Ja 2<hi rend="superscript"><hi rend="underline">lla</hi></hi> vetinällä</l>
+                    <l>toitistin hänen Borgfedelin olevan</l>
+                </p>
+                <pb n="2" facs="0268_0077775_075" />
+                <p>
+                    <l>falskin sillä ei ne ala kieriutetut</l>
+                    <l>vetinät sitä tuntenna Ja <del>Jos</del> tuli</l>
+                    <l>tämän vuoten talvkäräisin syöstyxi.</l>
+                    <l>Nyt oli hänellä yxi vetinä joka</l>
+                    <l>toitisti muun Lainan, vuonna</l>
+                    <l>1815, Jonka minä olin maxanna,</l>
+                    <l>van kuitenkin tänä nykynen Tuo-</l>
+                    <l>mari, <hi rend="underline">Göran Fernen</hi> Tuomikti sen,</l>
+                    <l>tämän uuten Lainan siian, Ja</l>
+                    <l>minä taas tulin hänellen 5 Rixiä</l>
+                    <l>P<hi rend="superscript"><hi rend="underline">lla</hi></hi> paneman; tuon asian minä ap=</l>
+                    <l>lieraisin ens Lagmanin käräisin,</l>
+                    <l>van Tuomiota en minä vielä sanut,</l>
+                    <l>viiko sitten kuin kärät loppui,</l>
+                    <l>ennen kuin 2<hi rend="superscript"><hi rend="underline">ta</hi></hi> viikoa ennen mesu=</l>
+                    <l>Maaria tahika jumi kuun alussa.</l>
+                    <l>sillä ei hän joutanut kaiki teke=</l>
+                    <l>män Käräpaikassa, mut Luki peä=</l>
+                    <l>töxen; sentähten tohtis Herra</l>
+                    <l>Neuvoa Mitenkä tuon kansa</l>
+                </p>
+                <pb n="3" facs="0268_0077775_076" />
+                <p>
+                    <l><add>pitäis</add> Rupeais käytäman, sillä teällä on </l>
+                    <l>se<del>n</del> tapa, että Rikkan puoil aina</l>
+                    <l>tahtoi wallanpällen tulla, van Jos</l>
+                    <l>entinen Tuomari, <hi rend="underline">Robert <unclear>Lönnerberg</unclear></hi></l>
+                    <l>olis ollut niin viisin ois asia käynä</l>
+                    <l>toisin.</l>
+                </p>
+                <p>
+                    <l>Mulla on vielä yxi vetina sen peä=</l>
+                    <l>lle että minä olen sen vanhan Lai=</l>
+                    <l>nan maxanna, jonka mun täytynö</l>
+                    <l>Lagmannin käräisin viiä, kŭin Herra</l>
+                    <l>niin Hyvin tekisi ja kiriutais No=</l>
+                    <l>peimitain vastuxen täman peälle,</l>
+                    <l>Ja mitenkä hän nyt elä, Ja asiain</l>
+                    <l>kansa käypi.</l>
+                </p>
+                <p>
+                    <l>Palion Tervyxnä kaikelta mun</l>
+                    <l>Huonssain niin miös muilta Suo=</l>
+                    <l>malaisilta, Ja kaikin enin <unclear>minulda</unclear></l>
+                </p>
+                <p>
+                    <l>Mattj Olinpoika Hämäläinen</l>
+                    <l><unclear>Jensgärdsũtskog</unclear></l>
+                </p>
+                <pb n="4" facs="0268_0077775_077" />
+                <p>Herra Kaarle Gottlund<hi rend="underline">ille</hi>!</p>
+                <p>
+                    <l>Minä saan tässä samassa pyyteä </l>
+                    <l>että Herra kysyisi HofRättästa sitä</l>
+                    <l>fäbakalaisten asiata Tuomarin</l>
+                    <l>kansa ejköhan tuohon mitän peä=</l>
+                    <l>töstä tule. Tokkon Räisäisen <unclear>kjeria</unclear></l>
+                    <l>on es tullut jonka se syys=kuusa</l>
+                    <l><del>R</del> Lähätti.</l>
+                </p>
+                <p>
+                    <l>palion Terveyxiä <unclear>miullta</unclear></l>
+                    <l>Jumala olkon hänen kansa</l>
+                </p>
+                <p>Antj Porka</p>
+            </div>
+        </body>
+    </text>
+</TEI>

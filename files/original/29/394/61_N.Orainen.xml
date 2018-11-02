@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nils Orainen > Carl Axel Gottlund</title>
+                <author>Nils Orainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:26:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Orainen</surname>
+                                <forename>Nils</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>61</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Erotettu Antti Porkan kirjeiden yhteydestä. Orainen sanellut kirjeen, Porkka toiminut kirjurina.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Lekvattnet">Lekvattnet</placeName>
+                        <date when="1822-08-25">25.8.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077771_001" />
+                <p>
+                    <l>Leikavatinalla sinä 25 päivänä EloKuusa v.</l>
+                    <l>1822</l>
+                </p>
+                <p>Niles Oraiselta , Herra Kaarle Gottlundille!</p>
+                <p>
+                    <l>Monta Kost Jumaloa sitä Kjerjasta Joka</l>
+                    <l>minule tuli, ja neowosta Ryxin papia <unclear>vastan</unclear></l>
+                    <l>Minä Tässä nyt Lähätän Kopion minun</l>
+                    <l><unclear>sjunkinastaini</unclear> jonka minä olen Porkalla</l>
+                    <l>parantanat, se oli minusta Kumma</l>
+                    <l>Kuin ei <del>tuota</del> Juhoi valkoinen tuota</l>
+                    <l>taitanna toimelä tehä.</l>
+                </p>
+                <p>
+                    <l>minä tahton velien Eestä mainita,</l>
+                    <l>Kuin ei Herra häntä tunne, se ei olut</l>
+                    <l>Kähkölässä, se oili Ryxin Kjerkossa siloin,</l>
+                    <l>ja tellännä Erisi Olin poika <gap/>, hänen</l>
+                    <l>nimensä valmahtin pannan, van toko</l>
+                    <l>se lie tullu tehyxi.</l>
+                </p>
+                <p>
+                    <l>Turun viikkoSanomat on niin Kauka site</l>
+                    <l>tulut Juhoi Kähköisile, Ja lisiä tulo, van</l>
+                    <l>se makuuta niitä luonan, Ja Liukoisen</l>
+                    <l>Ja Hämälaisen luona, Jotei niitä muut</l>
+                    <l>soa nähäkän, sieltä tuli näinä päivinä</l>
+                    <l>muuta</l>
+                </p>
+                <pb n="2" facs="0268_0077771_002" />
+                <p>
+                    <l>muutamia Numoiriä Jotka minä luuin</l>
+                    <l>ja Porkale weiin, niistä oli 4 ensinäistä</l>
+                    <l><unclear>poikessä</unclear>, nyt ois jo Enimät Jokaitsen</l>
+                    <l>luona Käynä, Kuin ne olisi toimeliselta</l>
+                    <l>miehelta uulos <unclear>telläty</unclear>; Sen kauta minä</l>
+                    <l>tahoin, Etä Herra Kjiriuta Post <unclear>Inpautorillen</unclear></l>
+                    <l>Jota se lähätä ne muule, Tahi Porkale,</l>
+                    <l>niin niien pitä <unclear>toisemmin</unclear> Kuulkea.</l>
+                    <l>Taitaisi ola parempi Kuin ne tule östmark <gap/></l>
+                    <l>Kauta Porkale, sitä Ryxin ei tule niin use <gap/></l>
+                    <l>Kjirkon sitä ne taita sieläi tulla vipyman,</l>
+                    <l>van östmankista ne Porka <unclear>sis</unclear> heiti.</l>
+                </p>
+                <p>
+                    <l>palion Terveyxia</l>
+                    <l>Niles orainen </l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

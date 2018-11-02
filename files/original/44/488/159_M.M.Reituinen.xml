@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Matti (Mattes) Mattesson Reituinen > Carl Axel Gottlund</title>
+                <author>Matti (Mattes) Mattesson Reituinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-14">14.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:8:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Reituinen</surname>
+                                <forename>Matti (Mattes) Mattesson Reituinen</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>159</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Erotettu Paavo Räisäisen kirjeiden yhteydestä. Reituinen sanellut kirjeen Räisäiselle.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1822-08-11">11.8.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078094_001" />
+                <p>Öijärillä sinä 11. p: Elokuussa wo._  1822__</p>
+                <p>Taloin Mieš Matti Reituinen   Herra Gottlundi</p>
+                <p>
+                    <l>Tämän Kirjan kautta, minä Rukuilen teitä Rakas Herra,</l>
+                    <l>ettäš tekisit niin hywin ja ottasit tämän meijän asjan</l>
+                    <l>piäälleis; Ja pyytäsit Ruunua Meijän eistä niin kuin mui=</l>
+                    <l>jenkin Suomalaisten: Myö ej Maha olla teijän Kartoissa</l>
+                    <l>ejkä kirjossa, sillä minä oon muka Riitanna Karttoa toisel=</l>
+                    <l>le puolelle tätä paperia, ettäs näkisit mitenkä ne ulko mehät</l>
+                    <l>makoa, joilla myö asumme. Myö asumme Lyls=Elwän ja Tukki</l>
+                    <l>join wälillä, siinä on nelhä mehtä kappaletta, kax mehtä osoa</l>
+                    <l>Ryxin puola, kax Nysuokunan puolla. Näistä mehtä osista</l>
+                    <l>tahtosimme myö 12. torpalia, suaaha tehä yhen mehtä osan,</l>
+                    <l>Ja piästä Ruunun ala, ja suaaha weron itellemme, ja ja </l>
+                    <l>piästä poiš Ruohtalaisten alta.__ Nysuokunan Ruohtalaisilla</l>
+                    <l>on kyllä mehteä jtäpuolla Lys=Elwän, sillä etta Lyys=Elwan ja nijen</l>
+                    <l>Kartanoien wäliä on yx peninkuorma ja 2,000 kynäreä.___</l>
+                    <l>Niin ulko mehtä Lyys=Elwästä Luoteseen taitaa olla Kolmea Neljän</l>
+                    <l>nestä pitkä, waikka tässä kartassa näyttää Luo mehtä pitenmälle.</l>
+                </p>
+                <pb n="2" facs="0268_0078094_002" />
+                <p>
+                    <l>Niin Aspilai<unclear><del>sitta</del></unclear><add>set</add>, Jonka Mehällä myö Fagerberiläiset asu<ref>m<note>viivallinen m-kirjain</note></ref>e</l>
+                    <l>taitaiš suaaha m osan Hwidsanna ja Killinkruun Ulkomehtään, nii=</l>
+                    <l>hen Kahteen pieneen wiwaan asti, ja toaiš niihen kahteen pieneen wiwaan</l>
+                    <l>meijän mehällä, sillä meijän kylät on jtäpohjos nurkassa tätä aspin</l>
+                    <l>mehteä ja Nysuokunan Rajoa.__ Hwidsannalaisilla ja Killinksruu=</l>
+                    <l>Laisilla on mehtiä kyllä kahenpuoleensa, heillä ej pitäiš olla tätä ulko=</l>
+                    <l>mehteä, sillä ej jyö jkään oo Ostanna Ruunulta sitä mehteä, jos</l>
+                    <l>jlman omistaneet; Samaten on myöš Nysuokunan Kartanoijen</l>
+                    <l>Björpyyn ja Lyynäsin asujamet omistaneet, nämä mehät Luo</l>
+                    <l>puolella Lyys=Elweä jlman mitään Ruunulta, ettie näillä suinkān</l>
+                    <l>Kartanoijen miehillä Löywy Kaũppakirjoa näijän Mehtien piääl-</l>
+                    <l>le.__ Sillä myö tykkeäisimme että Ruunu taitaš suaaha pois ote=</l>
+                    <l>tux nämä mehät heiltä, Kuin työ tekisitten nin hywin, ja Selittäsitten</l>
+                    <l>Kuninkaalle tämän asjan, niin kyllä myö tahoimme kernaast maxoa</l>
+                    <l>teille Kustanuxenne ja waiwaanne kuins tämän Laupiuen tekisit.__</l>
+                    <l>Kyllä myö omme jo tästä asjasta ennen kirjuttanna, <del>waan e joo</del></l>
+                    <l>Östmarkin torpallojen kanssa, waan e joo miitän wastuusta suaatu,</l>
+                    <l>Myö pelkeämme Ostmarkin papin awanneen waastauskirjan ja</l>
+                    <l>pois salanneen.</l>
+                </p>
+                <p>
+                    <l>Nyt minä pyyän teiltä wastausta tämän piäälle, sen taitaisit</l>
+                    <l>Ulko=kirjutoxen panna Per Jonsson Manninen i Ratsjöberget,</l>
+                    <l>ja Lähättea Postin kautta Östmarkin papille, ja Seilata minun</l>
+                    <l>kirjain Mannisen kirjan sisään._ ___</l>
+                </p>
+                <p> 
+                    <l>Mattes Mattesson Reituinen</l>
+                    <l>Från Tagerberget</l>                   
+                </p>
+                <pb n="3" facs="0268_0078094_003" />
+                <p>[karttapiirustus]</p>
+            </div>
+        </body>
+    </text>
+</TEI>

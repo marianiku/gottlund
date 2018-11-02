@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>133</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1822-05-09">9.5.1825</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_037" />
+                <p>Öijärilä sinä 9.p: Toukokuussa w:1822</p>
+                <p>
+                    <l>Armoillinen Herra Gottlundi</l>
+                    <l>Minulle on tänä päiwänä Tieto annettu,</l>
+                    <l>Fangnesin Mehästä; Että se on werterattu</l>
+                    <l>S. 2500. Norjan Speçityskäst. Sanoo kax tu=</l>
+                    <l>hatta, wiis Satoa Norjan Speçiä._______</l>
+                </p>
+                <p>
+                    <l>Fangnesin Kyllä se on täũs Kartano werossa</l>
+                    <l>waan sitä toista puota Ruukoa tuki merk=</l>
+                    <l>käil Andrias Bärg. joka ite asuu torpassa</l>
+                    <l>Holmax Kutsutu, Tämä Bärg ej <add>oo</add> fullmah=</l>
+                    <l>tia antanna, Se on Kuninkas jte. ¬–</l>
+                </p>
+                <p>
+                    <l>Fangnesin Kyllässä asuu 3.<hi rend="superscript"><hi rend="underline">met</hi></hi> Taloin Miestä;</l>
+                    <l>Kylän alla on 14.<hi rend="superscript"><hi rend="underline">nen</hi></hi> Torpparia Merkkälin</l>
+                    <l>torpan Kanssa, kuin yhteen Luetaan Niin on</l>
+                    <l>17.<hi rend="superscript"><hi rend="underline">tä</hi></hi> asujanta Sillä Mehällä._</l>
+                </p>
+                <p><hi rend="underline">Torpparien niimet owat</hi></p>
+                <p>
+                    <l>1. Holmen. 2. Bakken.       3. Jonsrud   4. Masterud</l>
+                    <l>5. Mastrud  6. Tomtberget. 7. Mången. 8. Mängen</l>
+                    <l>9. Mången. 10. Tangen. 11. Ditto.---. 12. Ditto._</l>
+                    <l>13. Dótto.- 14. Sölii. _______ _______ ____</l>
+                </p>
+                <pb n="2" facs="0268_0077781_038" />
+                <p>
+                    <l>Jsäntäjien Niimet, ja kuinka Monta</l>
+                    <l>jhmistä kunkin Luona.__________</l>
+                </p>
+                <table>
+                    <row>
+                        <cell>1. Ole Olsson Soikainen i Fangnes.</cell>
+                        <cell>4. Henkeä.</cell>
+                    </row>
+                    <row>
+                        <cell>2. Ole Hansson Soikainen i D<hi rend="underline">o</hi></cell>                   
+                        <cell>4. Henkeä.</cell>
+                    </row>
+                    <row>
+                        <cell>3. Ole Pedersson Soikainen i D<hi rend="underline">o</hi></cell>
+                        <cell>6. Henkeä.</cell>
+                    </row>
+                    <row>
+                        <cell>4. Bärg.   - - - - - i Holmen</cell>
+                        <cell>ej mitää.</cell>
+                    </row>
+                    <row>
+                        <cell>5. Johan Bersson Norlainen i Bakken.</cell>
+                        <cell>7. jhmistä.</cell>
+                    </row>
+                    <row>
+                        <cell>6. Jaçob Olsson Soikainen i Jonsrud.</cell>
+                        <cell>7 jhmistä.</cell>
+                    </row>
+                    <row>
+                        <cell>7. Ole Johansson Kirnu i Masterud.</cell>
+                        <cell>9. jhmistä</cell>
+                    </row>
+                    <row>
+                        <cell>8. Peder Hansson Soikainen i Masterud.</cell>
+                        <cell>9. jhmistä</cell>
+                    </row>
+                    <row>
+                        <cell>9. Ole Erichssen purainen i Tomtbårge</cell>          
+                        <cell>6. jhmistä</cell>
+                    </row>
+                    <row>
+                        <cell>10. Bårgen Hansson Soikainen i Mången.</cell>
+                        <cell>5. jhmistä</cell>
+                    </row>
+                    <row>
+                        <cell>11. Ole Hindrichsson Mulikka i <add><gap/></add> Mången.</cell>
+                        <cell>4. jhmistä</cell>
+                    </row>
+                    <row>
+                        <cell>12. Morten Olsson Hämäläinen i Mången.</cell>
+                        <cell>7. jhmistä</cell>
+                    </row>
+                    <row>
+                        <cell>13. Jaçob Olsson Soikainen i Tangen.</cell>
+                        <cell>6. jhmistä.</cell>
+                    </row>
+                    <row>
+                        <cell>14. Ammun Torbiörnson Soikainen i Tangen</cell>
+                        <cell>8. jhmistä.</cell>
+                    </row>
+                    <row>
+                        <cell>15. Ole Erichsson Walkoinen i Tangen</cell>         
+                        <cell>10. jhmistä.</cell>
+                    </row>
+                    <row>
+                        <cell>16. Gunder Sywerson Soikainen i Tangen.</cell>
+                        <cell>5 jhmistä.</cell>
+                    </row>
+                    <row>
+                        <cell>17. Arne Pederson Norlainen  i Sölii. .</cell>
+                        <cell>7 jhmistä.</cell>
+                    </row>
+                    <row>
+                        <cell>Lucu</cell>
+                        <cell>104 ihmistä</cell>
+                    </row>
+                </table>
+                <p>
+                    <l>Näin monta, Mäitä on Jsäntäien Kanssa,</l>
+                    <l>waan Emäntäien ja Lasten, ja Orjaien Niimiä</l>
+                    <l>Ne ej oo Mullen tietoon antanna. Kyllä tuskin</l>
+                    <l>ymmärsin sen Listan; jsäntäien Niimiä ylöspa<ref>n<note>viivallinen n-kirjain</note></ref>a </l>
+                </p>
+                <pb n="3" facs="0268_0077781_039" />
+                <p>
+                    <l><hi rend="underline">Huone Wäkeä</hi></l>
+                    <l>Jotka asuu näien Taloin Miesten Luona.-</l>
+                </p>
+                <table>
+                    <row>
+                        <cell>1. Ole Pederson Norlainen i Tangnes.</cell>
+                        <cell>4. jhmistä</cell>
+                    </row>
+                    <row>
+                        <cell>2. Sissel Peders Dotter Leski <unclear>waipi</unclear> jons=</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>=rud –</cell>
+                        <cell>3. jhmistä.</cell>
+                    </row>
+                    <row>
+                        <cell>3. Johan Samelsson Orainen i mangen.</cell>
+                        <cell>3. jhmistä</cell>
+                    </row>
+                    <row>
+                        <cell>Luku</cell>
+                        <cell>10. jhmistä</cell>
+                    </row>
+                </table>
+                <p>
+                    <l>Kaikki Nämä Jhmiset Tahtoo antoa jtseen=</l>
+                    <l>sä Suomalaisten Seuraan, ja käũwä Lau=</l>
+                    <l>ta Salmen Kirkoon; ja suaaha Suomalaisia</l>
+                    <l>Kirjoja ostoa, he tahtowat opettoa Lapsensa</l>
+                    <l>Suomea Lukemaan.- </l>
+                </p>
+                <p>
+                    <l>Branwalan Suomalaiset, Ne tok <del>lie<gap/></del> <add>linö</add> teijän</l>
+                    <l>kirjossa, niin kuin Mänki, ja Ryö ja Lystän</l>
+                    <l>Mäki, ja Linpen, Jammertal, ja nin etes=</l>
+                    <l>päin. Nämä kaikki Lauta salmellen</l>
+                    <l>tahtoo käywä Kirkoon.</l>
+                    <l>Minä oon kaikilta Näiltä perään kysyn=</l>
+                    <l>nä, tarkoittenko työ käywa Kirkoon Lauta=</l>
+                    <l>salmeen, Työ ej tajia wielä Lähenmä Kirkoa</l>
+                    <l><del>tajia</del> suaaha; Sen on Gottlund sanonna; Niin hyö</l>
+                    <l><del>tajia</del> wastasiwat, Myö Käũnmö häneen još oiš</l>
+                    <l>6. peninkuormoa, ennen kuin Myö Norlais=</l>
+                    <l>ten Seurassa tahomme olla.____ _______</l>
+                    <l>Waan ajkoja Myöten hyö tahtois Kappelin suaa=</l>
+                    <l>ha Mökärin Rantaan niin kuin Trakunin kanka=</l>
+                    <l>halle. Waan silloin myö Öijäriltä tulenma +</l>
+                    <l>+ Lautasalmeen.</l>
+                </p>
+                <pb n="4" facs="0268_0077781_040" />
+                <p>
+                    <l>Tänä päiwänä on tässä käynnä yx</l>
+                    <l>mieš Ole Olsson Soikainen niimeltä, joka asuu</l>
+                    <l>Siikajolla hänellä on 8. Henkeä perhettä</l>
+                    <l>Elätettäwänä, ejkä Mitään Maan Rūkinkia,</l>
+                    <l>enkä minä oo tainna Misää, sanoi hän.</l>
+                    <l>sinään tainna Kirjuttaita sillä kuin ej mulla </l>
+                    <l>oo ollunna Rūkinkia Minkä piäälle mä oon</l>
+                    <l>Kirjuttainnain. –</l>
+                    <l>Hän Rukuile teitä, Minun kautta, Että työ</l>
+                    <l>tēkisitte Niin hywin ja Muistasitten hänen</l>
+                    <l>Niimen; ja wielä Rukuile eispäin. Että jos</l>
+                    <l>Ruunu ostaa Fang=neesin, Niin tahtoo hän</l>
+                    <l>olla perinlinen siheen puoleen osaan jota</l>
+                    <l>Bärg Rūkoa. Kuin hänen Jsä kuol, niin</l>
+                    <l>hän oil kolmen wuon wanha. Niin Ankerin</l>
+                    <l>Merkkälit Kiusasit Sen Lesken osoa, ja</l>
+                    <l>saiwat wimein ankerin ulos ajamaan</l>
+                    <l>tämän miehen Emän, joka oil Leskenä.</l>
+                    <l>Siiten se osa on ajna ollu Merkkälien haltuš:</l>
+                </p>
+                <p>
+                    <l>Työ kysytten mikä<del>kä</del> Sen teköö kuin koko</l>
+                    <l>Kylän piää on Soikaisia. Sen minä taijan</l>
+                    <l>teilen jlmiantoa. Se oil yx mies joka tuil</l>
+                    <l>Suomesta, Soikaisia Sukusin. joka pyykäsi</l>
+                    <l>Fangnesin Kylän; Siitä tämä Suku nim</l>
+                    <l>on siirtynnä Fangnesin mehällen, ja ne on</l>
+                    <l>kaikki samoa Sukua._</l>
+                </p>
+                <p>Poawo Räisäinen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

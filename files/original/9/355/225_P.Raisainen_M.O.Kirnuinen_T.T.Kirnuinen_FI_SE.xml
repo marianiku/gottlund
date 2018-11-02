@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen, Mattis Olssen Kirnuinen, Torbjörn Torbjönson Kirnuinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen, Mattis Olssen Kirnuinen, Torbjörn Torbjönson Kirnuinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-13">13.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:64</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <author><surname>Kirnuinen</surname>
+                                <forename>Mattis Olssen</forename></author>
+                            <author><surname>Kirnuinen</surname>
+                                <forename>Torbjörn Torbjönson</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>225</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Räisäinen kirjeen kirjoittaja ja kirjuri, Kirnuiset oletettavasti sanelleet kirjeensä Räisäiselle.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="33">suomi</language>
+                <language ident="se-SE" usage="66">svenska</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1831-01-20">20.1.1831</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_235" />
+                <p>Øijeren den 20. Januari 1831.___</p>
+                <p>Hög=vålärwũrdige Herr Gottlund!</p>
+                <p>
+                    <l>Jag wil härmedest skrifwa tille eder ge=</l>
+                    <l>nom Paul Räisäinen; och bedja eder wänligen</l>
+                    <l>om! att ni giorde wäl oçh frågade Grefwe</l>
+                    <l>Brahe å mina wegnar, huru lunda dett blef</l>
+                    <l>bestilt med den ansökningen jag lewererade</l>
+                    <l>Konungen I färliden host 1829. oç på hwil=</l>
+                    <l>ken ansökning, ni hafwer en afskrift hoš</l>
+                    <l>eder, så att ni wed wäl sakenš inneholl;</l>
+                    <l>Det er om min hemmanš inbördande.___</l>
+                </p>
+                <p>
+                    <l>Jag hafwer içke hördt det aldra ringaste</l>
+                    <l>af den ansökningen huru det blef, fast Ko=</l>
+                    <l>nungen Låfwade mig muntligen, att jag skũl=</l>
+                    <l>le få rätt på min faders hem, som skulle</l>
+                    <l>lyda mig till efter honom.</l>
+                </p>
+                <p>
+                    <l>Om <unclear>ni</unclear> nu wille göra ede<del>t</del><add>r</add> det beswäret,</l>
+                    <l>oçh få samma ansökningen i rörelse, få</l>
+                    <l>wil jag enteligen betala ederš beswär ige=</l>
+                    <l>nom Posten efter förlangede. Men kan</l>
+                    <l>henda, att ederš beswär blifwer för stor,</l>
+                    <l>få att jag nödkaš, till att komma personlig</l>
+                    <l>till Stokholm; Men så beder jag eder ni gör</l>
+                    <l>wäl oçh ũnderrätter mig I förwegen, om</l>
+                    <l>ni kan få saken till at gå för sig.</l>
+                </p>
+                <p>
+                    <l>Mattiš Olšsen Kirnuinen</l>
+                    <l><hi rend="underline">fr: byn Masterud</hi>.____</l>
+                </p>
+                <pb n="2" facs="0268_0078096_236" />
+                <p>Till wälädle Herr Gottlund!</p>
+                <p>
+                    <l>Jag ũnderteknade Torbjörn Torbjönson Tangen</l>
+                    <l>Wil oçhså härmedest underrätta er om, huru</l>
+                    <l>det hafwer till Gått med min ansökning, som blef</l>
+                    <l>inlewererat samma gången som hanš Mattiš</l>
+                    <l>Kirnuinen, oçh på hwilken ni hafwer en afskrift</l>
+                    <l>hoš eder.___ Min ansökning <unclear>lets</unclear> wäl komma</l>
+                    <l>fram, men altså hafwer içke Öfwrigheten</l>
+                    <l>aktat något om ansökningenš förhold. De auç=</l>
+                    <l>tionerade I Fiolhöst min hemmanš deel, som ni wäl</l>
+                    <l>wed, oçh sålde samma för 200. Speçidaler; oçh nu</l>
+                    <l>war Peadsen Såldt oçh wärderat första gången för</l>
+                    <l>300. Speçidaler, <del><hi rend="underline">men lika wäl so komma</hi></del> Då blef</l>
+                    <l>Pladsen fåledeš Såldt för 100. Sp<hi rend="superscript"><hi rend="underline">dr</hi></hi> ringere; Nu i</l>
+                    <l>forleden winter I Januari månad kom Grefwe</l>
+                    <l>wedels fullmagt med Fogden oçh Exegwerede mig</l>
+                    <l>for desša 100. Sp<hi rend="superscript"><hi rend="underline">dr</hi></hi> fast jag aldrig hafwer gåt</l>
+                    <l>I någon köp eller förlik. Jag på stod I Fog=</l>
+                    <l>dens närwaro att jag içke har got I någon</l>
+                    <l>kiöp eller förlig; men det <unclear>lätš</unclear> de içke hora</l>
+                    <l>utan sade fordringen må wäl någon stedeš ut=</l>
+                    <l>tagaš. Sedan I April månad fik jag wäl hora</l>
+                    <l>något af min ansökning, oçh mig blef låfwat</l>
+                    <l>att jag skulle få Prosesša, genom en fri Proçurator,</l>
+                    <l>men nu I host, war jag hoš Länsmanden oçh</l>
+                    <l>frågade efter samma; men nu lätš içe Läns=</l>
+                    <l>manden weta hwar ansökningen war, eller</l>
+                    <l>om jag skulle få någon fri Proçurator eller ei.</l>
+                    <l>Oçh for samma så wille jag bedja eder i din bast</l>
+                    <l>te underdanighet! att ni giorde wäl oçh fik en=</l>
+                    <l>nu denna min ansökning i gang, jag skulle</l>
+                    <l>giärna betala er för hwad det kostade.___</l>
+                </p>
+                <p><del><hi rend="underline">Torbjörn T</hi></del></p>
+                <pb n="3" facs="0268_0078096_237" />
+                <p>
+                    <l>Desša Exegwerade 100. Spdr hafwer de uttagit</l>
+                    <l>af mig; Mwen likawäl blef jag Uttsagt före</l>
+                    <l>Juul af den siste # Tord Erlandson eller den sam=</l>
+                    <l>ma mannen som giörde kiöppet I mit namn</l>
+                    <l>första gången.____ (kiöpparen).</l>
+                </p>
+                <p>
+                    <l>Torbjörn Torbjörnson Kirnuinen</l>
+                    <l><hi rend="underline">fr byn Tangen</hi></l>
+                </p>
+                <p>Herra Gottlundille! Poawo Räisäiseltä.___</p>
+                <p>
+                    <l>Minä sain sinun wiimesen kirjaiš siitä 22. p:</l>
+                    <l>Joulu=Kuusša männä wuonna; nyt männä Lauan=</l>
+                    <l>taina joka tuil Puuwille Antti Riekkisen keralla.__</l>
+                </p>
+                <p>
+                    <l>Sinä sanot minun walittawain poikien Mehtä</l>
+                    <l>Kauppoa, waan minä uskon ettei Herra täl=</l>
+                    <l>lä kertoa ymmärtännä minun meininkiä, mi=</l>
+                    <l>nä en walittanna Kauppoa, waan tahoin</l>
+                    <l>asjan sulle ilmi antoa, mitenkä Merkkälit</l>
+                    <l>teällä hantuilewat; waan sitä minä wali=</l>
+                    <l>tin kuin Merkkälit taiš ottoa niin suuret yl=</l>
+                    <l>rahat poara 8/sast osast.___</l>
+                </p>
+                <p>
+                    <l>meijän täytyi rueta Merkälilöijen keralla han=</l>
+                    <l>tuun; sillä Poijat ei oiš ikään perinnä tiloa</l>
+                    <l>minun kuoluin jälkein, sillä mulla ei ollu</l>
+                    <l>Böxlöä enemp kuin elin=aijax. Näitä mui=</l>
+                    <l>ta osia tällä Mehällä, eiwät meinoa yhöl=</l>
+                    <l>lenkään enemp myyä enenkuin owat tukki</l>
+                    <l>mehän uloš ruukanna; waan millä ne sitte</l>
+                    <l>Puonnit maxanoo osiaan kuin tukit tule=</l>
+                    <l>wat uloš ruukatux."___Øijärillä s:20 päiw</l>
+                    <l>Tammi=Kuusša w:1831. </l>
+                </p>
+                <p><hi rend="underline">Poawo Räišäinen</hi></p>
+                <pb n="4" facs="0268_0078096_238" />
+                <p>
+                    <l>Herralle</l>
+                    <l>Aiwan Kunnioitettawalle</l>
+                    <l>Ja</l>
+                    <l>Korkiast Oppinulle,</l>
+                    <l>Carl Axel Gottlundille</l>
+                    <l>a:</l>
+                    <l><hi rend="underline">Stokholmisša</hi></l>
+                </p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

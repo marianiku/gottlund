@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-03">3.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:37</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>198</bibl>
+                        </msItem>
+                    </msContents>            
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1825-01-12">12.1.1825</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_122" />	 
+                
+                <p>Öijärillä sinä 12. päiw: <del><hi rend="underline">Toukokuussa</hi></del> 
+                    <add>Ta<ref>m<note>viivallinen m-kirjain</note></ref>ikuusa</add>  w:1825,</p>
+                <p>Poawo Räisäinen	Herra Gottlundille!</p>
+                <p>
+                    <l>Minä oon Käsittännä molemmat ne</l>
+                    <l>kirjat yhtai<del>j</del><add>koa</add>, sekä sen jonkaš kirjoitit</l>
+                    <l>Borgåssa ja sen <del>k</del> joka Danmarkissa oli kir=</l>
+                    <l>joitettu. Sitte oli 7. wiikkoa Lauwantaina kuin</l>
+                    <l>minä ne käsitin; Ejkä sinultä oo yhtää kirjoa</l>
+                    <l>sitte ollu, waika minä oon kirjoittanna yhön</l>
+                    <l>sulle, jonkama Lähätin Stolpin kirjan si=</l>
+                    <l>sällä Tukulmiin, ja Luulin jo sinun siellä</l>
+                    <l>olewaš. waan tokkoš sinä Lienet wielä silloin</l>
+                    <l>sinne ehtinyt. Waan nyt mä jo tok uskon</l>
+                    <l>teijän olewan Tukulmissa, još muuten poara</l>
+                    <l>Jumala lie suonna teitä terweixi, ja onnenlisen</l>
+                    <l>matkustamisen merellä. Liekö han se kirja tullu</l>
+                    <l>eesš jonka ma Stolpin kirjasša Lähätin; tiäältä</l>
+                    <l>on niin paha suaaha kirjoja Lähätetyx, sillä</l>
+                    <l>kuin Östmarkin Pappi on kieltänyt postin hänen</l>
+                    <l>kauttaansa. Siinä kirjassa minä puhuin</l>
+                    <l>sulle että joutuanš tänne talwi=majoa pitä=</l>
+                    <l>mään, tahi još ett’ ite niin pian oiš joutunna,</l>
+                    <l>niin oisit Poijat ja sen miehen Laskenna etel=</l>
+                    <l>läns tuleman, sillä kuin se kustoa paljon</l>
+                    <l>Kaupunkiloissa niin monta henkeä yläällä</l>
+                    <l>piteä.__ Myö jo ototimme teitä tänne niin</l>
+                    <l>wissiin Joulux, ja kirjoa uoitetiin joka pos=</l>
+                    <l>tista, waan turhaan. Myö ajattelimme että</l>
+                </p>
+                
+                <pb n="2" facs="0268_0078096_123" />
+                
+                <p>
+                    <l>oisimme kohtanna teitä missä oisitte tar=</l>
+                    <l>winna. Nyt täytyy minun sulle kirjoittoa,</l>
+                    <l>tiäällä on nyt suru kattoa myöten waimoil=</l>
+                    <l>la kuin ei työ tullu Joulun pyhix tänne, ja ejkä</l>
+                    <l>yhtää kirjoa kuulu, nyt sanowat, ne on wis=</l>
+                    <l>siin joutunna hukkaan merellä koska ei heistä</l>
+                    <l>mitää kuulu. Minä oon kokenna heitä <del><hi rend="underline">heitä</hi></del></l>
+                    <l>Lohtuttoa, ja oon sanonna, ne taiš wiipyä</l>
+                    <l>kauan Helsingörissä ennen kuin peäsiwät</l>
+                    <l>takasin Merelle, ei tainna olla niin Laiwoa</l>
+                    <l>walmissa mänemän Tukulmiin. Sitten hyö on</l>
+                    <l>aina wähä annainnaan. Waan kuin ei nyt</l>
+                    <l>tälle kirjalle tulle wastausta, niin en mä tiä</l>
+                    <l>mitä mä heille sanon, Munna se on paljo</l>
+                    <l>wärremp huoliman, kuin heijän oma emäsä.</l>
+                    <l>Niin tie nyt, niin hywin ja kirjoita wastaus tä=</l>
+                    <l>män piäälle, niin pian kuinš tämän kirjan kä=</l>
+                    <l>sität, että hyö suaa tietä missä nyt kuljexe=</l>
+                    <l>lette; ja oiš pa tuo hywä munki suaaha tie=</l>
+                    <l>tä missä olette, ja mitenkä asjat rupea käy=</l>
+                    <l>män. Još niin tuliš, että tänne joutuisitte</l>
+                    <l>tänä talwena niin kirjoita mulle, kyllä</l>
+                    <l>myö kohtoamme missä paikasša tarwihtet.</l>
+                    <l>Kuinš kirjoitat, niin mahtaa olla paraš, ettäš</l>
+                    <l>kirjoitat, til Drengen Jan Jansson Stora Bogen</l>
+                    <l>ja Anaborin kautta, ja kirjoitat wähä Leskel=</l>
+                    <l>le, että hän oikein ja nopeen Lähättää kirjan esš.</l>
+                    <l>Minun kirjain taijat seilata Janin kirjan si=</l>
+                    <l>sään; Jos Östmarkin Papin kautta lähättäis,</l>
+                    <l>niin</l>
+                </p>
+                
+                <pb n="3" facs="0268_0078096_124" />
+                
+                <p>
+                    <l><add>niin</add> Östmarkin Pappi se pitää 2. ja 3. wiikkoa kirjoa</l>
+                    <l>tykönään, ja sitte Lähättää wieraita teitä, että</l>
+                    <l>siellä sitte kiäänty kirjat taaš makoaman 3. ja 4.</l>
+                    <l>wiikoa.</l>
+                </p>
+                <p>
+                    <l>Tämän kirjan minä Lähätän Justitia Rätän Pop=</l>
+                    <l>puxen kirjan sisällä Tukulmiin. Tämä kirja</l>
+                    <l>tulo pannux postiin Filppistaan=Kaupunkissa.__</l>
+                </p>
+                <p>
+                    <l>Siitä Ruohinpuolla pietystä Comiteestä, kirjoitin</l>
+                    <l>minä jo sinä 24. paiwänä Heinäkuussa männä ke=</l>
+                    <l>sänä. waan minä neän sinun wiimesistä kirjoista</l>
+                    <l>ettett’ sinä wielä ollu sitä käsittännä.__</l>
+                </p>
+                <p>
+                    <l>Kuin nyt on niin, ettäs oot Tukulmissa, ja etkä</l>
+                    <l>oo käsittännä sitä kirjoa, niin mäne Poppiuxen</l>
+                    <l>Luoxe, kyllä hän näyttää sulle, mitenkä Koar=</l>
+                    <l>lestaan Muaanherra teällä Comiteetä piti;</l>
+                    <l>Minä oon Kirjoittanna Poppiuxelle yhöllä lail=</l>
+                    <l>la kuin sulleki; Poppius kirjoitti mulle e<ref>n<note>viivallinen n-kirjain</note></ref>en Comitetä, että hän 
+                        tahtoo tietä mitenkä Comi=</l>
+                    <l>teellä rupea käymään, ja sitten käsk meijän</l>
+                    <l>sisälle antaman Lyhykäisest anomuxemme</l>
+                    <l>Comiteelle, ja sitte Copion siitä anomuxesta</l>
+                    <l>hänelle; Ja nuoin myö teimme. sillä minä</l>
+                    <l>oon kirjoittanna kaikki tämmän hänelle.__</l>
+                </p>
+                <p>
+                    <l>Meillä Norin suomalaisilla e joo wielä ollu</l>
+                    <l>yhtää undersögnunkiä eli Comitetä, Mutt’ Amt=</l>
+                    <l>manni on poara kahiste kirjoittanna meille,</l>
+                    <l>ja kysynnä monta Kirkoako Myö tarwihtei=</l>
+                    <l>simme, niin pitäiš meijän antoa wastauxen;</l>
+                    <l>wan ej mutt poara Kapellit, että samat Papit</l>
+                </p>
+                <pb n="4" facs="0268_0078096_125" />
+                
+                <p>
+                    <l>heissä soarnoais. Niin tuohoon myö kaikki</l>
+                    <l>norin suomalaise<del>n</del><add>t</add> wastasimme yximielisest;</l>
+                    <l>ettei myö ej tahoi yhtää kirkkoa tahi Kapellia;</l>
+                    <l>kuin ej myö suaa niin kuin ensmäinen anfadrink</l>
+                    <l>oil Kuninkaan Luoxe, että suaamme rakentaa</l>
+                    <l>Kolmet kirkoa Rajalle, ja peästä yksiin Seu=</l>
+                    <l>rakuntiin Ruohin suomalaisten keralla; jos</l>
+                    <l>suaanemme käywä samoin kirkkoin, ja olla</l>
+                    <l>nautoina ja narriloina niin kuin ennenki.__</l>
+                </p>
+                <p>
+                    <l>Sitten kuin myö tämän wastauxen annoimme</l>
+                    <l>niin ei oo Norin Herroilta mitää kuulunna.</l>
+                    <l>Ej mitää enemp; Hywäst nyt tällä kertoa.</l>
+                    <l>Terwe tultuanš tänne meijän tienoille, sitä</l>
+                    <l>myö wielä eninosa hartaasti toiwomme, ja</l>
+                    <l>Rukoilemme Jumalata että hän auttaiš sinua</l>
+                    <l>wielä asjoisšanš, ettäš saisit irti rikiratux</l>
+                    <l>toisen Comiteen ja parempia Herroija tänne</l>
+                    <l>kuin Koarlestaan Muaan=Herra oil.___</l>
+                </p>
+                <p><hi rend="underline">Poawo Räisäinen</hi></p>
+                <p>
+                    <l>Terweyxiä teille Rakkaat poijat Juhoi ja Matti.</l>
+                    <l>Antoa pa kuultain, että olette nöyrät Makisteri=</l>
+                    <l>änne kohtaan, joka teillen niin sūren hywyen on näyt=</l>
+                    <l>tännä, että on elättä<ref>n<note>viivallinen n-kirjain</note></ref>ä ja waatteettanna teitä jo pian</l>
+                    <l>kax ajastaikao jlman mitää maxuta, ja wielä</l>
+                    <l>siihen teliin opettanna, että jo selwästi taijatten</l>
+                    <l>kirjoittoa kotiinne, waikka etten ennen tainna sanoa=</l>
+                    <l>kan kirjoittoa. Myö elämme tässä Kotona kaikki</l>
+                    <l>hywällä terweyellä niin kuin ennenki, pest Fari<ref>n<note>viivallinen n-kirjain</note></ref>e on ollu waiwaloinen 
+                        ajna sitte kuin kotoa Läxitte.__</l>
+                </p>
+                <p>Poawo Räisäinen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

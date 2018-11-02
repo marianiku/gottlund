@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-21">21.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:9</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">        
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author> 
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>170</bibl>
+                        </msItem>
+                    </msContents>      
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1822-12-23">23.12.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_031" /> 
+                <p>Öijärillä s:23.p: Joulukuussa wuo<ref>n<note>viivallinen n-kirjain</note></ref>a 1822.</p>
+                <p>Herra Gottlundille Poawo Räisäinen</p>
+                <p>    
+                    <l>Minä unhoutin toisa pänä kirjuttoa teille</l>
+                    <l>kaikkia. Niita runoija joita työ puhuitte</l>
+                    <l>tässä syxyllä, en minä wielä oo yhtään Löytä<ref>n<note>viivallinen n-kirjain</note></ref>ä</l>
+                    <l>joka niitä taitaa. Waan tiän minä yhen akan,</l>
+                    <l>ja yhen kexi ikäisen miehen, jotka niitä taitaa.</l>
+                    <l>Waan minä <add>ei</add> oo joutanna wielä käymään hei=</l>
+                    <l>jan luona, ja ne mahtaa niitä wielä piteä</l>
+                    <l>niin pyhänä ja totena, tokko hyö heitä tahtois</l>
+                    <l>ylös lukea. Waan oil mieš sanonna männä</l>
+                    <l>syxynä kuin se oil kuullu että työ runoja olit=</l>
+                    <l>te kyselly. Kuin ois minut rookanna niin se</l>
+                    <l>ois suaanna oppia runoja. Ejkös hän tok</l>
+                    <l>lukis heitä ylös mullekaan että minä saisin</l>
+                    <l>heitä ylös kirjuttoa. Kyllä mä siellä käyn</l>
+                    <l>kuin ma suaan joutoa.</l>
+                </p>
+                <p>
+                    <l>Työ tietten kaikki sen hywyen kuin työ taijatte</l>
+                    <l>Mulle; waan wielä nytkin minä pyyän yhtä</l>
+                    <l>kirjoa teiltä Maxun etest, Maxakon Mitä ta=</l>
+                    <l>haan kuin paara Löytyš. Sen pitäiš olla Juma=</l>
+                    <l>Lisen <add>kirjan</add>, yhen ratin Suomea, toisen ratin Ruohtia</l>
+                    <l>wastatuxin kirjan Lehellä. (Niin kuin tässä on)</l>
+                    <l>Ej kirkko niin tays ettej pappi suaa sioan. Kyrkka er altrig</l>
+                    <l>så full att icki präs</l>
+                    <l>ten har fit rum.</l>
+                    <l>ja ne pi</l>
+                </p>
+                <pb n="2" facs="0268_0078096_032" /> 
+                <p>
+                    <l>Minä näyttäisin sitä kirjoja Meijän Herroille</l>
+                    <l>ja muille, jotka pitäwät Suomalaista oppia</l>
+                    <l>turhana.</l>
+                </p>
+                <p>
+                    <l>Josof Hindriçhson Hakkarainen Långflonäs,</l>
+                    <l>Se pyyš mun teittä tinkoamaan saman Laista</l>
+                    <l>kirjoa Maxun etest. Hän tahtoiš opetteleita</l>
+                    <l>Suomenkielen; se ej tainna suomea puhua.</l>
+                    <l>Hän käywi teällä syxyllä kuulostelemassa asjoitān</l>
+                    <l>waan silloin ej wielä ollu tullu wastausta hänen</l>
+                    <l>kirjan päälle. Minä oon sen kirjuttanna hänel=</l>
+                    <l>le sitten kuin minä sen sain. Sitten en oo minä </l>
+                    <l>mitään miehestä kuullu.__</l>
+                </p>
+                <p>
+                    <l>Kirsti MattšDotter Sikainen antin=aho, Joka</l>
+                    <l>sen täũen Biblian sai, sekiin kåyw teällä syxyllä.</l>
+                    <l>Minä oon unhottanna hänen asjansa! jota hän</l>
+                    <l>pyys^ juuri itkusuulla minua tekemän, että teille</l>
+                    <l>kirjuttaman kostjumalat Bibliasta jonka hän</l>
+                    <l>sai. Hän sanoi puhutellesa Miehiä Talpuassa</l>
+                    <l>ja Niitä jotka Pipelloitä oil suaanna, että ois</l>
+                    <l>suaanna niihen kanssa kitoksen Lähätteä. Waan</l>
+                    <l>ne oil wastanna ej hyö tajia. Niin tästä tämä</l>
+                    <l><del>ky</del> köyhä waimo oil suruišsaan ja käyw tämän</l>
+                    <l>pitkän tien. Tämä minusta kayw niin kuin ennen</l>
+                    <l>wapahtajan ajkaan, kymmenen puhastettiin, waan</l>
+                    <l>ej ollu jos yx joka palaiš takaisin kiitosta anta=</l>
+                    <l>maan. Niin ole siiš kiitetty Moiniin keroin hänen</l>
+                    <l>etestä. Kyllä pä sinä hänen sytä<ref>m<note>viivallinen m-kirjain</note></ref>en [m:n päällä viiva] ymmärät.</l>
+                    <l>Ejlön sain tietä että Monkan Jan on kini</l>
+                    <l>otettu. Ja oil tunnustanna antanesa Lahjoja</l>
+                    <l>Ryxin pappiloille 3. Lehmeä Prustille 2. poijalle.</l>
+                    <l>siitä kuin ne sen tapetun poijan hautais +</l>
+                </p>
+                <p><ref>+<note>lisätty marginaaliin</note></ref>Ejköön tuosta Lempoi peri pappiloilta Poawo Räisäinen</p>              
+            </div>
+        </body>
+    </text>
+</TEI>

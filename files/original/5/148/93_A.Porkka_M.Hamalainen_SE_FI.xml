@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka &amp; Matti Hämäläinen > Carl Axel Gottlund</title>
+                <author>Antti Porkka &amp; Matti Hämäläinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:28</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <author><surname>Hämäläinen</surname>
+                                <forename>Matti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>93</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Kirje ruotsiksi, lopussa viestit Hämäläiseltä ja Porkalta. Porkka kirjoittanut oman kirjeensä ja toiminut kirjurina, Hämäläinen sanellut kirjeen.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="puuttuu">puuttuu</placeName>
+                        <date when="1829-08-29">29.8.1829</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_082" /> 
+                <p>[Kirje ruotsiksi]</p>
+                <pb n="2" facs="0268_0077775_083" />
+                <p>[Kirje ruotsiksi]</p>
+                <pb n="3" facs="0268_0077775_084" />
+                <p>[Kirje ruotsiksi]</p>
+                <p>
+                    <l>paljon Terveyxiä kaikilta Suoma=</l>
+                    <l>laisilta ja kaikin eniman</l>
+                </p>
+                <p>
+                    <l>Matti Hämäläiseltä</l>
+                    <l>Niin miös</l>
+                    <l>Antj Porkalta</l>
+                </p>
+                <p><unclear>kuiiin</unclear></p>
+                <pb n="4" facs="0268_0077775_085" />
+                <p>
+                    <l>Kuiin Herra olisi Hyvä Ja Lai=</l>
+                    <l>tas minullen Nenälaisit, minä neän</l>
+                    <l>aivan pahoin enkä Löyvä Jotka</l>
+                    <l>kelpoavat, minä Lähtan Heistä</l>
+                    <l>Rähelisen maxon.</l>
+                </p>
+                <p>
+                    <l>Jumala olkon Herran</l>
+                    <l>kansa</l>
+                    <l>Antj Porka</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

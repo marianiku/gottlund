@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Olli Ollinpoika Oinoinen ja Liisa Heinkintytär Nikarainen > Carl Axel Gottlund</title>
+                <author>Olli Ollinpoika Oinoinen ja Liisa Heikintytär Nikarainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-14">14.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:6:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Oinoinen</surname>
+                                <forename>Olli Ollinpoika</forename></author>
+                            <author><surname>Nikarainen</surname>
+                                <forename>Liisa Heikintytär</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>157</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Erotettu Paavo Räisäisen kirjeiden yhteydestä. Oinoinen ja Nikarainen sanelleet kirjeen Räisäiselle.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Kahilaistontalla">Kahilaistontalla</placeName>
+                        <date when="1823-06-18">18.6.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078092_001" />
+                <p>
+                    <l>Kahilaistontalla sinä 18. p: Kesäkuussa</l>
+                    <l>w: 1823._</l>
+                </p>
+                <p>Olli Ojnoinen Herra Gottlundillle!</p>
+                <p>
+                    <l>Minä oon nyt kuullu Juhoi Soikaisel-</l>
+                    <l>ta isolta Puuwilta; Minkä suuren työn</l>
+                    <l>työ olette tehnyt meijän suomalaisten eite</l>
+                    <l>kaikissa asjoissa, ja on uskottawa että</l>
+                    <l>kaikki hywin käypi.___</l>
+                </p>
+                <p>
+                    <l>Niin on nyt, että minä tahoin kiitteä</l>
+                    <l>ja kostetta Herroa puoleltain, ja mi-</l>
+                    <l>nä Rukuilen, että Herra wieläki eispäin</l>
+                    <l>Autasi ja myös pitäis meijän puolta;</l>
+                    <l>Minäki oon joutunna torpalix tänne</l>
+                    <l>Freterusin alla, waan Salmella minä</l>
+                    <l>minä oon syntynnä; minä on Erich</l>
+                    <l>Ojoisen welli; Minä ototan sitä</l>
+                    <l>päiweä että piästäsiin olemasta Frederu=</l>
+                    <l>sin alla; waan nyt minä uskon Juma-</l>
+                    <l>lan puolestan että myö hänestä peäsemme;</l>
+                    <l>kuin <del>para</del> poara Jumala Lainnoa Her-</l>
+                    <l>ralle jkeä ja terweyttä. Minä toiwoisin</l>
+                    <l>että suaaha Herroa puhutella tänä kesänä</l>
+                    <l>još ej toais tänä kesänä tapau; niin Ejkös</l>
+                </p>
+                <pb n="2" facs="0268_0078092_002" />
+                <p>                    
+                    <l>tuo jolloinka <del>lah</del> tapahtune; Se ois</l>
+                    <l>minulle suuri mielisosio jos minä wie-</l>
+                    <l>lä Herroa saisin puhutella.</l>
+                    <l>Terweyxiä minulta kaikkein alimai=</l>
+                    <l>selta palwelialta; sulle Herra Gott-</l>
+                    lundi. _ ____
+                </p>
+                <p>Olli Olli poika Ojnoinen</p>
+                <p>
+                    <l>Minäki Lisa heikin tytär Nikarainen</l>
+                    <l>Salmelta. tahoin kiitteä ja kunnioittoa</l>
+                    <l>teitä rakas Herra Gottlundi, Poikaijen</l>
+                    <l>puolesta ja myös kaiken sen hywyen</l>
+                    <l>etest kuin ootte suomalaisten eite tehnyt,</l>
+                    <l>ja myös sen suuren waiwan ejstä kuin</l>
+                    <l>työ ootte nähny tästä hejiän asjasta.</l>
+                    <l>minä oon kuullu että teilla on ollu</l>
+                    <l>suuri työ, Liotenki sillä ajjalla kuin</l>
+                    <l>miehet teältä oli siellä.___</l>
+                </p>
+                <p>
+                    <l>Minä oon Leski waimo, ja oon tämän</l>
+                    <l>Olli Ojnoisen ja Eriçh Ojnoisen munna:</l>
+                    <l>Ja oon jo wanhalla ijällä, waan</l>
+                    <l>kuitenki toiwoisin nähä sitä ajkoa</l>
+                    <l>että suomalaiset tulisiwat parenpan</l>
+                    <l>tilaan. Niin Jumala sis pitäköön</l>
+                    <l>teitä terwenna. ja ole myös mjnultaki</l>
+                    <l>moinin kerroin Terweytetty._ ___</l>
+                </p>
+                <p>
+                    <l>Lisa Heikin tytär</l>
+                    <l>Nikarainen___ </l>                    
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

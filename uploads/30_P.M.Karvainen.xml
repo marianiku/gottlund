@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pekka Matinpoika Karvainen > Carl Axel Gottlund</title>
+                <author>Pekka Matinpoika Karvainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:14:11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Karvainen</surname>
+                                <forename>Pekka Matinpoika</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>30</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Kalnässet, Øyern">Kalnässet, Øyern</placeName>
+                        <date when="1864-11-23">23.11.1864</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077759_049" />
+                <p>
+                    <l>Kalnäsissa sinä 23 Marras Kuusa</l>
+                    <l>1864</l>
+                </p>
+                <p>
+                    <l>Erinomaisest Hyvin Kūnnioitetullen</l>
+                    <l>Herrallen C. A. Gottlūnnillen!</l>
+                </p>
+                <p>
+                    <l>Monta monista hetkeä jo sitten kuin</l>
+                    <l>mūn ois pitännä vastatain ja vielä erinomaisest</l>
+                    <l>kostellain ja kiitelläin kaikista Teijän tänne</l>
+                    <l>lähätelystä kirjoista jotka kaikki on rättän</l>
+                    <l>ramillen tullet; ne ensmäiset makaisivat</l>
+                    <l>yltö talven Tokolunissa yhón tūtūn Herrojen=</l>
+                    <l>päivämies P. Nyqvistin luona, joka ne sitten</l>
+                    <l>keväin tullen kūlkovien kanssa lähätti Tänne. Ne</l>
+                    <l>toiset kirjat ja Avisat tulivat paketti Postissa ja</l>
+                    <l>kost Jumala heistä kaikista tyn uhóllä kertoa</l>
+                    <l>kiiteltũ!! Mulla on ollut paljon vaivasūūtta</l>
+                    <l>ja vastahakaisūūtta tätä nūkūä._ Toissa kevänä lau=</l>
+                    <l>kesin iljanjeällä ja löin peäin niin rikki jotta</l>
+                    <l>olin monta kuukautta makūūssa ja vielä tär=</l>
+                    <l>vänty kūūloin joja ei ikään maha tūlla</l>
+                    <l>hyväx – Kax kūūkautta nyt sitten käv mūn </l>
+                    <l>toais pahoin: mulla oil äsköittäin ostettū 4</l>
+                    <l>vuoin vanha Hevoinen, panin sitä kärrūjen</l>
+                    <l>eteen, se lyöteisiin hūrjax ja mūn ysösormein</l>
+                    <l>tartui <unclear>Silajenolaan</unclear> ja ennenkuin se leikki</l>
+                    <l>loppui katkeis mūn oikea sormein keskeä eir poik=</l>
+                    <l>ki, eika Sormenkappalettaka löuvettū jällen sillä</l>
+                    <l>kuin se tapahtui kuokitūlla potismūalla, se</l>
+                    <l>sparka<del>tulla</del><add>ntūi</add> mūltaan – Sen tautta tämä kirjũ</l>
+                    <l>tos mūka käũ vielä kelvoitommammast kuin</l>
+                </p>
+                <pb n="2" facs="0268_0077759_051" />
+                <p>
+                    <l>ennen, ja nyt <unclear>saerkeä</unclear> sitä sormen stũpia</l>
+                    <l>ja tijä Jumala milloin tulloo hyväx-</l>
+                    <l>Eikös se liene tuskansa ja vaivansa joka Kansal=</l>
+                    <l>la ja joka paikassa? niin se vissiin on meijän</l>
+                    <l>teällä; kehno <add>kivinen</add> mũa on teällä ja köũhũũs on ysö</l>
+                    <l>jotta Imeiset ei jaxa niitä tilojaan suaha paljon</l>
+                    <l>paremmax, se viljan ja kauhnan osto Suokũnoi=</l>
+                    <l>sta se on joka vuois varana, ja tuloo varax</l>
+                    <l>niin kauan kuin teälla eletään ei Työ Tijattän</l>
+                    <l>jotta teältä on Suomalaisiakin mannũ pohjũs</l>
+                    <l>amerikaan,<ref>*<note>lisätty marginaaliin</note></ref><add>monta monesta satoa henkeä</add>, kylla ne neäs kehũũvat eloansa,</l>
+                    <l>van kyllä se tietään mikä se on männä sinne=</l>
+                    <l>pũkeämään kahella tyhjällä käillä villan=</l>
+                    <l>nes mestään ja nũkka pienellen mua kappa=</l>
+                    <l>lellen jonka Mua=Rikierinkiltä suavat</l>
+                    <l>ostoaa Wieläköön Suomalaiset jotka mänivät</l>
+                    <l>Amerikan Wuosina 1638, 42, 47, 54, ja 1656 taita=</l>
+                    <l>sivat taitaa omoa Suomenkjeltään puhua? Ja mi=</l>
+                    <l>den hyö tainno siellä eleä? Eiköön so muanpaikka</l>
+                    <l>oo – sillä seutuä jossa se erinomaittain ysö Riita on</l>
+                    <l>seisonna ja seisos? Yx meijän ranninpoikia <hi rend="underline">Wenks</hi>=</l>
+                    <l>peristä on <unclear>tienana</unclear> ũlos Kaplatjoninsa siellä</l>
+                    <l>Amerekan rijasa ja on tullũt monaisten</l>
+                    <l>vähä plasieratũx van sanotāan tuais ottanēn</l>
+                    <l><del>na</del> ũũven kaplatjonin peällen; siellä suavat</l>
+                    <l>Sotamiehet ysöt palkat – Kysyttöin – mitenkä</l>
+                    <l>Johoi Räisäinen elää: hän on ollut Leskmiessä, on</l>
+                    <l>elänyt mũressa ja vastahakasuvessa on nyt nainua</l>
+                    <l>ũũvesta Räisälän suvusta, se on nuoir vaimo eikä</l>
+                    <l>maha tehä (:ũnkia:) Lapsia_Hän on vielä koũlũ </l>
+                </p>
+                <pb n="3" facs="0268_0077759_052" />
+                <p>
+                    <l>miessä, teällä sũvat koulumiehet hyvät palkat –</l>
+                    <l>Lienenkö ennen teillen toimittanna pahan sanoman</l>
+                    <l>tästä nuorimmasta Påavo Räisäisen poijasta, hänen</l>
+                    <l>nimensa oil Ola, hän oil hyvä tekomies ja oil</l>
+                    <l>maskinmũakair, van oil lijan villi Wiinallen, tek</l>
+                    <l>konillen paljon hũorũnkia, tuloo nyt 3 vuotta keväi=</l>
+                    <l>siin, tek ihtensä lopellen ja mäin hirteen, yhtä</l>
+                    <l>neljännestä tällä puolla Grũen kirkon, seittysen</l>
+                    <l>lopun se nuoir mies sai – Puavo Räisäisen</l>
+                    <l>Lesk elää vielä, on jo 90<hi rend="superscript"><hi rend="underline">nellä</hi></hi> kymmenellä vuoilla.</l>
+                    <l>Heillä on kax tytärtä, toinen asũũ Sórmolannissa</l>
+                    <l>luulen köhũvessa, toinen heistä on kotoisalla sinä</l>
+                    <l>Öyärillä, hän reätälöi waimoillen ympäri </l>
+                    <l>Suomalais mehteä- Usempoa niitä Paavon</l>
+                    <l>lapsia ei eneä <del>e</del> elä- Wieläkös Poikanno</l>
+                    <l>on Lũtnantina <unclear>Posan</unclear> Riassa, ja vieläkö on</l>
+                    <l>henkissä? Se Teijän sairastava Tyttärennó, se</l>
+                    <l>vissiän on kũollut näin yhen kerran Hel=</l>
+                    <l>singin Tidningissä~ Onko yhtää Teijän</l>
+                    <l>Lapsistanne vielä joutunna naimisiin ja</l>
+                    <l>ovatko kotona Teijän luonanne? Mitenkäs</l>
+                    <l>Eũropeaus elä vielakó on Aviis Redaktórinä?</l>
+                    <l>Ei oo yhtää Suomesta teällä kaũnnä kaũkaan ai=</l>
+                    <l>kaan – Wimex kulunen 20 ostaijan sisään on</l>
+                    <l>ollut teällä paikoitain paljon Hirviä, 5, astaikoa</l>
+                    <l>tänä syxynä tuil puoilpäivän jalkeen 4 Hirveä</l>
+                    <l>ũijen yltó Röuvän=Järven, ne 3 saimme</l>
+                    <l>myö Kalnäslaiset järvessä pois päiviltä</l>
+                    <l>se nejäns peäis rantaan ja mäin mehtään;</l>
+                    <l>tämä Hirven tappo tapahtui lũvanlisella </l>
+                </p>
+                <pb n="4" facs="0268_0077759_050" />
+                <p>
+                    <l>oijallan. Wanhanaikuisia pajan tonttia kuo=</l>
+                    <l>noja ja hautoja löutää teällä tuhansittain</l>
+                    <l>metissä van ei tietäk vissin mitä niissä on </l>
+                    <l>tehty, jos ei heissä ois kotia tehty? Wai oisko</l>
+                    <l>heissä monjaissa Hirvia tapettu van sitten</l>
+                    <l>on vissin kauka aika mualimoa, kuin</l>
+                    <l>ne Pajat ja hauvat on ollut prukissa</l>
+                    <l>millä vũis saassa eli saalta ne teoxet ois</l>
+                    <l>tainna tapahtũa??? Mitenkå sũatton</l>
+                    <l>pisoamaan Elox, Wuateix, Huũoneix ja Pũix</l>
+                    <l>Vielä monex muux tarpeex kuin naũttä olevan</l>
+                    <l>niin pienet Palkat Professoriloilla ja mũil=</l>
+                    <l>la Eisvallan miehillä, sitä vastaan kuin teäl=</l>
+                    <l>lä santi norissa annetaan? Teällå on werot</l>
+                    <l>ja ũlosteot kohotettũ niin korkeax jotta</l>
+                    <l>mina tũkkeän jotta teällä tuloo liian paha</l>
+                    <l>asua kehnoilla tiloilla puara sillä kuin ũlos=</l>
+                    <l>teot ovat niin <unclear>ysötien</unclear> Tũkkimehät on</l>
+                    <l>teällä jokapaikassa loppupuolillaan –</l>
+                    <l>Minä puhutelin yhtä General Major Fleicherin</l>
+                    <l>poikaa, se toimitti ollen sieltä Helsingista</l>
+                    <l>ja muista paikoista Suomesta monta</l>
+                    <l>packoa Carlsruussa Saxassa – Ingeniör</l>
+                    <l>Koulussa, joillenka se käsk mũn helssoa=</l>
+                    <l>maan van minä en eneä mũista nien</l>
+                    <l>Nimiä, sillä kuin Vieras nim pien</l>
+                    <l>unehtũũ – Nyt ne jo linöö lopetettu</l>
+                    <l>Herraienpäivät siellä Helsingissä, siellä lie =</l>
+                    <l>nöö tullunna tehux monta muutosta erenkũs=</l>
+                    <l>sai asjassa, sitä vastān kuin ennen? <hi rend="underline">jatketaan</hi> </l>
+                </p>
+                <pb n="5" facs="0268_0077759_054" />
+                <p>
+                    <l>Tämä on jatko toisesta Arkũsta</l>
+                    <l>23 Marras kuussa 1864.</l>
+                </p>
+                <p>
+                    <l>Teillä <add>Suomessa</add> mahta olla nyt erinomainen</l>
+                    <l>Rikenti Keisair Alexander 3<hi rend="superscript"><hi rend="underline">mans</hi></hi> joka</l>
+                    <l>kaikella lailla telleä niin hyvin Teillen</l>
+                    <l>Suomalaiset jotka niin pitkän aijan</l>
+                    <l>ovat ikeänsa viehtännä pakossa, tũskas=</l>
+                    <l>sa ja Waivoissa – Nyt on tellännä Landt =</l>
+                    <l>dagit (Herraien päivät) ja on tellännä</l>
+                    <l>jotta omalla Eman=kielellä sũatton selit=</l>
+                    <l>teä kaikenlaiset Käräasjat ja nihen kũũlũ=</l>
+                    <l>vat Duomiot. (Utslait) Monta muuta</l>
+                    <l>hyveä orninkia on Hänen Armonlinen</l>
+                    <l>Magistetinsä tellänna jotka Hän vissin paran=</l>
+                    <l>ta vũois vuoilta – Kaikkien Suomalaisten</l>
+                    <l>tuloo häntä tervehtiä, kunnioittaa ja Jũ=</l>
+                    <l>malalta ũnskätä Hanellen mänestystä ja</l>
+                    <l>pitkeä Ikeä j.n.e. Mitenkä Suomesta</l>
+                    <l>Armonlistä Keisaria palkitaan? ja<del>a</del> </l>
+                    <l>onko Suomalaisilla niin kuhuttava Con=</l>
+                    <l>stitution? Teällä norissa maxetaan</l>
+                    <l>jonka tijättön vissit palkat Konin kallen</l>
+                    <l>ja Kronprinssillen tehänkö siellä Suomessa</l>
+                    <l>niin? Suakko Suom piteä ihek kaik=</l>
+                    <l>ki Meir=ja Moa=Tulli sisääntulot, ja sũakko</l>
+                    <l><hi rend="underline">keännä</hi></l>
+                </p>
+                <p>
+                    <l><ref>*<note>lisätty s. 5 marginaaliin</note></ref>Tehkeä hyvin ja helsatkoa kaikillen jotka tietavat meijä Suomalai-</l>
+                    <l>sten teällä ikeämmön illallen viettavan; teällä Ruohin ja Norin rajalla</l>
+                </p>
+                <pb n="6" facs="0268_0077759_056" />
+                <p>
+                    <l>mũa tarpeeksensa pitea vuosittain sisään-</l>
+                    <l>tulovat Wero=Rahat? Onko Suomen Statsty=</l>
+                    <l>selsillä yhtää Hopea eli Kupair tahi Rauta</l>
+                    <l><unclear>Grusvoa</unclear> eli Kaivantoa josta mũa sais sisään=</l>
+                    <l>tuloa? Mitenkä nuo mahtaa männä Suomalai-</l>
+                    <l>set jotka ovat Greekan uskolaisia ja asuvat lässä</l>
+                    <l>Walamon ja Konevitzan Klosteriloita ja on=</l>
+                    <l>ko ne valta Suomalaisia niinkuin myö oommen?</l>
+                    <l>Ne kirjat jotkas kaupaks lähatit 40 Wuotta</l>
+                    <l>taitaa olla sitten, niitä on vissiin monjaita</l>
+                    <l>vielä jälellä, paljon ne niitä ovat <unclear>keuk</unclear>=</l>
+                    <l>keinnä paikken sitten Räisäisen kuolttũa</l>
+                    <l>ja eikös niitä tok liek myötũkä yhtä osoa</l>
+                    <l>sitä ennen taijan arvatak –</l>
+                    <l>Yks kehno viljavuois tuil tũais tänä sũksũ=</l>
+                    <l>nä teällä sillä kuin ei kauravilja joutũn=</l>
+                    <l>na väheäkäk teällä mäkiloillä, van palel=</l>
+                    <l>tui ysö osa ja niin kuin Soilla ja paikoin</l>
+                    <l>kovillakin mailla – Wieläkö pahantekeiset</l>
+                    <l>ja kaikki <hi rend="underline">Slavit</hi> dũomitaan Sipiriäseen</l>
+                    <l>Rũũnun elli Grusva=töillen? Eiköön</l>
+                    <l>tuotakaa Armonlinen Keisar telleäis toi=</l>
+                    <l>sin, jotta vahinkoliset Förbryderit sais ikän=</l>
+                    <l>sä illallen vietteä oman Muan Ruunontöil=</l>
+                    <l>lä ja Festinkilöillä – Se on <unclear>fielattava</unclear> asja</l>
+                    <l>jotta monjat pahantekiät jotka tulovat </l>
+                    <l>duomitux iäxpäiväx raskaimmiin Grusvatöi=</l>
+                    <l>hen; yx osa heistä kuoloo ennen aikoaan –</l>
+                </p>
+                <p>
+                    <l><ref>*<note>lisätty s. 6 marginaaliin</note></ref>Mun on tämä oikea yso Sormein niin kipeä jotta mun on rentti paha</l>
+                    <l>piella pannaitä kiin, silla tämä kaũ paljoa kehuommasten SS.</l>
+                </p>
+                <pb n="7" facs="0268_0077759_055" />
+                <p>
+                    <l>Kyllä tuo lienö sama miten teällä ikeämme</l>
+                    <l>illallen vietämmän; van ei meyän ysòn</l>
+                    <l>osan elosta teällä oo ikääs mitää, jũũr ysòllen</l>
+                    <l>osallen synty nälkeä ja vilua näkemään</l>
+                    <l>ysòt joukot lapsia, joka ei oo väkeä</l>
+                    <l>rattoisa vanhuxien per<del><add>r</add></del>äänaatella, min=</l>
+                    <l>nekkä ne joutũũ vimesella? Onko kaik=</l>
+                    <l>ki Esivalta Suomalaisia ja Ruohtalaisia?</l>
+                    <l>Wenältä vissiän tuloo paljon kauppamie=</l>
+                    <l>hiä kapuntiloihen. Wieläkò Suomessa</l>
+                    <l>lòũtũũ hyvin Tukkimehtiä? Kyllä</l>
+                    <l>ne lienö ja ruvenna Höurusahoja tekemän</l>
+                    <l>Nyt ei tulek kauvan ennen kuin Rauta=</l>
+                    <l>tie tuloo valmix. Ruohin rajallen Mang=</l>
+                    <l>noran aina Christjoanista – Löũ=</l>
+                    <l>tukö Suomen Bankiloissa Rahoja jot=</l>
+                    <l>ta tarvihtovat pũonnit suavat Ban=</l>
+                    <l>ki lainnoja milloin tarvihtovat?</l>
+                    <l>Antakko Wenään Stats Styrelsi Suo=</l>
+                    <l>mea milloinkan kuin Suom aistar=</l>
+                    <l>vehtemoinna? Joko Suom an suan=</l>
+                    <l>na  eli suokko taũvin Trykfrihetan?</l>
+                    <l>Minä atelen jotta tämä niin ar=</l>
+                    <l>monelen Keisair autta sitäki vaivas=</l>
+                    <l>ta! Tänä paivänä oon minä 61. vuoin</l>
+                    <l>vanha._4 sisarta on mũlla ja yx veil</l>
+                </p>
+                <pb n="8" facs="0268_0077759_053" />
+                <p>
+                    <l>jotka elää- Wanhuxemmon on Tuon takai=</l>
+                    <l>sen päivän olleet Multana – Mitenkäs</l>
+                    <l>meijän ystävämme Pũovo Tikkainen</l>
+                    <l>elä ja mänò pereinen? trykkeri ja Kirja</l>
+                    <l>hantũ sillä lienö niin kuin ennenki?</l>
+                    <l>Mittysetkäs hinnat taitavat olla rũs=</l>
+                    <l>keilla Ketun Nahoilla ja mittynen tũlli</l>
+                    <l>niilta on kuin niitä kuletetaan Suo=</l>
+                    <l>meen eli Wenällen, ja minnekkä ne</l>
+                    <l>Wenäläinen panoo ja lähättää?</l>
+                    <l>Mitenkäs ne Haaparantalaiset suavat</l>
+                    <l>Wenällen ne paljot Ketunnahat jotka</l>
+                    <l>ne ostavat Ruohista ja Norista, koska ej</l>
+                    <l>niitä Suomen eli Wenään tullarit</l>
+                    <l>ota pois (Konfiskieraa?) – Suoakko Suomen</l>
+                    <l>puonnit rättä hintoa Tũkkiloillaan,</l>
+                    <l>eli Plankiloilla? Kyllä siellä Suomessa=</l>
+                    <l>kin lienöö ysò Stats=Welka? Jòkos</l>
+                    <l>on se Saiman Kanaal eli kaivanto valmis=</l>
+                    <l>sa Wiborin Lahteen? ja onko se pitkä</l>
+                    <l>kanaal? Suanoo nyt kysymyxet olla sil=</l>
+                    <l>tään_ Sillä ei sais mũũta manemista olla</l>
+                    <l>kuin näitä vastata. Se on yhtä hyvä jos</l>
+                    <l>etten jouvakkaa vastũũta antaman_ Sanon</l>
+                    <l>paljon kiitosta kaikkien <del>ask</del> aikojen eite sitten</l>
+                    <l>kuin tũtux omme tũllũnna_ Helssoan nyt paljon</l>
+                    <l>ja jekeä Jumalan Rauhaan. ystävanlisest</l>
+                </p>
+                <p>Pekka Karvainen</p>
+                <p>
+                    <l><ref>*<note>lisätty s. 8 marginaaliin</note></ref>Kävkö se murha ja polto saka tässä yhtenä vuonna siellä Helsinkissä</l> 
+                    <l>sen Töttermannin ja sen <unclear>Kũng</unclear> peällen?</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

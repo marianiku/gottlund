@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-28">28.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:20</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>181</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Räisäinen hoitaa kirjeessä Ole Danjelsen Siekkisen asiaa</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-02-13">13.2.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_055" />                        
+                <p>Fullmaçk in Blanço</p>
+                <p>
+                    <l>Ole Danjelsen Siekkinen <del><hi rend="underline">Pers Persson</hi></del></l>
+                    <l>från Luttnäs</l>
+                </p>
+                <p>
+                    <l>Tämä Olli Tanelin poika Siekkinen Luttasistä:</l>
+                    <l>Ryslönmehältä; tämä asuu Fiteçomisin alla</l>
+                    <l>hänni Rukoile ja pyytä Rakas Herrä Gottlũndi</l>
+                    <l>teitä. Että hän sais Lainanax rahoija Kuinkālta,</l>
+                    <l>niin muutki Fitcomisin alla asuwaiset suoma=</l>
+                    <l>laiset. Ja <del>on kax</del> sitten on <unclear>Kalt</unclear> puontia wielä</l>
+                    <l>1 ½ peninkuormoa pohjosemmassa Per Person</l>
+                    <l>Galåsen ja Joen Joensen Galåsen Pål Eriçhsen</l>
+                    <l>Galåsen. Nämäki oil tellännä Olli Siekkisen</l>
+                    <l>teitä Rukoileman minun kautain. Että hyökin</l>
+                    <l>sais Ruunulta rahoija Mehtäijensä Lunastoxex.</l>
+                    <l>Tämän Olli Siekkisen <del>jolle se o</del> mehtä jolla hän</l>
+                    <l>asuu, on taxerattu 300. Sptj; ja Näijen Kolmen</l>
+                    <l>puonnin <del>ke</del> mehtä jolla ne asuu, on taxerattu</l>
+                </p>
+                <table>
+                    <row>
+                        <cell>700. Spesityskään</cell>
+                        <cell/>
+                        <cell>Namnet p<del>a</del>å Byar.</cell>
+                        <cell>Bönder</cell>
+                        <cell>Perso<unclear>ner</unclear></cell>
+                        <cell/>
+                        <cell>tax</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Luttnesskoge<del><gap/></del></cell>
+                        <cell>Tryssylssocken</cell>
+                        <cell>Luttnäs</cell>
+                        <cell>1.</cell>
+                        <cell>6.</cell>
+                        <cell>tax</cell>
+                        <cell>300.</cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <l>Galåsskogen</l>
+                            <l><unclear>1.</unclear> Bye 3. gården</l>
+                            <l>18. personer</l>
+                        </cell>
+                        <cell>
+                            <l><del>Galas</del></l>
+                            <l>Tryssyls<gap/></l>
+                            <l></l>
+                        </cell>
+                        <cell>
+                            <l></l>
+                            <l>Galasen</l>
+                            <l></l>
+                        </cell>
+                        <cell>
+                            <l></l>
+                            <l>3.</l>
+                            <l></l>
+                        </cell>
+                        <cell>
+                            <l></l>
+                            <l>18.</l>
+                            <l></l>
+                        </cell>
+                        <cell>
+                            <l></l>
+                            <l>tax</l>
+                            <l></l>
+                        </cell>
+                        <cell>
+                            <l></l>
+                            <l>700.</l>
+                            <l></l>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>2. Skoger</cell>
+                        <cell>1. socken</cell>
+                        <cell>2 Byer</cell>
+                        <cell>4</cell>
+                        <cell>24.</cell>
+                        <cell>Ta<unclear>x</unclear></cell>
+                        <cell>1,000<del><gap/></del></cell>
+                    </row>
+                </table>
+                <pb n="2" facs="0268_0078096_056" />           
+                <p>    
+                    <l>Tämä Olli Siekkinen joka tähään on</l>
+                    <l>wulmahtiinsa antanna sanoo että hän</l>
+                    <l>tahtois rueta Suom<add>en</add>seuraan ja käuwä kirwes</l>
+                    <l>kankaan Kirkoon. Ja uskoo niien muijenki Rys=</l>
+                    <l>lön sumalaisten rupeawan siihen, sillä että ne</l>
+                    <l>toiwois piäästäxen pois muutamista puuttiloista</l>
+                    <l>ja Rasitoxista. Ja wielä sitten niin ej heijän tule</l>
+                    <l>pitemp kirweskankaalle kuin omaan Kirkoonsa</l>
+                    <l>sillä sinne on heillä 4 1/2. peninkuormoa.___</l>
+                </p>
+                <p>
+                    <l>Kyllä ne oil Lähättännä tällä Siekkisellä, sanan</l>
+                    <l>suusanalla, että minun panna heijän wulmahtiin=</l>
+                    <l>sa. Waan minä ej tainna heitä panna kuin ej</l>
+                    <l>hyö ies Lähättännä puu merkkiänsä, tahi jotaa</l>
+                    <l>muuta kirjutosta.</l>
+                </p>
+                <p>
+                    <l>Öijärillä sinä 13. paiw: Helmekuussa 1823.__</l>
+                    <l>Poawo Räisäien</l>
+                </p>
+                <p>
+                    <l>Ole Danjelsson Siekkinen</l>
+                    <l>Luttnäsista Ryslön</l>
+                    <l>Suomalaisista</l>
+                </p>
+                <p>
+                    <l>Herralle</l>			
+                    <l>Aiwan Kunnioitettawalle</l>
+                    <l>Ja</l>
+                    <l>Korkiast = Oppinulle</l>
+                    <l>Koarle Gottlundille</l>
+                    <l><hi rend="underline">Upsalassa. ‒</hi></l>    
+                </p>   
+            </div>
+        </body>
+    </text>
+</TEI>

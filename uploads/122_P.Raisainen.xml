@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:5</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author> 
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>122</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1822-03-23">23.3.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_013" />
+                <p>Armollinen Herra Kuarle Gottlundi.</p>
+                <p>
+                    <l>Minä olen suaanut Kolmet Kirjoa Luotais, enkä ole</l>
+                    <l>ennen joutunut Vastusta antamaan Teile. ~</l>
+                    <l>Ensimaisen Sain, 27. p: Helmi Kuusa t: v: Jossa Kaupa Kirjaijen</l>
+                    <l>Listat Seurais.</l>
+                    <l>Toisen kirjan Sain sina 16. päiv: Maalis Kuusa, joka oli siitä Bi=</l>
+                    <l>bel Luātik<hi rend="underline">k</hi>osta, joka Kuarloistahaan on jäänut.</l>
+                    <l>Kolmannen kirjan Sain <hi rend="underline">eö</hi>lön, sinä 22. p: Maalis K: jossa Bibel Lista</l>
+                    <l>Seurais, Kaikille niille kuin Bibellöitä jlman suaap.</l>
+                    <l>Mitä nyt siheen Ensimäiseen Kirjaan tuloo vastata! Se on näin.</l>
+                    <l>Sitä kuins kysyit mitä Lansmanni ottaa tavaroista kuin se Kirju=</l>
+                    <l>toxia pita Kuolleen perästä. ~ En minä muuten tijä. Vaan meij<hi rend="underline">än</hi></l>
+                    <l>luona oon yx jako=kirja, Sitä kuin jsä piti jakoa, ja antoi</l>
+                    <l>pois Luotaansa. Ja jakoi tavaraansa meillen Lapsillensa.</l>
+                    <l>Niistä tavaroista Kuin tassä oli, Kohosi Raha Summa 397. Riks=</l>
+                    <l>banki=<hi rend="underline">Tyskää</hi>n, ja 19. skitinkiän; Sen ai<hi rend="underline">ja</hi>n olevaisia Rahoija.</l>
+                    <l>Tämä jako pietiin vuonna 1813. Maališ kuusa. niin tästä Raha</l>
+                    <l>Summasta, otti Lansmanni 37. Riksbanki Tyyskeä ja 19. killinkiä.</l>
+                    <l>Ja Rivali, tahi semmoisen, kuin Ruohissa saanotaan Hersyötink, otti</l>
+                    <l>33: R.b:t: ja 44. killinkiä. Vaan mettalalla minä näin yhön nuo=</l>
+                    <l>remman Jako=kirjan, joka oli tehty vuonna 1818. Siinä oli jo Speiçi</l>
+                    <l>räknink. siinä jako=kirjassa oli pää Summa. 33. Spesi=tyyskeä, ja</l>
+                    <l>77. Killinkiä. Tästä summasta otti Herrat 7. Sp.tg: 11. ½. killinkiä. ~</l>
+                    <l>_________________________</l>
+                    <l>Sitä mitä! sinusta ovat arvelleet, en maha taitoa Sanoa:</l>
+                    <l>Meijän Pi<hi rend="underline">t</hi>imissä, owat muutamat sanoneet, se oil Gustav</l>
+                    <l>Atolffin poika, Monjaat sanoivat, se oil Kuninkaan oma</l>
+                    <l>poika. ja toais sanoit monjaat, se oil yx Generaal Läh<hi rend="underline">ä</hi>tetty</l>
+                    <l>Kuninkaalta. Vaan muaa kunnissa Nuojen Sanovat, sanoneen,</l>
+                    <l>Se oli Skoijari, ja yx jhmisten wietelia, hänen pitais kini ottat=</l>
+                    <l>tam<hi rend="underline">aa</hi>n kuin hän vielä tänne tulisi. ja mitä wielä, jott’ en kehtoa</l>
+                    <l>kirjuttella. ~</l>
+                    <l>Sen toisen Kirjan jonkama Sain 16. p: tässä K: Se tuli en<hi rend="underline">ste</hi>n ta<ref>n<note>viivallinen n-kirjain</note></ref>e.</l>
+                    <l>Vaika ojs pitännä tulla Porkan antin Kauta. Minä kävin keh=</l>
+                    <l>kölässä männenä Sunnuntaia, ja Sain Porka antin, ja Juhoi</l>
+                    <l>Kähköisen Kansain, Niles Oraisen Luoxe, ja Saimme hänen otta=</l>
+                    <l>maan piää<hi rend="underline">lle</hi>se, hakemaan sitä Bibel Cammiota Kuarloistasta.</l>
+                    <l>Vaan hän tahtoi 12.1/2. Rigsgielddaleria maxux sitä Reisosta. ja se</l>
+                    <l>tuloo 8. Killinkiä Bibeli<hi rend="underline">lt</hi>a, ja 4. killinkiä Uwe<hi rend="underline">lt</hi>atestamenti<hi rend="underline">lt</hi>ä.</l>
+                    <l>Siitte Kuin ma sieltä koitiin tulin, Lähäitin minä sanoija Joka</l>
+                    <l>paikaan, Kuin ma tiesin, että heijän pitais Nimeensä antamaan.</l>
+                    <l><ref>*<note>Paperi katkeaa rivin päältä, mahdoton lukea.</note></ref></l>
+                </p>
+                <pb n="2" facs="0268_0077781_012" />
+                <p>
+                    <l>jotka tahtoivat antoa. ja tein Kaxi Kokousta, yhen tein</l>
+                    <l>Frakuunin Kankahaalla Vinkerin Suomalaisissa. Toisen Kokouxen</l>
+                    <l>tein Samelin kankahalla Ruun Suo<ref>m<note>viivallinen m-kirjain</note></ref>laisissa. ~ Vaan mole<ref>m<note>viivallinen m-kirjain</note></ref>at</l>
+                    <l>Kokouxet tulivat samana päivänä, silla et=en suaanut heitä</l>
+                    <l>ennen kokoon. Niin mä sain Matti Karvaisen Poijan tästä</l>
+                    <l>Öijäristä mänemään Frakuunin Kankahaalle, ottamaan</l>
+                    <l>Nimiä. Daniel Lehmoiselle Reholttaan, Lähätin Listan jo vii=</l>
+                    <l>kolla, että hänen Kotonansa, Niimiä ottoa, ja Käskin hänen</l>
+                    <l>tulemaan <del>Sale</del> Samelin kankahalle niinkuin tänä=pänä. – </l>
+                    <l>Vaan ejpä se ollu monta niimeä suaanut Kotonansa.</l>
+                    <l>Vaan ennen kuin minä tulin, oli jo väki tullu; Ja Danel</l>
+                    <l>Kirjuttan<hi rend="underline">na</hi> palj<hi rend="underline">o</hi> Niimiä, Niin mä käskin Lopu<hi rend="underline">ti</hi> kirjutta=</l>
+                    <l>maan. Vaan niin=pä se kirjutti sekaisin, milloin pani Suku</l>
+                    <l>niimet ensist, milloin Kylän Niimet. ja kuin se kirjotti val=</l>
+                    <l>koisia, niin se stavais Valgoosia. Vaan oon= ma nuoita oi<hi rend="underline">koi</hi>na,</l>
+                    <l>ejkös nuoita tok ymmärtäne. ~</l>
+                    <l>Po<hi rend="underline">ij</hi>allenni Anno<hi rend="underline">i</hi>n Minä Listan, Sekaisist sekiin on kirjut=</l>
+                    <l>tan<hi rend="underline">n</hi>a Suku Niimet. Vaan <hi rend="underline">ej</hi>kös työ nuoita ymmärtä<hi rend="underline">n</hi>e.</l>
+                    <l>Ja siinä, kuin ne Kirjutosta pitivät tuli Tämmärit Vinke=</l>
+                    <l>rin Länsmannin Luotä, Tammeämään Huhun hakkuista.</l>
+                    <l>ja näitä kuin Tämmätyxi tuli, oli 16. Talonpoikoa. ~</l>
+                    <l>Fangnesin mehältä muutamia, ja Värälin, ja Skuruun</l>
+                    <l>mehältä. ja <del>ma<hi rend="underline">n</hi></del> näm<hi rend="underline">ä</hi> Taloin po<hi rend="underline">ij</hi>at tämmätyxi <add>tuli</add> Soovinto=</l>
+                    <l>Kär<hi rend="underline">äö</hi>isiin. Sixi 17. Aprillix. Andrias Bärggiltä Filiçomisin</l>
+                    <l>Merkkäliltä. Tätä nämä Taloin poijat olivat tahtoineet</l>
+                    <l>Karvaisen poijan jlm<hi rend="underline">i</hi> antamaan teilen, niin hän kirjutti</l>
+                    <l><del>sen</del> Siitä Norjan kielen, toiselle <add>puolle</add> sitä Listoa. ~</l>
+                    <l>Pohjos Suomalaisetkiin oo<hi rend="underline">t</hi>otti samanlaista Tämminkiä</l>
+                    <l>Huhan hakkuista. Gullbrassilta Filiçomisin Merkkeliltä.</l>
+                    <l>Näitä Taloin poika jotka Niimeensä Antoivat on kuin</l>
+                    <l>yhteen Luvetaan 78. . Ja Lulen Jumalan puolest<del>ä</del><add>a</add> etta me</l>
+                    <l>teällä Norjan puolella yhtä pitä<ref>m<note>viivallinen m-kirjain</note></ref>e, Sen Hyö Lupaisivat kaik<gap/></l>
+                    <l>Vaan Lauta Salmen Kirkon paikan tahtoisivat Luoteenpaan.</l>
+                    <l>Esimerkix niin kuin Öijärin Salmeen. ~</l>
+                </p>
+                <p>Öijarillä sinä 23. päiv: Maalis Kuusa 1822. – </p>
+                <p>Poavo Räisäinen.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

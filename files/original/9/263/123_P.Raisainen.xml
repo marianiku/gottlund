@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:6</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author> 
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>123</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1822-03-23">23.3.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_014" />
+                <p>Armollinen Herra Kuarle Gottlundi </p>
+                <p>
+                    <l>Ej ole vielä yhtään Präntättyä Kirjoa tullu tanne kaupaxi. </l>
+                    <l>ejkä ne Turun Viikkon sanomat Joitas kysyit. – </l>
+                    <l>Mitä niistä Norjais Taloin poijista Sanottaneen! En ole mi=</l>
+                    <l>nä Niille suaanut Sanoa Lähätetyxi sillä sinne on 3. peninkul=</l>
+                    <l>moa meijälästä, ja enkä taija Niile Kirjuttoa, ne ej taija ite </l>
+                    <l>lukea Kirjutosta, ja muut Norlajset Pilkoavat heitä silla </l>
+                    <l>kuin ne Apua Suomalaista hakivat; Ojs se Ruulia Niita Antoa </l>
+                    <l>Kuin Maah<hi rend="underline">t</hi>oo<hi rend="underline">n</hi>linen ois, m<hi rend="underline">uu</hi>ijen Norlaisten tahe. Kuin ma Niitä </l>
+                    <l>suaan puhutella, Niin Kyllä ne Mielellään Selitoxen tekevät kuin=</l>
+                    <l>ka niijen esivanhemmat ovat tilat pois panneet, jos vaan </l>
+                    <l>tietävät. – </l>
+                    <l>Se Kirja Jossa Bibel Lista Seuras, tuli tänne, Talpuan Pappilan </l>
+                    <l>Kauta. Ja kaikki ne, jotka Bibellöitä ovat kuulleet suaavansa </l>
+                    <l>teällä Norjan puolla. Tervehtivät teitä, ja Läh<hi rend="underline">ä</hi>ttavät monta </l>
+                    <l>Tuhatta Kītosta, e<hi rend="underline">j</hi> hyö jkään ojs tainna Luulla, teijän niin </l>
+                    <l>Suurta Huolenpitoa heistä pitavän, ettäs niin paljon Pyhä Roa=</l>
+                    <l>matuita heijän Sekaan Lähätät. – </l>
+                    <l>Samaten Mahtaiš Minun tulla, Kiitteä ja Kostella, Joka vie=</l>
+                    <l>lä kaxi suaap*), enpähän Minä Lie parempata Hyvyyttä Näyt=</l>
+                    <l>tänyt kuin Muutkaan teille, Teällä ollessaanne. </l>
+                    <l>Ja Myö, kaikki jotka tänä päivänä olimma yhessä, Sanoim=</l>
+                    <l>me etej myö ikään taija unheottoa ejkä taũteenlisest maxoa </l>
+                    <l>häntä, kuin hän vielä Herroistä, ojs hyvä pois, antamaan, </l>
+                    <l>sillä myö olemme aivan <del>vaivassa</del> Suures Vaivassa. </l>
+                </p>
+                <p>
+                    <l>Ja Jumala Kaikki valtias hän <add>ies</add> Lainnoaiš jkeä, ja </l>
+                    <l>Terveũttä teille, kuinnikka se tapahtuis, se on meilta </l>
+                    <l>Kaikilta Ruukuiltu juurin Sytammest. – </l>
+                </p>
+                <p>Öijärillä sinä 23. p: Maalis Kuusa 1822. </p>
+                <p>Poavo Räis<hi rend="underline">äinen.</hi></p>
+                <p><ref>*<note>Gottlundin jälkeenpäin tekemä muistiinpano</note></ref>off ar han <del>uttaga</del> <unclear>å</unclear>tagit sig att Besörja utdelningen af 
+                    Bö<unclear>kk</unclear> på alls Norrska finskogen för hvilket byvär honom till <gap/> <gap/> 1. Biset och 1. Nytt <gap/>.</p>
+                <pb n="2" facs="0268_0077781_015" />
+                <p>
+                <l>Teällä Kulki Talvella vale, <add>että</add> sinun ojs pitännä olla</l>
+                <l>Kristianin Kaupunnissa, Kauppamiesten puheilla.</l>
+                <l>Niin muutamat pelkäisivät, ja Sanoivat, Kyllä ne</l>
+                <l>Herrat Syötävät sen henket<hi rend="underline">i</hi>, Niin Kuin Knuffin</l>
+                <l>joka ennen Suomalaisia meinais antoa.</l>
+                <l>Se on teällä puhe Kulken<hi rend="underline">n</hi>a vanhaijen Suomalaisten</l>
+                <l>välillä, että Kauppa Miehet Syötivät markkurilla</l>
+                <l>Sen autuan Kuffin henket<hi rend="underline">i</hi>, sillä että Kauppa Miehet</l>
+                <l>pelkäisivät, hänen mehät heilta pois ottavan.</l>
+                <l>Ja Se oil, se sama Mies, joka niitä Kirjoja oli an=</l>
+                <l>tanut, joita me Luvimme Reholtassa. ~</l>
+                <l>Nyt pitais minun jlm<hi rend="underline">i</hi> antoa, että ej meijän tilat</l>
+                <l>ejkä mehtä tull<hi rend="underline">u</hi> myyvyxi Auçtionissa. Ej olllut yhtaan</l>
+                <l>joka tarjosi mitaan piäälle.</l>
+                </p>
+                <p>Elä Hyvin.</p>
+                <p>
+                    <l>Poavo Pietarin poika</l>
+                    <l>Räisäinen</l>
+                </p>
+                <p>
+                    <l>Herralle</l>
+                    <l>Korkiast oppinulle ja Hyvin Kunnioitettawalle</l>
+                    <l>  Kaarle Axel, Gottlund<hi rend="underline">ille</hi></l>
+                </p>
+                <p>Upsala=ssa.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

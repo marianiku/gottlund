@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Matti Hämäläinen > Carl Axel Gottlund</title>
+                <author>Matti Hämäläinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-05"></date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:7:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Hämäläinen</surname>
+                                <forename>Matti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>10</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Erotettu Antti Porkan kirjeiden yhteydestä</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="puuttuu">puuttuu</placeName>
+                        <date when="1830-06-12">12.6.1830</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077750_001" />
+                <p><gap/>gårds <gap/> <gap/> 12 Junj 1830</p>
+                <p>Kaarle Gottlund<hi rend="underline">ille</hi>!</p>
+                <p>
+                    <l>Siitä Kjeriasta joka Porkallen</l>
+                    <l>on kjeriutettu, en minä oo</l>
+                    <l>tjetoa soanut, tokko mun</l>
+                    <l>asiain on kuninkallen</l>
+                    <l>sisän annettu tahi ej;</l>
+                    <l>sen eistä minä uuwesta</l>
+                    <l>saan pyyteä tjetoa sihen.</l>
+                    <l>Minä en jkan ouk ot=</l>
+                    <l>tanna niitä vilioia Jot=</l>
+                    <l>ka minä olen tullut</l>
+                    <l>tuomituxi maxaman,</l>
+                    <l>Ja nyt on minua pan=</l>
+                    <l>tattũ, hewoin Ja kaxi</l>
+                    <l>Lehmeä, Ja heilen on</l>
+                    <l>yxi auction ollut, van</l>
+                    <l>ei</l>
+                </p>
+                <pb n="2" facs="0268_0077750_002" />
+                <p>
+                    <l>ej ostajoa, kyllä ne piän</l>
+                    <l>pitäwät <del>o</del> useammat, sen</l>
+                    <l>eistä mun ois tarpelinen</l>
+                    <l>saaha tjetoa Još Tuomiota</l>
+                    <l>Moahan sais. Elli pitänökö</l>
+                    <l>niin palion weäryytä kärsiä.</l>
+                    <l>Minä olen Jo kostanna sin</l>
+                    <l>saan pealle 50 R<unclear>d</unclear> Pankkosa</l>
+                    <l>jlman sitä Jonka nỹt</l>
+                    <l>soan ulos panna- minä</l>
+                    <l>en tuota Lue Joutavax</l>
+                    <l>Riia<del>st</del><add>x</add>, Jos syytöin kokis</l>
+                    <l>puoltan piteä, waika se</l>
+                    <l>toisakpäin käy. Minä en</l>
+                    <l>oius uskonna sitä sakoa</l>
+                    <l>tuomi<del>n</del><add>tt</add>uxi poiki, kuin</l>
+                    <l>en minä sitä tunnusta<ref>n<note>Kirjaimen päällä viiva</note></ref>a</l>
+                    <l>sillä</l>
+                </p>
+                <pb n="3" facs="0268_0077750_003" />
+                <p>
+                    <l>se Jai multa apleroamata.</l>
+                    <l>tohtis Herra Nopeimittain </l>
+                    <l>antoa tjetoa mitä Hänen</l>
+                    <l>waivansa maxa, mina tahion</l>
+                    <l>sen Rähelisesti maxoa Jos</l>
+                    <l>hän apua ois hyvä mullen</l>
+                    <l>toimittaman, ne kolmet</l>
+                    <l>Rixiä Jotka minä ensi~</l>
+                    <l>mäisessä kieriassa Lahäitin,</l>
+                    <l>ej taiiak pitkän pisteä,</l>
+                    <l>Ja Jos ej siitä mitän tule,</l>
+                    <l>niin tohtis rahat Lähät</l>
+                    <l>täman takisin.</l>
+                    <l>palion Terveyxiä minulta</l>
+                    <l>Ja muilta</l>
+                    <l>Mattj Hämäläinen</l>
+                    <l>P:S: ej han <unclear>sibakalaisten</unclear> asiasta <unclear>Nauer</unclear></l>
+                    <l>leirin kanssa Hos Rätässä kuuluk</l>
+                    <l>mitan, vaika männä vuonna sano=</l>
+                    <l>tin Tuomituxi: Sitä ne pyytäsivät</l>
+                    <l>tjetä, Jos Rahoia tarviktais, niin</l>
+                    <l>niitä kahta Lähättäisivat</l>
+                    <l>Hämäläinen</l>
+                </p>
+                <pb n="4" facs="0268_0077750_004" />
+                <p>
+                    <l>Magisttren</l>
+                    <l>Höglärde Herr</l>
+                    <l>C. A. Gottlund</l>
+                    <l><hi rend="underline">Stoçkholm</hi></l>
+                    <l><hi rend="underline">Bor i <gap/> <gap/>. g:n.</hi></l>
+                    <l><hi rend="underline"><unclear>P</unclear>elare Baçken större</hi></l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

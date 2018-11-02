@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Olof Hämäläinen, Olof Jonasson &amp; Lars Larsson > Carl Axel Gottlund</title>
+                <author>Olof Hämäläinen &amp; Erik Veteläinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-05"></date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:10:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Hämäläinen</surname>
+                                <forename>Olof</forename></author>
+                            <author><surname>Jonasson</surname>
+                                <forename>Olof</forename></author>
+                            <author><surname>Larsson</surname>
+                                <forename>Lars</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>14</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Olof Hämäläinen oletettavasti kirjuri, Jonasson ja Larsson oletettavasti sanelleet kirjeensä. Jonasson ja Larsson allekirjoittajina ruotsinkielisessä
+                        osuudessa (2,5 ensimmäistä sivua).</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="30">suomi</language>
+                <language ident="se-SE" usage="70">svenska</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Hjerptiden, Djurberget">Hjerptiden, Djurberget</placeName>
+                        <date when="1823-08-06">6.8.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077753_001" />
+                <p>[ruotsiksi]</p>
+                <pb n="2" facs="0268_0077753_002" />
+                <p>[ruotsiksi]</p>
+                <pb n="3" facs="0268_0077753_003" />
+                <p>[alku ruotsiksi]</p>
+                <p>
+                    <l>Tämän kiran <unclear>pälen</unclear> wastauxen on</l>
+                    <l>herranin <unclear>gylvö ia</unclear> Keklian</l>
+                    <l>Kauta Olof Mattin poiiallen <unclear>Hinapuliossa</unclear></l>
+                    <l>meidän tienolla on <unclear>Kannis Kaslen</unclear></l>
+                    <l><gap/> päälä kuin gỹwäpäätös</l>
+                    <l><unclear>jomallensa</unclear> terweỹxiä pal</l>
+                    <l>ion herraen alimaiseltä palweialta</l>
+                </p>
+                <p>
+                    <l>Olof Mattinpoika Hämäläinen</l>
+                    <l><gap/></l>
+                </p>
+                <pb n="4" facs="0268_0077753_004" />
+                <p>
+                    <l>herra</l>
+                    <l>Koarle GottLund</l>
+                </p>
+                <p><gap/></p>
+            </div>
+        </body>
+    </text>
+</TEI>

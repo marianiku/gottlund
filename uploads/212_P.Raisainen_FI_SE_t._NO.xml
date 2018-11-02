@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-13">13.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:51</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>212</bibl>
+                        </msItem>
+                    </msContents>  
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="70">suomi</language>
+                <language ident="se-SE" usage="70">svenska</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="puuttuu">puuttuu</placeName>
+                        <date when="1826-00-00">0.0.1826</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_185" />
+                <p>
+                    <l>Tässä Minä Laitän sulle yhön Copion</l>
+                    <l>Lukeaxeiš; Joka on tullu Amtmannista.</l>
+                    <l>Tämä on wastuuš siitä meijän kysymyxest,</l>
+                    <l>Jota myö kysymme syksyllä Kuninkaalta ja Norin</l>
+                    <l>Rikierinkiltä, tokko myö Norin suomalaiset peä=</l>
+                    <l>semme Ruohin suomalaisten keralla yxsiin Seura=</l>
+                    <l>kuntiin.</l>
+                </p>
+                <p>Copio on näin kirjoitettu.</p>
+                <p>
+                    <l>Amtet har under 25. förra månad meddeelt</l>
+                    <l>Fogderiet, Regjeringenš Finantš Departementš</l>
+                    <l>Skwiswelse af 14.<hi rend="superscript"><hi rend="underline">de</hi></hi> samma månad så Lydade.</l>
+                    <l>Att en från, endeel på Norsk Side Langš vid</l>
+                    <l>Grändsen boende Finnar Der henhöre till win=</l>
+                    <l>ger, Grue, oçh Hoffš Prestegjetd, under 14. September</l>
+                    <l>förra år 1825, Jngifwna underdänigaste anfökning</l>
+                    <l>der er underskrifwit af Paul Pedersen Räisäinen från</l>
+                    <l>Öijern I Brandewålds Finnskog, Johan Eriçhsen</l>
+                    <l>Haikoinen från waralden i wingerš Finnskog, oçh</l>
+                    <l>Hindriçh Olšsen Karhinen från Furuberget I Grue</l>
+                    <l>Finnskog oçhsom gjäntager en I året 1824,</l>
+                    <l>inngifne Lignade undersånigste anfökning, der</l>
+                </p>
+                <pb n="2" facs="0268_0078096_186" />
+                <p>
+                    <l>wed Kongelig Resolution af 11.<hi rend="superscript"><hi rend="underline">te</hi></hi>  Deçember</l>
+                    <l>samma år blef afstäåt, er henlagt, meldeš</l>
+                    <l>härwid tjenstligst till Efterråtning oçh widare</l>
+                    <l>Bekjendtgörelse för wedkommende."</l>
+                    <l>Hwilken härwid çommuniçereš Herr Länsmanden</l>
+                    <l>till Bekjentgörelse för wedko<ref>m<note>viivallinen m-kirjain</note></ref>ende i Grue</l>
+                    <l>Thinglaug.</l>
+                </p>
+                <p>
+                    <l>Solöerš oçh Oũdallenš Fogetš=Contor den 4.<hi rend="superscript"><hi rend="underline">de</hi></hi></l>
+                    <l>Marši 1826,</l>
+                </p>
+                <p><hi rend="underline">N: Astrup</hi></p>
+                <p>
+                    <l>Rigdig Copie bewitneš</l>
+                    <l><hi rend="underline">L. Rolstorph</hi></l>
+                </p>
+                <p>
+                    <l>Tätä Copiota minä ej hywin ymmärrä, Täsšä ej oo Lupoa ejkä</l>
+                    <l>kieltoa, Mutt se näyttä niinkuin asja oiš piäätetty sinä 11.</l>
+                    <l>p: Joulu Kuusša wuo<ref>n<note>viivallinen n-kirjain</note></ref>a 1824.__ waan još asja on tullu piää</l>
+                    <l>tetyx niin se on wiäärin piäätetty. Amtmannista tuil meil=</l>
+                    <l>le kyselmyš alusta Heinä Kuuta wuo<ref>n<note>viivallinen n-kirjain</note></ref>a 1824. Kuinka Mon=</l>
+                    <l>ta Kirkoa työ Norin suomalaiset tarwihtetto? Teijän pitää</l>
+                    <l>myös arwata kuinka paljon Rahoa kulleki Kirkolle tarwitaan</l>
+                    <l>ylöš rakennuxex, niin teihän pitää suaaha apua Kirkko= Departe=</l>
+                    <l>mentistä Kristjaanista. waan että suaaha eri=Serakuntia suomalai=</l>
+                    <l>siin, sen on Korkia Kuninkaanlinen Norin Rikierink hywäxi Löytä<ref>n<note>viivallinen n-kirjain</note></ref>ä</l>
+                    <l>että suomalaiset on lian köyhiä, ja harwat siihen. waan samat Papit</l>
+                    <l>pitä heijän Kirjoisša Jumalan palweluxen tekemän.</l>
+                    <l>Niin tähään myö wastasi<ref>m<note>viivallinen m-kirjain</note></ref>e. Kuin ej myö suaa eri=sērakuntia Ruohin suo=</l>
+                    <l>malaisten Keralla, ja Suomalaiste Jumalan palwelusta, eli niinkuin enš ker=</l>
+                    <l>toa Kuninkaalta pyyettiin, niin ej myö huoli niistäkä Kirkoista, waan +</l>
+                </p>
+                <p>
+                    <l><ref>+<note>lisätty marginaaliin</note></ref>Ejkö hyö liene kuitenki piäättä<ref>n<note>viivallinen n-kirjain</note></ref>ä ettei myö</l>
+                    <l>huoli eneä mistää<del><gap/></del>  eri Jumalan palweluxesta,</l>
+                    <l>ejkä Kirkoista; kuin ei myötahtoi<ref>n<note>viivallinen n-kirjain</note></ref>a, heijän tahon jalkeen, <hi rend="underline">Poawo Räisäinen</hi></l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

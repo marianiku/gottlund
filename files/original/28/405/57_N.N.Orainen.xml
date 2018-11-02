@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nils Nilsson Orainen > Carl Axel Gottlund</title>
+                <author>Nils Nilsson Orainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:24:8</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Orainen</surname>
+                                <forename>Nils Nilsson</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>57</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="se-SE" usage="100">svenska</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Norra Lekvattnet">Norra Lekvattnet</placeName>
+                        <date when="1823-06-21">21.6.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077769_017" />
+                <p>
+                    <l>Pohoies Leikavatiena <gap/></l>
+                    <l>21 p: kesä kuusa . w 1823</l>
+                </p>
+                <p>Nils orainen herralle Kaarle gottlundille</p>
+                <p>
+                    <l>Kiitosta palio että herra meitä vielä</l>
+                    <l>huolessa pitä</l>
+                </p>
+                <p>
+                    <l>männa <unclear>muonnantainna</unclear> minä käsitin</l>
+                    <l>sinun <unclear>kirians</unclear> joka oli kiriuttetuna upsalassa</l>
+                    <l>sinä 19 p. huhti kuusa vuonna 1823</l>
+                    <l>herra käske minun yles kanta man rahat</l>
+                    <l>tuonu viko sano mista Heikki Kortelaiselta.</l>
+                    <l>van minä en sitä tunne ja olen kaūkana</l>
+                    <l>sen luota nin mina käskin Porkan sen</l>
+                    <l>tekeman ja hän lupaies sen tehdä sen.</l>
+                    <l>ja minä en ole vielä suonnu nähä</l>
+                    <l>kaiki nummerit männen vūoen</l>
+                    <l>turuu viko sanomista ja tämän vuoden</l>
+                    <l>en ole vielä nähny yhtää</l>
+                </p>
+                <p>
+                    <l>Herra kysy mitenkä meiiän reisu kävii</l>
+                    <l>kyllä se kävi hyvin me tulimme kotin</l>
+                    <l>tervenna toisa pänä helluntaina</l>
+                    <l>ja kysyt mitä meiiän papit nyt sanovat</l>
+                    <l>minä en ole vielä nitä puhutellu van</l>
+                    <l>tänä pänä minä män <unclear>yxin</unclear> mūtta</l>
+                    <l>tocko minä nitä palion puhuttelen</l>
+                </p>
+                <pb n="2" facs="0268_0077769_018" />
+                <p>
+                    <l>mina olen tällä wikolla pitännä kokosen</l>
+                    <l>minun <unclear>ruttallain</unclear> ja puhunna heilen mi</l>
+                    <l>tenkö heiian pitäis yhtä pitämän kun</l>
+                    <l>uuden sökning tuloo ja seisoo norin sen</l>
+                    <l>piellen ättä suomalaisia pappia suaha</l>
+                    <l>ja muuta jota minä teian olevan in</l>
+                    <l>layissa iotta heiian pitäies yhtä pitä man</l>
+                    <l>van mitenkä se tuloo ne kaik tahtoo</l>
+                    <l>hetti rakentaman Lauta salmen kirkoa</l>
+                    <l>ja ei männä <unclear>juoan</unclear> niemen kirkoa py</l>
+                    <l>keäman</l>
+                </p>
+                <p>
+                    <l>minä osin tahtonna heiian minullen</l>
+                    <l>vähä rahoa paneman kokōn minun</l>
+                    <l>markastain van on nin paha rahan</l>
+                    <l>peran että en enemman suana kun</l>
+                    <l>yhen tolt killingin sen saien <unclear>mortte</unclear></l>
+                    <l>hämä läiseltä</l>
+                </p>
+                <p>
+                    <l>unge jöns nils son <unclear>gänven</unclear> piästi Leikavat</l>
+                    <l>tualta ja Eriki <unclear>kisinen</unclear> näpin mäistä</l>
+                    <l>ne sanoitivat poies suo ma laisten</l>
+                    <l>joukosta</l>
+                </p>
+                <p>
+                    <l>gräs markin puollalta ei ollu monta</l>
+                    <l>meiian kokoxsisa eikä nitä maha</l>
+                    <l>monta ruvata suomalaisten joukon</l>
+                    <l>sillä ne pelkeävät ysea kostingia</l>
+                    <l>ja ne jotka rupeavat riesan puolta</l>
+                </p>
+                <pb n="3" facs="0268_0077769_019" />
+                <p>
+                    <l>ja <unclear>sāmaten yūneron</unclear> puolta nin ne</l>
+                    <l>kaiki tahto ruveta pykeämän Lautasalmi</l>
+                    <l>ja pappia tahotan sihen ja ei männä</l>
+                    <l><unclear>juean</unclear> niemelle</l>
+                </p>
+                <p>
+                    <l>Van kaiki <unclear>kernasti</unclear> näkisimme kun</l>
+                    <l>herralla <add>gottlund</add> tilasus tulla toisten herraen</l>
+                    <l><unclear>völinssa</unclear> kun uuden södning tulo sillä</l>
+                    <l>hän paraiten meiian asiat toimittais</l>
+                    <l>vielä nin kuien ennenkin.</l>
+                </p>
+                <p>
+                    <l><add>vian</add> <del>se</del> on meiltä suuri häpeä herroa aina</l>
+                    <l>pyyteä kostennxen kun emme mitää</l>
+                    <l>hyveä hänelle jällen tunne van <unclear>kuka</unclear></l>
+                    <l><unclear>muu</unclear> sitä oli tehnyt meilen.</l>
+                </p>
+                <p>
+                    <l>Se on minusta kumma etteii mitan</l>
+                    <l>kuuluu siida ūuden södningin</l>
+                    <l>tulosta nyt on jo messū mūori <del>eikä</del></l>
+                    <l>ja sanottin tähän aikan niien tulosa</l>
+                    <l>van ei kūlu mitään.</l>
+                </p>
+                <p>
+                    <l>Lens <unclear>mandi</unclear> jokan hali<gap/> kuly</l>
+                    <l>yhtena pänä meiira kylissa paat</l>
+                    <l>taden nin se tuli minūnni lūoxe</l>
+                    <l>minua torū man ja sanoii että </l>
+                </p>
+                <pb n="4" facs="0268_0077769_020" />
+                <p>
+                    <l>me sūomalaiset olemme valetta</l>
+                    <l>pūhunna herraien pävilla ja sanonna</l>
+                    <l>että löydy koko kylat jossa on nin sūo</l>
+                    <l>malaisia ettei ne rūotalaista ymmärrä</l>
+                    <l>van mina sanoin kyllä niitä löytyy</l>
+                    <l>ja hän vissais ettei me <unclear>yixse prostin</unclear></l>
+                    <l><unclear>kartannoa</unclear> pykeämästä van sihen en</l>
+                    <l>minä wastanna mitän.</l>
+                </p>
+                <p>
+                    <l>ei ole minulla nyt muuta pūhū</l>
+                    <l>mista tällä kerralla mūtta pyyvan</l>
+                    <l>että Herra vielä kiriūttais minūle</l>
+                    <l>joka kärta kūn mina häneltä <unclear>kirion</unclear></l>
+                    <l>suoan <del>nin</del> niin uis on hyvin <del><gap/></del>
+                        toimitoxin ja sanomiin</l>
+                </p>
+                <p>tervūxsia pallion gottlund</p>
+                <p><hi rend="underline"><del>Nis</del> Nils oraiselta</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-13">13.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:56</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>217</bibl>
+                        </msItem>
+                    </msContents>  
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1829-10-09">9.10.1829</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_202" />
+                <p>Öijärillä sinä 9.p: Lokakuussa w:1829._</p>
+                <p>Herra Gottlundi   Poawo Räisäseltä  :</p>
+                <p>
+                    <l>P  Tämän kautta minä tahoin teitä</l>
+                    <l>Rukoilla! Ettäs tekisit niin hywin</l>
+                    <l>ja auttasit näitä kahta miestä;</l>
+                    <l>niimittäin Ula Ulan poika Ullalasta,</l>
+                    <l>wäärälin Mehältä.__ Ja Matti Ulan</l>
+                    <l>poika Kirnuinen Masterosta, Fangnäsin</l>
+                    <l>Mehältä, Että hyö peäsis Kuninkaan pu=</l>
+                    <l>heille, ja tekisit heille hywän Ansöknin=</l>
+                    <l>kin heijän puhesa jälken još niin tarwih=</l>
+                    <l>tewat; kyllä heillä on myötäsä Norlaiset</l>
+                    <l>Ansökninkit, waan toko ne, kelpoaiš niin hy=</l>
+                    <l>win, kuin sinun tekemänš, sen pä han ite</l>
+                    <l>paraite ymmärtäsit.___</l>
+                </p>
+                <p>
+                    <l>Tämä <hi rend="underline">Olof Olofson</hi> Ullalasta, on tellätty</l>
+                    <l>yhteisest wäärälin mehästä, hänellä on</l>
+                    <l>fulmaçt muilta., Heijän anomuxia en mi=</l>
+                    <l>nä tarwihte ylös luwetella, sen suatte nä=</l>
+                    <l>hä heijän ansökninkilöistä, ja kuull<del>ä</del><add>a</add></l>
+                </p>
+                <pb n="2" facs="0268_0078096_203" />
+                <p>heijän puhesta.___</p>
+                <p>
+                    <l>Waan tämä Matti Kirnuinen Masterosta</l>
+                    <l>tuloo sinne, ite omaien asjaien tautta, ja</l>
+                    <l>yhen toisen asjoja ajaman, poara Fangnä</l>
+                    <l>sin Mehältä, muille ei oo sillä Mehällä</l>
+                    <l>niin jsoa wiääryyttä tehty kuin näille.</l>
+                    <l>Tämä Kirnuinen, ja hänen wanhempasa</l>
+                    <l>owat tullu poiš aietux hiemmaltaan.</l>
+                    <l>Sitte se toinen Mieš Fangnäsin Mehällä, nii=</l>
+                    <l>mittäin Amund Torpiörnin poika Karhuinen</l>
+                    <l>Tangalta, se ei oo männy yhteenkä kaupaan</l>
+                    <l>mehän haltioijen keralla tahi muihen sowin=</l>
+                    <l>noihin. Niin nyt sen tautta meinataan Kar=</l>
+                    <l>huisen torppa panna Auçtionin piäälle,</l>
+                    <l>ja myyä wieraille; Niin sen eistä Rukoilee</l>
+                    <l>tämä Karhuinen teitä! Ettäš tekisit tuon</l>
+                    <l>Laupiuen hänelle! ja wetäsit hänen asjan</l>
+                    <l>sisään samasša, kuinš toisille kirjutat ansök=</l>
+                    <l>niinkin, ja kysyisit tokko Grewe Wedel af</l>
+                    <l>Jarlsberg oil mahtoonlinen mgömän Fang=</l>
+                    <l>näsin Mehteä._ __</l>
+                </p>
+                <p>
+                    <l>Täsšä hän antaa ite wulmahtisa</l>
+                    <l>Fullmagkt in Blanço.</l>
+                    <l>Ammund Torbiörnsen</l>
+                    <l><hi rend="underline">Tangon.</hi></l>
+                </p>
+                <pb n="3" facs="0268_0078096_204" />
+                <p>Poawo Räisäinen   Herra Gottlundille !</p>
+                <p>
+                    <l>Minä pyyän sinua Rakaš Herra  ! Ettäš</l>
+                    <l>Lähätät mulle wastauksen sen kirjan</l>
+                    <l>piäälle, jonkama wiimex Lähätin Puu=</l>
+                    <l>win miesten kirjan keralla.___</l>
+                </p>
+                <p>
+                    <l>Ei wielä meijän mehtä o ollu</l>
+                    <l>Auçtionin piäällä, Eikä maha tulla</l>
+                    <l>ennenkuin talwen piäälle. Maxu aika</l>
+                    <l>on ostajoille 10. wuotta, jotama en</l>
+                    <l>muistanna sanoa wiimesesšä kirjasšain.</l>
+                    <l>Täsšä on meitä muutamia suomalaisia,</l>
+                    <l>jotka olemma puhunna yhteen, että lei=</l>
+                    <l>jata teitä tuleman, Stortingkille <unclear>enš</unclear></l>
+                    <l>talwena, mitä han sinä tuohoon sa=</l>
+                    <l>nosit? Se oiš meille sanken tarpeenlista</l>
+                    <l>suaaha yhen senkaltaisen puhe miehen</l>
+                    <l>Stortinkille kuin sinä oot.___</l>
+                </p>
+                <p>
+                    <l>Näijen Miesten keralla taitasit Lähätteä</l>
+                    <l>sen Awiis klasšan jotaš puhuit.___</l>
+                </p>
+                <p>
+                    <l>Yhen muunki Lystin kirjan taitasit</l>
+                    <l>lä</l>
+                </p>
+                <pb n="4" facs="0268_0078096_205" />
+                <p>
+                    <l>Lähätteä niinkuin Otawan, Eikös mä</l>
+                    <l>tuota jotenka oiš hywä maxaman kuin</l>
+                    <l>etsä oiš kowin kalliš.___</l>
+                </p>
+                <p>
+                    <l>En jouwa toaiškaa enemp kirjuttaman,</l>
+                    <l>näillä miehillä on kowin kiire.___</l>
+                </p>
+                <p><hi rend="underline">Poawo Räisäinen</hi></p>
+                <p>
+                    <l><ref>*<note>ylösalaisin tekstiin nähden</note></ref>Till</l>
+                    <l>Höglärde Magister,</l>
+                    <l>Her Carl Axel</l>
+                    <l>Gottlund</l>
+                    <l>a:</l>
+                    <l><hi rend="underline">Stockholm</hi></l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Juhoi Räisäinen > Carl Axel Gottlund</title>
+                <author>Juhoi Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:35:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Juhoi</forename></author> 
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>116</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1825-07-17">17.7.1825</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077780_001" />
+                <p>Herra C. A. Gottlund</p>
+                <p>
+                    <l>Tiältä lähättä kaikki paljo terveuxiä sullen niin monta</l>
+                    <l>kuin minä oon nähnu Se herra jonka pit uottoa meitä sel=</l>
+                    <l>lingsbrosa ei pitännä sanoansa mut ajoi eillä ei myö hän</l>
+                    <l>tä sitten eneä nähnu. siitä myö ottittiin yhön hevoisen</l>
+                    <l>ja myö käytiin siitä glanskammariin ja tultiin lykyl=</l>
+                    <l>lisesti sunnuntak eftona carlstahaan papa oil jo</l>
+                    <l>siina tauwantak iltana. Bispa ei ollu kaupun</l>
+                    <l>nisa ja myö lähettiin sitä jö pois samana iltana</l>
+                    <l>sillä jos myö ois oltu sinä enemmän aikoa nii</l>
+                    <l>myö oissi<ref>m<note>viivallinen m-kirjain</note></ref>o hätääntunnä suomalaisten kansa sillä</l>
+                    <l>hyö tunkeitivat niin meitä kahtomaan.</l>
+                </p>
+                <p>
+                    <l>Myö kulettiin niin myöhät riääsän kirkolla ettei</l>
+                    <l>myö tullu mänemään sen rouvan luo ja papa sanoi</l>
+                    <l>että Östmarkin pappi ottaa postin niin myö lähät</l>
+                    <l>tiin kirja sen luo. Tiäällä <del>ruohin</del> <add>norjan</add> puolla ei tarvita</l>
+                    <l>Senmoista vaan kyllä papa hänestä huolen kanta</l>
+                    <l>Tiäältä en minä tijä viilä vissiin milloinka miehiä</l>
+                    <l>tulo lähtemaan sen kirjan kansa Stoçholm.</l>
+                </p>
+                <p>Juhoi Räisäinen</p>
+                <p>Öjärillä sinä 17. p julii kuussa v. 1825</p>
+                <pb n="2" facs="0268_0077780_002" />
+                <p>
+                    <l>Studeranden af Finska</l>
+                    <l>Nation</l>
+                    <l>Herr Carl A. Gottlund</l>
+                    <l>i</l>
+                    <l><hi rend="underline">Upsala</hi></l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

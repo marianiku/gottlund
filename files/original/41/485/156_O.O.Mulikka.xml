@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Olli Ollinpoika Mulikka > Carl Axel Gottlund</title>
+                <author>Olli Ollinpoika Mulikka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-14">14.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:5:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Mulikka</surname>
+                                <forename>Olli Ollinpoika</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>156</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Erotettu Paavo Räisäisen kirjeiden yhteydestä. Mulikka sanellut kirjeen Räisäiselle.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-02-24">24.2.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078091_001" />
+                <p>Øijärillä sinä 24 Helmekuussa 1823__</p>
+                <p>Herra Gottlundi</p>
+                <p>
+                    <l>Minä Olli Ollin poika Mulikka Lintorpasta,</l>
+                    <l>Pyyän teitä Rakas Herra että kuin mahtoonli=</l>
+                    <l>nen olis. Niin tahtosin minä peria weljen we=</l>
+                    <l>ren. ja suaaha sen tilan ala Mulikkalan</l>
+                    <l>jossa Danel Erkin poika asuu, siihen ej oo</l>
+                    <l>yhtän <hi rend="underline">likisempeä</hi> perillistä; Tämä Daneil</l>
+                    <l>Karwainen, ej oo sitä ite hywä rukoamaan</l>
+                    <l>još nyt nämä wimesinä wuosina on hän</l>
+                    <l>pyytännä itelleen Elatos miestä. Waan ej</l>
+                    <l>tahoi sitä suaaha, Tänä kesänä hän on</l>
+                    <l>reistanna weljeän Erki Karwaista etta sen</l>
+                    <l>oiš pitännä Danelia syynätä kuolin paiwän</l>
+                    <l>asti. Waan ejwat ollu hywä <unclear>sopimas</unclear></l>
+                    <l>yhteen, nyt on pitännä Erki Karvaisen</l>
+                    <l>pois muuttoa. Niin nyt ej Danel Karwai-</l>
+                    <l>nen tule kuitenka aikaan još hänen pitä</l>
+                    <l>ottoa yhen <hi rend="underline">Elatoš</hi> Miehen sillä hanellä ej</l>
+                    <l>oo yhtään Lasta. Niin minä tykkeän ettej tuo=</l>
+                    <l>hoon pitäiš wierastaa peästeä; kyllä minä</l>
+                    <l>Danelille Eloleiwän kahwoan joka wuosi</l>
+                    <l>sen=jälkeen kuin akuteratux tullaan.</l>
+                    <l>Monta hyweä Terveystä Minulta sinun Rakal</l>
+                    <l>ta alimaiseltaiš, ja Jamala sen tekis kuin</l>
+                    <l>kuin wielä suaatasiin toisemme nähä Terweyella.</l>
+                </p>
+                <p>Olli Ollinpoika Mulika</p>
+            </div>
+        </body>
+    </text>
+</TEI>

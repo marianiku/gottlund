@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen, Tore Soikainen, Ole Soikainen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen, Tore Soikainen, Ole Soikainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-21">21.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:15</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <author><surname>Soikainen</surname>
+                                <forename>Tore</forename></author>
+                            <author><surname>Soikainen</surname>
+                                <forename>Ole</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>176</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Soikaiset sanelleet kirjeensä Räisäiselle.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri (?), Fangnäs">Öijäri (?), Fangnäs</placeName>
+                        <date when="1823-02-05">5.2.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_045" />            
+                <p>   
+                    <l><hi rend="underline">Fulmagt in Banço</hi>	</l>
+                    <l>Tore Persson Soikainen</l>
+                    <l>från Fangnäs</l>
+                    <l>Ole Perssen Soikainen</l>
+                    <l>från Fangnäs.</l>
+                </p>
+                <p>
+                    <l>Nyt on tässä Ole Persson Sokainen <add>Fannäsistä</add> se nuoremp</l>
+                    <l>joka on jo e<ref>n<note>viivallinen n-kirjain</note></ref>en sisään kirjutettu. Hän pyytä</l>
+                    <l>että hän sais neljännen osan Fannasin kylästä</l>
+                    <l>se kuulu hänelle; waan nyt ej oo hännellä ruu=</l>
+                    <l>kattawana enemp kuin yxkahexansosa raukat</l>
+                    <l>wana. sitä hän Rukoile, että hän sais rueta max-</l>
+                    <l>aman joka hanne kuulu.__</l>
+                </p>
+                <p>
+                    <l>Tämä Tore Person Soikainen, joka tässä on an=</l>
+                    <l>tanna wulmahtinsa. hänni Rukoile teitä, ettäs</l>
+                    <l>tekisit niin hywin ja pitäisit hänet muistissaa<ref>n<note>viivallinen n-kirjain</note></ref>e,</l>
+                    <l>että hänni sais rueta maxamaan yhtä kahexatta</l>
+                    <l>osoa Tannäsin kylässä, kuin Kuninkaalta Rahat</l>
+                    <l>suaawat Lainnax. Tämä 1/8 osa kuulu riktuasti</l>
+                    <l>hänelle; waan nyt hän pyykeä Suulberin mehäl=</l>
+                    <l>lä; waan se on niin kehno paikka ettei siihen</l>
+                    <l>tule kelpo hie<ref>m<note>viivallinen m-kirjain</note></ref>oa, sillä hän tykkeä että hän tah=</l>
+                    <l>tois Löysätä sen joka hanelle kuulu.__</l>
+                </p>
+                <p>
+                    <l>Tämä ole Person Soikainen se wanhemp, joka jstu</l>
+                    <l>huonessa Fannäsossa. Tällenni kuulu 1/8 osa Ta<ref>n<note>viivallinen n-kirjain</note></ref>ä</l>
+                    <l>Kartanossa. Seki Rukoile teitä ihteän pitmään</l>
+                    <l>muistista. Että hänki sais rueta maxamansi=</l>
+                    <l>ta 1/8 osoa joka hänelle kuulu. Hänellä on yx weljen</l>
+                    <l>poika joka ruukoa ¼ osoa Fan<ref>n<note>viivallinen n-kirjain</note></ref>sissa, waan tällä oiš</l>
+                    <l><del>wanhin</del> rättä niin hywin kuin silläki joka e<ref>n<note>viivallinen n-kirjain</note></ref>en on</l>
+                    <l>kirjuttai<ref>n<note>viivallinen n-kirjain</note></ref>an sisään. löyseämän sitä 1/8 osoa hänen kans=</l>
+                    <l>saan. tämän niimi on joka tilalla Jstu,  Joha<ref>n<note>viivallinen n-kirjain</note></ref>es Johansen</l>
+                    <l>Sokainen <ref>+<note>viittaus seuraavan sivun loppuun</note></ref></l>
+                </p>
+                <pb n="2" facs="0268_0078096_046" />   
+                <p>
+                    <l><hi rend="underline">Nihen miesten niimet jotka Herroijen</hi></l>
+                    <l><hi rend="underline">päiwille tuloo Lähtemään teältä norin puolta</hi></l>
+                    <l><hi rend="underline">Stokholmiin. Kuninkasta kiittämän ja armoa</hi></l>
+                    <l><hi rend="underline">Rukoilemaa eespäin wuonna 1823.</hi></l>
+                </p>
+                <p>
+                    <l>Eriçh Hindriçhsen Orainen Wiiker i winger soçken</l>
+                    <l>Eriçh Olsen oinoinen Bolnäset I Branwala soçken</l>
+                    <l>Paul Pedersen Räisäinen Öijeren i Branwala soçken</l>
+                    <l>Danjel Halworssen Lehmoinen Rewholtet i Grue soçken</l>
+                    <l>Ole Tommessen Lehmoinen Peistorpet i aasnäs soçken</l>
+                    <l>Hindriçh Olssen Kuosmainen Höksjöbergen i aasnäs soçk:</l>
+                </p>
+                <p>
+                    <l>Minun syyni kirjain tuloo wasta walmix siheen</l>
+                    <l>kuin ma tulen Lähtemän Tukulmiin niin mä taijan</l>
+                    <l>ottoa sen silloin kanssain; waan ej pappit niitä</l>
+                    <l>Seitysiä kirjoja teällä Norissa ylös Lue, ne luetān</l>
+                    <l>käräissä ylös. tahi länsmanni Luke niitä ylös</l>
+                    <l>kirkko pakalla. Niin nyt minä oon suaanna että</l>
+                    <l>Länsmanni Luke tämän minun kirjain ylös</l>
+                    <l>kirkko pakalla.___</l>
+                </p>
+                <p>
+                    <l>Nyt ois tilaisuus multa ottoa poijan kanssain,</l>
+                    <l>jos niin oiš ettäs tahtosit.___</l>
+                </p>
+                <p>
+                    <l>Nyt tuloo taais auksion meijän mehän ylite</l>
+                    <l>ja muijenki Rusin kranzin mehtien ylite; sinä</l>
+                    <l>5. paiwänä Helmikuussa. 1823</l>
+                </p>
+                <p>Paawo Räisäinen</p>
+                <p>
+                    <l>+ Tämän ¼ osan alla jota</l>
+                    <l>tämä Ole Person puhu on yx pien torpan paikka, ja</l>
+                    <l>tätä torpan paikkoa tahtois tämä ole Person Löysätä</l>
+                    <l>sen 1/8. osan kanssa. Sillä tykk hän tykkeä olewa<del>t</del><add>n</add> itel=</l>
+                    <l>lään weäl niin hywän rälän kuin Joha<ref>n<note>viivallinen n-kirjain</note></ref>es Johans-</l>
+                    <l>son Soikaisellakin.__</l>
+                </p>
+                <p>Poawo Räisäinen</p>              
+            </div>
+        </body>
+    </text>
+</TEI>

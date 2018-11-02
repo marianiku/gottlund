@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johan Olssen Honkoinen > Carl Axel Gottlund</title>
+                <author>Johan Olssen Honkoinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-05"></date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:6:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Honkoinen</surname>
+                                <forename>Johan Olssen</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>9</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Erotettu Paavo Räisäisen kirjeiden yhteydestä. Honkoinen sanellut kirjeen, Räisäinen toiminut ilmeisesti kirjurina.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="puuttuu">puuttuu</placeName>
+                        <date when="1822-04-22">22.4.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077749_001" />
+                <p>
+                    <l>Armoillinen Herra Gottlundi!</l>
+                    <l>Sitä asjoa jota minun waimoin Brida Klemetin tytär,</l>
+                    <l>puhui teillen, ojsin minä tahtoinna paremmin Jlmi antoa</l>
+                    <l>Teillen. Minä olen joutunna Köũhywen tähe welkaan,</l>
+                    <l>ja olen suaanut yheltä Tukki Merkeliltä Norjan puolelta</l>
+                    <l>Oũla Kyölä kutsutaan åsnesin suokunnast, Kolmet satoa</l>
+                    <l>Riksgielttiä tyskeä Lainnaxi. – Niistä Rahoista otti tämä</l>
+                    <l>ennen mainittu Oũla Kyölä Tastin minun Tilain piääle</l>
+                    <l>Nyt Talwella, Jlman minun tietämätä muaa Käräissä.</l>
+                    <l>Ja mäne siiten, ja mygö tämän Tastin, minun napurillein</l>
+                    <l>Matias Mattin poijallen Kanalassa; ja tämän teköö,</l>
+                    <l>Tämä tukki Merkäil, Sillä että hän oill suaanut kuul=</l>
+                    <l>la, että minun Emäntäin Ois pitännä teitä puhutella.</l>
+                    <l>Ja sanoo, minä opetan heijän siitä <add><gap/></add>, hyö Lenkarilöitä</l>
+                    <l>ja muaan=Kulkiamia puhuttele, – Ja ej minua. –</l> 
+                    <l>Tämä minun Tilain on yx Kahenstoistakymmenens osa</l>
+                    <l>weärinkin hiemmoa, Hjerpliassa, ja tätä minun</l>
+                    <l>tiloain tahtoi, tämä ostaia, Matias Kanalassa, Kylweä</l>
+                    <l>tänää Kewänä. – Waikka ej minua ole wielä ulos</l>
+                    <l>sanottu Tilaltain, ennen Joulua, niin kuin teällä tapa on.</l>
+                    <l>Sillä mahan minä hänen Esteä Kylwämästä tänä wuonna.</l>
+                    <l>Minä aatelen ett=ej ne siitä minulle mitään suaa jos mi=</l>
+                    <l>nä sen tien; Ja Tämä minun Tilain on 600. weärti Riksgieldiä</l>
+                    <l>Sillä minä Rukuilen teitä Rakas Herra, ettäs oisit niin Ar=</l>
+                    <l>moillinen, ja puhuisit Ruunulle, tämän ahtistoxeein, Ejkö hän</l>
+                    <l>tok Ruunu ois niin Armoillinen, että hän Lainnoais ne 300.<hi rend="superscript"><hi rend="underline">taa</hi></hi></l>   
+                    <l>Riksgieldi=tyskeä minulle; Ojs hän tok minun Tilain Pantissa</l>
+                    <l>Näistä Rahoista Ruunulla, kuinnikka minä saisin ne maxetuxi.</l>
+                </p>
+                <p>____________________</p>
+                <p>
+                    <l>Tämän piäälle, Rukuilen minä Wastausta, jonkas taitai=</l>
+                    <l>sit Lähätteä Poawo Räisäisen Luoxe Öijärillen, Ajkoijans=</l>
+                    <l>myöten</l>
+                </p>
+                <p>
+                    <l>Öijärillä sinä 22 paiw. Huhti Kuusa 1822.</l>
+                    <l>Johan Olssen Honkoinen</l>
+                    <l>Hjerpliasta, Talpuan Suomalaisist.</l>
+                </p>
+                <p>____________________________</p>
+                <p>
+                    <l>II: B: Tämän minun ennen mainitun, waimoin niimi on,</l>
+                    <l>Brida Klemets Dotter Lehmoinen i Hjepliden</l>
+                    <l><hi rend="underline">Johoi Honkoinen</hi></l>
+                </p>
+                <pb n="2" facs="0268_0077749_002" />
+                <p>
+                    <l>Herrallen</l>
+                    <l>Korkiast oppineelle ja Hy<unclear>w</unclear>in</l>
+                    <l>Kunnioitettawallen</l>
+                </p>
+                <p>Carl Axel Gottlund<hi rend="superscript">ille</hi></p>
+                <p>Uppsala=ssa</p>
+            </div>
+        </body>
+    </text>
+</TEI>

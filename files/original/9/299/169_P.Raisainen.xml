@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-14">14.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:8</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">        
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author> 
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>169</bibl>
+                        </msItem>
+                    </msContents>      
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1822-12-21">21.12.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_023" /> 
+                <p>Öijärillä sinä 21. p: Joulu=Kuussa 1822.</p>
+                <p>
+                    <l>Herralle Gottlundille</l>	
+                    <l>Poawo Räisäinen._</l>
+                </p>
+                <p>    
+                    <l>Kost=Jumala Näistä wiimesistä kirjoistaisˇ,</l>
+                    <l>Minun on heitä ajna Lysti suaaha Lukea.</l>
+                    <l>Minun tule nyt wastata Nijen ensmäisten</l>
+                    <l>kirjaien piäälle, jotka ma käsitin Östmarkin</l>
+                    <l>Papilassa sinä 24. pänä Marraskuussa.</l> 
+                    <l>Minun tule kostella teitä <hi rend="underline">Moinin kerroin</hi> köy=</l>
+                    <l>häijen etestä, koska minä niään että heille on</l>
+                    <l>niin paljon kirjoja Liikkeessä. Ja samassa kir=</l>
+                    <l>jassa minä neän, että työ tahotte tietä jos</l>
+                    <l>myö enš wuon piäälle tahomme Turun wiikko=</l>
+                    <l>Sanomia. Niin on nyt, että meitä etelä suoma=</l>
+                    <l>laisia on ruenna yhteen 13. enš wuon piäälle,</l>
+                    <l>Jostama jo oon ennen kirjutta<ref>n<note>viivallinen n-kirjain</note></ref>a. Niin Pohjos</l>
+                    <l>suomalaiset tahtowat eri wiikko=Sanomat; ja</l>
+                    <l>niitä on ruenna yhteen 8. Miestä ens wuon piäälle.</l>
+                    <l>Tässä seuraa Lista, ettäs suaat nähä heijän niimet</l>
+                    <l>jotka on ruenna Turun Wiikko=Sanomiin.</l>
+                    <l>Pohjos suomalaisten wiikko=Sanomat pitäis seilata</l>
+                    <l>ja piäälle kirjutoxen Danjel Sehmoiselle Reholta,</l>
+                    <l>(Bonden Danjel Refhultet) Tämän tion pitäisˇ</l>
+                    <l>teijän ilmi antoa Postmestarille Koarlestaahan.</l>
+                </p>
+                <pb n="2" facs="0268_0078096_024" /> 
+                <p>
+                    <l>Eriçh Ojnoinen Salmelta on minua pyytä<ref>n<note>viivallinen n-kirjain</note></ref>ä;</l>
+                    <l><del><hi rend="underline">a</hi></del> että meijän etelä suomalaisten wiiko=sanomat</l>
+                    <l>tulisˇ hänen Luoxe, ja että hänen Nii<ref>m<note>viivallinen m-kirjain</note></ref> piäälle</l>
+                    <l>kirjutettaisˇ. (Bonden Erich Boldnäset) Kuins kehtoai=</l>
+                    <l>sit minun Nimmein muutattoa postmestarilta hänel=</l>
+                    <l>le, Niin oisˇ tuo tuolle mielennouteex, ejkösˇ tuo</l>
+                    <l>tuosta pöyhistyisˇ. (<hi rend="underline">ymmärrätkösˇ minut</hi>).__</l>
+                </p>
+                <p>
+                    <l>Se kirja jonkas olit kirjutta<ref>n<note>viivallinen n-kirjain</note></ref>a s. 11. päiw Marraskuussa,</l>
+                    <l>Christianin reissusta. Niin siellä jo oli Lehoinen</l>
+                    <l>ja Jens Hawiunen käynnä, jostama jo oon teile</l>
+                    <l>kirjuttanna. Samalla kertoa kuin minä sen kirjan</l>
+                    <l>lähätin joka oil Lehmoisen Kauput reissusta; Niin mi=</l>
+                    <l>nä Laitoin että oisin Lähättännä 20. tyskeä Bankoa</l>
+                    <l>teilen. waan mun oil suamista 10. Riksiä Ruohin</l>
+                    <l>puolta, joita Rahoja en minä suaanna niinkuin ma</l>
+                    <l>meinasin, niin sitten minä jätin ne 20. Riksiä pap=</l>
+                    <l>pille, ja käskin wiikkoa jälkeen Lähätämän, ne joi=</l>
+                    <l>jen mulle oil welkoa hyö lupais niin wissiin Rahat</l>
+                    <l>wiäxeen papille silloin. Niin tee siis niin hywin</l>
+                    <l>ja anna mulle tieto jos ne 20. tyskeä Bankota</l>
+                    <l>on oikeen ees=tullu. Niissä Rahossa oil 6. Riksiä</l>
+                    <l>Wiikko=Sanomista, ja 24. Riksiä Myötȳstä kirjosta,</l>
+                    <l>ene<ref>m<note>viivallinen m-kirjain</note></ref>än eistä en minä wielä silloin ollu myönnä.</l>
+                    <l>Waan nyt minä oon toais porwanna kirjoja yli</l>
+                    <l>10. Riksin eista, ja antanna heille paiwia Kyntteliin.</l>
+                    <l>Sinä oot minua tuosta kieltännä, waan teällä ej tule</l>
+                    <l>monta kirjoa myyx kuinš walmista Rahoa kokotat,</l>
+                    <l>waan kyllä tuosta on wähä enemp prytä.</l>
+                    <l>waan en mä nuoita kaukasille myö <unclear>poriin</unclear> </l>
+                </p>
+                <pb n="3" facs="0268_0078096_025" /> 
+                <p>
+
+                    Niin mun luonain ne nyt on kaikki neki kir=
+                    jat jotka Porkka haki kesällä Koarlestaasta <del>Sahnen</del>
+                    Erki ne kannatti mun Luoxein.	   Salmen
+                    Pitäis pä mun teille ilmi antoa, että tämä Öijärin
+                    mehän kauppa on purettu, se Conraden hantu
+                    ej tullu seisowainen, perilliset tahtoowat enemp.
+                    Kylät, ja se työ joka kylillä on tehty on enemmän
+                    wiäärtti sanoo Perilliset. Nyt pitää toais talwella
+                    tulla uesta Auksionin jossa tarjotaan 12000. Spejçi=
+                    tyskästä, ja sinne suaa puonnit männä ite piäälle
+                    tarjoamaan jos tahtowat. Tällaiset sanomat on merk=
+                    käil nyt meille Lähättännä. Metään Myö rupea<ref>m<note>viivallinen m-kirjain</note></ref>e tekemän josˇ auksion tulo? Myö tahtoisimme työmme
+                    ite ruowata, kauppa=Miehet ej o ikä<ref>n<note>viivallinen n-kirjain</note></ref> mejlle työtä
+                    Maxanna, jonka työkin jo kyllä hywin tiätten. Kuin
+                    lain jälkeen käwis, että myö saisimme työmme ite
+                    <hi rend="underline">ruowata</hi>, niin mehtä ej suinkaan ois enemmän wiäär=
+                    ti kuin 6000. Spejçityyskän siinä ois yltäkyllä, Mehtä se
+                    on ulosˇ ruukattu. Myö tykkeämme että myö ej ois hywä
+                    12000 hänestä antaman. Sillä minä Rukoilen ettäš taais
+                    tekisit niin hywin, ja neuwoisit meitä tässä asjassa
+                    koskas meitä kerran oot ruenna auttaman.__
+                    Nyt minun tule wastata sen kirjan piäälle jonka 
+                    Mammolan Miehet toi. Minä käsitin sen, 8. pänä tässä
+                    kuussa, työkin olitte pannu saman taattuun, sinä 8.p Jūlu
+                    kuussa. Ja Nenä Lasit isälle. Monta kostjumaloa heistä;
+                    Jsa näköö heillä hywin. Mina oon Rahat Lähättännä
+                    Mammoilaan 1. Riksin ja 24. killinkiä.
+                    
+                    Kirjat toi Orainen jo wiikkoa ennen, sinä 2. p: Joulu=
+                    =kuussa.
+                    
+                    [sivu vaihtuu]
+                    
+                    jossa Lankartat seurais. Monta kostjumaloa heijän=
+                    ki eistä, Ne oliwat Lystiä meijän suaaha [lukenut ensin suaasa] nähä,
+                    Minä oon heijät jo aikoa Lähättännä Reholttaan, ja
+                    Orainen wei heit 4. kappaletta kanssase.
+                    Niin kirjoja niitä oil, 2. Laki=kirjoa, Misanterin
+                    Sapatin Lepo, <hi rend="underline">Yrti=tarha</hi> <hi rend="underline">Jlo Laulu</hi> <hi rend="underline">Jsäänš försög</hi>
+                    <hi rend="underline">Suaarna Laskiais=Sunnuntaina pitetty Juwan kirkossa</hi>,
+                    ja 12. Exemplaria Bibli=Seurasta Turusta.+ waan näijen
+                    12. <hi rend="superscript"><hi rend="underline">nen</hi></hi> Exemplarin hintoa en minä Löyä Listassa, kyllä
+                    tuo seisoo nuoien piäällä waan tokkos niitä silla suaa=
+                    noo. Minä oisin ne mielelläin ite ostanna kuin ma
+                    tietäsin mitä ne maxaiš. Niissä on niin koreita Luku=
+                    ja, jotka opetta mitenkä sen jhmisen pitä <hi rend="underline">Laittaiteman</hi>-
+                    sa joka tahtoo autuaxi tulla. Sen Exemplarin Waroi=
+                    toš Juopumuxesta, soisin minä kuin Löytyis joka
+                    miehen huonessa teällä. Nyt sitten kuin <hi rend="underline">Putiset</hi> <hi rend="underline">tuil</hi>
+                    warsin ruukkiin, niin on harwa <hi rend="underline">taloi</hi>, jossa ej liax
+                    ruukata wiinoa; Liiotenki sinä wuonna kuin heitä
+                    hywin tuloo. Kyllä tuo taitaa olla <hi rend="underline">moinjaisa</hi> paikoin
+                    ettej taloin wäki ite juo ihteän niin paljon juowuxiin,
+                    waan kuitenkin ruukoawat wiinan myöntiä, siihen sit
+                    ten kereäitö paljon Löyseä wäkeä ja Taloin poikiakiin
+                    jossa sattuu juomink ja pahat menot, jossa paljon syn=
+                    tiä matkaan soatetan. Jos niin on ettei Jsäntä ite niin
+                    paljon juo kuin muut, niin taitaa hän atella ejpä
+                    se mun syntiin oo, Räyhätkeä pä niin paljon kuin tahoit=
+                    te, ja siinä hän pettää ihteensä. Se on Kriste=nähköön
+                    tapahtunna Munni Luonain, waan ej Jumalan
+                    puolesta eneä. Eärsyönin kylissä, ja Sikalassa, Puttoilas=
+                    sa, Puralassa, Mullikiärnällä, on wiinan juont talwen
+                    ruukki, jkään kuin meillä tukki ruukki teällä Norin puolla.
+                    Waan ej tuota renkeä mun sanoa sanonein, waan niin se on.
+                    #
+                    [vasemmanpuoleisessa marginaalissa:]
+                    
+                    Eläinten tauti Kirja, ja Taloinpoijan Siää eli ilma kirja.
+                    
+                    #
+                    Se Jsääs tekemä Kirja, se on hywin oikaistu, että se on
+                    paljo selwempi mejiänni puhen jalkeen kuin Bibbliassa,
+                    tätä kirjoa ois jo moni multa ostanna, waan minä
+                    meinoan sen ite ostoa. Tätä esi puhetta jonka työ ootten
+                    itte trykkyyttännä tahään Kirjaan, oon <add>niin</add> monelle Luke=
+                    nut, hyö on sitä niin mielellään kuunellu sillä kuin
+                    siinä on niin koreat terweyxet meile Kaikille, Ja owat
+                    sanonna, Jumala häntäkiin pitäkön Terwennä.
+                    Kirjoja ej sunkan tiäällä wähä tule niin piään;
+                    miten han ois wirsi kirjoja, ja Apisˇkirjaja.
+                    Waan kyllä minä tuosta pian kirjutan teillen
+                    kuin putoš tuloo. Waan taitasithan Lähätteä
+                    nuoin muutaman kutai Laija, niitä wieraita
+                    Kirjoja jos tahoit.
+                    Enpä minä Kirjan myönnistä oo mitä wuaa=
+                    tinna. Waan kyllä tuo on hywä, josma tuosta
+                    suaan wähä koska nuoita niin paljon tuil myö=
+                    täwäx. Porkalle nuo on, ne warakkaammat
+                    puonnit Luanna wähä kukin antaxeen, että
+                    ejkös tuon reissu tulle maxetux. Kyllä Johan Hindric
+                    son Hotakkan Sipilästä pitää tästä Bibelin suaaha,
+                    se mahtais hänelle olla hywä lohtutos, minä oon
+                    jo hänelle sanan lähättännä että hän suaa tulla
+                    noutamaan.
+                    Sitä kirjoja minä ej o suaanna, jossa työ ootten
+                    kysynnä kuinka Leweä Liniä on Norin ja Ruohin
+                    wälillä. Waan nyt mä sen taijan teille toimittoa
+                    että Liniä on 3. syltä, tahi 15. <hi rend="superscript"><hi rend="underline">tä</hi></hi> kyynäreä Leweä.
+                    1820. wuon. wiikko= Sanomat pantiin heit kulke=
+                    man; waan <add>minä</add> ej tiä mitenkä hyö kulkenoo. Sen 
+                    joka, minä panin kulkeman sanotaan olewan
+                    wärälillä. Muita en minä tiä.___
+                    
+                    [sivu vaihtuu]
+                    
+                    Nyt minä neän kirjastais! ettei Sikaisesta
+                    tullu miestä, jopa tuota moini spowaisˇ kuin
+                    kuuliwat teijän Sikaisen ottaneenne kansānne.
+                    Työ sanoitte Lopulla sitä kirjoa, jossa kaskitte.
+                    minua Kuninkaan puheille. Että minä oisin
+                    tainna Mammoilan miesten kanssa poikaini
+                    Lähätteä sinne. Waan mistäs minä sitä tiesin,
+                    Minä ej tiennä Mammoilan miesten siellä ole=
+                    wan ennen kuin ma käsitin teijän kirjan Öst=
+                    markissa. Waan nyt minä ōn suaanna sanan
+                    Mammoilasta, että mulla on Lupa Laittoa
+                    poikain sinne kuin fyöri tuloo.
+                    Koska työ tahote sen kunnian mulle näytteä
+                    että työ tahoitte ottoa minun poikain Luoxeenne.
+                    Niin taijat olla wissi poijan piäälle talwel=
+                    la. waan wanhemman poijan (Pietarin) minä
+                    lähätän Luoxeis. Se niin pyrki sinne; ja
+                    hän wuowoaite yxnään sinne tulemaan. ja
+                    kylläpä minäi uskon että hän <add>on</add> paremp Herralle,
+                    hän oil jo 15. wuoin wanha kesällä sinä 1. p:
+                    Elokuussa; Hän on paljo friskimp kuin se poi=
+                    ja joka Jaa<del><hi rend="underline">ko</hi></del>koilaan wöljäiš, waan ej hänel=
+                    lä o ollu jhan niin hywä oppi Lukemaan, waan
+                    kyllä hänellä on hywä tahto Lukea. Waan jossa
+                    <hi rend="underline">hänet</hi> otat, niin enmä tuota pelkeä että hän
+                    wiinoa juo, häntä ej o yxkään wielä suaa<ref>n<note>viivallinen n-kirjain</note></ref>a wiinoa maistaman, ejkä tuosta ole yhtään
+                    wahinkoa; Minä atelen niin kuin Sanan laskus=
+                    sa seisoo Orasta me touwon tunnemme. Minua
+                    on poijilla naurattanna, aina kuin myö olem=
+                    me sitä puhu<ref>n<note>viivallinen n-kirjain</note></ref>a että yx teistä suaa mä<ref>n<note>viivallinen n-kirjain</note></ref>ä upsalaan;
+                    niin owat rielly wälillään, ja sanoneet minä mään.
+                    
+                    [sivu vaihtuu]
+                    
+                    ja toinen sanoi minä mään. waan nyt kuin
+                    totuus tuil eteen ja näkiwät että minä yhtä hei=
+                    tä warsin rupesin waatiman; niin rupeis se
+                    nuoremp itkemään. Waan Pietar jhastuu, sinä
+                    luulossa: kyllä minä nyt peäsen. Hän ois jo
+                    walmis matkalle uutena wuonna. Waan minä
+                    ej taija häntä tellätä ennen kuin ma suaan was=
+                    tauxen tämän piäälle, intä kuin ej tyo Pietaria
+                    tahoi Luoxenne. Waan ej Herra siinä tappoa
+                    jos Pietairin otatte opetoslapsexenne enemmen
+                    kuin siinä toisesŝakaan, sen minä uskon.
+                    Waan jos tahoit, niin kyllä mulla suaat molem=
+                    matkiin onpa mulla ruoihia, wielä jeä kax koi=
+                    tiin. waan enpä minä tuota taija waatia,
+                    minun <add>tule</add> liaxi kiitteä teitä kuins tekisit niin hywin
+                    ja yhen heista otat, waan sanonma tuota Lystin
+                    wuox, sillä kuin mulla on nuoita poikia niin
+                    monta.
+                    Syni kirjoain <del>n</del> en minä wielä oo suaana wal=
+                    miix. Teällä ej o ollunna yhtän tämineä tänä
+                    syxynä, että minä oon suaanna ylös Luettoa kir=
+                    joain. Ejkä tule ennen kuin talwella, milloin
+                    tulloo Kirkon täminät. waan ejköön tuo käwis
+                    anniin kirkkopakalla ylösˇ Luettoa, ja suaaha
+                    sitten papin ala kirjuttaman.__
+                    Ej mitään enemp, Jloista Joulua; autuanli=
+                    nen uusiwuois`, ja kaikki mielisosiox.
+                    <hi rend="underline">Poawo Räisäinen</hi>
+                    
+                    [sivu vaihtuu]
+                    
+                    Turun wiikko=Sanomiin ens wuoin piäälle,
+                    Etelä suomalaiset.
+                    Eriçh Olsson oinoinen Salmi, Eriçh orainen Wiikero.
+                    Peder Hindrichson Kirnuinen yöberinmäki,
+                    Johan Johansson Orainen Orala,
+                    Eriçh Eriçhson Walkoinen Orala,
+                    Hindriçh Hindrichson Nikaraine Lehtomäki.
+                    Lars Hindriçhson Nikarainen Lehtomäki
+                    Erich Olsson Hämäläinen Suutarin sauna
+                    Mattis Larsson Hotakk Jaakoila.
+                    Hindriçh Samuelsson Hotakka Jaakoila.
+                    Matts Person Karwainen Öijari.
+                    Poawo Räisäinen Öijäri.
+                    Ole Nilsson Pentikäinen Löwåsen.
+                    Turun wiikko=Sanomiin <add>ens</add> wuoin piäälle,
+                    Pohjos suomalaiset.
+                    Danjel Halworsen Lehmoinen Reholta.
+                    Johan Stassenson Mulikka Heljanmäki.
+                    Peder Olsson Raisainen Wensperi.
+                    Jens Hindrichson Hawuinen Jenssilä.
+                    Henriçh Olsson Mulikka Kalnåsi
+                    Paul Morttensson Hähmä Kalnäsi.
+                    Paul Stassenson Mulikk Aho.
+                    Olof Olsson Mulikka Lintorpa. w:1822.
+                    <hi rend="underline">Poawo Räisäinen</hi>.
+                    
+                </p>
+              
+            </div>
+        </body>
+    </text>
+</TEI>

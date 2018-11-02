@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tahvo Kiiskinen > Carl Axel Gottlund</title>
+                <author>Tahvo Kiiskinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:17:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Kiiskinen</surname>
+                                <forename>Tahvo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>40</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Erotettu Antti Porkan kirjeiden yhteydestä. Kiiskinen ilmeisesti sanellut kirjeen, Porkka toiminut mahdollisesti kirjurina.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="puuttuu">puuttuu</placeName>
+                        <date when="1823-02-16">16.2.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077762_001" />
+                <p>
+                    <l><unclear>Liskhöynaũsä</unclear> sinä 16 p. Helme Kuusa</l>
+                    <l>v. 1823.</l>
+                </p>
+                <p>Tahvo Kiiskiselta Kaarle Gottlundle!</p>                
+                <p>
+                    <l>Minä oon palio Halanna Herroa</l>
+                    <l>puhutella, van ej o millenkän taina</l>
+                    <l>tapahtua siiten Kuin häisä Ruunun=</l>
+                    <l>maala, Ja oli sanken pahoin Kuin</l>
+                    <l>en minä olot Kotona silloin Kuin</l>
+                    <l>Hän meiän Kylissä Käweli, Ja nyt</l>
+                    <l>minä tahoin häntä pyyteä, Etä Hän</l>
+                    <l>vasta päin antais minullekin tieon</l>
+                    <l>meiän asiasta, Jos miö tulisimme</l>
+                    <l>Ruohtalaisista Erillen, ja Saisi<ref>m<note>viivallinen m-kirjain</note></ref>e</l>
+                    <l>sen Ilon nautita Kuin nyt Kuulu.</l>
+                    <l>minä Lähätän tämän Kjerian Porkan</l>
+                    <l>Kansa Kuin Se sinne mäne, Ja toivon</l>
+                    <l>vastausta. palion Terveyxia Kaikilta</l>
+                    <l>Rannilollta Ja Enimitäin</l>
+                </p>                
+                <p>Tahwo Kiiskiseta</p>                
+            </div>
+        </body>
+    </text>
+</TEI>

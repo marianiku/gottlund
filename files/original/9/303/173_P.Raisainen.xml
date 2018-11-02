@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-21">21.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:12</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">        
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>173</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-01-16">16.1.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_040" />     
+                <p>Fulmagt in Blanço.___</p>                
+                <table>      
+                    <row>
+                        <cell>Arne Persen Waisinen</cell>		
+                        <cell>Arne Hanssen Walkoinen</cell>
+                    </row>
+                    <row>
+                        <cell>fran Hölsättern</cell>		
+                        <cell>fr. Kokkastorppet</cell></row>
+                    <row>
+                        <cell>Ole Olsen Waisinen</cell>		
+                        <cell>Ole Nilssen._</cell>
+                    </row>
+                    <row>
+                        <cell>fr. Hölsätter</cell>			
+                        <cell>fr. Grastad.</cell>
+                    </row>
+                    <row>
+                        <cell>Borger Olssen Waisinen</cell>		
+                        <cell>Tol Johanssen__</cell></row>
+                    <row>
+                        <cell>fr. Hölsättern</cell>			
+                        <cell>Sörgårdsätter._</cell>
+                    </row>
+                    <row>
+                        <cell>Anders Pedersen Waisinen</cell>		
+                        <cell>Tosten Olsson Moilainen</cell>
+                    </row>
+                    <row>
+                        <cell>fr. Hölsättern</cell>		
+                        <cell>
+                            <l>fr. Bronsberget, <del>på Fang</del></l>
+                            <l><del>näs skogen</del> på Sölber skogen</l>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>Anders Gulbranssen</cell>
+                        <cell>Hågen Gulbranssen</cell>
+                    </row>
+                    <row>
+                        <cell>fr. Hölsättern</cell>
+                        <cell>Hölsättern.__</cell>
+                    </row>
+                    <row>
+                        <cell>Johannes Johanssen Tingelöw</cell>
+                        <cell>Eriçh Andersson Soikainen</cell>
+                    </row>
+                    <row>
+                        <cell>fr. Hölsättern</cell>
+                        <cell>Steffentorpet.__</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Johan Olssen Porka</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Bronsbergsätter på Sölberg</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>skogen</cell>
+                    </row>
+                </table>
+                <p>
+                    <l>Öijärillä sinä 16.p: Taammi kuussa w: 1823.__</l>
+                    <l>Herra Gottlundi</l>
+                </p>
+                <p>
+                    <l>Tässä on toaiš wielä Miesten niimiä, jotka on</l>
+                    <l>meijän Suomalaisten seuraan <hi rend="underline">antainneet</hi>; Nämät</l>
+                    <l>owat Bramhausan mehältä winkerin suokunnast.</l>
+                    <l>Näijen Mehtä ottaa kiin, Fannäsin Mehästä Luoteseen,</l>
+                    <l>ja <add>on</add> Filiçomisin alla. waan heijän torpat on Bramhuu=</l>
+                    <l>san alla. Sillä Bramhuusan Herra on osta<ref>n<note>viivallinen n-kirjain</note></ref>a torpat ja</l>
+                    <l>Kartanon Filiçomisiltä, waan mehtä jäj ostamata.</l>
+                    <l>Nyt on nämä torppalit estetty mehästä mitään ostamasta.</l>
+                    <l>Ej puitakan muista kuin kuiwista, jotka on itexeen kuiwaneet</l>
+                    <l>mehässä. Ja tämä näijen uusi Lanherra on pa<ref>n<note>viivallinen n-kirjain</note></ref>u niin</l>
+                    <l>suuret werot heijän piäälle, ettei ne jaxa eissä seisoa. Se</l>
+                    <l>on panna tyyskän joka Riks=urtilta kuin hyö ennen <add>ois</add> pa<ref>n<note>viivallinen n-kirjain</note></ref>u.</l>
+                    <l>Että joka ennen on pa<ref>n<note>viivallinen n-kirjain</note></ref>u weroa 10. urtia, niin pitä nyt pan-</l>
+                    <l>na 10. tyyskeä. ja joka e<ref>n<note>viivallinen n-kirjain</note></ref>en on pannu 12. urtia niin pitä</l>
+                    <l>nyt panna 12. tyyskeä, ja niin es päin. Ja sitten pitä miehen</l>
+                    <l>ja waimon käyä työssä, omin kostineen niin pitkä kuin kesä</l>
+                    <l>on. Ejwätkä suaa päiwältä enemp. kuin 16. killinkiä mies, ja</l>
+                    <l>waimo 8. killinkiä päiwä työstä.</l>
+                </p>
+                <p>
+                    <l>Sillä nämäki Rukoile tietä, ettäs tekisit sen Laupiunen heille,</l>
+                    <l>ja ilmoittasit Kuninkaalle heijän ahistoxen, ja pyytäsitten Ku=</l>
+                    <l>ninkasta että hyökin sais Rahoja Lai<ref>n<note>viivallinen n-kirjain</note></ref>ax torppaiens ja Mehän</l>
+                    <l>Lunastoxex. Kyllä ne lupais maxoa teijän waiwan. Näitä on</l>
+                    <l>1<del>12</del><add>3</add>. puontia, ja 77. henkeä. Niin kuin toisella puolla on ylös riitat=</l>
+                    <l>tu. waan sitä nämäki pyysi että suaaha kapellin Frakuu=</l>
+                    <l>nin=kankahalle. Sitä on Fannäsin ja Öst=kalan, Skuruun mie=</l>
+                    <l>het pyytä<ref>n<note>viivallinen n-kirjain</note></ref>ä. ja sois ne sen Lehtomäin ja Liukoilan Frön Lyys=</l>
+                    <l>taanmäin miehetki jos Kapeil tulis siheen.</l>
+                </p>
+                <p>Poavo Räisäinen.</p>
+                <p>
+                    <l><ref>*<note>lisätty marginaaliin</note></ref>Tämä wimenen Joka wulmahin antoi ruowoa ite torpans waan</l>
+                    <l>tahtois suaaha osan mehtän.___ teköö weroa 1. nahan ja ¾ osoa.</l>
+                </p>
+                <pb n="2" facs="0268_0078096_041" /> 
+                <table>
+                    <row>
+                        <cell>
+                            <l>namnet</l>
+                            <l>på skogen</l>
+                        </cell>
+                        <cell>
+                            <l>namnet</l>
+                            <l>på Soçken</l>
+                        </cell>
+                        <cell>Namnet på Byerne</cell>
+                        <cell>
+                            <l>Bön-</l>
+                            <l>der</l>
+                        </cell>
+                        <cell>
+                            <l>Perso-</l>
+                            <l>ner</l>
+                        </cell>
+                        <cell/>
+                        <cell>taxten</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>
+                            <l>Bramhus</l>
+                            <l>skogen</l>
+                        </cell>
+                        <cell>
+                            <l>i Wingers</l>
+                            <l>Socken</l>
+                        </cell>
+                        <cell><hi rend="underline">Hölsättern</hi></cell>
+                        <cell><hi rend="underline">8</hi></cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><unclear>6</unclear>. byer</cell>
+                        <cell><unclear>13</unclear>. gårder</cell>
+                        <cell>Hölsättern</cell>
+                        <cell>7.</cell>
+                        <cell>44.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>77.</cell>
+                        <cell>personer</cell>
+                        <cell>Kokkastorpet</cell>
+                        <cell>2.</cell>
+                        <cell>15.</cell>
+                        <cell>tax</cell>
+                        <cell>1,400.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Grastad</cell>
+                        <cell>1.</cell>
+                        <cell>5.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Sö=gaardsättern</cell>
+                        <cell>1.</cell>
+                        <cell>4.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Gellaråsen</cell>
+                        <cell>1.</cell>
+                        <cell>3.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Stäffentorpet</cell>
+                        <cell>1.</cell>
+                        <cell>6.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>      
+                    <l>Nyt Tankalta <add>on</add> Lähätetty tänne mulle Elo=leipä kirjo=</l>
+                    <l>jansa, ja niitä Contrahtiloitansa, että minun niitä kirjuttoa</l>
+                    <l>ylös, ja Lähätteä teille, ja pyyteä teitä niitä ojkaiseman.</l>
+                    <l>Waan minä tiän että teillä on työtä nokka paremmissai</l>
+                    <l>asjoisa. Ja kyllä pä nuo taitä syökätä rätteä se<ref>m<note>viivallinen m-kirjain</note></ref>oisista asioista</l>
+                    <l>teälläkin.</l>	
+                </p>
+                <p>Poavo R‒nen‒</p>
+                <p>Poavo Räisäjnen	Herra Gottlundille!</p>
+                <p>
+                    <l>Tänne oil tellänneet yhen Miehen Åsnäson Suoku<ref>n<note>viivallinen n-kirjain</note></ref>asta,</l>
+                    <l>Olof Mortin poika Litiäinen Linberistä, tämä mies</l>
+                    <l>pyys minua teille jlmi antamaan heijän ahistoxia.</l>
+                    <l>He asuwat niillä Kuninkaan almennik=mehillä, joita</l>
+                    <l>Knussi e<ref>n<note>viivallinen n-kirjain</note></ref>en pain pyykeämän. waan niin piän kuin Knus=</l>
+                    <l>si pois joutui, niin syökäis Norlaiset Kuninkaan sjötän,</l>
+                    <l>tahi kauppakirjan niien Mehtäien piälle. waan sen kirjan</l>
+                    <l>Norlaiset sai wouwilta, Se ej ikään tullu Kuninkaasta, ja</l>
+                    <l>ejkä Norlaiset niistä Mehistä oo antanna kahta killinkiä</l>
+                    <l>mutt poara Lahin minkä lienewä wouwille anta<ref>n<note>viivallinen n-kirjain</note></ref>a.</l>
+                    <l>Nyt näinä wiimesinä wuosina on Norlaiset rue<ref>n<note>viivallinen n-kirjain</note></ref>a</l>
+                    <l>niin kowax niitä suomalaisa wasten etteiwät anna heijän</l>
+                    <l>mitään tarwistaansa ottoa Mehästä. Ej puitakaan muusta</l>
+                    <l>kuin kuiwista. Ejkä peltoa taittoa, ej niittua raiwata ulko</l>
+                    <l>puolla aijan, ja jos jokuu sen tekee niin sakoitetaan.</l>
+                    <l>Waikka monen pitä Kuninkaalle weroa wetea, 3. ja 4. Nah-</l>
+                    <l>koa. (3 a: 4 skin Skatt’). Tämä mies oil tellätty teitä minun</l>
+                    <l>kauttain Rukoileman, että hyökin awun sais, jolla kulla tawal=</l>
+                    <l>la. ja nämäki miehet on niimeensä antanna, Moni heistä</l>
+                    <l>antoi mulle wulmahin messumoarina. ja moni heistä antoi</l>
+                    <l>teille wulmahtinsa. Se oiš kyllä tarpeenlinen että još hyö</l>
+                    <l>tulis autetux, hyö tahtois piästä suomalaisten seuraan, ja</l>
+                    <l>käyä kirweskankahalle kirkoon. Tämän piäälle hyö pyytä</l>
+                    <l>wastausta silloin kuin meille passit Lähätätte</l>
+                </p> 
+                <p>Poawo Räisäinen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

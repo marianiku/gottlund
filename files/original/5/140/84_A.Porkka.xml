@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka > Carl Axel Gottlund</title>
+                <author>Antti Porkka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:19</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>84</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Porkka sanellut kirjeen, Paavo Räisäinen toiminut kirjurina.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1823-07-03">3.7.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_052" />
+                <p>
+                    <l>Oijärillä sinä 3. Heinä kuussa 1823.</l>
+                    <l>Herralle Kuarle Gotlundille</l>
+                </p>
+                <p>
+                    <l>Minä oon kuulu ettei Herra tule tänne e<ref>n<note>viivallinen n-kirjain</note></ref>en syxyä.</l>
+                    <l>minä tahoin kysyä teiltä mitä minun pitä rueta</l>
+                    <l>tekemän? Minä tulin pois tuomitux, Merkäliltä</l>
+                    <l>Comisionissa, männä kesänä. Ettei minua pitännä</l>
+                    <l>yhenkä suaaha Öijärin mehällä huusata tahi hyyrätä.</l>
+                    <l>Ja jos joku Öijärin=mehän puontiloista sen teki, niin</l>
+                    <l>hänen piti panna sakkoa 12. killinkiä joka Wuoru=</l>
+                    <l>kautelta. Waan minä oon kuiteki suaanna olla huo=</l>
+                    <l>neessa Sisarein poijan tykönä, Anti Hotakan Ronkaistor-</l>
+                    <l>palla. Waan nyt koska ei herra tule tä<ref>n<note>viivallinen n-kirjain</note></ref>e ennen syxyä</l>
+                    <l>Ejkä Comitekä ennen tule, niin taitaa Merkkäil pa<ref>n<note>viivallinen n-kirjain</note></ref>a</l>
+                    <l>ysöt sakot Hotakan piäälle, ja sitäkä minä ei tah=</l>
+                    <l>tois. Sillä minä pyyän Herroa <add>neuwon</add> mitenkä minun pi=</l>
+                    <l>täis Laittaiteman tässä asjassa. – </l>
+                </p>
+                <p>
+                    <l>anti antinpoika Porkka.</l>
+                    <l><hi rend="underline">Naimaho.</hi></l>
+                </p>
+                <pb n="2" facs="0268_0077775_053" />
+                <p>
+                    <l>Herralle</l>
+                    <l>Ajwoin Kunnioi-</l>
+                    <l>tettawalle, Ja</l>
+                    <l>Korkiast Oppinulle</l>
+                    <l><hi rend="underline">Kuaarle Gottlundille</hi></l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

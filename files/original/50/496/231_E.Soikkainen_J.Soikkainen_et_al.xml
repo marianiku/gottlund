@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erik Soikkainen, Juho Soikkainen, Heikki Kahilainen, Antti Riekkinen, Niles Riekkinen > Carl Axel Gottlund</title>
+                <author>Erik Soikkainen, Juho Soikkainen, Heikki Kahilainen, Antti Riekkinen, Niles Riekkinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-17">17.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:16:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Soikkainen</surname>
+                                <forename>Erik</forename></author>
+                            <author><surname>Soikkainen</surname>
+                                <forename>Juho</forename></author>
+                            <author><surname>Kahilainen</surname>
+                                <forename>Heikki</forename></author>
+                            <author><surname>Riekkinen</surname>
+                                <forename>Antti</forename></author>
+                            <author><surname>Riekkinen</surname>
+                                <forename>Niles</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>231</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Erotettu Paavo Räisäisen kirjeiden yhteydestä, muut ilmeisesti sanelleet kirjeensä Räisäiselle</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Nytorpet under Bogen">Nytorpet under Bogen</placeName>
+                        <date when="1831-04-14">14.4.1831</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078101_001" />
+                <p>[ruotsia]</p>
+                <pb n="2" facs="0268_0078101_002" />
+                <p>[ruotsia]</p>
+            </div>
+        </body>
+    </text>
+</TEI>

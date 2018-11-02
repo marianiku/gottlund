@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-30">30.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:27</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>188</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-07-08">8.7.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_073" />
+                
+                <p>Öijärillä sinä 8. p Heinäkuussa 1823.__</p>
+                <p>Herra Gottlundille</p>
+                <p>
+                    <l>Nämä Fangnäsin ja Östkalan miehet</l>
+                    <l>tahtoo sulle ilmi antoa, että heijänni pi=</l>
+                    <l>ti tahi täytyi itte ostoa Mehtänsä, samalla</l>
+                    <l>kertoa kuin wärälin miehetki. Waan nyt</l>
+                    <l>tahtois nämä kuitenkin olla suomalaisten</l>
+                    <l>seurakunnassa, ja suaaha ne rahat Kunin-</l>
+                    <l>kaalta Lainnax jotka heijän täyty auksionissa</l>
+                    <l>piäälle panna. Fangnäsin miesten täytyi</l>
+                    <l>panna piäälle yli taxerinkin auksionnissa 505.</l>
+                    <l>Spç: tyskeä, ja se tull siitä kuin muut jo oil</l>
+                    <l>piäälle panneet 500. Spç tytskeä, niin hejän täy=</l>
+                    <l>tyi wielä Lisätä 5. Spç tyskeä, hyö tykkäis ettei</l>
+                    <l>hyö eneä tahtoinna rueta Naburiensa huusman=</l>
+                    <l>niks. Niin nyt tuil koko Summa jonka Fannäsin</l>
+                    <l>Mehästä ja kylistä heijän täytyi antoa 30005. Spç-</l>
+                    <l>tyskeä. Näitä rahoja hyö <del><hi rend="underline">Rukolewat</hi></del> tahtois</l>
+                    <l>pyyteä Kuninkaalta Lainnax, ja Rukoilewat</l>
+                    <l>sinua että sinä autasit heitä tässä asiassa.</l>
+                    <l>Hyö panis Kuininkaalle panttiin kaikki mitä</l>
+                    <l>heillä lötyy jstuwan ja löysän <unclear>kalun</unclear>. Waan näil=</l>
+                    <l>lä nyt auksion oikeuxen iälkeen ej oo jos 5. astai=</l>
+                    <l>koa päiwiä maxoa tätä summoa 3005. Spç tyskeä</l>
+                    <l>niin tästä Summasta tuloo maxoa wuotessa 601.</l>
+                    <l>Spçiä waan hyö ateleis kuin Kuninkas ois nin</l>
+                    <l>Laupias ja panis rahat, että hyö sais 10. astaikoa</l>
+                    <l>päiwiä.______</l>
+                </p>
+                <pb n="2" facs="0268_0078096_074" />
+                <p>
+                    <l>Näien Östkalan Miestenki täytyi piäälle</l>
+                    <l>taxerinkin panna 1380 Spç: tyskeä- ja se oil</l>
+                    <l>poara rannien tautta, ne lisäis liseämistän</l>
+                    <l>piäälle! että nyt on koko <del><hi rend="underline">must</hi></del> summa 2980. Spç-</l>
+                    <l>tyskeä. Näilläi on samat päiwät maxoa, että</l>
+                    <l>näillen tuloo wuossa maxettawax 596. Spç tyskeä:</l>
+                    <l>Waan nämäki puonnit, pyytää sitä samoa kuin</l>
+                    <l>Fannesin puonnit. ja tahtowat rueta Suoma=</l>
+                    <l>laisten seurakuntan; ja Rukoilewat sinua ettäs</l>
+                    <l>auttasit heitäki etta hyö sais niin kuin muutki,</l>
+                    <l>jos suaantia tulis: Hyö pannis pantti Kuninkal=</l>
+                    <l>le kaikki mitä heillä löytyy sekä Löysän että jstu=</l>
+                    <l>waisen kalun. Kylläpä nämä on warakkaita</l>
+                    <l>puontia että kyllä minä uskon naijen Maxawan</l>
+                    <l>sen Summan. ja saman teköö myös Fannäsin</l>
+                    <l>mehtäläisen.___</l>
+                </p>
+                <p>
+                    <l>Waan ej nämä puonnit ois kuitenka ruen=</l>
+                    <l>na auksjoonissa ottaman eikä piäälle pane=</l>
+                    <l>man sillä nämä Luotti Kuninkaan piäälle</l>
+                    <l>ja sen piäälle kuin hyö oil wulmahtiinsa</l>
+                    <l>sinne antanna, waan Riwail joka oil auktions</l>
+                    <l>mestarina yllytti heitä siihen ja oil sano<ref>n<note>viivallinen n-kirjain</note></ref>a</l>
+                    <l>kuin ei työ nyt kini pitele niin sitte oote ul=</l>
+                    <l>kopuolla. Niin ej sitten ollu muuta ruohia</l>
+                    <l>jos nämä huusi ite, ja paniwat piäälle</l>
+                    <l>niin kauan että hyö sai telslakin.__</l>
+                </p>
+                <p>
+                    <l>Taman piäälle hyö pyytäis sultä wastausta</l>
+                    <l>nopeenmittais kuin ois mahollista heillä ei oo</l>
+                    <l>jos 3. tahi 4. wiikon päiwät kuinni taas tule</l>
+                    <l>förfökning.__</l>
+                </p>	
+            </div>
+        </body>
+    </text>
+</TEI>

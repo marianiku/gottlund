@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen &amp; Erich Olssen Hofors > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen &amp; Erich Olssen Hofors</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:20</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <author><surname>Hofors</surname>
+                                <forename>Erich Olssen</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>137</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1822-05-18">18.5.1825</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_047" />
+                <p>Öijärillä sinä 18. p: Toukokuussa w:1822</p>
+                <p>Paawo Raisainen! Herra Koarle Gottlundi</p>
+                <p>
+                    <l>Tällä wiikkolla on toais ne Norlais Taloin</l>
+                    <l>poijat teällä käynnä, Joista minä teille</l>
+                    <l>Kirjutin sina 26. p: Tammikuussa 1822. –</l>
+                    <l>Ne ej ole suaanna tietä mitenkä heijän</l>
+                    <l>Esi wanhemmat on tulu pois panemaan</l>
+                    <l>ne tilat. waan uskottawa on se, että ne wan=</l>
+                    <l>huteen owat olleet wapaat. –</l>
+                    <l>Muuta tietoa hyö e joo suaanna tietä; Mutt heijän</l>
+                    <l>wanhenmilla oil yx kauppa mieš Jsäntänä, jon=</l>
+                    <l>ka Niim oil Hoken Nilsson. Tämä Hoken Nilsson</l>
+                    <l>kuol; sitten Naijen tilat ja Mehtä Auksioniin pan=</l>
+                    <l>tiin. Niin siitten siinä Auksionnissa Osti yx kauppa</l>
+                    <l>Mieš Niimeltä Holter, <del>H</del> hän antoi 1200. tyskeä sen</l>
+                    <l>aijan olewia Rakoia, tämä kauppa tapahtui</l>
+                    <l>wuonna 1767._ Ja tämä Holter oil Rusinkran=</l>
+                    <l>sin Rouan ensmäinen mies. Sen kautta ne tilat</l>
+                    <l>tuliwat Rusinkransin alla. waan sitten kuol tämä</l>
+                    <l>Rusinkransin Rouwa. siitten Joutuwat nämä tilat</l>
+                    <l>Perillisten haltuun; Niin Mannenä Kesänä w:1821.</l>
+                    <l>pani nämä perilliset, nämä ennen mainitut</l>
+                </p>
+                <pb n="2" facs="0268_0077781_048" />
+                <p>
+                    <l>Tilat <add>ia</add> Mehän Auksionniin, Ja siinä männeen</l>
+                    <l>Kesäisessä auksionnissa, ostiwat Siellä Lässä olewai=</l>
+                    <l>set Taloin poijat, ja antoiwat 3535. Norjan</l>
+                    <l>Speçi tyskeä. Josta minä jo oon ennen puhunut.</l>
+                </p>
+                <p>
+                    <l>Nämä kax Taloin poikoa jotka Hoforssissa asuwat,</l>
+                    <l>Näillä on Ruukattawana ¼ osa Kartanoa, ja sillä</l>
+                    <l>Taloin poijalla joka Bratforssissa asuu on 1/16 osoa</l>
+                    <l>Kartanoa Ruukattawana. –</l>
+                    <l>Nämä Taloin poijat Rukulewat teitä Armoillinen</l>
+                    <l>Herra, Ettäš puhutteleisit Ruunua heijän Ejstä,</l>
+                    <l>että Ruunu tekis niin hywin ja ostais hejiän</l>
+                    <l>tilat, hyö tahtois olla ennen Ruunun alla kuin</l>
+                    <l>muijen Norlaisten, sais Ruunu panna heijän</l>
+                    <l>piäälle Weron minkä tahtois._ Ja sitten niin</l>
+                    <l>kuin ma puhuin siinä enmaisessä Kirjassa, niin</l>
+                    <l>owat hyö asunna Laps Lapsen jälkeen, ja ej jkään</l>
+                    <l>työtä maxettu, Sillä oisiwat hyö tahtoinna olla pe=</l>
+                    <l>rilliset ja waltiat ostamaan Samalla hinnalla</l>
+                    <l>kuin Holter Ost. Sillä heillä on se usko, kuin Ku=</l>
+                    <l>ninkas Rupeais heitä Autamaan, että Kuninkaalla</l>
+                    <l>ois woima ostoa sillä wanhalla kaupalla kuin</l>
+                    <l>wuonna 1767. annettiin; joka oil 1200. tyskeä._</l>
+                    <l>Tämän ejstä hyö Hartaasta Rukuile teitä, Ettäs</l>
+                    <l>autasit heitä kuin <hi rend="underline">suinni</hi> Mahtoonlinen ois,</l>
+                    <l>Niin he maxais teijän waiwan yliten ja alai=</l>
+                    <l>ten, ja pyytäwät pientä wastausta tämän piäälle –</l>
+                </p>
+                <pb n="3" facs="0268_0077781_049" />
+                <p>
+                    <l>ajkoja myöten, j<del>ä</del><add>a</add> hyö ois yhtä jloisit jos ej</l>
+                    <l>se niin piän tapahtuis, kuin se jolloinkiin</l>
+                    <l>tapahtuis.</l>
+                </p>
+                <p>
+                    <l>Poavo Räis<hi rend="underline">äinen</hi></l>
+                    <l>Eriçh Olsen Hofors; Gunner Ammundssen D<unclear><hi rend="underline">o</hi></unclear></l>
+                    <l><hi rend="underline">Brede Arnessen Bratfors</hi></l>
+                </p>
+                <p>Armoillinen Herra Gottlundi. –</p>
+                <p>
+                    <l>Näinä päiwinä on myös Kaynnä yx Taloin</l>
+                    <l>Emäntä Sikalasta, Anni Heikin tytär Walkoi=</l>
+                    <l>nen, joka on nyt Emäntänä Heiki Heikin poijalla</l>
+                    <l>Haljainen. Tällen waimollen Lupais hänen ens=</l>
+                    <l>mäinen Mieheensä Mikkel Sikainen, 10. hopearin</l>
+                    <l>weron, kuoltessaan; ja tähään on kax totistajoa. –</l>
+                    <l>Tämä Emäntä sanoo että hälentä on Käräisä</l>
+                    <l>pois tuomittu Nämä 10. hopeärin weroa, että</l>
+                    <l>perillisillä oil paremp walta ne suaaha kuin</l>
+                    <l>hänellä. Hän sanoo Kuullesa että Ruohin Lain</l>
+                    <l>jälkeen, pitäis annetun Kalun ens tulla otetux</l>
+                    <l>kuin perillisten; Sillä tämä waimo pyytäis teitä</l>
+                    <l>Rakas Herra oikaisemaan tätä asioa, Ja tahtois</l>
+                    <l>pientä wastausta tämän piäälle._____</l>
+                </p>
+                <p>Poawo Räisäinen</p>
+                <pb n="4" facs="0268_0077781_050" />
+                <p>Poawo R.nen! Öijärillä si 18.p: Toukokuussa 1822.</p>
+                <p>
+                    <l>Turun Wiikko=Sanomia! olen minä suaan=</l>
+                    <l>na 16.<hi rend="underline">tä</hi>! Ja niihin on meillä niin hywä</l>
+                    <l>sosio, ett=ej työ jkään usko, niis on niin pal=</l>
+                    <l>jon <unclear>Kuuliojta</unclear>, jota myö e joo ennen hawai<ref>n<note>viivallinen n-kirjain</note></ref>a.</l>
+                    <l>Kyllä myö niitä tahonme useanpanai wuo<ref>n<note>viivallinen n-kirjain</note></ref>a</l>
+                    <l>kuin suaaha taijanme ostoa _  __</l>
+                </p>
+                <p>
+                    <l>Se on minusta kumma, kuin ej Kauppa kirjat</l>
+                    <l>jo ole tullu, Niitä on jo niin Moini perään</l>
+                    <l>Kysynnä, ja oisiwat tahtoinna ostoa.</l>
+                    <l>Wirskirjat ja Katismuxet ja Abelskirjat.</l>
+                    <l>Owat jo Mest kaikki ulos tinkattu.__ ___</l>
+                </p>
+                <p>
+                    <l>Ej myös Bibelitkään ole wielä tullu!</l>
+                    <l>Waan puhuttelin ma tuota Oraista mä<ref>n<note>viivallinen n-kirjain</note></ref>ä</l>
+                    <l>moanantaina, hän Sanoi Nuojen jo olewan</l>
+                    <l>tulossa, kyllä ne jo tuloo Fryksiin Tistakiltaan,</l>
+                    <l>Niin Torstaina on Pyhä, Silloin mään minä</l>
+                    <l>Kirkoon, ja taijan Bibelit ojoa Keh<add>k</add>olään</l>
+                    <l>ja | annan sulle tion niin piän kuin Bibe=</l>
+                    <l>lit Kehkölään <add>tuloo</add>; - - - Tämmä oil nyt kel</l>
+                    <l>Ruulia, Jysti kiun ma nuota Sanoja piääsin </l>
+                    <l>Kirjuttamasta, niin tuloo Oraiselta sana,</l>
+                    <l>että Bibelit on jo Kehkölässä, ja sinun pi=</l>
+                    <l>tää heita sieltä perimään. ja myös Räkninkiä</l>
+                    <l>tekemään. Se on uus Räknink, Sillä kuin, Ny=</l>
+                    <l>suokuna ja Talpua on jo suaanna Bibelinsä.</l>
+                </p>
+                <p><ref>*<note>lisätty marginaaliin</note></ref>ja Reäsän sanotaan suaaneen Bibelinsä.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

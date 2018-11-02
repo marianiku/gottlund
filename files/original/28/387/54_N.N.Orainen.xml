@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nils Nilsson Orainen > Carl Axel Gottlund</title>
+                <author>Nils Nilsson Orainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:24:5</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Orainen</surname>
+                                <forename>Nils Nilsson</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>54</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Norra Lekvattnet">Norra Lekvattnet</placeName>
+                        <date when="1823-01-18">18.1.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077769_012" />
+                <p>
+                    <l>Pohos Leiko vattar sinä 18 päv tammi kuusa 1823 Nils oraisälta</l>
+                    <l>hänelle koorlo Gott Lundillen upsalassa</l>
+                </p>
+                <p>
+                    <l>jo mina vimäsälla saien kirko härran piällen kiriuttaman</l>
+                    <l> - minūn synii kiriaien nyt kon mina otin <unclear>atistin</unclear> iotka mina</l>
+                    <l>nyt lähätän härrallen jos tūlo mūn <gap/> hänen kirian</l>
+                    <l>piälen ätta Läns manni olauden on kūolū nin mjs papin svä</l>
+                    <l><unclear>gersa</unclear> van <unclear>päja</unclear> stina salin älää viela van en ole suona var</l>
+                    <l>mūoa tiedoa onko se huono tahi ei tahi suoko se [äuea?? epäselvää]</l>
+                    <l>vaivaisten osasta tahi ei</l>
+                </p>
+                <p>
+                    <l>ja ätta pappi on piästännä mūtamia ripillen jotkei ole</l>
+                    <l>Lukin <unclear>käūna</unclear> on Magnus Ersson ja <del><gap/> <gap/></del></l>
+                    <l>Sigfrid Jonsson pohes Leika <unclear>vattaalla</unclear> ja kalsten <unclear>holstensson</unclear></l>
+                    <l>i kartti torp ja Mūten ei taiia sitta totistoa mutta että han</l>
+                    <l>ne ovat härran käūvan pappilasa ja uelliän silmien välin</l>
+                    <l>puhunna ja mitä Lienövät antanna nin ovat piäsn ripillen</l>
+                    <l>Räisäselta sain tieta että Minūnkin pitäies hännaien pä</l>
+                    <l>vilen <unclear>van</unclear> mina en ole Laisen terve mūtta pitä minun</l>
+                    <l>kuitenkin reistata enkä vielä visin tiiä tūloko ruotsin</l>
+                    <l>puolta monta sinne mänemän.</l>
+                </p>
+                <p>
+                    <l>Heiki <del>Häiki</del> Kahilainen pūvilta on nyt vasta 5 ten päivänä joūlūna</l>
+                    <l>suona Biblia ja Lähättä monta kitosta sen eistä herrallen</l>
+                    <l>Jan Pöns son Liūkoinen mårbacken joka on <unclear>näliännes</unclear> ät</l>
+                    <l>tälän Leikavatinalta tuohto antaita meiian suomalaisten</l>
+                    <l>för samlingin</l>
+                </p>
+                <pb n="2" facs="0268_0077769_013" />
+                <p>
+                    <l>mitenhan sä nyt <unclear>torien</unclear> tullo pitäkon meian sūo</l>
+                    <l>malaisten rūveta prostin <unclear>kartanoa</unclear> kostentaman</l>
+                    <l>nyt on tūllu bebetti <unclear>sedeli</unclear> Loita että meiän</l>
+                    <l>pitäis kasvoaman hirsin tuohia kivia saha Lavūätoa</l>
+                    <l>spikia <unclear>rahoia</unclear> ja muta viela <del>täsin</del> tesin nin my –</l>
+                    <l>tahotomme härralta tietä kalpoako Meilta sitä vastan</l>
+                    <l>sanoa elli eii ja se osi meian <unclear>trapän</unclear> käti miten suoka</l>
+                    <l>tietä</l>
+                </p>
+                <p>
+                    <l>Kjlla mūlla oli meian tūomarista vähä sanomista mutta</l>
+                    <l>nin vähä mina taiian kiriuttua ja nin <del>kiire</del> kiire ätta</l>
+                    <l>mina en ole monen viikon palio suona kottona olla</l>
+                    <l>nyt minūn pitäis olla käräisa ne alko nyt keskivikona</l>
+                    <l>sina 15 ta tässä kuusa mutta piasin mutämia päiväx</l>
+                    <l>kotin</l>
+                </p>
+                <p>
+                    <l>Laūta mies tienastin telin olen mina <unclear>nyt</unclear> Hänsgård <unclear>ūt Hoyien</unclear> eite</l>
+                    <l><unclear>Bysoydink</unclear> ja pitäis nyt villioa ja rahoa kokon juosta</l>
+                    <l>ja niitä asioita iota Räisäinen on käskenna juoxeman</l>
+                    <l>ja suuret kiitoxes herrallen <unclear>mūokantasta</unclear> ja kaikesta</l>
+                    <l>hyvyvesta <unclear>kūia</unclear> hän on minullen tehny</l>
+                    <l>toko se vimenen kiria Lienö <unclear>muillen</unclear> tullu jota minä</l>
+                    <l>Lähätin siitä ei ole vastausta kuulunna.</l>
+                </p>
+                <p>Nils orainen</p>  
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen, Juhoi Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen, Juhoi Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-07">7.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:43</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <author><surname>Räisäinen</surname>
+                                <forename>Juhoi</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>204</bibl>
+                        </msItem>
+                    </msContents>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1826-01-28">28.1.1826</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_153" />
+                
+                <p>Den 28. Januri 1826,</p>
+                
+                <p>Herra Gottlundi</p>
+                <p>
+                    <l>Tästä sinä niäät, mitenkä Poijat</l>
+                    <l>on kirjoittanna. Waan minun aj=</l>
+                    <l>wotuxein ej oo ihan niin. – </l>
+                </p>
+                <p>
+                    <l>Minä telleäisin poijat kernaasti</l>
+                    <l>Upsalaan ja seuroasin ite keralla</l>
+                    <l>kuin poara tilaisuuš myöten antaiš,</l>
+                    <l>en Minä siihen Mammalta ejkä</l>
+                    <l>waimowäiltä Lupoa kysyiš, ja Ra=</l>
+                    <l>hoinni minä jonni Ruoin oisin hywä</l>
+                    <l>pitämän. Waan kuin minä nyt</l>
+                    <l>sinne Lähtisin, ja kauppamieš sen</l>
+                    <l>saiš tietä, niin ei mun kauwan</l>
+                    <l>renkeaiš Öijärillä <hi rend="underline">Lämmitteleitä</hi>.</l>
+                    <l>Kauppa mieš pelkeä sitä kuin sur=</l>
+                    <l>moa, että minun sulle, ja Tukulmiin</l>
+                    <l>kirjuttelewan. Silloin kuin Tukulmista</l>
+                    <l>tultiin kotiin, niin sanoi meijän Jsäntä</l>
+                </p>
+                
+                <pb n="2" facs="0268_0078096_154" />
+                
+                <p>
+                    <l>että kuin hän tahtoiš olla paha,</l>
+                    <l>niin hän oiš hywä <hi rend="underline">minut</hi> tilalta</l>
+                    <l>poiš ajaman, sillä kuin minä Läxin</l>
+                    <l>Tukulmiin ilman hänen Luata, enkä</l>
+                    <l>hänneltä siihen Lupoa kysynnä; ja sa=</l>
+                    <l>noi wielä, kuinš wasta Lähet se<ref>m<note>viivallinen m-kirjain</note></ref>oisil [--]</l>
+                    <l>le kelwoittomille Reisšuille, tahi wielä</l>
+                    <l>eešpäin kirjoittelet sen joutawan asjan</l>
+                    <l>tähe; niin suaat nähä kuinka sun</l>
+                    <l>käy, minä <hi rend="underline">sinut</hi> reistoan suaaha poiš</l>
+                    <l>Öijäriltä. Niin; kuin minä nyt jät=</l>
+                    <l>täsin tukin ajon sillään, ja Läxisin</l>
+                    <l>upsalaan <del>pe</del> ajamaan, niin mahtaiš</l>
+                    <l>jokaainoa tietä miten mun sitte kä=</l>
+                    <l>wiš. __</l>
+                </p>
+                <p>
+                    <l>Jmmoinen käske minun sinua Terweh=</l>
+                    <l>tämän, että hän elää teällä riskiste,</l>
+                    <l>waan hän pyrkis teältä pois koti</l>
+                    <l>maiheen, ja sanoo ettei teällä käy</l>
+                    <l>ahon kyntö Latuun. Hän uoitta sul=</l>
+                    <l>tä pasšia, että peästäxeen upsalaan.</l>
+                    <l>Täsšä seuroa hänen oma kirja</l>
+                </p>
+                <p>Poawo R – nen</p>
+                
+                <pb n="3" facs="0268_0078096_155" />
+                
+                <p>Till Herr C. A. Gottlund</p>
+                <p>
+                    <l>Kiitoksia paljon Herran kirjasta</l>
+                    <l>jonka minä käsitin sinä 15<hi rend="superscipt"><hi rend="underline">te</hi>nä</hi> päiv.</l>
+                    <l>tammi kuussa jossa Herra kirjutta</l>
+                    <l>että meijän tulla talven aijalla up-</l>
+                    <l>salaan, vaan papa sano ettei hän</l>
+                    <l>taija laittoa meitä sinne ennen kuin</l>
+                    <l>sais kuulta mitenkä asjat kävis.</l>
+                    <l>Ej se ois minusta hyvä meijän piäälle</l>
+                    <l>kostoamaan semmoisia vuaatteitakaa</l>
+                    <l><hi rend="underline">suaatikka</hi> sitten rahoja, ja ej hän tu=</l>
+                    <l>kin ajon tähä joutais talven aijalla</l>
+                    <l>sinne ajamaan mitenkää, ja mamma,</l>
+                    <l>ja kaikki vaimot seissovat niin vasta</l>
+                    <l>an meijän mänöä että hyö ovat <unclear>hurjase.</unclear></l>
+                    <l>tulemassa kuin <unclear>kuilovat</unclear> että meitä</l>
+                    <l>sinne jällen <add>tahoitana</add> <del><hi rend="underline">jolta</hi></del> <add>että</add> meijän lähtö mahta</l>
+                    <l>jeähä siltään.</l>
+                </p>
+                <p>
+                    <l>Myö emmön oo sitten kuin kotiin tu=</l>
+                    <l>timmo lukenna eikä kirjuttanna</l>
+                </p>
+                
+                <pb n="4" facs="0268_0078096_156" />
+                
+                <p>
+                    <l>yhtää päiveä mut työtä ommo teh=</l>
+                    <l>ny niin kuin muutkin.</l>
+                </p>
+                <p>
+                    <l>Henriç Olsen Mulikka jollenka Her</l>
+                    <l>ra lähätti yhön anmelan on jo kuol</l>
+                    <l>lu, ja vanha Lars Liuvkkoinen kin</l>
+                    <l>on kuollu. Terveuksiä paljon Herral</l>
+                    <l>le ja kaikille suomalaisillen. Hyvin myö</l>
+                    <l>kin elämmön.</l>
+                </p>
+                <p>
+                    <l>Öyärillä sinä 25<hi rend="superscript"><hi rend="underline">te</hi>nä</hi> päivänä Tammi</l>
+                    <l>kuussa vuonna 1826</l>
+                </p>
+                <p>Juhoi Räisäinen</p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erich Orainen > Carl Axel Gottlund</title>
+                <author>Erich Orainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-14">14.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:7:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Orainen</surname>
+                                <forename>Erich</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>158</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Erotettu Paavo Räisäisen kirjeiden yhteydestä. Orainen sanellut kirjeen Räisäiselle.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1822-12-23">23.12.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078093_001" />
+                <p>Öijärillä sinä 23. päiw: Joulukuussa 1822.</p>
+                <p>Herra Gottlundille Eriçh Oraiselta!</p>	
+                <p>
+                    <l>Minun pitäis nyt toimittoa teille Rakas Herra,</l>
+                    <l>mitenkä minun kanssa on laita! Minä oon tullu</l>
+                    <l>poiš sanotux näinä päiwinä puolelta Hiemmaltain.</l>
+                    <l>Tämän asjan minä nyt toimitan minkä tautta tä=</l>
+                    <l>mä on nyt tapahtunut. Minun Munnain Jsällä</l>
+                    <l>oli wiis ty<del>t</del>tärtä, ne kolmet hän naittoi poiš, ja</l>
+                    <l>niille kahelle jakoi kylänsä, ja naittoi ne kotiin.__</l>
+                    <l>yhelle tyttäreelle sai Miehex Samel Eriçhin poi<del>s</del><add>k</add>an Orai=</l>
+                    <l>nen, toiselle tyttäreele Heikki Eriçhin poika Orainen;</l>
+                    <l>Jotka oliwat weljexiä ja Ora<del><gap/></del>lasta kotoisin.</l>
+                    <l>Niin minä oon nyt tämän Heiçki Oraisen poika.</l>
+                    <l>Waan tämä Samel Orainen Kuoll 18. astaikoa sit=</l>
+                    <l>ten; __ Sitte ottā minun tätiin (tahi Aitin<del>)</del> sisar)</l>
+                    <l>toisen Meihen, jonka <add>kansša</add> hyö asuu yhessä 4. eli 5. wuot=</l>
+                    <l>ta. Waan se Mies oil Juomair ja Räiwä, hän tuh=</l>
+                    <l>laiš pois kaikki sen wähän tawaran kuin Samel</l>
+                    <l>wainajan jalestä jäi, ja se kylä osa jolla hyö</l>
+                    <l>asui tuil roakatux ettej eneä pellot mitään kas=</l>
+                    <l>waneet. Niin 13. astaikoa sitten, Kuole minun</l>
+                    <l>Aitiin sisar, Sitten jäi se Räiwä Mies, Laps puoli=</l>
+                    <l>en kanssa siken, Sillä tämä Mieš ej suaanna yhtään</l>
+                    <l>Lasta täit wainajan kanssa. Niin tämä mies oil</l>
+                </p>
+                <pb n="2" facs="0268_0078093_002" />
+                <p>
+                    <l>Liteliä niin kuin e<ref>n<note>viivallinen n-kirjain</note></ref>enki, ja ej tullu mitään</l>
+                    <l>tehyx kylän piääle, eikä millä muotoa tullu</l>
+                    <l>kyleä ruukanneex. Niin sitten täytyy minun Jsäin</l>
+                    <l>ottoa senni kylä osan haltunsa, ja sitten on tämä</l>
+                    <l><del>s</del> kylä ollu toaiš yhtenä kylänä; ja sitäkin on 13.</l>
+                    <l>astaikoa sitten, kuin <del>man</del> nämä kylät pantiin yhteen.</l>
+                </p>
+                <p>
+                    <l>Waan tämän ennen mainitun Samel Eriçhin poi=</l>
+                    <l>ka Oraisen jälestä, on kax poikoa jotka owat</l>
+                    <l>minua ruenna syökäilemän ja muka tahtoisiwat</l>
+                    <l>sitä kylä osoa jälleen. Männä syxynä olimme, me,</l>
+                    <l>sen wanhimman poijan kanssa Commisionilla, ja siel=</l>
+                    <l>lä myö sowimme että kylän piti kokonans minulle</l>
+                    <l>kuulua; waan nyt toaiš äsköittäin mäin se nuoremp</l>
+                    <l>poika ja sai Länsmannin minua ulossanoman ilman</l>
+                    <l>Laita ja oikeueta. Tästä ulossanomisesta antoi hän</l>
+                    <l>Länsmannille 5. Speçityskeä.</l>
+                </p>
+                <p>
+                    <l>Waan nyt minä Rukoilen teitä Rakas Herra, että</l>
+                    <l>työ tekisitten niin hywin ja auttasitten minua silloin</l>
+                    <l>koska Mehtäjen Löysyy tulee, että minä saisin Löysä=</l>
+                    <l>tä kaikki sen kylän jolla minä asun. Sillä ej niillä</l>
+                    <l><add>pojil</add> oo, millä ne yhtään tiloa tahi mehteä Lunasta, još</l>
+                    <l>taitaa wähä olla minullakiin. Ja ejka tässä mun </l>
+                    <l>tilassain oo enemp ruukinkia, jos sen jaxaa kyllä hywin</l>
+                    <l>yxi Löysätä, Ja još sitä kahen ruetaan Löyseämän niin</l>
+                    <l>meistä tulee kerjäläisiä kummastakiin. Ja nämä poi=</l>
+                    <l>jat on useen kuisanna, ja kauppa=Miehia, etta yx heistä</l>
+                    <l>ois sen osan suaa<ref>n<note>viivallinen n-kirjain</note></ref>a. waan kauppa=Miehet e joo heille sitä</l>
+                    <l>tahtonna antoa sillä kuin se on ollunna yx kylä e<ref>n<note>viivallinen n-kirjain</note></ref>enkin</l>
+                    <l>ja lian pien kahexi. Terweyxiä minulta, sinun kaikkein</l>
+                    <l>nyörimmältä alimaiselta: Eriçh Heikkinpoika Orainen, Wiike=</l>
+                    <l>=ro.  </l>      
+                </p> 
+            </div>
+        </body>
+    </text>
+</TEI>

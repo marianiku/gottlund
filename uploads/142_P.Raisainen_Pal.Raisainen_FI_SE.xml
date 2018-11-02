@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen &amp; Pål Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen &amp; Pål Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:25</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <author><surname>Pål</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>142</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="puuttuu">puuttuu</placeName>
+                        <date when="1822-06-24">24.6.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_068" /> 
+                <p>[ensimmäinen sivu ruotsiksi]</p>
+                <pb n="2" facs="0268_0077781_069" />
+                <p>[ensimmäinen kappale ruotsiksi]</p>
+                <p>
+                    <l>Waan minä oon atellu intäkuin</l>
+                    <l>se on Lystaanmäin mehtä; tokko</l>
+                    <l>johi ois teille hänestä puhunut..</l>
+                    <l>waan wiäärin sekiin on puhunna, joka</l>
+                    <l>sitä ois puhunna. Nilsi waihtoi itelleen</l>
+                    <l>Lystaanmäin Mehän, toisella Mehällä</l>
+                    <l>Rosinkranssin perillisiltä. Ja ejkä si=</l>
+                    <l>tä oo kuultu että Nilsi on Sillä Mehällä</l>
+                    <l>niin kowin paljon tukkia hakkuuttanna, ja</l>
+                    <l>että perilliset on tahtoinna sitä takaisin</l>
+                    <l>pyörtätä, mutt se on ollu silläänsä sitten</l>
+                    <l>kuin hyö waihtoi.__ waan ne waiwaset</l>
+                    <l>Taloin poijat tuon owat suaa<ref>n<note>viivallinen n-kirjain</note></ref>a waihon</l>
+                    <l>hawaita, että owat suaanna Nilsin työssä</l>
+                    <l>käyä Miehet ja waimot niin Talwet kuin</l>
+                    <l>Kesätkin, siinä Skanskalan Kartanosša.</l>
+                    <l>Että ne, ej enä paljon voi. Kyllä pä ne</l>
+                    <l>piän suaa Lahteä poiš tiloiltaan, kuin</l>
+                    <l>ej sinä ja Kuninkas heitä o hywä auttamān.</l>
+                    <l>Kyllä toais on, Että meijän <add>on</add> pahoin kaikki=</l>
+                    <l>en, waan näien wielä pahemp.___</l>
+                    <l>w:1822.</l>
+                </p>
+                <p><hi rend="underline">Poavo Raisainen</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

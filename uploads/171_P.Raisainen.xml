@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-21">21.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:10</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">        
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author> 
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>171</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Räisäinen kirjeen kirjoittaja ja kirjuri. Mulika, Räisäinen, Bentikainen ja Lehmoinen haluavat toimittaa sanan Gottlundille.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1822-12-26">26.12.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_034" /> 
+                <p>
+                    <l>Mattis Poulssen Mulika Bråten.</l>
+                    <l>Ole Olssen Räisäinen Kalnäset.	</l>
+                    <l>Johan Eriksen Bentikainen Bråten</l>
+                    <l>Eriçh Mattisen Lehmoinen Ksjöberget.</l>
+                </p>
+                <p>Öijeren den 26. Demb: 1822</p>
+                <p>    
+                    <l>Nämä miehet joijenka niimet tässä on kirjotetut!</l>
+                    <l>Pyytäwät teita kaikkiin Nöyrimmällä Rukouxella ettäs</l>
+                    <l>pitäsit heitä <unclear>muistissaiis</unclear>, silloin kuin Suomalaisten ke<ref>r<note>viivallinen r-kirjain</note></ref>an</l>
+                    <l>rupea hywin käymän. Että hyö sais rueta pyykeämän</l>
+                    <l>johoonki mehän korpeen. Ne on köyhiä Miehiä jstuu=</l>
+                    <l>wat toisen saunassa ja ej wätkä piääse minnekkä pyykeä=</l>
+                    <l>mään. ja monjailla on monta Lasta, niitä on paha elät-</l>
+                    <l>teä kirweswarella ja toisen takoa eloa ehtiä.___</l>
+                </p>
+                <pb n="2" facs="0268_0078096_035" /> 
+                <p>
+                    <l>Minä neän siinä teijän hywän <add>tahon</add> meijän kohtaan.</l>
+                    <l>kuin työ Lupoatte wielä meille työ miehiä Suomesta</l>
+                    <l>jotka oppettais maata wiljelemän. ja myös yksin</l>
+                    <l>terwan tekiän pohjan maalta. Se mahtais meille olla</l>
+                    <l>suuri etu. Monta tuhatta kostjumaloa kaikesta teijan</l>
+                    <l>teosta ja tahostaanne.</l>
+                </p>
+                <p>Terweyxiä Meiltä kaikilta! teille Rakas Herra G-n</p>
+                <p><hi rend="underline">Poavo, Räisäinen</hi></p>      
+            </div>
+        </body>
+    </text>
+</TEI>

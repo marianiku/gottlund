@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pekka Matinpoika Karvainen > Carl Axel Gottlund</title>
+                <author>Pekka Matinpoika Karvainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:14:9</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Karvainen</surname>
+                                <forename>Pekka Matinpoika</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>28</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Kalnässet, Øyern">Kalnässet, Øyern</placeName>
+                        <date when="1858-09-01">1.9.1858</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077759_039" />
+                <p>Kũnnianlinen Ystävä, Herra C. A. Gottlũnd!</p>
+                <p>
+                    <l>Teijän ystävänlinen kirjanne kirjutettu Misũnmuarina</l>
+                    <l>tũil ramillen rehenlisesti josta paljon kostelen. – Minä on</l>
+                    <l>nähnyt Helsingforssin Avisista jotta, se käuvan sairastava tyttären=</l>
+                    <l>Jenny on peässũ poikeen teältä plågantumasta, ja hũiloa nyt</l>
+                    <l>Jumalan=Rauhassa. – Mũn on käũnnä kovasten veärin</l>
+                    <l>Avisien kanssa, minä olin tũttũ yhen Bruksforvaltarin kans=</l>
+                    <l>sa jonka nim on D.J. Pontén asũ lässä Sũnnin Suokũ=</l>
+                    <l>nan Postkantoria (:sinä on ũũs postkontor:) telläsin rahat</l>
+                    <l><hi rend="underline">8 Rixiä</hi> Pastor A. Sjödingin <ref>*<note>Lisätty marginaaliin</note></ref><add>Tokhulmissa</add> sanan jälkeen; hän varoi siltä</l>
+                    <l>seutua Sumetarin Postrahajen maxavan ylto Ruohin, mi=</l>
+                    <l>täs se Postmestair tahtoi tehä ihtensä viktũvammax eli</l>
+                    <l>kuin minä olin, ja taijan arvata jotta hän pũũtää Hel=</l>
+                    <l>singforsin Tidnings Redaktionilta Ruohtalaisia Tidninkiä</l>
+                    <l>ja maxavat nyt <hi rend="underline">14 Rixia</hi> ja minä en ois tahtoinna</l>
+                    <l>niitä niillä visalla; mitä minä niillä tien, niitä löũtũũ</l>
+                    <l>teällä lähempänä Ruhtalaisia, Danskia ja Norlaisja josma</l>
+                    <l>tahtoisin kũormittain. – Nyt lijoa vuois lianpaljon tokko minä</l>
+                    <l>eneä peäsisin niita ottamasta jotka tästä eispain tũlovat</l>
+                    <l>vuoin loppũũn. Ensimäiset kuin tulevat niin niitä oil paljon</l>
+                    <l>ja sain ne vasta vimes kulunessa Heinä kuussa. – Telleä hyvä</l>
+                    <l>mies! kuin käũ laillen jotta minä suan Suomalaisia Avisia</l>
+                    <l>Pekka Karvainen</l>
+                </p>
+                <pb n="2" facs="0268_0077759_040" />
+                <p>
+                    <l>nien väntättävien Ruohtalaisten sian; van kuin ei käũ läillen</l>
+                    <l>suaha vaihtoa niin pitää piteä ne tulovat Ruohlalaiset. ~</l>
+                    <l>Kuin Jokii – teistä Herroista pitää Wiberin Avisia, niin</l>
+                    <l>tehkeä selbovin taũtta lähätteä tänne joki niita lehtiä   </l>
+                    <l>sitten kuin Herrat ovat ne ihek yltö kahtonna – </l>
+                    <l>pũũvän joltai hyvä Syvämenliseltä Imeiseta vaikka en</l>
+                    <l>minä siellä <add>Helsinkissä</add> yhtä ainuuta mũita tũnnek kuin Teijät!</l>
+                    <l>ja Herra P. Tikkaisen. Ja se meijän ystävä Tikkainen</l>
+                    <l>joka oil niin ulykkeliä jotta häneltä pit tuilpalossa</l>
+                    <l>käuvä telin mita hän oil värvännä ihellen, näin Helsin=</l>
+                    <l>kin Tidningissa jotta oil ihekki käuvä telin samassa suarassa</l>
+                    <l>ja nien Studententien jotka sinä lũsierais piti laisien kautta	</l>
+                    <l>alaist hypätä pihallen. – En oo suanna vissia tietoa sillä kuin</l>
+                    <l>ne sũkukunnat asũũ 5, 6 ja 10, peninkuormoa pois mũn luotain</l>
+                    <l>jotka ovat suomalaisista muutanet teälta Amerikaan</l>
+                    <l>niita on kaikkian paljo Toista satoa Henkeä Miehiä</l>
+                    <l>ja Waimoja yhteensä. Kolt nũorta miesta on siel=</l>
+                    <l>lä kuollũnna: Yx oil mũn poikain Erki, nimeltä</l>
+                    <l>20 astaijan vanhana, ha<add>ũ</add>vattin yhessä kapũnnissa jon=</l>
+                    <l>ka nim oil St. Paul Minnesotan Territoriassa. – Sitten </l>
+                    <l>oil yx nainut poika Olli Räisäinen Räisälästä,</l>
+                    <l>se kolmans joka kuoil oil Olli Sikainen ne</l>
+                    <l>kuoilivat tännenpäna Missisipin ranteilla, ilman</l>
+                    <l>sitä ne ovat monta satoa Engesk peninkuormoa pois=</l>
+                </p>
+                <pb n="2" facs="0268_0077759_041" />
+                <p>
+                    <l>toisistaan, niin kuin Minnesotassa, Jovassa, Wiskonssiassa,</l>
+                    <l>Illinoisissa ja monessa mũũssa muanpai<del>ti</del>kassa jota en</l>
+                    <l>minä tijä. – Monjat heistä kehũũvat renti hyvin elonker=</l>
+                    <l>taansa siellä Amerikan hyvillä ja erinomaitain lihavilla</l>
+                    <l>muanpaikoilla, tekövät siella ihellen asũnpaikkoia ja kyliä</l>
+                    <l>kahvoavat Pappiloita ja pũkeävät kirkoia j.n.e.p. Lienet-</l>
+                    <l>kös kuullũ? sieltä mũũtti kotin <ref>*<note>lisätty marginaaliin</note></ref><add>männä Syxynä</add> kax nuorta pairkuntoa; Yx oil</l>
+                    <l>Heikki Suastainen Waissilan veärinkiltä, ja toinen oil</l>
+                    <l>Antti Pekanpoika asũũ sekii lässä Waissilaan kyleä. hanen</l>
+                    <l>Sukunimen minä en tijä, hän oil Hytialan Tuoman veljen</l>
+                    <l>poika aatelen sen olovan Hytiäisia Sukunimelta; ne pair-</l>
+                    <l>kunnat asuivat siella Amerikassa yhessa kapunnissa jon-</l>
+                    <l>ka nimi oil <hi rend="underline">Rockford</hi> tekivät töiksensä Rautateitä ja</l>
+                    <l>hakkaisivat poltopuita, tienaisivat nuoin <add>ÿhen</add> Dollarin</l>
+                    <l>seuvulta päivässa, panivat monta Rahoa siellä kokoon,</l>
+                    <l>van olivat ulykkeliöitä kaikentietä koit reissullansa</l>
+                    <l>kauvan erinomaisest viipÿvät merellä ja renti kauvan</l>
+                    <l><hi rend="underline">New Yorkissia</hi> Hottelliloissä ja <hi rend="underline">Hamborissa</hi> monen Henken</l>
+                    <l>kanssa keäntyvät makoamaan ja kokottamaan, se tuil</l>
+                    <l>niillen ylenpaltisest kallix ennen kuin ne euvatti tänne, jotta</l>
+                    <l>nyt on <hi rend="underline">nien</hi> elli heijän rahat on nyt renti loppunna.</l>
+                    <l>ois ollut paremp kuin osivat ollet siellä jossa oil hyvät</l>
+                    <l>mũat ja hyvin rahoja j n. ep. – En tijä mitää mũũta</l>
+                    <l>jättiläisistä <ref>*<note>lisätty marginaaliin</note></ref><add>joitas kysyt</add> eli niistä vanhoista myistomerkilöistä, joita</l>
+                    <l>ynskeätten tietä teältä meijän asumapaikoilta jos Pajaien</l>
+                </p>
+                <pb n="3" facs="0268_0077759_042" />
+                <p>
+                    <l>paikkoia vissin löũtũũ saittain ja haũtoja joita Herrenhauvoix</l>
+                    <l>kuhutaan on tũhansittain, enimmittain santaharjũissa, van</l>
+                    <l>nyt uskotaan niita Hautoja seittysix jossa kolia on poltettũ,</l>
+                    <l>sillä kuin teällä on löuvettũ Hauvat kokonan jossa kolit</l>
+                    <l>on ollũ renti koskematak, sihen aikaan ei ne ooka tainet</l>
+                    <l>koilmiluja tehä, on paljon sen näköinen, mitan sitten lienöö.</l>
+                    <l>Suuria kiviä toisten kivien peällä jotka seisoo ikään kuin ois</l>
+                    <l>pantũ toisia piniä kiviä ala ikään kuin jaloix, ne seityset on </l>
+                    <l>mahtanna tũlla kuin meijän muallemme on ollut omvalt=</l>
+                    <l>ning eli Revulution. Meijän elämäkerrasta teällä tahoin sanoa</l>
+                    <l>jonnii sanan: Köũhũũs on valloillaan meijän Suomalaisten</l>
+                    <l>seassa sillä kuin myö omme tũllũ tänne lijan myöhä, Norlai-</l>
+                    <l>set ja Ruohtalaiset ovat aikoa ennen valloittaneet paraat mũan=</l>
+                    <l>paikat, myö oomme suanna Louhũt, kalliot, suuret Sammail=</l>
+                    <l>suot, kiviset käpukankaat, mistäs niistä otettasin tavaroa?</l>
+                    <l>Ne meijän loajat ja ysöt mehät ne ovat ysöltä osalta ne </l>
+                    <l>visaimmat kansat pois narrannet, jotta sillä tavalla ej mũũ=</l>
+                    <l>ten taija olla kuin se on. – On teällä jokuu aina meijän=</l>
+                    <l>kiin seassa joka ei taija elonkerrastansa mitää kannella, van</l>
+                    <l>tahtoi niitä olla harvaan, niinkuin on norlaisissa ja Ruhta=</l>
+                    <l>lasissakin kansoissa. – Eivät paljon huoli meijän Suomalais</l>
+                    <l>Sũkũ Suomenkielen kirjutoxesta, silläpä minä kokisin</l>
+                    <l>heita apuuntsata <del>heitä</del> omalla kielellämme paraiten kuin</l>
+                    <l>kävis laillen ~ - Minäkin oon seittynen luotũ jotta minä en</l>
+                    <l>tahtois kielemme pois kuolemaan, se on arvattava jotta</l>
+                    <l>senpeällen on tehtýnnä lijan paljon vaivoa tänne asti</l>
+                    <l>minkatähen sita pitäis pois heitteä?? Juhoi Räisäinen</l>
+                    <l>pitää koulua ninkuin ennenkiin; hänen Emänsä elä vielä – </l>
+                    <l>ja sua eloleivän Oijärillä yheltä siinä asuvalta Norlaiselta – <hi rend="underline">jatkan</hi>.</l>
+                </p>
+                <pb n="4" facs="0268_0077759_043" />
+                <p>
+                    <l><ref>*<note>vasemmassa yläkulmassa</note></ref><hi rend="underline">jatko</hi></l>
+                    <l>Eriki Oinoinen Salmella, ja Erki Orainen Wikerossa kuolivat</l>
+                    <l>molemmat toissa Wũonna. Niiles Orainen kuoil samaan</l>
+                    <l>aikaan. Tuomas Hytiälossä on kuollut kauka sitten.</l>
+                    <l>Henen poikansa Pekka asũũ Amerikassa, ollut siellä</l>
+                    <l>nyt kuuvetta astaikoo asũũ Juvassa Tahi Minesoas=</l>
+                    <l>sa ei kaukana St. <hi rend="underline">Petteristä</hi> – mahta männä siellä</l>
+                    <l>sen jälkeen kuin on kũũlũt mũakalöũlästen hyvin,</l>
+                    <l>hänellä on ysö Mua <del>jon</del> <add>jonka</add> on ostanna, ja maxanna,</l>
+                    <l>pȳkeä ihelleen kyleä, ja pitää paljon työväkeä, elä</l>
+                    <l>ja mänesty. – Wuois on tullut hyvä teälla. Wiljat on</l>
+                    <l>jo sisälla ja Heiniä on tullut merittomäst hyvin,</l>
+                    <l>Potisiakin tuloo hyvin – Kaikki seisoo hyvin teliin kieskiitetty.</l>
+                </p>
+                <p>
+                    <l>Ysö osa Suomalaisia teälla on niin kuin kollataan</l>
+                    <l>”Helliöitä,” mÿöttelöitä pietään aivan tiheäseen jon=</l>
+                    <l>nek kuletaan arkinakiin pitkät matkat. Yx Poika</l>
+                    <l>Oijärin Luoimäiltä kotosin, on ollut Missions koulussa</l>
+                    <l>Tokulmissa on tullut kotiin hänkiin on vahva Suarna=</l>
+                    <l>mieš, ja monta m<ref>ũ<note>kirjaimen päällä myös viiva</note></ref>ta sihen teliin muakunnista</l>
+                    <l>kaũvät suarnaten. – Suomen Seurakunnan Papin</l>
+                    <l>A. Sjödingen tũnnen hyvin hänen kirjutoxestansa, sekiin</l>
+                    <l>on luvannũt auttaxensa kuinma jotai tarvehten</l>
+                    <l>yliten Tukulmin. – </l>
+                </p>
+                <pb n="5" facs="0268_0077759_044" />
+                <p>
+                    <l>Leikavaitnalaiset puhuvat Ruohinkielen, van ne</l>
+                    <l>taitaa ysö osa Sumenkielen ~ van tahtoi heilta paljon</l>
+                    <l>jeähä Sumeenmon kiel. – Wielä mũlla on fri Piika</l>
+                    <l>karvalan kylästä, emme oo hänen kuullũ vielä norlai</l>
+                    <l>sta sanoa puheneen, kolmeen astaikaan, meijän</l>
+                    <l>kũllen. – Østmarkissa on hyvä Pappi hänen nimensä </l>
+                    <l>on <hi rend="underline">Frykmanni</hi>; van Suokunan Post on yhen Papin poijan</l>
+                    <l>Dalmannin haltũssa. My tyckkeämmen hyvin kuins oot</l>
+                    <l>panettanna kirjamme avisiin, van ne pitää aikoja, ne ovat</l>
+                    <l>kirest tehty ja sen Työneätten jotta ej tähän Suomen kirjũ=</l>
+                    <l>toxen alla paljo väheäkä vuattunna, mitä ihkään teällä</l>
+                    <l>kirjutetaan niin ymmärätten jotta sen pitää olla Ruohta=</l>
+                    <l>laista eli Norlaista, sillä ei tämä Suomen Stavelsi käũ</l>
+                    <l>jos kehnosten, ja sitten aina yletty sekii kiireus teliin,</l>
+                    <l>asũũ Imeinen missa stannissa tahansa. – Postrahat</l>
+                    <l>tällä välillä on niin kalliit jotta en tahtois teijän ũseen Ihel=</l>
+                    <l>lenne kostinkia tekemään, jos falloa med Leglighed niin</l>
+                    <l>lähatä Sjodingillen Stockholmissa, kyllä hän kesäissä</l>
+                    <l>aikana ne sua Kuarloistahan Höũrũ=Traktinkanssa jos</l>
+                    <l>ei taija tulla kallix. – Onko Saiman Kanal pitkä? Onko</l>
+                    <l>Suomessa Rautateijen töitä paljon tekeillä? – Kyllä sitä</l>
+                    <l>ois kyselemista saittain asjoita van eikös se suane olla</l>
+                    <l>tällä kerralla. – Pitä eleänne Perenne kanssa erin=</l>
+                    <l>omaisest hyvin ynskeä Teijän Veir Wettä sakeam Sukulaisenne</l>
+                </p>
+                <p>
+                    <l>Pekka Matinpoika</l>
+                    <l>Karvainen</l>
+                </p>
+                <p><hi rend="underline">Kalnäsissa s 1.p.Syskuussa 1858.</hi></p>            
+                <p>
+                    <l><ref>*<note>lisätty s. 5 marginaaliin</note></ref>Mitenkä Suomen Ruova on Pietarissa</l>
+                    <l>niin tavaranlisex peätunnä kuin</l>
+                    <l>kenkais Kulta topsaisen Silki Wuaten</l>
+                    <l>kirkonne Altarillen?   D.S.</l>
+                </p>
+                <p>
+                    <l><ref>*<note>lisätty s. 5 marginaaliin</note></ref>Eikö vieläkä yhtää oo Suomesta mannut Amerikaan?</l>
+                    <l>Mitenkä se Possessionali on suanna rikkauven joka Öljuverkin</l>
+                    <l>kenkäis kirkoon – – ja Raha <unclear>Reutentan</unclear> Kyntelloix?</l>
+                    <l>S.S.</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

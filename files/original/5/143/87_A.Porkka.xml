@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka > Carl Axel Gottlund</title>
+                <author>Antti Porkka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:22</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>87</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Runsjön (Rumsjön, Rensjön)">Runsjön (Rumsjön, Rensjön)</placeName>
+                        <date when="1825-08-21">21.8.1825</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_060" />
+                <p>Rũnsjon den 21: Aug: 1825.</p>
+                <p>Herra koarle Gottlundille!</p>
+                <p>
+                    <l>Suuret kiitoxet niiten kieriaien edestä,</l>
+                    <l>jotka Räisäisen poiat toivat Minulle.</l>
+                </p>
+                <p>
+                    <l>Nyt on kauvan aikaa sitten kuin</l>
+                    <l>minä kjiriutin Hänelle, jotta Mielin</l>
+                    <l>teke nyt muutaman sanan kieriuttaa,</l>
+                    <l>kuin minä kuulen että hän on Stoçk-</l>
+                    <l>holmissa.</l>
+                </p>
+                <p>
+                    <l>Mitä siitä männen kesäisistä <unclear>Comisesta</unclear></l>
+                    <l>tule sanoa, niin ne herrat tulivat <unclear>aiain</unclear></l>
+                    <l>etelä Leikavatinalle Jossa he huilaisi vähän</l>
+                    <l>aikaa, siten taas aioivat tästä Runsjönin</l>
+                    <l>kauta Östmarkin, Jossa he seoravana</l>
+                    <l>päivänä kjerkon mäni ja ylös luki</l>
+                    <l>yhen kierian kuningalta, että he olivat</l>
+                    <l>meärätyt Comitetä pitämän, Ja Rupeis</l>
+                    <l>kyselemän tokko <del>sitä</del> <del><add><gap/></add></del> tahoitan <add>kjerkoia</add> niin ne</l>
+                    <l>vähät suomalaiset Jotka sielä oli vastai=</l>
+                    <l>si: että miö tahtomme förenaita</l>
+                    <l>Norin</l>
+                </p>
+                <pb n="2" facs="0268_0077775_061" />
+                <p>
+                    <l>Norin suomalaisten kansa Ja saaha omat</l>
+                    <l>kjerkot, Ja virkamiehet, nin maherra taas</l>
+                    <l>sanoi: työ ei saa norlaisten kansa förenaita,</l>
+                    <l>eikä omia virkamiehiä, muuta kuin Läns=</l>
+                    <l>mannin taitaisitte saaha, sen on kuninkas</l>
+                    <l>jo pois sanonna, niin ei siihen muut vastan=</l>
+                    <l>na kuin Ruohtalaiset Ja Erik Olsson <unclear>svenson</unclear></l>
+                    <l>pohois Lekavatinalla, Joka sen miötä an=</l>
+                    <l>toi; Ja kuin Jokin Jotai valitosta tahtoi</l>
+                    <l>eten tuuva, niin sen viisaisi Cançelille</l>
+                    <l>että sielä suorittoa, niin moini ennen</l>
+                    <l>heiti kaiki siltän, kuin sinne mäini.</l>
+                    <l>siiten Rupesi stenberg niin pitkälisesti,</l>
+                    <l>kovasti Ja selvästi (että se hyvin pahoin</l>
+                    <l>kuului) ylös Lukeman, sen, franzenilta</l>
+                    <l>papi seätyn sisän annetun kierian, Ja</l>
+                    <l>kýsyi meiltä Deputeratuilta, tokko miö</l>
+                    <l><add>ole<ref>m<note>viivallinen m-kirjain</note></ref>e</add> sin omalla kätellä ala kjeriuti<ref>m<note>viivallinen m-kirjain</note></ref>e Ja, sisän</l>
+                    <l><unclear>a<ref>n<note>viivallinen n-kirjain</note></ref>oimana</unclear> kuin stoçkholmissa oltin, niin</l>
+                    <l>miö vastaisimme, että miö ei sitä omalla</l>
+                    <l>kätellä kjeriuttanna, sillä se oli Jo sisän</l>
+                    <l>annettu ennen kuin miö tulimme sinne,</l>
+                    <l>Ja Gottlundille oli meiään Ja muiten</l>
+                    <l>suoma=</l>
+                </p>
+                <pb n="3" facs="0268_0077775_062" />
+                <p>
+                    <l>suomalaisten fullmahit että meitän nimen</l>
+                    <l>kjeriutaman, Ja kaiki se kjeria toimitettin</l>
+                    <l>olovan östmarkin Ja Ryxin papia vastan</l>
+                    <l>tehty. siten viimex kỹsyi maherra, eikö työ</l>
+                    <l>tahtois pois muutoa Jemtlandin, Ja siellä</l>
+                    <l>Ruveta korpia ylös ottaman? Ja palion muuta</l>
+                    <l>puhui, Joka ei asian koskenna, että suoma=</l>
+                    <l>laiset siitä Comitestä tuli kyllä vähä turva=</l>
+                    <l>tuxi, Ja suurin osa jo kuuli sen Leikavati=</l>
+                    <l>nalla maaherran puhesta, kuin hän sanoi:</l>
+                    <l>Gottlundi uskoi vanhain akkaien <unclear>sqvalleria</unclear></l>
+                    <l>ja niitä ylös kjeriutti sillä hän petti jh=</l>
+                    <l>tensä, Ja mänivät sieltä kotinsa. sillä</l>
+                    <l>se olisi aivan tarpellinen saaha toisen Co=</l>
+                    <l>miten joha suomalaisissa pietäisin, Ja että</l>
+                    <l>ne miehet Jotka nyt sjellä on, pyytaisi suuli=</l>
+                    <l>sesti kuninkalta, että Herra saisi koko asian</l>
+                    <l>Haltunsa, niin se tohtis Hyvin käyvä.</l>
+                </p>
+                <p>
+                    <l>se oli paha että se konsepti tuli liian</l>
+                    <l>miöhä, jotta ej kävesty Consistariumin kjer=</l>
+                    <l>juttoa, sillä östmarkissa on jo ollut väli</l>
+                    <l>ja tullut otetuxi yxi papi, Dahlman nimel=</l>
+                    <l>tä, Holmdahlista, van puhet kulko, että</l>
+                    <l>hän ei kernast tahtois tũlla östmarkin.</l>
+                </p>
+                <pb n="4" facs="0268_0077775_063" />
+                <p>
+                    <l>ja fryrhuiskin katu palio sitä Reiloa.</l>
+                    <l>Me Ryxin Ja Östmarkin suomalaiset oome</l>
+                    <l>palion tullut Rasitetuxi sillä Probstin Pyk=</l>
+                    <l>ninkilla, sillä siihen on niin palio Rahaa</l>
+                    <l>pitännä panna, että sillä olisi jo kjerkon</l>
+                    <l>ylös Rakentanna, tältä Runsjöniltä piti</l>
+                    <l>männä vuona panna 25: Rixiä 30.B Riksselissa,</l>
+                    <l>ja tänä kesänä 7 Riksiä, Jota kaikian</l>
+                    <l>tule 32: <unclear>Rd</unclear> 30 B Ry <gap/>  ¼ osalta Mantalia,</l>
+                    <l>josta pian arvatan mikä tule 50<hi rend="superscript"><hi rend="underline">ttä</hi></hi> mantalia</l>
+                    <l>joka hänen allansa on. minä ja orainen</l>
+                    <l>mäini<ref>m<note>viivallinen m-kirjain</note></ref>e sublikin kansa Maaherran Luokse</l>
+                    <l>2 aiastaikoa tänä syxyna sitten, Ja pyysimme, että</l>
+                    <l>Ryxin ja Östmarkin suomalaiset, jotka on</l>
+                    <l>Rikierinkin männet ja pyytänet omia kier=</l>
+                    <l>koia ja papin taloia, tulisi tästä kustinkistä</l>
+                    <l>säilytetyxi, sixi kuin peätös tulisi; van ei</l>
+                    <l>vielä sieltä mitän peätöstä saanut, hyveä</l>
+                    <l>ejkä pahaa.– sitä sublikiä seoraisi peäkjerja</l>
+                    <l>tästä Copiosta jonka minä suota Lähätän</l>
+                    <l>Herran Lukea. että minä saisin kūla Ejkö</l>
+                    <l>māherran pitäis kaikin asioihin jonkun</l>
+                    <l>peatöxsen tehtä, tulisi se sitten sinne elli</l>
+                    <l>tänne, van tähän ei oo miityistän tullut. </l>
+                    <l><ref>#<note>viittaus seuraavalle sivulle</note></ref></l>
+                </p>
+                <pb n="5" facs="0268_0077775_064" />
+                <p>#</p>
+                <p>
+                    <l>Minun pitäis Herrallen Ilmoitaman Mitenkä</l>
+                    <l>tämän puolen suomalaiset nyt elävät; niin</l>
+                    <l>joila on hyvät tilat, elävät melken hyvin,</l>
+                    <l>Jumala kiitety! on hyvä terveys olut tähän</l>
+                    <l>asti näila tjenoilla. tänä vuonna on pouta</l>
+                    <l>paikoin pahoin painanna. Minun täyty</l>
+                    <l>kansa valittoa: että sinä kevännä kuin</l>
+                    <l>minä tulin Tukulmista <unclear>koitin</unclear>, niin ej ollut</l>
+                    <l>mulla vielä siemen viliaa, mut piti sitä</l>
+                    <l>Norista hankiman, Jota kyntaika miöhä=</l>
+                    <l>styi, siitä seoraisi kovavuosi; Miö saime</l>
+                    <l>Leikata viliamme vasta Loka=kuusa,</l>
+                    <l>vihantana Ja palelltunanna, Joka siiten</l>
+                    <l>3 viikoa tuli seisoman satessa, jota</l>
+                    <l>vielä otti mätänöxen – Minä kahella</l>
+                    <l>Lautamiehella näitä kahoitin, ja meinai=</l>
+                    <l>sin sjökäta apua, van siltän pä se jäi –</l>
+                    <l>Minä Lähätän sen syni kjerian Herran</l>
+                    <l>kin Lukeaxi, että nähä totuven mun</l>
+                    <l>puhestaini, tästä kovasta onnista Ja</l>
+                    <l>suurista ulos panoista, niin kuin siitä</l>
+                    <l>Prostin Pykingistä, minä olen tullut</l>
+                    <l>suuren velkan että se jo käypi</l>
+                    <l>yli</l>
+                </p>
+                <pb n="6" facs="0268_0077775_065" />
+                <p>
+                    <l>yli 200: Rixiä Pankossa, Jumala tjes mi=</l>
+                    <l>tenkä hän tullo! ne pitäis jo tänä syx=</l>
+                    <l>synä ulos panna jos minä tilaini saisin</l>
+                    <l>varjelluxi, van niitä en minä mistan saa.</l>
+                    <l>Jos eikös tuo Jumala, Joha on minua</l>
+                    <l>ennenkin vastoin käymisissä antana, tjetä</l>
+                    <l>jotakin neovoa vieläkin, en minä vielä</l>
+                    <l>uskosta pois Lieviä, Jos otan hyvällä</l>
+                    <l>miellolä vastoinkäymiset vastan, vaika</l>
+                    <l>ne on kyllä tiöläitä Lävite käytä.</l>
+                    <l>Minä tulen, wuotten kansa aina huo=</l>
+                    <l>nomaxi tästä käsivarresta, Jonkama</l>
+                    <l>piennä mýllyssä mursin, Jostama jo</l>
+                    <l>upsalassa Herrallen Ilmoitin. –</l>
+                </p>
+                <p>
+                    <l>Minä olen arvelluxessa ottoa papilta</l>
+                    <l>Pevisin mun 7 Lastein yliten, niin miös</l>
+                    <l>oman kunniain peälle, Ja sjökätä apua</l>
+                    <l>niin ylös kasvatuxexi, van minä en</l>
+                    <l>tjetä kuika ma tjen, tohtis Herra olla</l>
+                    <l>hyvä Ja neuvoa Minua tässä asiassa.</l>
+                    <l>Oraisen veli se on niin tehnyt, Ja saapi.</l>
+                    <l>palion Terveyxiä minulta Ja kaikilta</l>
+                    <l>suomalaisilta. Jumala olkon Herran Kansa!</l>
+                    <l>Ja autakon häntä kaikissa toimituxsissa!</l>
+                </p>
+                <p>Antj Porka</p>
+            </div>
+        </body>
+    </text>
+</TEI>

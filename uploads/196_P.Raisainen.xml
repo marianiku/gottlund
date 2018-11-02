@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-03">3.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:35</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>196</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Räisäinen kirjeen kirjoittaja ja kirjuri, Kavalainen, Ronkanen ja Kahilainen asianosaisia ja kirjeen sanelijoita.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1824-04-03">3.4.1824</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_115" />
+                
+                <p>Öijärillä sinä 3.p: huuhtiskuussa w:1824.</p>
+                <p>
+                    <l>Tässä on Miehiä Kirskuun mehältä, He owat</l>
+                    <l>nyt äskoittäin suaanna tietä, Ettei heijän juta=</l>
+                    <l>kisa tullu otetux sisään silloin kuin myö ollim=0</l>
+                    <l>ma Upsalassa. He owat sen suaanna tietä Soiko</l>
+                    <l>selta, että sinne oiš pitännä tullä wale kirjan</l>
+                    <l>meijan ollessa senmoisen, Että nämä Katun sitä</l>
+                    <l>kuin hyö owat ala kirjottainnaan ja julakisa</l>
+                    <l>sulle Lähättännä. Nyt wasta tässä yhtenä pänä</l>
+                    <l>oil nämä tämän suaannä tietä. ja tuosta owat</l>
+                    <l>syö suurest pahalla mielin, ja sanowat ettei hyö</l>
+                    <l>oo, muuta atelleet, mutt’ että heijän pitäis tulla</l>
+                    <l>autetux niin kuin muutki suomalaiset ja <add>myös</add> Puuwilai=</l>
+                    <l>set.</l>
+                </p>
+                <p>
+                    <l>Niin nyt nämä Rukoilewat teitä hartaasti, ettäš aut=</l>
+                    <l>tasit heitä, että hyökin sais saman awun kuin Puuwi=
+                        Laiset, ja saisiwat ostoa tilansa Poiš Frederuusin</l>
+                    <l>alta jota Lupoa ei hyö oo suaanna waikka Usein</l>
+                    <l>owat sitä pyytännä._ ___ ___</l>
+                </p>
+                <p>
+                    <l>Tämä Kirskuun <add>mehtä</add>; jolla nämä asuwat oil enskertoa</l>
+                    <l>autio mehtä ja kuului Runulle._ _</l>
+                </p>
+                <p>
+                    <l>Se ensmäinen joka jstuin pyykeämän tälle Kirskuun</l>
+                    <l>mehälle, hänen niimensä oil Sigfrid tahi Sipi Kawa=</l>
+                    <l>Lainen, hän sai ikäänkiun torparin weron piäälle=</l>
+                    <l>sä Ruunulta wuonna 1625.. ‒ 9. hopia dalaria ja 8. hop.</l>
+                    <l>Sitten wuonna 1640. Pantiin hän warsin wero Puon=</l>
+                    <l>nix. ja tuil Räkinöijyx 1/8. hiemmax, ja wero ysön</l>
+                    <l>nettiin 10. hopi dalaria 13. hopiäriä.__ Toais wuonna</l>
+                    <l>1649. pantiin hänen Hiemmansa ¼. hemman. waan we=</l>
+                    <l>ro oil se sama 10. hd<hi rend="underline">ri</hi> 13 h:p<hi rend="underline">eri</hi> aina wuoteen 1708._</l>
+                </p>
+                <p>
+                    <l>Nyt ajna wuotest 1649. on Kirskuun hie<ref>m<note>viivallinen m-kirjain</note></ref>a ollu ¼. osa</l>
+                    <l>waan nyt se on jaittu Kolmen osaan, waan kuittenki</l>
+                    <l>on he sitä samoa sukua, Liotenki Jens Ulanpoika</l>
+                    <l>Kawalainen, hän on wiiennessä polwessa siitä enš=</l>
+                    <l>mäisestä Sipi Kawalaisestä joka tilan ylöš otti.__</l>
+                </p>
+                <p>
+                    <l>Kax torpparia on nyt sen tilan alla. yhen torpan</l>
+                    <l>niimi on kiärnmon ja toisen Biörnberget.</l>
+                </p>
+                
+                <pb n="2" facs="0268_0078096_115" />
+                
+                <p>
+                    <l>Tämän Kirskuun hiemman waihtoi yx Lagma<ref>n<note>viivallinen n-kirjain</note></ref>i</l>
+                    <l>Antun niimeltä jteleen Ruunulta, ja antoi Ruu<ref>n<note>viivallinen n-kirjain</note></ref>ulle</l>
+                    <l>Muualla niin paljon muaata jälleen, hän wahtoi</l>
+                    <l>samalla kertoa Puuwinki itelleen; waan oil se Ruu=</l>
+                    <l>nulta Lupa että Puontien ois samalla kertoa pitä<ref>n<note>viivallinen n-kirjain</note></ref>ä</l>
+                    <l>suaaha ite ostoa, ja käwiwät jo saman asjan tähe</l>
+                    <l>Stokhotmmissa ja saiwat Luwan. waan tämä ennen</l>
+                    <l>majnittu Anton tunkeitiin wäliin ja waihtoi itellēn</l>
+                    <l>niin kuin ennen on sanottu; Tämä waihto tapahtui</l>
+                    <l>wuonna 1771. jonkas taijat pare<ref>m<note>viivallinen m-kirjain</note></ref>in <add>näha</add> puuwin julais</l>
+                    <l>ta, se tuil waihetux samalla kertoa.___</l>
+                </p>
+                <p>
+                    <l>Sitten pain hetsillään tämä hyvä Antun tilat</l>
+                    <l>ja mehät auçtionin piäälle ja möy Stok jun=</l>
+                    <l>karille Frederuusissa, ja siitä päivästä on nämä</l>
+                    <l>tilat ja mehat ollu Frederusin Ruukin alla.___</l>
+                    <l>Niin nyt on tällä neljännellä osalla; Ruunun we-</l>
+                    <l>roa 11. ja 12.73.14. 15. ja ajna 16.<hi rend="superscript"><hi rend="underline">neen</hi></hi> Riksiin Banko=</l>
+                    <l>ta; waan ej nuo tuota niin paljon tajia sanoa.</l>
+                    <l>waan se wero jota ne panoo Frederuusin se on</l>
+                    <l>wähä ysömp siltä ¼ osalta. Nyt ens kertoa 44.</l>
+                    <l>päiwä työtä, ja 10. Hewois paiwa työtä. <add>Kaik omassa Ruassa</add>.</l>
+                    <l>132 Rysseä Kolia kahwata Ruukille joka talwi, ja</l>
+                    <l>ne mehästä hakata ja kolix poltoa omalla kusta=</l>
+                    <l>nuxella, tahi wierailta ostoa. ja Kax wasikkoa</l>
+                    <l>elätteä täytex naũtax. kuin ne toais taũtex tule=</l>
+                    <l>wat. niin toais pannaan toiset kax elätteä täutexi.</l>
+                    <l>ja ½ Leiwiskea woita joka wuosi.__.</l>
+                </p>
+                <p>
+                    <l>Niin <add>näistä</add> sinä nyt neät kuinka nämä waiwaset owat</l>
+                    <l>Rasitetut. Nämä Rukoile teita hartaalla sytämellä</l>
+                    <l>ettäs tekisit niin hywin ja auttasit heittä tässä</l>
+                    <l>asjassa. ja wielä myös pyytäwät että hyö taitais</l>
+                    <l>piäästä muijen suomalaisten Seurakuntaan ja <unclear>kũũa</unclear></l>
+                    <l>samoin Kirkoin.___</l>
+                </p>
+                <p>
+                    <l>Jenš Olofson Kavalainen</l>
+                    <l>Jan Persson Ronkainen</l>
+                    <l>Pål Pålson Kahilainen</l>
+                    <l>alla från</l>
+                    <l><hi rend="underline">Kyrkskogen</hi></l>
+                </p>
+                <p>
+                    <l><hi rend="underline">Poawo Räsäinen</hi></l>
+                    <l>Herra</l>
+                    <l>Gottlundille</l>
+                </p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-14">14.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">        
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>162</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Antti Porkka lähettää viestin Gottlundille Räisäisen välityksellä.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1822-08-01">1.8.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_001" /> 
+                <p>Øijärillä sinä 1.p: Elokuussa w:1822.</p>
+                <p>
+                    <l>Pawali Räisäinen</l>	
+                    <l>Herra Gottlundi</l>
+                </p>
+                <p>
+                    <l>Nyt on Anti Porkka tässä: Hän sanoo</l>
+                    <l>Lähtewänsä ens maanantaina Koarlestahan,</l>
+                    <l>hakeman kirjoja, jos ej hänelle tule este niin kuin</l>
+                    <l>minulle. Minun atokseini ej aina käy niin kuin</l>
+                    <l>ma tahtoisin. Toais on perkele nostanna Merkälit</l>
+                    <l>ja muutkin warakkaammat norlaiset Kuhiseman,</l>
+                    <l>Niin kuin ma jo mainihtin siinä toisessa kirjassa.__</l>
+                    <l>Se oil kaikkian <del>n</del> pahin minun mielestäin, Kuin minä sen</l>
+                    <l>Rowastin kirjan Lähätin niin kulkemaan, waan kyllä nuo tuon</l> 
+                </p>
+                <pb n="2" facs="0268_0078096_002" />
+                <p>
+                    <l>lupais, pitäwän oikein eis tulla; Ejpä Porkkakaan ois</l>
+                    <l>joutanna sitä <add>tietä</add> mänemän, waan ois hän kirjan suaanna</l>
+                    <l>Stasnäsiin Koarlestasta. Kuin ma ymmärsin ettei multa</l>
+                    <l>tullu Lähtöä, enkä tietänyt tokko muilta oiš niin piän.</l>
+                    <l>tullu Lähtöä, Niin mä atelin, taitaa kirjan olla kire ja</l>
+                    <l>sen tähe se tuil niin. Ja paljon tuil se sen tähe, kuin sinun</l>
+                    <l>Kirjais käsitin lian myöhän, jos ma sain kirjan wiikkoa en-</l>
+                    <l>nen niin minä oisin Lähtennä Markkinoille.__</l>
+                </p>
+                <p>
+                    <l>Merkkäli hän tais kel hywin minua walhella että teijän</l>
+                    <l>ois pitännä olla winkerissä, waan nyt mä tuon kuulen</l>
+                    <l>Porkalta että se on peräiti waletta; Mitinkä han Merkkail</l>
+                    <l>Lie tainna niin rumastin wannua että se oil niin totta</l>
+                    <l>kuin Jumal on taiwasa, että sinä oilit siellä, ja söit Ehtoista</l>
+                    <l>Kestikiewarin Luona, joka kylla hywin hänet tunsi.__</l>
+                    <l>Waan nyt minä atelen että ne ej tiä mitenkä hyö tä=</l>
+                    <l>tä Meisän asjoa sais Muaahan sotketuxi; waan ejkös Nuo</l>
+                    <l>tuota wimein meinanne suaaha pois poljetux ja estellyx</l>
+                    <l>niin kuin Knussin aikaan, tämä jo alkaa samalla muotoa</l>
+                    <l>että ne rupea Suomalaisia peloittaman, Minun sanoiwat</l>
+                    <l>pitäwän tulla aresteratux kuin ej minä heitä sen miehen</l>
+                    <l>asjoita ajamasta. Minä jo wastaisin. Ejpä ne sen oo, jos meijän.</l>
+                    <l>Poawo Räisäinen</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

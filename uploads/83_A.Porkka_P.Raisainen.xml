@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka &amp; Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Antti Porkka &amp; Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:18</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>83</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Porkka kirjoittanut kirjeen, Räisäinen kirjoittanut viestin kirjeen loppuun.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Tukholma">Tukholma</placeName>
+                        <date when="1823-05-08">8.5.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_050" />  
+                <p>Stokholmissa 8/5 1823.</p>
+                <p>Porkalta Gottlundile!</p>
+                <p>
+                    <l>Öylön me saime passimme ulos, ja</l>
+                    <l>meinaisi<ref>m<note>viivallinen m-kirjain</note></ref>e lähteä matkalle, wan <del>kuin</del></l>
+                    <l>kuninkas Lupais Reisu Rahaa ja</l>
+                    <l>ni ej joutunet ennen kuin kello</l>
+                    <l>9 huomenna kuin me matkalle lähe<ref>m<note>viivallinen m-kirjain</note></ref>e.</l>
+                    <l>mitenkä asiat ovat, minä puhuin öylön</l>
+                    <l>pä kieriassa, Ja muuten ej niitä saaha.</l>
+                    <l>Poppius sano: kuin niitä muuten vaatitan,</l>
+                    <l>niin Printsiä Epäilän.</l>
+                </p>
+                <p>
+                    <l>ympäri 1814 kuin Berodnings Comite</l>
+                    <l>piettin Rådamin kartanoisa fryxin</l>
+                    <l>Suokunassa ylös antoi altahar 75.</l>
+                    <l>Tynnöriä <unclear>stritä</unclear> viliaa kappalaisepalka</l>
+                    <l>Ryxissä Jonka minä vallan peäle <del>totinsta</del></l>
+                    <l>totistan.</l>
+                </p>
+                <p>
+                    <l>Nỹt hän saapi Rovastin elli kierkoher=</l>
+                    <l>ran palkaxi Runsjöniltä ½ tynnyriä</l>
+                    <l>kaoroia, 1/8 <add>tyn</add> ohraa, 1/8 Tynnöriä Rukiita</l>
+                    <l>2 Ja</l>
+                </p>
+                <pb n="2" facs="0268_0077775_051" />
+                <p>
+                    <l>ja 1/2 Leiviskia voita, 8 killinkiä</l>
+                    <l>Rahaa joka talosta niin puonillta</l>
+                    <l>kuin Torparilta ja muutamilta</l>
+                    <l>¼ <unclear>hiemmoilta</unclear> saapi hän enempi</l>
+                    <l>jossa oseam taloi on.</l>
+                </p>
+                <p>
+                    <l>Kaupa miehen Hedmannin sisar päiviti</l>
+                    <l>uneottan<del>sa</del>ensa sen Laulu kierian wan</l>
+                    <l>käkes tuon tallella pitämän kunni</l>
+                    <l>Herra tule tänne, Ja palio Terveyxiä</l>
+                    <l>hänele Lähättä.</l>
+                </p>
+                <p>
+                    <l>Mörtborgiä minä nyt puhuttelin</l>
+                    <l>hän sanoi, Etei vielä mitän Talonpoi=</l>
+                    <l>kaien siäätyissä oo meitän asiasta puhuttũ,</l>
+                    <l>muuta ej minulla oo toimittaa.</l>
+                    <l>Paljon Terveyxia</l>
+                </p>
+                <p>A. Porkalta</p>
+                <p>
+                    <l>Niin hywast siis meiltä</l>
+                    <l>norjan suomalaisilta.</l>
+                    <l>Ejpä möykään sinua</l>
+                    <l>wielä uneota.</l>
+                </p>
+                <p>
+                    <l>Poppius Se pitelöö kini <unclear>mär=</unclear></l>
+                    <l>jån saassta</l>
+                </p>
+                <p>Paawo Räisäinen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

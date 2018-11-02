@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka > Carl Axel Gottlund</title>
+                <author>Antti Porkka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>81</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Runsjön">Runsjön (Rumsjön, Rensjön)</placeName>
+                        <date when="1823-03-01">1.3.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_046" />
+                <p>
+                    <l>Rensjönillä sinä 1 päiv: Malis Kuussa</l>
+                    <l>v:1823</l>
+                </p>
+                <p>Anti Porkkalta Koarle Gottlundile!</p>
+                <p>
+                    <l>Minä Käsittin Herran Kjerian, joka oli</l>
+                    <l>Tukhulmeista Rekomenteratu, sinä 25</l>
+                    <l>päiwänä viimes Kuusa ja 26. Jte wein</l>
+                    <l>Öijärille, Nyt me lähemme Herran</l>
+                    <l>meärän jälken Kähkölästä Kuin Jumalan</l>
+                    <l>palvelus on pittety. Tänä pänä minä</l>
+                    <l>oon Kjeriuttanna Talbuan, Että Heiän</l>
+                    <l>pitäs tulla tänne, Kokoon, ja minä en</l>
+                    <l>sukkelast ajanna asioain wiimenkän,</l>
+                    <l>sillä se oli heiän oma syynsä, Kuin</l>
+                    <l>ne jutteliwat Kuka matkalle Lähte,</l>
+                    <l>ja atestit jäi wiikoa miöhemmin,</l>
+                    <l>minä Kjeriutin sillen Heilen niin Ruotin</l>
+                    <l>Kuin Suomen Kjelellä, mitenkä Heiän</l>
+                    <l>pitä olla watitettu, wan minun oli</l>
+                    <l>Kiire Kuin minä attestit Lähätin,</l>
+                    <l>jotta minä en Kaikia tullut selittämän.</l>
+                    <l>Mangan Jaanin asiaa minä en o saana</l>
+                    <l>selveä tietoa, meiän papi puhui</l>
+                    <l>minulle</l>
+                </p>
+                <pb n="2" facs="0268_0077775_047" />
+                <p>
+                    <l>minulle, jotta eivät saana murha tiötö</l>
+                    <l>Hänen peälensä, wan sitä Kuin hän oli</l>
+                    <l>Jseänsä Lyönnä, ja sitte Kortin pelistä</l>
+                    <l>sakoittettu, wan Kyllä se Koarlestaisa vielä</l>
+                    <l>makaa; hän pyysi wastawikisä poriia, Ja</l>
+                    <l>olisi nuo Rikkat Ruohtalaiset Kin</l>
+                    <l>tuhon männy, wan ei se olut Kelvanna.</l>
+                    <l>Nyt pauha tänan puolen Herrat</l>
+                    <l>ja Ruohtalaiset. meian Reisusta, Ja</l>
+                    <l>sitä niin monellen nuwallen pannan</l>
+                    <l>sanotan meiän sielä saawan nyysiä</l>
+                    <l>Kuin sinne tullan, ja Keppiä selkän,</l>
+                    <l>van ei minä tuota o Kulowanain.</l>
+                    <l>Räisäinen ei nyt Kieriuttana, sillä</l>
+                    <l>Hän niin Kuin minäkin tioon</l>
+                    <l>annammon <del>meiän</del> meiän Lähöstä.</l>
+                    <l>me tule<ref>m<note>viivallinen m-kirjain</note></ref>on nyt jlolla sinne.</l>
+                    <l>palion Terveyxiä Elä<ref>m<note>viivallinen m-kirjain</note></ref>e.</l>
+                </p>
+                <p>AntjPorka</p>
+                <p>
+                    <l><ref>*<note>lisätty s. 2 marginaaliin</note></ref>Me Läheme Kähkölästa sinä 10 p. täisä Kuusa</l>
+                    <l>warain Jumalan puolesta.</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

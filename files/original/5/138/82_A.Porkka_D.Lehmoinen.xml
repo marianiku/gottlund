@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka &amp; Danel Lehmoinen > Carl Axel Gottlund</title>
+                <author>Antti Porkka &amp; Danel Lehmoinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:17</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <author><surname>Lehmoinen</surname>
+                                <forename>Danel</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>82</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Porkka kirjoittanut kirjeen, allekirjoittajana myös Danel Lehmoinen</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Tukholma">Tukholma</placeName>
+                        <date when="1823-05-07">7.5.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_048" />
+                <p>
+                    <l>Stukullmisa sinä 7<hi rend="superscript"><hi rend="underline">nä</hi></hi> päi Toukokuuisa</l>
+                    <l>v. 1823.</l>
+                </p>
+                <p>Kaarle Gottlundill!</p>
+                <p>
+                    <l>Palio kiitoxia viimen yhteisytesta – </l>
+                    <l>sunnuntaina kello 3 jälken poli päivän,</l>
+                    <l>me kaiki olime kuninkan tykönä,</l>
+                    <l>ja printsi tolkaisi hänen puhensa,</l>
+                    <l>Kuninkas Lupais Co<ref>m<note>viivallinen m-kirjain</note></ref> ite ja kierkot</l>
+                    <l>ja skoulut, niin miös papit Jotka</l>
+                    <l>meiän kieltä taita, ja kuin Co<ref>m<note>viivallinen m-kirjain</note></ref>itäisä</l>
+                    <l>kaiki totaxi löyutän, niin kaiki</l>
+                    <l>meitän anomuxet suostutan. Maanantaina</l>
+                    <l>me toais printsiä pyysimme meitän</l>
+                    <l>sakaa wallwoman, jonka hän lupais, wan</l>
+                    <l>sanoi, Että sen piti maherran kauta</l>
+                    <l>kulkeman, joka ej meilen hyvaxi kuuluna,</l>
+                    <l>wan toiset Suomalaiset korkiat wirkamieh<gap/></l>
+                    <l>sano, Että meitän ej pitäis printsiä Epäilä,</l>
+                    <l>silla se näytäis pahoin, kyllä se on</l>
+                </p>
+                <pb n="2" facs="0268_0077775_049" />
+                <p>
+                    <l>peälen luotettawa.</l>
+                </p>
+                <p>
+                    <l>kuninkas Lupais meilen matka Raha,</l>
+                    <l>jotka me stothollarilta nyt pitäis</l>
+                    <l>saaman, wan mitenkä palio niitä tule</l>
+                    <l>me ei tiiä, sillä hän kysyi palioko</l>
+                    <l>päiwäxi tarwitan, kuin wastus tuli 24 <unclear>B</unclear>,</l>
+                    <l>ja 14. wuorokauta teilä mäne.</l>
+                </p>
+                <p>
+                    <l>printsi sanoi: Etta hän tietä meiän Jo</l>
+                    <l>ennen palio kulunkiä tehnyt, wan ei</l>
+                    <l>mitän tullut, nyt hän Reistoa eikö tuon</l>
+                    <l>pätäis Ees käyvä.</l>
+                </p>
+                <p>
+                    <l>tänä pännä me Jumalan puolesta Lähe<ref>m<note>viivallinen m-kirjain</note></ref>e</l>
+                    <l>koiti matkalle, Ja tämän kansa Lähätä<ref>m<note>viivallinen m-kirjain</note></ref>e</l>
+                    <l>tuhansittain kiitoxia ja Terveyxia Herralle</l>
+                    <l>niin miös kaikille Suomalaisille Tutentille</l>
+                    <l>ja karman<hi rend="underline">dille</hi>, frouwalle Ja kaikille</l>
+                    <l>tuttaville, Jumala olkon teitän kansa!</l>
+                </p>
+                <p>AnttjPorkka</p>
+                <p>
+                    <l>niin miös toiset</l>
+                    <l><del>Del</del> Danel Lehmoinen</l>
+                </p>
+                <p>
+                    <l><ref>*<note>lisätty marginaaliin</note></ref>minä en tiiä Suomalaisten meisän aisiaisa Erkanen</l>
+                    <l>A <hi rend="underline">Pka</hi></l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

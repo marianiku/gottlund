@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-07">7.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:44</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>205</bibl>
+                        </msItem>
+                    </msContents>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1826-02-04">4.2.1826</date>
+                    </dateline>
+                </opener>
+                
+                <pb n="1" facs="0268_0078096_157" />
+                
+                <p>Öijärillä sina 4. p: Helme Kuussa w:1826.</p>
+                <p>Herra Gottlundi!</p>
+                <p>
+                    <l>Kostjumala kirjastais, jonka minä wasta</l>
+                    <l>käsitin sinä 20.<hi rend="superscript"><hi rend="underline">tenä</hi></hi> päiwänä Tammikuusša.__</l>
+                </p>
+                <p>
+                    <l>Sinä arwelet, joko minä oon wäsynnä kir=</l>
+                    <l>joittamasta. Waan en minä wielä oo wäsyn=</l>
+                    <l>na, waikka on pahat jouwot. Se kirja</l>
+                    <l>jonka työ Montgo<ref>m<note>viivallinen m-kirjain</note></ref>eryn kansša kirjoittitte,</l>
+                    <l>käsitin minä oikein, ei Östmarkin Pappi</l>
+                    <l>oo salanna yhtää kirjoa; Östmarkin</l>
+                    <l>kautta sinun pitää wastaki eispäin Lä=</l>
+                    <l>hätteäis kirjat kulkeman sieltä ne parai=</l>
+                    <l>te eeš tulewat. Muualla ne wiipy niin</l>
+                    <l>kauan. Kuin minä Montgommerin kir=</l>
+                    <l>jan käsitin; Niin minä het wastasin</l>
+                    <l>sen piäälle, ja Laitoin hänelle ne wul=</l>
+                    <l>mahit puumerkillä, ja yhen pienen Jn=</l>
+                    <l>laakin Suomen kielellä, että Montgo<ref>m<note>viivallinen m-kirjain</note></ref>e=</l>
+                    <l>rin sitä tulkitä Kuninkaalle. Ja samas=</l>
+                    <l>sa Lähätin sulleki yhen kirjan, ja J<ref>m<note>viivallinen m-kirjain</note></ref>oi=nen Lähätti Myös kirjan. Niisšä kirjoisša</l>
+                    <l>oil myöš kerroittu sekä Poijista, että Jm=</l>
+                    <l>moisen kynnöstä. Ja Jmmoinen pyys jo</l>
+                </p>
+                
+                <pb n="2" facs="0268_0078096_158" />
+                
+                <p>
+                    <l>silloin sinulta Passia, että peästäkseen</l>
+                    <l>koti Maalleen; ja nämä kirjat Lähä=</l>
+                    <l>tettiin jo teältä 7.<hi rend="superscript"><hi rend="underline">tä</hi></hi> wiikkoa ennen Joulua.</l>
+                    <l>waan tämän piäälle ej oo minä wielä</l>
+                    <l>mitää <hi rend="underline">wastuuta</hi> suaanna, onko ne eeš</l>
+                    <l>tullu wai ej? Tämä Näyttä Minusta niin,</l>
+                    <l>että Herra on wäsynnä kirjuttamisesta mul=</l>
+                    <l>le; wai liekkö han Herra taaš <del><hi rend="underline">hal</hi></del> Lähä</l>
+                    <l>tännä Salpuan kautta, että siellä taaš kir=</l>
+                    <l>jat Makoa, wai ejkö han meijän kirjat</l>
+                    <l>lie eeš tullu? wai mikä lienö synä?___</l>
+                </p>
+                <p>
+                    <l>Se oiš ollu sangen pahoin kuin ej ne</l>
+                    <l>wulmahit oiš eeš tullu. Sinun pitä te=</l>
+                    <l>häiš niin hywin ja antoaiš mulle tion</l>
+                    <l>tokko wulmahit on eeš tullu wai ej.</l>
+                    <l>Kuin ei ne oo eeš tullu, niin meijän pitää</l>
+                    <l>Lähättämän toiset.</l>
+                </p>
+                <p>
+                    <l>Ne rykätyt Anmålninkit oon</l>
+                    <l>minä Lähättännä ympäri suomalais=</l>
+                    <l>mehteä. Waan ne tuil Lian myöhän,</l>
+                    <l>ettei myö oo suaanna yhteen puhua</l>
+                    <l>mitenkä myö <hi rend="underline">Laittaiteisimme</hi> niiten</l>
+                    <l>Prenumerantin Rahan keralla.</l>
+                </p>
+                
+                <pb n="3" facs="0268_0078096_159" />
+                
+                <p>
+                    <l>Minä uskoisin että niitä oiš monta</l>
+                    <l>jotka oiš Prenumeranna, waan tätä ej</l>
+                    <l>kaikki suaa tietäkä tämän kuun Lopulla,</l>
+                    <l>soatikka Rahoja kokoon. Waan minä</l>
+                    <l>uskoisin, kuin tuonnemma suaataiš aikoja</l>
+                    <l>niinkuin Huhti Kuun Lopulle, tahi Tou=</l>
+                    <l>ko Kuun Alulla, että wielä silloin saiš Pre=</l>
+                    <l>numerata; Niin niitä tuliš Monta jot=</l>
+                    <l>ka Lähättäiš Rahoja eilläpäin. w<del>ää</del><add>aa</add>n tämän piäälle sinun pitäiš mulle tion</l>
+                    <l>antoaiš nopeenmittain kuinš taitasit, että</l>
+                    <l>myö saisi<ref>m<note>viivallinen m-kirjain</note></ref>a tietä tokko se käypi Laa=</l>
+                    <l>tuun että wielä silloin suaaha Prenume=</l>
+                    <l>raita.</l>
+                </p>
+                <p>
+                    <l>waan kuin ej se läy Laatuun että</l>
+                    <l>wasteis Prenumerata, niin meitä on muu=</l>
+                    <l>tamia <del><hi rend="underline">lo</hi></del> jotka tahtoo Subscribehtix</l>
+                    <l>rueta, niimittäin Minä, ja Peder Matss</l>
+                    <l>son <del>O</del>Karwainen Öijern, Morten Hindriçhson</l>
+                    <l>Nikarainen Löfhöiden, Eriçk Eriçhson Ho=</l>
+                    <l>takka Oranštorpet, Nilš Nilšson Orainen</l>
+                    <l>N<hi rend="superscript"><hi rend="underline">or</hi></hi> Lekwatten, myös pyytämme että sinä</l>
+                    <l>panisit kuin Prenumerink käy Laatuun, niin</l>
+                    <l>myökin tahoi<ref>m<note>viivallinen m-kirjain</note></ref>e Lähätteä Rahoja.__</l>
+                </p>
+                
+                <pb n="4" facs="0268_0078096_160" />
+                
+                <p>
+                    <l>Jmmoinen jaxa hywin ja on riski, minä</l>
+                    <l>oon hänelle tiettännä wuaatteet piäästä</l>
+                    <l>jalkoin, ja myöš paitoja, ettei Jmmoi=</l>
+                    <l>sen oo minua kylleämistä, kuin muutki</l>
+                    <l>suomalaiset oiš hänelle wähänki rahoa</l>
+                    <l>antanna niin hän oiš tullu perjatux.</l>
+                    <l>Nyt on Immoinen ollu muutaman wiikkon</l>
+                    <l>yhön Suutarin wöljysšä Röywän kylissä</l>
+                    <l>Rahoa tienoamasša. Jmmoinen on ollu</l>
+                    <l>Netti Rahoilleen ja hän on siwollinen</l>
+                    <l>Mieš, waan ei paljo tahoi tehä ras=</l>
+                    <l>kasta työtä niin kuin teällä Miehet</l>
+                    <l>on tottunna tekemän.__</l>
+                </p>
+                <p>
+                    <l>Wärälin Mehtäläiset on nyt pahoin</l>
+                    <l>ulkona, Ne on suaa<ref>n<note>viivallinen n-kirjain</note></ref>a uusia jsäntiä,</l>
+                    <l>ne waiwoa heitä niin pahasti ja</l>
+                    <l>owat pitännä heitä monisša Käräjösšä</l>
+                    <l>ja owat kaikki wärälin Mehtäläiset</l>
+                    <l>uloš sanonna torpiltaan, ja menoawat</l>
+                    <l>heijät uloš ajoa kuin poara läy Laatun.</l>
+                    <l>kuin eiwat ota uusia Konrahtia.___</l>
+                </p>
+                <p>
+                    <l>Nyt taaš suomalaiset ihastui kuin</l>
+                    <l>sinulta tuil ne kirjat, ja saiwat kuul=</l>
+                    <l>la että Kuninkaš on myöten antanna</l>
+                    <l>meijän anomuxiin, ja että sinä wielä</l>
+                    <l>meijän asjoa ajat. Ne on jo ollu epäi=</l>
+                    <l>lyxeš enin osa. Jumala pitäköön sinua</l>
+                    <l>terwennä ja onnellisna</l>
+                </p>
+                <p><hi rend="underline">Poawo Räisäinen</hi></p>
+                <p>
+                    <l><ref>*<note>lisätty marginaaliin</note></ref>Elä hywä kultainen meitä unhota, Jota minä</l>
+                    <l>en usko tekewäns, kuin poara Jumala antaa ikeä ja ter=</l>
+                    <l>weyttä.</l>
+                </p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

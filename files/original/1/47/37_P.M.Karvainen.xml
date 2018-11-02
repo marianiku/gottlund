@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pekka Matinpoika Karvainen > Carl Axel Gottlund</title>
+                <author>Pekka Matinpoika Karvainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:14:18</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Karvainen</surname>
+                                <forename>Pekka Matinpoika</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>37</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Kalnässet, Øyern">Kalnässet, Øyern</placeName>
+                        <date when="1873-08-10">10.8.1873</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077759_084" />
+                <p>Aholla lässä Kalnäsia 10, Elok 1873.</p>
+                <p>
+                    <l>Erinomaitain hyväst kũnnioitetũi-</l>
+                    <l>len kaikillen <hi rend="underline">Overlaerer</hi> Herra C.A.</l>
+                    <l>Gottlunnin Lapsillen, Rouvallen ja</l>
+                    <l>Ihellen yhellä kertoa!!! ~</l>
+                </p>
+                <p>
+                    <l>Minä oon ollut kehnonpäivänen</l>
+                    <l>sitten kuinma tũlin tänne kotiin.</l>
+                    <l>Mun tũloo Teitä kaikkia kaikella</l>
+                    <l>lailla kostella ja kiitella Teijän e=</l>
+                    <l>rinomaista hyvätahtosũũvesta minä vas= </l>
+                    <l>tan ainian jokaviisalla. Onko vielä</l>
+                    <l>mitää kũũlũnũt Magister Welly<hi rend="superscript"><hi rend="underline">n</hi></hi>  ja</l>
+                    <l>pienen Hjalmarin reisusta Wenällen?</l>
+                    <l>Koũlũmies Qvalea en oo vielä tavan=</l>
+                    <l>na sitten kuin tũlin kotiin se on </l>
+                    <l>ollut siinä ysössä kuninkanlisessa</l>
+                    <l>stasissa X aniassa sitten viela seon</l>
+                    <l>ollut Drammin kapũnnissa siinä</l>
+                    <l>niin kũhũtussa Tevlingissä (:Udstilling.)</l>
+                    <l>siellä on öllut Sũomalaisia ja Wenä=</l>
+                    <l>läisiä näuttämässa ũũven ja vanhan=</l>
+                    <l>päiväisiä Fridustritä ja n. e. p.</l>
+                </p>
+                <p>
+                    <l>Kuitenni mũn käv pahoin kotin</l>
+                    <l>tullessain, sillä kuin rũũpin tũota evät=</l>
+                </p>
+                <pb n="2" facs="0268_0077759_085" />
+                <p>
+                    <l>=tyä eli manattua lianlista Olta ja</l>
+                    <l>Wiinoa ~ On vissin sũattanna eli ũneũ=</l>
+                    <l>tanna mũn ũlko=frakkiin, se oil ihan</l>
+                    <l>ũũs se oil 35<hi rend="superscript"><hi rend="underline">nen</hi></hi> Rd<hi rend="superscript"><hi rend="underline">n</hi></hi> Rmt veärti.</l>
+                </p>
+                <p>
+                    <l>Teillä jolla on niin erinomaisia flink=</l>
+                    <l>kia ja väleitä Tyttäriä, kũin ne mänö=</l>
+                    <l>vät jollo<ref>n<note>viivallinen n-kirjain</note></ref>i Bryggällen hantũamaan</l>
+                    <l>kuin minä tohtisin pũũteä niien eli</l>
+                    <l>sen kysymään Hũahtmiehiltä Styr=</l>
+                    <l>mannilta eli joltai Isäntämieheltä</l>
+                    <l>oisko mũlta toinna ũnehtũa laival=</l>
+                    <l>len <hi rend="underline">Hangö<hi rend="superscript"><hi rend="underline">le</hi></hi></hi> se mainũttũ Frakki eli</l>
+                    <l>nũttũ ja yx ũũs 7 syleinen köũs </l>
+                </p>
+                <p>
+                    <l>Wuoin kasvo on ratt<ref>ä<note>viivallinen ä-kirjain</note></ref>n korea teäl=</l>
+                    <l>läkin tänä kesänä, kuin ei pitkänli=</l>
+                    <l>set sateet ja yökylmät tärvaais kevät=</l>
+                    <l>kylvöxiä ~ Heinänsũant on ollũt </l>
+                    <l>jokapaikassa korkeamp elikũin</l>
+                    <l>milloinka entysinä aikoina ~</l>
+                </p>
+                <p>
+                    <l>Ei oo Overlaerer Arnesonilta minä</l>
+                    <l>kuulut mitää, tokko se tahtoo <unclear>nietä</unclear></l>
+                    <l>ennenpũhũitũita manũskriptilöitä.</l>
+                    <l>Kũlkovoa tällä ja Oijärin valillä</l>
+                    <l>ei oo ollut jotta oon sũanna lähättelyx</l>
+                </p>
+                <pb n="3" facs="0268_0077759_086" />
+                <p>
+                    <l>Teijän Otavanna Johoi Räisäisellen</l>
+                    <l>eikä sitä toista kirjoa sisarellein Kai=</l>
+                    <l>sallen van aatelen heitimiten jotta</l>
+                    <l>se käũpilātũũn ~</l>
+                </p>
+                <p>
+                    <l>Tätä on hepeä puhua ja pakkopiteä</l>
+                    <l>kuin minä tũlin sieltä Teijän lũota</l>
+                    <l>Helsingistä Tokolmin rantan niin </l>
+                    <l>minä råkaisin yhön <add>miehen</add> se otti kantoaxen</l>
+                    <l>mũn raskain kotinsa ja minä völjäsin</l>
+                    <l>sen kotin, yö oil pimeä se asui yhössä </l>
+                    <l>kanssa se oil paa Norr. van kaũn</l>
+                    <l>nimeä en kelva<ref>n<note>viivallinen n-kirjain</note></ref>a kysymän eikä mie=</l>
+                    <l>hen nimeä, minä sain hyvän Logemen=</l>
+                    <l>tin (qvartierin:) wan tokka Frakki ois</l>
+                    <l>tainna sihen ũnehtũa sitä en ymmar=</l>
+                    <l>rä.    Käviskö sitä laillen avisalla kysyä</l>
+                    <l>nain: Wimexi kũlũnessa jũli kũũssa</l>
+                    <l>lusierais yx norin mies yhössä kartanos=</l>
+                    <l>sa på Norr i Stockholm och glemte igen en</l>
+                    <l>klädesfrak ny med flekkede bomuldstöi <add><gap/></add> forer</l>
+                    <l>kan någen upplysä hvar den är glömt skall</l>
+                    <l>han hafva passande vedergälling derfor emot</l>
+                    <l>Frakken ~ Anmälan deromså skole ske</l>
+                    <l>var det best att sedan skrifvo ett bref</l>
+                </p>
+                <pb n="4" facs="0268_0077759_087" />
+                <p><del><gap/> <gap/> <gap/> <gap/></del></p>
+                <p>
+                    <l>till mig underteknade. Min addres är:</l>
+                    <l>Peder Mattsson Kallnäset från Grũe</l>
+                    <l>Socken i Norrige via Carlstad Sũnne</l>
+                    <l>Östmark och Kallnäset _</l>
+                </p>
+                <p>
+                    <l>Kelpais se joxi sekii, kuin ma niin hy=</l>
+                    <l>vän Frakin flärväisin hũnninkollen!</l>
+                    <l>Minä puutäisin Taijän aũttamaan ihteäin</l>
+                    <l>kuin vain varoittoin jotta taitais lykäs=</l>
+                    <l>teä tuo; jos niin pahoin on jotta Tidnin=</l>
+                    <l>gin tulis pantavax, monella railla ei</l>
+                    <l>oo veärti sitä painottoa eli trykkutteä</l>
+                    <l>sillä kuin se on kallista eikä tijä tokko</l>
+                    <l>siitä mitää tũlis eli ei_ For indrökningen</l>
+                    <l>i Aviserne vil jeg taksamt betale Dem</l>
+                    <l>da jeg faar vidst hvad det koster med hele</l>
+                    <l>Bryderiet <unclear>xarta</unclear>. Minä lopetan nyt mũn</l>
+                    <l>monjat häpeänliset puhein. Ei nyt mũ<del>u</del></l>
+                    <l>ta kuin jumala antais kaikki Teijän</l>
+                    <l>väkenne ja mũn olla tervennä siihen kuin</l>
+                    <l>nyt vasta enemmän puhutaan.</l>
+                    <l>Paljo, paljo ystävanliset</l>
+                    <l>Pekka Karvainen</l>
+                </p>
+                <p>
+                    <l><ref>*<note>lisätty s. 4 marginaaliin</note></ref>Tuo fallais pahoin kuin ej ollut aikoa</l>
+                    <l>tata kirjuttoa <unclear>auemin</unclear> S. S.</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

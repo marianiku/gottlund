@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-13">13.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:52</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>213</bibl>
+                        </msItem>
+                    </msContents>  
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1827-02-24">24.2.1827</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_187" />
+                
+                <p>Öijern <unclear>d</unclear>: 24. Febr: 1827,</p>
+                <p>Herra Gottlundille!</p>
+                <p>
+                    <l>Se on suuri kumma, kuin ei minä eneä</l>
+                    <l>sulta suaa yhtää kirjoa. Minä oon kolmet</l>
+                    <l>kirjoa kirjoittanna joiten piäälle en minä</l>
+                    <l>ole wastausta suaanna. Ejkö han eneä</l>
+                    <l>kirjat eesš tulle" wai mikä han syynä</l>
+                    <l>lienöö" Minä tykkeän, että još oisit</l>
+                    <l>tullu mänemän suomeen, niin oiš sinun</l>
+                    <l>pitännä mulle kirjoittoanš kuitenki. __</l>
+                </p>
+                <p>
+                    <l>Nyt se oiš aiwan suuresti tarpeen, ettäš</l>
+                    <l>kirjoittaisit tänne meille, ja neuwoisit</l>
+                    <l>meitä, kuinka meijän pitäiš Stortinkillä</l>
+                    <l>Christianisša puhuman ja wastoaman.</l>
+                    <l>Norin awiisin piäällä seisoo että muuta=</l>
+                    <l>mia miehiä, meistä, jotka oil Tukulmisša:</l>
+                    <l>pitä olla stortinkillä wastoamasša sen</l>
+                    <l>saan piäälle jota Tukulmisša fyörättiin. __</l>
+                </p>
+                <p>
+                    <l>Waan nyt, još sinne tullaan, niin myö ei</l>
+                    <l>ymmärä eikä tiä, miten sitä sakoa rue=</l>
+                    <l>taan eesš ajaman, kuin ei meillä oo yhtää</l>
+                    <l>Eošmiestä, joka meitä neuwoo. Ej oo Prinsi</l>
+                    <l>siellä; Ejkä yhtää muuta Herroa, joka</l>
+                </p>
+                <pb n="2" facs="0268_0078096_188" />
+                <p>
+                    <l>meijän puolta tainno piteä; Että myö ej </l>
+                    <l>suinkaan tiä kuhuun meijän pitäiš turwai=</l>
+                    <l>ta. Myö olemma nyt justiin niinkuin</l>
+                    <l>Lampaat paimeneta, sitte kuin sinä tau=</l>
+                    <l>koisit meitä neuwomasta. __</l>
+                </p>
+                <p>
+                    <l>waan wielä nytki minä Rukoilen sinua,</l>
+                    <l>još suaapuilla olet, tahi Ruohisša, Ettäš te=</l>
+                    <l>kisit niin hywin ja neuwosit meitä kirjan=</l>
+                    <l>lisesti. Tahi još wielä tuon waiwan ottasit</l>
+                    <l>piäälleiš, ja tulisit ite Christianiin stortinkille</l>
+                    <l>meijän neuwoix niin se olisi wielä parempi.</l>
+                    <l>Kuin ett’ sinä nyt tule ite, tahi ett neuwo</l>
+                    <l>meitä, eli ett’ telleä yhtää muuta Herroa mei=</l>
+                    <l>jän neuwoix, niin meijän asja<del>n</del><add>t</add> ej jkään</l>
+                    <l>käy hywin, sillä kuin myö olemma niin epä=</l>
+                    <l>tietoiset sen kaltaisiin asjohiin. Ja kuin myö</l>
+                    <l>nyt jemme ilman awuta, niin mejiän tulee kah=</l>
+                    <l>ta pahempi täst eteš Eleä, kuin ennenki; sil=</l>
+                    <l>lä Norin ja Ruohin kansa on meitä wielä</l>
+                    <l>enemp wihoaman ruenneet, sitte kuin myö</l>
+                    <l>tätä asjoa rupesimme syökeämän. Anna nyt</l>
+                    <l>wastuuš tämän piäälle niin nopeen kuinš tai=</l>
+                    <l>jat. Ja pane kirjan piäälle. <hi rend="underline">Det bedeš Comunister</hi></l>
+                    <l><hi rend="underline">Swen Dahlmann, att besörja detta bref sendt till fin</hi></l>
+                    <l><hi rend="underline">Egare uförtröjat.</hi></l>
+                    <l><hi rend="underline">Poawo Räisäinen</hi></l>
+                </p>
+                <pb n="3" facs="0268_0078096_189" />
+                <p>
+                    <l>Herralle</l>
+                    <l>Ajwan Kunnioittawalle</l>
+                    <l>Ja</l>
+                    <l>Korkiasti Oppinulle</l>
+                    <l>Carl Axel Gottlundilj:</l>
+                    <l><hi rend="underline">Upsala=ssa</hi></l>
+                </p> 
+            </div>
+        </body>
+    </text>
+</TEI>

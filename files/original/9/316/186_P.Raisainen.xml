@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-30">30.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:25</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>186</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-06-21">21.6.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_065" />                        
+                <p>Öijärillä sinä 21.p: Kesä=Kuussa w:1823.</p>
+                <p>Poawo Räisäinen Herra Gottlundi!</p>
+                <p>
+                    <l>Minä sain sinun Kirjais sinä 18. p:</l>
+                    <l>Kesakuussa, jossa sinä puhuit poijista</l>
+                    <l>ja terweyxiä Lähätä, ja arwelet mi-</l>
+                    <l>tä Kuninkas wastais meille._</l>
+                </p>
+                <p>
+                    <l>Samana pänä sain Oraiselta sen kirjan</l>
+                    <l>jossa sinä ajwan pahoin nuuhtelet</l>
+                    <l>meitä, siitä kuin myö maanherran kirjan</l>
+                    <l>ala niimeenme kirjutimme.</l>
+                </p>
+                <p>
+                    <l>Waan sen minä sulle sanon ettej se ollu,</l>
+                    <l>meijän syytä, Maaherra se heilui niin</l>
+                    <l>willissä siitä kuin ej se saanut sulta pa=</l>
+                    <l>periloita, ja käski meitä hawuilla tuleman</l>
+                    <l>Luoxesa ja toimittaman hänelle meijän</l>
+                    <l>anumuxet, koska Gottlundi on niin ysö ettei</l>
+                    <l>hän anna mulle paperilöitään; kuin ej</l>
+                    <l>työ sitä tie, niin minä suaatan teitä Pu=</l>
+                    <l>lisiin, Mulla on Kuninkaan oikeus että mi=</l>
+                    <l>nun pitää teijän asjoa ees ajoa, Gottlu<ref>n<note>viivallinen n-kirjain</note></ref>ista</l>
+                    <l>owat jo suaanna epäluulon sillä kuin</l>
+                    <l>se niin kauan kirjutta ejkä jkään jouwu wal-</l>
+                    <l>miix ja sitten on hän wieraalta maalta.</l>
+                    <l>Niin sitten täytyi meijän Lyhykäisest toi-</l>
+                    <l>mittoa meijän asiat, ja maaherra kirjutti</l>
+                </p>
+                <pb n="2" facs="0268_0078096_066" />  
+                <p>
+                    <l>ne ylös. Waan rahoija ej myö häneltä</l>
+                    <l>anonut en mekä käskennä Kuninkaalta-</l>
+                    <l>kan anoman kyllä myö niin paljon ym=</l>
+                    <l>märsimme waikka han wähä ymmärre-</l>
+                    <l>tän. waan kyllä maaherra kyseli ejkö</l>
+                    <l>teiltä jo puutu rahat koska niin kauan</l>
+                    <l>ootte wiipynyt, niin taitasitte multa suaaha</l>
+                    <l>Lainnax. Wai pyyettäskö heitä Kuninkaal=</l>
+                    <l>ta? Waan siihen muutamat wastais ej myö</l>
+                    <l>tuota tiä jos heitä Lainnoamme, ejkös mei=</l>
+                    <l>jän pitäne jotenkaan kotiin <hi rend="underline">perjaita</hi>; sillä</l>
+                    <l>myö atelimme Poppiuxen piäälle.</l>
+                </p>
+                <p>
+                    <l>Waan sitä ej minä tiä, oisko han Maaher-</l>
+                    <l>ra tainna olla niin kelmi että hän ois</l>
+                    <l>pannu rahan anumusta kirjansa Lopulle</l>
+                    <l>johoonka myö niimemme ala kirjulimme;</l>
+                    <l>waan kyllä Maaherra ylös Luki kirjan mei=</l>
+                    <l>jän kuulten, waan en minä hawainna että</l>
+                    <l>hän rahan anumusta majuiht, liekö han</l>
+                    <l>muut kuullu. Porkka, ejkä Salmen Erki, ollu</l>
+                    <l>ies sisällää, kuin kirjoan maaherra ylös</l>
+                    <l>Luki. waan kyllä Fabritius meitä jo nuh=</l>
+                    <l>teil ja sanoi rahan anumuxen ollen maa=</l>
+                    <l>herran kirjassa, waan myö ej tuota paljon</l>
+                    <l>mixkään tainna ottoa, sillä kuin myö tie-</l>
+                    <l>simme ettei maanherra ollu wielä ollu,</l>
+                    <l>kirjoneen Kuninkaan ejkä prinsin luona, kuin</l>
+                    <l>myö olimme Kuninkaan puheilla; ja Kunin=</l>
+                    <l>kas jo Lupais ite piäästän kenkix rahoija</l>
+                    <l>meille. Ne rahat jotka myö Kuninkaalta</l>
+                    <l>sain me, ne myö oisinme suaanna ilman</l>
+                    <l>maaherran anomuxeta.__</l>
+                </p> 
+                <pb n="3" facs="0268_0078096_067" />  
+                <p>    
+                    <l>Sinä nuhtelet sitä kuin ej myö sulle</l>
+                    <l>ilmoittanna etta maanherra meiltä otti</l>
+                    <l>wulmahtia, waan enköön minä sitä jo</l>
+                    <l>sulle ilmoittanna Tukulmissa mun muistoain.</l>
+                    <l>Kyllä myö sitä jo sanoinme Maanher-</l>
+                    <l>ralle että meijän anumuxet ja asjat</l>
+                    <l>on Gottlundi ylös kirjuttana ja kyllä se</l>
+                    <l>wie ne ite Kuninkaalle tahi Prinsille;</l>
+                    <l>waan silloin nous maanherra sen wär-</l>
+                    <l>renmin <hi rend="underline">williin</hi>, ja oil niin <hi rend="underline">willissä</hi> että</l>
+                    <l>hän wapisi, ja sanoi enköön minä oo</l>
+                    <l>Herra teijän yltö ja minun kauttain</l>
+                    <l>teijän asjat pitä tulla selitetyxi.__</l>
+                </p>
+                <p>
+                    <l>Hjerplian Mies, Olli Hämäläinen rupeiš</l>
+                    <l>jo niin pelkeämän että hänni jo wapisi,</l>
+                    <l>ja sanoi suomen kielen Jumala armaan</l>
+                    <l>minnekkä myö jouwunme koska Maanher-</l>
+                    <l>ra on nuoin willissä, se on wähä <del>enemp</del></l>
+                    <l>enemp ahattawa kuin Gottlu<ref>n<note>viivallinen n-kirjain</note></ref>i.__</l>
+                </p>
+                <p>
+                    <l>Sitten kuin maaherra rupeis kyselemän.</l>
+                    <l>niin wastoa Hämäläinen ensmäissä, jag</l>
+                    <l>har icke något att klaga på wår öfwrig</l>
+                    <l>het eller på wår Präst, på min deel, uttan</l>
+                    <l>se ero ganska bra i alla delar.</l>
+                </p>
+                <p>
+                    <l>Niin sitten kirjuttaa Maanherra kirjansa</l>
+                    <l>näin._ Olof Mattsson i Hiärpliden seiger</l>
+                    <l>på sin deel, att han <add>har</add> içke något att klaga på</l>
+                    <l>sina Prästen ej heller på annan öfwerhet.__</l>
+                </p>
+                <p>
+                    <l>Sitten rupea maanherra meiltä kyselemän.</l>
+                    <l>waan myö kaikki muut wastailimme sen jälkein</l>
+                </p>    
+                <pb n="4" facs="0268_0078096_068" />  
+                <p>    
+                    <l>kuin myö tiesimme sisään annetux ja</l>
+                    <l>kirjutetux. Että se tuil sitä samoa kuin</l>
+                    <l>sinäki olit kirjuttanna. Waan se rahan anu=</l>
+                    <l>mus, ja ne Hämäläisen sanat, ne tuil pahoin</l>
+                    <l>kuin ne tuil pannux Maaherran inlaakiin.</l>
+                    <l>Rahan anumuxesta myö ej tiennä mitää. Waan</l>
+                    <l>Hämäläiselle Minä jo sanoin että sun ois pitän=</l>
+                    <l>nä olla wait ennen kuin oisit mitää wirk=</l>
+                    <l>kanna, sinä turmelit puheellaas koko meijän</l>
+                    <l>asjan. Niin siihen hän wastais Mikä nyt muu-</l>
+                    <l>ta tajtaa puhua <gap/> <gap/>, niin Korkealle</l>
+                    <l>Herralle, mulla e joo mitään kantelemista.</l>
+                    <l>Siheen sanoo Orainen, niin sitten oisit per-</l>
+                    <l>kele joutanna olla kotonais, eikä tänne</l>
+                    <l>tulla meijän asjoa turmeleman.__</l>
+                </p>
+                <p>
+                    <l>Se on kaukana pois meista, että myö</l>
+                    <l>st sinua tahi Prinsiä epäilinme sinä</l>
+                    <l>asjassa. Waan meijän täytyi sen tehä</l>
+                    <l>Sillä kuin Maaherra <hi rend="underline">willitteliin</hi> ja wäxe</l>
+                    <l>pakotti meijän sen tekemän; ja wielä sitten</l>
+                    <l>niin myö atelimme ettei tuo mitää taija tehä</l>
+                    <l>kuin <add>ei</add> myö muuta puhu, kuin on ennen sisään</l>
+                    <l>pantu. Waan siihen tuil muuta pannux</l>
+                    <l>josta myö ej mitään tienny.</l>
+                </p>
+                <p>
+                    <l>Waan kyllä Prinsi Lupais Meijän asiasta wal-</l>
+                    <l>woaxeen waikka hän sanoi sen suuren kirjan</l>
+                    <l>Lansherran haltuun antaneensa, ja sitten</l>
+                    <l>kuin myö kysymme ejkö myö taija Gottlu<ref>n<note>viivallinen n-kirjain</note></ref>in</l>
+                    <l>kautta suaaha wielä asjoamme ajoa armoil-</l>
+                    <l>liselle prinsille; Niin sihen Prinsi wastais; <ref>+<note>viittaus seuraavalle sivulle</note></ref></l>
+                </p>    
+                <pb n="5" facs="0268_0078096_069" />  
+                <p>    
+                    <l>+ sitä taijatte ajoa kennenkä kautta pa=</l>
+                    <l>raite ymmärätte, jos se ois ajwan joku</l>
+                    <l>Suomalainen Herra tässä Tukulmissa</l>
+                    <l>jonka sihen wirkaan saisitte, ja eikä-</l>
+                    <l>pä sinä eneä paljon tarwihte ajamista,</l>
+                    <l>Jopa Gottlundi on sen asjan kyllä hywin</l>
+                    <l>selittannä kuin se on poara niin kuin</l>
+                    <l>se on kirjutettu; kyllä työ tietänette mi-</l>
+                    <l>tä Gottlundi on kirjuttana teijän eite;</l>
+                    <l>onko se sitä teillä ylös Lukenna. On</l>
+                    <l>se wastasimme myö, niin se on hywä</l>
+                    <l>sanoi Prinsi;</l>
+                </p>
+                <p>
+                    <l>Kyllä Kuninkaski Lupais auttoaxen</l>
+                    <l>kaikis anumuxissa kuin poara ootte</l>
+                    <l>hywä toteen näyttämän kaikki sen</l>
+                    <l>kuin otten sisään pannu, sekä kaup-</l>
+                    <l>pa miehistä wapax peästeä, ja Kirk-</l>
+                    <l>kot suaahaxemme, ja eri <hi rend="underline">heärän</hi>, ja</l>
+                    <l>omat Herrat niin <add>kuin</add> nimismiehet wou-</l>
+                    <l>wit ja Tuomarit, ja suomalaisen pa-</l>
+                    <l>pin ensmältä; waan Kuninkas sanoi</l>
+                    <l>tahtowaansa panna skoulut että op=</l>
+                    <l>pisitte Ruohtia Lukeman ja puhuman,</l>
+                    <l>minä ymmärrän sanoi hän, työ ootte tullu</l>
+                    <l>wihatux sen wieraan kielen tautta waan</l>
+                    <l>kuin teille tulis yxi kieli, niin kansat</l>
+                    <l>paremmin teitä rakastais; ja minä</l>
+                    <l>tahtosin ettej kansoilla pitäis mitää</l>
+                    <l>wainoa oleman wälillään, näin Kunin-</l>
+                    <l>kas meijän kanssa jutteil.__</l>
+                </p>
+                <pb n="6" facs="0268_0078096_070" />  
+                <p>    
+                    <l>Waan Jumala han ite tiennöö miten-</l>
+                    <l>kä han tulloo sillä kuin molemmis</l>
+                    <l>puolin Ruohtalaiset ja Norlaisen seiso=</l>
+                    <l>wat niin wahwasti wastaan; Ja sano=</l>
+                    <l>taan Norin Herraijen kirjuttaneen</l>
+                    <l>Kuninkaisiin että se <add>on</add> renti waletta jota</l>
+                    <l>Gottlundi ja suomalaiset fyöreä.</l>
+                    <l>Ja saman sanowat Ruohin Herroijen</l>
+                    <l>meinoawan tehä, kyllä ne wimesellä</l>
+                    <l>keätänöwät Kuninkaankki sytämmen.__</l>
+                </p>
+                <p>
+                    <l>Waan kuin ois ies ollu niin hywin;</l>
+                    <l>että sina ja <del>Frab</del> Fabritiussi, ja Justi-</l>
+                    <l>tia= Rättä Poppius, ja Franzeen tahi</l>
+                    <l>Stolpi ois tullu, niin sitten mä oisin</l>
+                    <l>uskonna jotenni hywin päin käywän,</l>
+                    <l>ois muut sanonna mita tahaan.</l>
+                </p>
+                <p>
+                    <l>Waan nyt minä neän ettei sinua</l>
+                    <l>ejkä Fabritiussiä oo toiwomista.</l>
+                    <l>Sen tautta ko han työ siltään jätittö</l>
+                    <l>tänne tulemasta, kuin myö maaherran</l>
+                    <l>Kirjaan niimeenme kirjutinme, waan</l>
+                    <l>sitä myö ej tehny tahostame.</l>
+                </p>
+                <p>
+                    <l>Sitä minä wiela Rukolen ettäs piät</l>
+                    <l>kini meijän asjasta Jos mahtoonlinen</l>
+                    <l>on; ejpä sitä Prinsi wastan sanonut.</l>
+                    <l>Ejkös sinä ja poijat jo liene suomessa</l>
+                    <l>Jumala han ies pitäis teitä terven-</l>
+                    <l>nä; Minä Ryösteän ens talwena kay=</l>
+                    <l>wä Upsalassa teitä kahtomassa.__</l>
+                </p>
+                <p><hi rend="underline">Poawo Räisäinen</hi></p>                
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pekka Matinpoika Karvainen > Carl Axel Gottlund</title>
+                <author>Pekka Matinpoika Karvainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:14:12</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Karvainen</surname>
+                                <forename>Pekka Matinpoika</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>31</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Kalnässet, Øyern">Kalnässet, Øyern</placeName>
+                        <date when="1866-10-31">31.10.1866</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077759_057" />
+                <p>
+                    <l>Kalnasissa norin Sũoma=</l>
+                    <l>laisissa sina 31 p. Lokak. 1866.</l>
+                </p>
+                <p>
+                    <l>Paljon hyvin kunniatetullen</l>
+                    <l>Hr<hi rend="superscript"><hi rend="underline">le</hi></hi> C. A. Gottlunnillen!!!</l>
+                </p>
+                <p>
+                    <l>Kauka aikoa sitten kuin minä otin</l>
+                    <l>vastan, tänne lähätettut Kuvauxet</l>
+                    <l>ja erinomaiset arvossa pietävät kir=</l>
+                    <l>jat; joesta mũn ois pitännä tũon ta=</l>
+                    <l>kaisenpäivän, tuhansittain kostella</l>
+                    <l>ja kiitellä, ja Jũmala pitaköön</l>
+                    <l>Teijät muistissan ja tervennä aina</l>
+                    <l>vimeseen loppũn kaikissa vaivois=</l>
+                    <l>tanne ja kostannoxistanne, <del>y</del><add>ũ</add>nskeän</l>
+                    <l>paraiten kuin ma taijan, tätä kautta!</l>
+                </p>
+                <p>
+                    <l>Heit kuin olen enimmän osan lävite</l>
+                    <l>kahellut tänne lähätetyt kirjat lain=</l>
+                    <l>naisin heijät Wenksperin Pekka Mũli</l>
+                    <l>kallen, sitten Heikki Hähmi Millomissä</l>
+                    <l>nyt viimex Koulumies Johannes Räisäi=</l>
+                    <l>sellen joka pũũs suaha ne lainnax sieltä</l>
+                    <l>H. Hähminltä. Koulumies Räisäisen</l>
+                    <l>tahtoi olla paha sillä on kehno terveũs</l>
+                </p>
+                <pb n="2" facs="0268_0077759_058" />
+                <p>
+                    <l>sen on gjekta eli sätkä kankussa.</l>
+                    <l>hänen on paha kävellä; han leijoa</l>
+                    <l>huonetta Salmella, E. Oinosen poijan</l>
+                    <l>luona ~ Teälläki näutti vuointulo</l>
+                    <l>koreast ulos alusta keseä, van se sai</l>
+                    <l>kehnon lopun ennen <add>kuin</add> Wuoitũlo pantin</l>
+                    <l>Latoin ja Lũviin; eikös se niin lienek</l>
+                    <l>käunnä Suomessakin? ~ Teällä mär-</l>
+                    <l>käin Heinät ja paikoittain ovat vielä</l>
+                    <l>karhoilla; Wiljat ne itivät, niesoissa</l>
+                    <l>ja jũrillans jotta orat olivat vahin=</l>
+                    <l>tään sormea pitkiä. ~ Latisit mär=</l>
+                    <l>kain pakassa ja vielä sitten Kuopissa,</l>
+                    <l>jotta ei paikoissain yhtää rättä Putis=</l>
+                    <l>ta louvä mistä suatanen Siemenputisia</l>
+                    <l><ref>*<note>sivun reunaan merkitty rivit 16–19  ja kirjoitettu niiden viereen pystysuuntaan: obs.</note></ref>sen jumala tietänöö? Wuoisvuoilta</l>
+                    <l>mänöö teältä Wäkea sinne – Amerikaan</l>
+                    <l>Suomalaisiakin niin paljon jotta ei </l>
+                    <l>meäreä tietä, miten paljon niitä jo on</l>
+                    <l>pois muutanna iäkspäiväx ~ Kaikkian jotka</l>
+                    <l>nyt on Norinmoasta Amerikaan muutanna on</l>
+                    <l>20 aastaijan sisään 100,000 Henkeä ~</l>
+                    <l>Onko Colera tänä kesänä Suomessa paljon</l>
+                    <l>Wakeä tappanna? Poikanne <hi rend="underline">kaptein</hi></l>
+                </p>
+                <pb n="3" facs="0268_0077759_059" />
+                <p>
+                    <l>lienöö siellä Poolan muassa vahinpiolla?</l>
+                    <l>Kyllä Teillä jo lienöö naineitaki Lapsia,</l>
+                    <l>ja ovatko kaikki mũũt viela kotona?</l>
+                </p>
+                <p>
+                    <l>Minä ja Wenksperin Pekka Mulikka</l>
+                    <l>meinaisimme tũlla Tokkolmin sitä Expo=</l>
+                    <l>sitionia (.Utstellinkiä.) kahtomaan</l>
+                    <l>nyt männenä kesäna, van se samainen</l>
+                    <l>kesä oil niin kiiperä jotta ei ois </l>
+                    <l>tainna pũũnpitkään männä sillä kuin</l>
+                    <l>Heinät makais Saten alla niin pitkän</l>
+                    <l>aijan, ja samalla lailla käv Wiljantulon</l>
+                    <l>kanssa, sen tautta jäi se reissũ siltan ~</l>
+                    <l>Ois ollut ātos samalla kertoa tulla yltö</l>
+                    <l>Stockholmista Tũrũũn ja Helsinkin,</l>
+                    <l>kaikki jäi siltään. – Rautatien kanssa</l>
+                    <l>ne nyt hollasta Tokolmin ja Christ.</l>
+                    <l>joanin välilla, sen pien sanotaan</l>
+                    <l>tulovan walmix ~ Wanhoja jeänoxiä</l>
+                    <l><ref>*<note>kuusi viimeistä riviä merkitty, lisätty huomautus 'obs'</note></ref>ei louvũ teällä sikereellä muita kuin pal=</l>
+                    <l>jon vanhoja Haũtoja ja aivoin pal=</l>
+                    <l>jon Pajantontia ympäiri kaikkia</l>
+                    <l>Mehtiä ja Rauvankuono kokoja</l>
+                    <l>aivan paljon ~  Hirviä löutũũ joxenni</l>
+                    <l>paljon näilläkin tienoilla, van ne</l>
+                </p>
+                <pb n="4" facs="0268_0077759_060" />
+                <p>
+                    <l>eivät sua olla raũhassa ~ Niitä van=</l>
+                    <l>=hoja Kirjoia jotka Pavo Räisäisen</l>
+                    <l>lesken luona löũtũũvät ei oo vielä</l>
+                    <l>yhellenkään annattũ, pitäiskö niitä</l>
+                    <l>pois antoa kaikillen jotka Sũomen=</l>
+                    <l><ref>*<note>rivit 6–10 merkitty</note></ref>kjelen osoa lũkea? Ei mittysiäkä Ukoin=</l>
+                    <l>kynsia eli piirtopiitä loavũ näissä jotta</l>
+                    <l>minä oon kuulut, ~ Eikä mittystäkän</l>
+                    <l>Riinekeppiä näissä Suomalaisissa löũvũ;</l>
+                    <l>van Suokũnoissa minä ũskon jotta niitä</l>
+                    <l>löutũũ ~ Ei minkänlaista merkiä</l>
+                    <l>luonnonlista eli mũanlista oo näkynnä</l>
+                    <l>teällä mäkilöillä eli Tielloilla kiviš=</l>
+                    <l>sä eli kallioissa ~ – Taitaakko Rouvans</l>
+                    <l>puhua Suomenkjelen; eikös kaikki Teijän</l>
+                    <l>lapsenne tok tainne <add>puhua</add> Sũomenkielen?</l>
+                </p>
+                <p>
+                    <l>Poijaltanne käv nopeen joka tuil</l>
+                    <l>Kapteinix niin nuorena ~</l>
+                    <l>Yx poika syntynna Lũoimäillä</l>
+                    <l>köuhä on strevoannain Upsalassa</l>
+                    <l>kouluun ei mahtais olla sillä jälellä</l>
+                    <l>jos 2 Wuotta korkeintaan ennen</l>
+                    <l>kuin päsöö Papix, hänen nim on</l>
+                    <l>John Berqvist; hänella on veil</l>
+                    <l>hyvä nikkair joka on sen niin kauvas</l>
+                    <l>ramillen kostanna. – Pekk Karvainen</l>
+                </p>
+                <p>
+                    <l><ref>*<note>lisätty s. 4 marginaaliin</note></ref>P.K. Helsoan paljon erinomaiset ystävänlisest Teillen</l>
+                    <l>Ihellenne ja Lapsillenne ja elea Jumalan Rauhassa</l>
+                </p> 
+            </div>
+        </body>
+    </text>
+</TEI>

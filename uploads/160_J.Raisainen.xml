@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Juhoi Räisäinen > Carl Axel Gottlund</title>
+                <author>Juhoi Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-14">14.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:9:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Juhoi</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>160</bibl>
+                        </msItem>
+                    </msContents>          
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1832-05-21">21.5.1832</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078095_001" />
+                <p>Herra Coarloi Gottlund!</p>
+                <p>
+                    <l>Koska tiällä sekä Norjan että Ruotsin Suomalaisissa</l>
+                    <l>kulkoo niin suuri Puhe siitä että ihmisiä pitäiš</l>
+                    <l>soaha lähteä Suomeen ja moni ovat tahtoneet mun</l>
+                    <l>teille kirjuttamaan ja tutkimaan tokko tuo oiš</l>
+                    <l>totta, niin minä nyt rohkenen heitän kaikkein</l>
+                    <l>tahton jälkeen teillen kirjuttoa ja kyšyä kuinka</l>
+                    <l>sen kanša on laita sillä Puhe on kulkenut että</l>
+                    <l>oiš pitännä Kirjat tulla Pappiloillen että Suo=</l>
+                    <l>mešsa se paha tauti Cholera Morbus on tappanut</l>
+                    <l>poiš kaikki ihmiset ja että hänešsä pitäiš vielä</l>
+                    <l>olla Tiloa paljoillen ihmisillen, sentähteen minä nyt</l>
+                    <l>pytän teitä kaikkien Suomalaisten puolesta etta</l>
+                    <l>työ ositten niin hywä ja antasitten minullen</l>
+                    <l>Tieton tästä asiasta totta ko sen on tahi valetta</l>
+                    <l>sillä kyllä työ tuon tiatte ja još se oiš totta</l>
+                    <l>että siellä ois tiloa niin tiältä tuliš paljon</l>
+                    <l>Kanšoa. Ei mitä enempi tällä kertoa vaan ter=</l>
+                    <l>veyxia paljon teillen kaikilta suomalaisilta</l>
+                    <l>Vaan tehkeä niin hyvin ja antoa minulle tieto</l>
+                    <l>niin nopen kuin mahtollinen olla taita.</l>
+                </p>
+                <p>
+                    <l>Öyärillä sinä 21. Maij 1832.</l>
+                    <l>Juhoi Räisäinen</l>
+                    <l>Koulumieš Brabdvalan Sumalaiš</l>
+                    <l>mehällä</l>                    
+                </p>
+                <pb n="2" facs="0268_0078095_002" />
+                <p>
+                    <l>S.T</l>                    
+                    <l>Högädle Herr</l>
+                    <l>Carl Ax. Gottlund</l>
+                    <l>Carlstad</l>
+                </p>
+                <p><hi rend="underline">Stokholm</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

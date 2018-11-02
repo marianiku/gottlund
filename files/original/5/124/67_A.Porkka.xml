@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka > Carl Axel Gottlund</title>
+                <author>Antti Porkka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>67</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Porkka kirjoittanut kirjeen, allekirjoittajana myös Johoi Käkönen</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Runsjön">Runsjön (Rumsjön, Rensjön)</placeName>
+                        <date when="1822-05-11">11.5.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_005" />
+                <p>
+                    <l>Anneta Runsjönilä sinä 11 päivänä</l>
+                    <l>Touko Kuusa v: 1822.</l>
+                </p>
+                <p>
+                    <l>Anti Porkkalta, aivoin Kunniatetavalle</l>
+                    <l>ja Korkiasti oppinele Herra Gottlundile!</l>
+                </p>
+                <p>
+                    <l>Täsä Seoroa vielä nimiä, Jotka taita</l>
+                    <l>jo miöhä tulla, van Rukuilovat Etä Herra</l>
+                    <l>heitä ootais sisen Lauta Salmen Seara=</l>
+                    <l>Kuntan, ne tulevat miöhä vimen Kuin</l>
+                    <l>minä Kieriutin, minä oilin Lähätännä</l>
+                    <l>Kjerian pois. Minä neän Etä Östmarkilast=</l>
+                    <l>ovat olet nin ylpeät, Etei ne ole annon</l>
+                    <l>weäntiä, Kaikitaini minä Rohwaisen Rukui=</l>
+                    <l>leman, jos armon löyty, Etä Herra <del>miile</del></l>
+                    <l>meile jotka Santa Salmen on Kjeriutetu ja</l>
+                    <l>fryxin luuo Suomalaisile jonkiin neowon</l>
+                    <l>pitäis Ruunun wilioile, ja Bevilningile,</l>
+                    <l>täsä on oluuha Juhoi Mallin poika orin=</l>
+                    <l>höywästä Joka on werniuks Karrana, se mäy=</l>
+                    <l>ti linynansa, josa oli Haikoila, Etelä= Ja</l>
+                    <l>pohois= Leikavaitnan Kylät, niin peälä on</l>
+                    <l>309: Riksiä 31 <unclear>KiC</unclear> 8 monst Bankusta, suurin osa</l>
+                    <l><unclear>nästä</unclear> nin oli weroa pantatu, ja aiwan</l>
+                    <l>monta joilei mitän löyyn jos Eosmiehiä </l>
+                    <l>pan=</l>
+                </p>
+                <pb n="2" facs="0268_0077775_006" />
+                <p>
+                    <l>pantatan, Ja Etä minä saisin sen tjetä</l>
+                    <l>Jos mitän armoa saisinu pohois Suomalaisita</l>
+                    <l>ej minula  <del>i</del> ole yhtän neowoa. samala ta=</l>
+                    <l>vala on wielä 1816 wuin Ruunun <unclear>ruioista</unclear> <del>Ja</del></l>
+                    <l>wielä monta Köyhä Jotka ej olut hyvä</l>
+                    <l>maxaman. Mitä nyt tulo minun sanoa,</l>
+                    <l>nin me Kaiki fryxin ja östmrkin Suoma=</l>
+                    <l>laiset, nin Kuin Norin puelelaiset tahoime</l>
+                    <l>nin pien Kuin Kjerkon lupa tuloo, nin me</l>
+                    <l>tahoime silä Hatkalä, Etä Herra Papin</l>
+                    <l>meile Lauta Salmem lähätä, se tulo nin</l>
+                    <l>jso Seorakunta jota me tahome Papin</l>
+                    <l>oman Kahtaine, ne taita niile toisile</l>
+                    <l>Kierkoile soaha toisen Papin, Ja Eta meile</l>
+                    <l>tulisi Kierkan maa vihatuxi, me Jlola</l>
+                    <l>Sen Papin wastan otaisime; me olemo</l>
+                    <l>nyt Ruhtalaisilta nin pahoin Soihmatut</l>
+                    <l>Jota Kuin ej täma Etes Käy, nin ei meidän</l>
+                    <l>Jkän oo Ruohtalaisten siilmin mänä.</l>
+                    <l>Ja Jos meitan aisiat tulo Suokunan=</l>
+                    <l>tääminän, nin meitän puhe ej tulo yles</l>
+                    <l>otetuxi, jos häpäisowat, silä me tahoime</l>
+                    <l>Jos Herra sais ne sielä täywelisexi, Ja</l>
+                    <l>Papin sitä tjetä lähätä, Jota ma Joka</l>
+                    <l>wiko Kokotame. fryxin nuiri Papi</l>
+                    <l>Käwi yhen Sairan tykönä mänä tistaina</l>
+                    <l>pohois Letkovaitinala, se pilkais medän</l>
+                    <l>aisiata sanoden: mina luulin jo </l>
+                    <l>- nä</l>
+                </p>
+                <pb n="3" facs="0268_0077775_007" />
+                <p>
+                    <l>näköwäin Kierkan puili pywätyxi.</l>
+                    <l>Juho Kähköinen täsä on nỹt olut minun</l>
+                    <l>Kansa nin Kuin Ensimäisisä Kieriasa, Jota</l>
+                    <l>tämä on meitän yhteinen neowo, jä ni</l>
+                    <l>tahoi Erinomaitain Kieriutoa. me pyywäme</l>
+                    <l>Eta Herra telleäis stamKieriat Kulkemän, </l>
+                    <l>ja Colektit Kierkoisa meile apua anoman.</l>
+                    <l>Niitä Turun Sanomat ne tahtoiwat Jotka</l>
+                    <l>on peälesä <unclear>antana</unclear>, ja Herra Kieriuta Kuka</l>
+                    <l>Rahat wastan ota. sitä apua Kuin Suome=</l>
+                    <l>sta anome, se on Räisäisen Kieriasa.</l>
+                    <l>NySuokunan Ja Talopuan Suomalaista</l>
+                    <l>minä ei ole mitän Kuuluna.</l>
+                </p>
+                <p>
+                    <l>Jos Herra nyt lähtö Suomen, nin Jumala</l>
+                    <l>olkon hänen Kansansa, ja palio terweäxia</l>
+                    <l>Kaikilta Suomalaisilta, ja Kaikin Enimän</l>
+                </p>
+                <p>
+                    <l>Meiltä</l>
+                    <l>Anti Porka.</l>
+                    <l>Johoi Käkönen</l>
+                </p>
+                <p>
+                    <l>Minä pywan Etä Herra anta minoa Lukarixi</l>
+                    <l>Lauta Salmen seurakuntan, moini on sitä jo</l>
+                    <l>puhunna, Ja Kuin Hän Sanan sihen painisi</l>
+                    <l>niin se tapahtuis</l>
+                </p>
+                <p>A. Porka</p>
+            </div>
+        </body>
+    </text>
+</TEI>

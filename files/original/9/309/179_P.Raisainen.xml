@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-28">28.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:18</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>179</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-02-08">8.2.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_051" />             
+                <p>Fullmakt in Blanço</p>
+                <table>                    
+                    <row>
+                        <cell>Johan Hansson Walkoinen</cell>			
+                        <cell>Lars Hindriçson Hahmä</cell>
+                    </row>
+                    <row>
+                        <cell>fr: Åskasberget a% swenska sidan</cell>		
+                        <cell>fr: Wenberget a% Grue soçken</cell>
+                    </row>
+                    <row>
+                        <cell>Eriçh Johanson Orainen</cell>			
+                        <cell>Morten Mortenssen Hähmä</cell>
+                    </row>
+                    <row>
+                        <cell>från Mamltorpet a% Wingers soçken</cell>		
+                        <cell>fr: Wenberget a% Grue</cell>
+                    </row>
+                    <row>
+                        <cell>Sigfrid Eriçhson Porkka</cell>			
+                        <cell>Ole Christiansson</cell>
+                    </row>
+                    <row>
+                        <cell>fr: Lönhöjden a% Wingeršsoçn</cell>		
+                        <cell>fr: Frysjöberget a% Grue.</cell>
+                    </row>
+                    <row>
+                        <cell>Halwor Eriçhson Haliainen</cell>		
+                        <cell>Ole Person Mortkiärnborget</cell>
+                    </row>
+                    <row>
+                        <cell>fr: Lönhöjden a% Do</cell>			
+                        <cell>a% Grue=Soçken._</cell>
+                    </row>
+                    <row>
+                        <cell>Johan Johanson Jusoinen</cell>			
+                        <cell>Nils Olson Pentikäinen</cell>
+                    </row>
+                    <row>
+                        <cell>fr: Lönhöjden a% Do.</cell>			
+                        <cell>fr. Stampetorpet. a% Branwala</cell>
+                    </row>
+                    <row>
+                        <cell>Morten Olofsen Moilainen	</cell>		
+                        <cell>Johannes Olsson Mulikka</cell>
+                    </row>
+                    <row>
+                        <cell>fr: Moilanstorpet a% wingersoçken	</cell>	
+                        <cell>fr Morlkiärnesberget a: Grue.</cell>
+                    </row>
+                </table>
+                <p>Carl Carlson Sikainen från Bjölsjötorpet</p>
+                <p>
+                    <l>Nämä on kaikki Sumalaisia, ja nämä tahtoo suoma=</l>
+                    <l>laisten Seuraan, ja käywä suomäläisten Kirkkoon.__</l>
+                    <l>Tämä Johannes Olsson Mulikka ej Ole još yxi trengi	</l>
+                    <l>waan se on perillinen Mortkiärnsperiin, tämä tahtoiš</l>
+                    <l><del>pyötätä</del> pyörtätä sitä til<del>ö</del><add>o</add>a jälleen.</l>
+                </p>
+                <p>
+                    <l>Niin tämä wiimemen Koarle Sikainen, tämäki on myös</l>
+                    <l>trenki; waan tämäki on perillinen Bjölsyönillä. Waan</l>
+                    <l>tähään Byölsjöneille on yx toinen sisään Kirjuttainnaan nii=</l>
+                    <l>meltä Per Person Nawinen, se e joo perillinen ejkä sillä oo</l>
+                    <l>siinnä mitään rukoamistä; waan tätä Pyössyönin torpoa</l>
+                    <l>ruukuta Meijän pappi osille, ja on tämän tilan niin</l>
+                    <l>pahoin ulos ruukanna että kaikki pellot on jänna</l>
+                </p>
+                <pb n="2" facs="0268_0078096_052" />  
+                <p>
+                    <l>linnoix, Sillä tämä Koarle Sikainen Rukoile ja pyytä</l>
+                    <l>teitä, ettäs pitäsit häntä Muistissaanne. Että hänki saiš</l>
+                    <l>syntymä koitiinsa jälleen periä. Kuin niin hywin tulis!</l>
+                    <l>että muutki torpalit jotka Norlaisten <add>alla</add> asuu tulis Lunastetux.</l>
+                    <l><hi rend="underline">Poawo Räisäinen</hi></l>
+                </p>
+                <p>
+                    <l>Öijärillä sinä 8.paiw: Helmekuuss<del>ä</del><add>a</add> wuonna 1823./.</l>
+                    <l>Poawo Räisäinen	Herra Gottlundi.___</l>
+                </p>
+                <p> 
+                    <l>Minä on suaanna kolmet puuttiä postin kautta</l>
+                    <l>1. puutissa oil, seä ja jlma kirjoja, niisä 2. oil jlolau=</l>
+                    <l>luja Jesuksesta. ja Elainten tauti kirjoja. Waan sama</l>
+                    <l>pa se on još ej niitä wielä lähätä; ej pä Nuota nyt</l>
+                    <l>oo yxkään ostanna. Tässä on mulla suuri skaapi täynnä</l>
+                    <l>kirjoja, <hi rend="underline">ostoat</hi> hyö enš ne.</l>
+                </p>
+                <p>
+                    <l>Minusta on kumma, kuin ej yhtään kirjoa elli wastausta</l>
+                    <l>teiltä oo nyt hetkelleen kuulunna. Ett han tok sairasna liene.</l>
+                    <l>Ejkä yhtään Turun wiiko=Sanomaa tämän wuon piäälle oo</l>
+                    <l>wielä kuulunna, ja yx Turun wiiko Samoma Männeen wuon</l>
+                    <l>piäälle, on wielä suaamata.</l>
+                </p>
+                <p>
+                    <l>Minä unentin! että wastäta teitä. Jotaš kysyit, toko</l>
+                    <l>Herrat Mitään teistä kysyi Christianissa. waan Lehmojnen</l>
+                    <l>sanoi, ettej ne mitään kysyneet ejkä wirkanneet teistä.__</l>
+                </p>
+                <p>
+                    <l>Nyt olemme myö walmiit Marssieroamaan Herraijen=</l>
+                    <l>paiwille Stokholmiin, kuin poara Passit tuloo.__</l>
+                    <l>Jumala pitäkön teitä terwennä; ja elä hywin siiken</l>
+                    <l>kunni tukulmissa saahan tastaamme puhutella.</l>
+                </p>
+                <p><hi rend="underline">Poawo Räisäinen</hi></p>
+                <p>
+                    <l>Enkä minä oo suaanna tietä, tokko ne 20. tyskeä Bankota</l>
+                    <l>on ees tulu.</l>
+                </p>
+                <p><hi rend="underline">Räisäinen</hi></p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

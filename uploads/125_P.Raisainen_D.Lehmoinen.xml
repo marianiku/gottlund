@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen &amp; Danel Lehmoinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen &amp; Danel Lehmoinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:8</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author> 
+                            <author><surname>Lehmoinen</surname>
+                                <forename>Danel</forename></author> 
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>125</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1822-04-04">4.4.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_018" />
+                <p>Armoillinen Herra, Gottlud<hi rend="underline">i</hi></p>
+                <p>
+                    <l>Minun pitäis Teille jlmi Antam<hi rend="underline">aa</hi>n, Että teällä on</l>
+                    <l>nousuut niin ankara Ryörä ja Kuhina Norjalaisten seassa,</l>
+                    <l>siiten kuin minä o<hi rend="underline">tt</hi>in niitä niimiä jotka tahtovat piäästä</l>
+                    <l>Ruunun ala. ~</l>
+                    <l>Minä Läh<hi rend="underline">ä</hi>tin Silloin kuin ma niitä niimiä o<hi rend="underline">tt</hi>in, Kirjoja</l>
+                    <l>ulos mänemään sinne jossa mä tiesin Suomalaisia olevan,</l>
+                    <l>ja Kirjotin niiheen kirjoin tällä tavalla. "Se joka tahtoa</l>
+                    <l>Antoa itse<hi rend="underline">n</hi> Suomalaisten Seurakuntaan, ja Soaha tilaan=</l>
+                    <l>sa Ruunun alla, hänen pitää tulla minua kohtoamaan</l>
+                    <l>siinä, ja siinä, paikassa; näm<hi rend="underline">ä</hi>, kirjat minä kirjotin Norjan</l>
+                    <l>kielellä; enkä ymmärtän<hi rend="underline">n</hi>ä tuosta miitään vahinkota ole=</l>
+                    <l>wan. Vaan näitä Suomalaisia oill paljon Norlaisten alla</l>
+                    <l>joillenka ne Sana=Kirjat tuil Lähätetyxi: niin Tapahtui</l>
+                    <l>Samalla Aj<hi rend="underline">i</hi>alla, mon<hi rend="underline">jaien</hi> Isännät o<hi rend="underline">ll</hi>a kävelemässä</l>
+                    <l>niijen Luona, joille Sana=kirjat tuli, he Kahtelovat niitä,</l>
+                    <l>ja ottavat Kansase. Ja mänevät Vouvvin Luokse, niiten</l>
+                    <l>Sana-kirjaien kansa; Ja sitten vielä valehtelivat Vouvtia,</l>
+                    <l>Että sinun olevan Venksberissä, ja välistä Reholtassa</l>
+                    <l>ja toisinaan<hi rend="underline">s</hi> Öijärillä, ja villihtevän Suomalaisia joutavin</l>
+                    <l>oppiloihiin, ja anni<hi rend="underline">xo</hi> niille Joutava Kirjoja, Ja Kirkon</l>
+                    <l>tiettä Suomalaisille Röũvanrantaan ja Kirkollen on jo Raivut=</l>
+                    <l>tanna paikan. ja Niimeensä Hakkuttanna Suureen Kiveen. ~</l>
+                    <l>Ja minua, ja Reholtan Danelia, pitä hän Kirjotus Miessään=</l>
+                    <l>sä. – Sen Laisia hyö olivat kertoineet Wouvvillen. ~</l>
+                    <l>Toisena pänä Läh<hi rend="underline">ä</hi>ttää Vout, Vullmahin Länsmannille, että</l>
+                    <l>hänen pitä ottam<hi rend="underline">aa</hi>n Kolmet miestä kansas<hi rend="underline">e</hi>, ja mänemään Re=</l>
+                    <l>holtaan, ja Wenksberiin, ottamaan kiini sitä Ruohin Personia</l>
+                    <l>Gottlund<hi rend="underline">ia</hi> ja eroittamaan häntä pois jhmisistä hetsillään,</l>
+                    <l>ja tuomaan Wouvvin Luokse, kuitenk<hi rend="underline">ii</hi>n jlman Rautoin</l>
+                    <l>panemata, ja kuin ej häntä Siellä Löyvetä nyt, niin piti</l>
+                    <l>kiini ottajoien, epustella Suomalaisia ett-ej heijän eneä</l>
+                    <l>suinkaan Sen jhmisen kansa, pie yhtäpitäm<hi rend="underline">ää</hi>n ejkä uskom<hi rend="underline">ā</hi>n</l>
+                    <l>häntä; Sillä se ej ole muu kuin Wietteliä, joka ej tohtinut</l>
+                    <l>Wouvvin Luona Syxylläkään Käyvä Anniin antamassa itse=</l>
+                    <l>äse. Ja Öijärin Poulin, ja Reholtan Danelin pitää paho<hi rend="underline">in</hi></l>
+                    <l>kaũmään kuin hyö hänen e<hi rend="underline">te</hi>stä enemmän Kirjottelevat, tahi</l>
+                    <l>hanelle jostai mualta. ~ Näin oll’ Wout Kirjottanna siheen</l>
+                    <l>Wullmahtiin joka Länsmannilla oill. ~ ~</l>
+                    <l>Niin Länsmanni teki Wouvvin käskyn jälkeen, ja otti</l>
+                    <l>Kolmet miestä kansas<hi rend="underline">e</hi>, ja tulivat Reholtaan neljeä miestä</l>
+                    <l>paxus<hi rend="underline">te</hi>, Sinua kiini ottamaan. Ja kyselivät Danelilta</l>
+                    <l>missä se mies teällä nyt olexeteloo joka teille Kirkoja pykäi</l>
+                    <l>löö, ja mehät teillen jälleen ottaa? Danel wastais, Upsalas=</l>
+                    <l>sa se Lienöö. Niin hyö toais sanoivat, Ja tok ovat sano=</l>
+                    <l>neet sen teällä olevan. ~ Niin Waan ej se teällä oo sanoi=</l>
+                    <l>Danel Lehmoinen. ~</l>
+                </p>
+                <pb n="2" facs="0268_0077781_019" />
+                <p>
+                    <l>Niin siten, kuin Danel nuo tuohoon uskoon sai, <hi rend="underline">ett=</hi>ej</l>
+                    <l>Sinun teällä ollevan; niin telläis Länsmanni Kax miestä</l>
+                    <l>takaperin kotiinsa; ja Läx ite muihiin Röũvän Kyliin</l>
+                    <l>ja pantail männeen Wuotisista muaa weroista. Ja täm=</l>
+                    <l>mäis pohjoš Sũmalaisia h<hi rend="underline">u</hi>hanhakkuista, waikka <hi rend="underline">ej ne</hi> ole</l>
+                    <l>hak<hi rend="underline">k</hi>anna jos wähä Lehtomuaata niituxeensa; waan tämä</l>
+                    <l>ej ollu Länsmannin Syy<hi rend="underline">tä</hi>, Se tuill tellatyx tämineämään</l>
+                    <l>Gullbras<add>ne</add>ssilta Filiçomisin Merkäliltä. ja näijen pohjos</l>
+                    <l>Suomalaisten pitä olemaan niisä Sovinto=käräjössä,</l>
+                    <l><hi rend="underline">sinä</hi> 10. p: Huhtikuusa. ~</l>
+                    <l>Ja siiten kuin Länsmanni oli tämän tehnyt pois Luotaan=</l>
+                    <l>sä. Tuloo hän tanne Öijarille mun Luokseini, Kysele=</l>
+                    <l>mään, Sinusta, Ja oill pohjos kyylissä suaanut tietä, että</l>
+                    <l>meijän pitä suaam<hi rend="underline">aa</hi>n Bibellöitä, ja että minulla pitais</l>
+                    <l>olla paljon kirjutuxia, Sinulta tänne Lähätetyitä Upsa=</l>
+                    <l>lasta. Ja tämä oli nyt moanantaina Joka oli. s<hi rend="underline">inä</hi></l>
+                    <l>1.s<hi rend="underline">i</hi> päiv: Huhtikuusa, kuin Länsmanni tänne tuli.</l>
+                    <l>Niin tule hän Sisään, ja Tervehtä, kuin tapa on, ja kä=</l>
+                    <l>wele Lattialla niin kuin Herrat plääpi, Ja sanoo minulle,</l>
+                    <l>nyt pä minä oon kuull<hi rend="underline">u</hi>, että teijän pitäis meistä eriämä<ref>n<note>viivallinen n-kirjain</note></ref></l>
+                    <l>ja rupeamaan yhön Suomen Herran ala. ja <del>oppit</del>uũvet</l>
+                    <l>oppit ottamaan; Niin mitinkähän tulloo sanoin, minä, ejpä</l>
+                    <l>tuota wielä tijetä; Etkös s<hi rend="underline">in</hi>ä tuota jo tija sanoi hän._</l>
+                    <l>Joka niin monet Kirjat <hi rend="underline">on</hi> suaanut sen Luota; ejpä ne oo vie=</l>
+                    <l>lä tullu wastasin minä, minä meinasin niitä kauppakirjoja.</l>
+                    <l>jntäs, ejkös sulla piä olla Wullmahtia sanoo hän; Minkä</l>
+                    <l>puolestä sinä niitä Niimiä oot ottanna. Minä toais sanoin</l>
+                    <l>enpähän minä oo ottanna useammalta niimeä kuin tahtoivat</l>
+                    <l>antoa, ja <del>oisko</del> oisko tuo teiltä poikessa jos myö Ruunun</l>
+                    <l>ala tulisinmo ja saisinme Kirkon Lähenmä, ja oppin omalle</l>
+                    <l>kielelleme, Kuin e<hi rend="underline">j m</hi>yö Weäreä uskoa o<hi rend="underline">tta</hi>. ~ nin siitä hän</l>
+                    <l>kuulost wähä ajkoa; Siiten hän Repäis ylös sen Wouwwin wull=</l>
+                    <l>mahin ja Rupeis siitä Lukemaan minun eissäinni, ja sanoi</l>
+                    <l>minulle, Sinä tulet kiini otetuxi, kuin ej sinulla ole mitään</l>
+                    <l>Näytteä e<hi rend="underline">te</hi>stäns. minä sanoin, onpa mulla wiettäky<ref>m<note>viivallinen m-kirjain</note></ref> entä Toti=</l>
+                    <l>stajata, kuin se käski mun niimiä ottamaan niiltä kuin tah=</l>
+                    <l>toivat antoa; Niin sanoo hän toais, sanovat pa han sun suaa=</l>
+                    <l>neens Kirjan silloin kuins Niimiä Rupesit ottamaan;</l>
+                    <l>minä sanoin, Sain pa minä niinkiin, waan sen minä annoin</l>
+                    <l>sillen, joka mäni Bibellöitä perään koarlestasta. ~</l>
+                    <l>Toais sanoo hän, on pah an sulla muitakiin Kirjutoxia hänen</l>
+                    <l>Luota. anna hän niitä nähäxein: Ej mulla oo muita još</l>
+                    <l>Kax Bibel=Listoa. Niin annahan niitä nähä, sanoi hän.</l>
+                    <l>siiten tuo n<hi rend="underline">u</hi>o sai nähä. Siiten muka hänni jhmetteil Kuin</l>
+                    <l>niin suurta waiwoa joutawan tähe on Ruvenna näke=</l>
+                    <l>mään. ja siiten otti Kansase Sen piene<ref>m<note>viivallinen m-kirjain</note></ref>än Bibel Listan.</l>
+                    <l>Poavo Räisäinen</l>
+                </p>
+                <pb n="3" facs="0268_0077781_020" />
+                <p>
+                    <l>ja kieltä minua! Ett=ej Minun enemmän Kirjuttoa</l>
+                    <l>Sillen Ruohin personille Gottlund<hi rend="underline">ille</hi>, Elikkä sinä</l>
+                    <l>tulet Ulykkeliäx sen tautta, usko mun sanain,</l>
+                    <l>sanoi hän. ~</l>
+                    <l>Niin nyt minä Rukuilen teitä armoillinen Herra!</l>
+                    <l>Ettäs Lähätät niin pien kuins jkääns taijat, Senlai=</l>
+                    <l>sen Wullmahin, Että Herrat antais Suomalaisten</l>
+                    <l>olla Rauhassa siheen kuinnikka Kuninkaalta tuloo</l>
+                    <l><add>antamaan</add> paremp wastaus; ja Saisit Jonkiin Lanshövtinkin</l>
+                    <l>ala Kirjuttamaan Niimeensä. ~</l>
+                    <l>jlman sitä, niin pelkeän minä, että Herrat peloitta</l>
+                    <l>enimmät osat Suomalaisista, toista puhetta puhu=</l>
+                    <l>maan. ~</l>
+                </p>
+                <p>Öijärillä sina 4: p: Huhtikuusa 1822.</p>
+                <p><hi rend="underline">Poavo Räisäinen</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

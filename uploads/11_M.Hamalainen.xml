@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Matti Hämäläinen > Carl Axel Gottlund</title>
+                <author>Matti Hämäläinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-05"></date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:7:2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Hämäläinen</surname>
+                                <forename>Matti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>11</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Erotettu Antti Porkan kirjeiden yhteydestä</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="puuttuu">puuttuu</placeName>
+                        <date when="1831-09-10">10.9.1831</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077750_005" />
+                <p><unclear>Ansgårds ũtsby D 10<hi rend="superscript"><hi rend="underline">d</hi></hi></unclear> Sept: 1831.</p>
+                <p>Herra Gottlund<hi rend="underline">ille</hi>!</p>
+                <p>
+                    <l>Sinä 7<hi rend="superscript"><hi rend="underline">nä</hi></hi> päivänä <add>tässä Kuusa</add> minä <unclear>Kasittein</unclear> hänen</l>
+                    <l>Kjeriansa, Josta minä Neän että ej minũn </l>
+                    <l>Kjerjain ole Postissa ollut, sitä minä suu=</l>
+                    <l>resti imehtelen, sillä minä vein sen (niin</l>
+                    <l>kuin minä Kjerutin) Östmarkin, Ja oli</l>
+                    <l>posti Raha 18 B Kowertin sisällä, Ja Kannellen</l>
+                    <l>kjeruutteta: <hi rend="underline">Till <unclear>Kongl</unclear>: Post Contoiret: Carlsted</hi></l>
+                    <l>tämän Kierian minä siellä annoin tyttärein</l>
+                    <l>Annikan viiä Margelun<hi rend="underline">nille</hi> mamsellin</l>
+                    <l>Luokse, sillä hän oli <add>paremin</add> tuttu sen Keralla,</l>
+                    <l>ja Annika sanoi mamsellin sanonen, että</l>
+                    <l>hän taita Kjerian Ja vähentä posti Rahat</l>
+                    <l>sillä niitä on Liiaxi, van minä en oo nyt</l>
+                    <l>saanut häntä puhtella, tokko siina oili</l>
+                    <l>yhtan vierasta näkemässä– oili siinä Kuitin=</l>
+                    <l>kin <add>ollut</add> mamsellin vẽli Jan fryçhuis Ja Nimis=</l>
+                    <l>mies Harlin<hi rend="underline">ki</hi><del>,</del> Kontiamassa, ja siinä posti</l>
+                    <l>Raha</l>
+                </p>
+                <pb n="2" facs="0268_0077750_006" />
+                <p>
+                    <l>Rahat <unclear><add>viisni</add></unclear> tuil pois otetuxi ja Kjeria Lähatetty,</l>
+                    <l>se om mun keli olantakoa kuin mamseli</l>
+                    <l>niin teki, Kuin minä aatelin tuon östmar=</l>
+                    <l>kista paraiten tulewan postin, niin siellä</l>
+                    <l>varsin awatan Kjeria. Tokko fullmahti Ja</l>
+                    <l>oraisen totistus oli Karalla? niitä ej Kjera</l>
+                    <l>mainihte. minä en tiiä missä paras osi</l>
+                    <l>postin panna, Kuitenkin minä nyt män,</l>
+                    <l>Ryxin sitä papin atestia saaman, Jos mi</l>
+                    <l>nä sen saan niin se seura tämän Kjerian</l>
+                    <l>sisällä – ne brefvit Jotka ej ole kelvolliset,</l>
+                    <l>annetan täysi Lupa Jollakuola Kjeruttoa</l>
+                    <l>toisella tavalla, niin kuin Herra paraxi</l>
+                    <l>Löytä. minä soisin Jos Herra Kjeruitais</l>
+                    <l>kohta tänne mitä Herän Tuommari on</l>
+                    <l>vastanna Ja onko tämä kjeria oiken</l>
+                    <l>tullut <unclear>eli</unclear>. ei muuta tällä Kerralle, Kuin palion</l>
+                    <l>Tervyxiä Jumala olkon hänen Kansa.</l>
+                    <l>Matti Hämäläinen</l>
+                </p>
+                <pb n="3" facs="0268_0077750_007" />
+                <p>Magistren Höglärde</p>
+                <p>Herr</p>
+                <p>C. A. Gottlund</p>
+                <p><hi rend="underline">Stoçkholm</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:4</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author> 
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>121</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1822-01-26">26.1.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_007" />
+                <p>Herralle Koarloi Axel Gottlund<hi rend="underline">ille</hi>. – </p>
+                <p>
+                    <l>Kost Jumala kirjastais! Jonkaš kirjotit Järvenpiääsä, Lopiassa,</l>
+                    <l>Tahi 6. Januariana. ~</l>
+                    <l>Minä oisin mielelläini puhutellu teitä, Suun kauta; Vaan sain</l>
+                    <l>kirjan lian myöhät. Minä sain<del>y</del> kirjan aurinkon koitaisa</l>
+                    <l>sinä 7. <hi rend="underline">tenä</hi>: Minä luulin Teijän männeexi niin kuin teijän Kirjas=</l>
+                    <l>saanne seisoi, että huomenna lähteäxeenne poiš, vaanoon suaanna</l>
+                    <l>tietä ettäs wiivyt Tiištakiin. ~</l>
+                    <l>Tätä oisin minä Teillen puhunut! Joka nyt jälesta seura. ~</l>
+                    <l>Minun tykönäini on käynyt Kolmet Taloin<add>poikoa</add> jo ennen Joulua!</l>
+                    <l>meijän Suokunnasta, Lähimäistä Talosta jota kutsutaan <hi rend="underline">Huforssix</hi>.</l>
+                    <l>Vaan he ovat Norjalaisia. ~</l>
+                    <l>He ovat olleet Rosinkransin alla niin kuin mekiin. ~</l>
+                    <l>Vaan nyt Kesällä joka oli! Tuli heijän Kylät ja mehät myyvyxi</l>
+                    <l>axionissa: Ja heijän ulko mehtä ylötty kiini Öijärin=mehtään.</l>
+                    <l>Näm<hi rend="underline">ä</hi> Taloin po<hi rend="underline">ij</hi>at olivat suaaneet kuulta, että teijän Luuvan=</l>
+                    <l>neen meilen, Reholtassa. Krunun ala tullaxeme, Niin ovat he,</l>
+                    <l>sinä Luulossa että Krunu heitäkiin Lunaisstaiš. ~</l>
+                    <l>He Ruukuilivat minua, että minun Teitä pututella, Eli kirjuttũa</l>
+                    <l>Teillen, heijän assjastansa. ~</l>
+                    <l>Näin on heijän assija!. He ovat Perillisiä, ja asuneet</l>
+                    <l>Laps Lapsen jälkeen, ejkä jkään työtä heillen maxettu. ~</l>
+                    <l>Vaan nyt ej he olleet uskotut, omia Kyliänsä ejkä mehtiänsä</l>
+                    <l>ostamaan, Jlman Hyväxi=mäniätä Rahoijen  Etestä. – </l>
+                    <l>Vaan sinä <hi rend="underline">Pitämäsä</hi> oli kaxi Taloin poikoa, jotka olit</l>
+                    <l><hi rend="underline">Rikkaanmat</hi> ja omaiset kylät oli heillä; Nämä ostit</l>
+                    <l>ne kylät ja mehät. Vaan ej sillä, että ne niitä Tarvitšit,</l>
+                    <l>mutt että hävitteäxensä niitä Vaivaisia Taloin poikia. ~</l>
+                    <l>Ja se hinta! jonka ne Antoi niistä Kylistä, ja mehästä.</l>
+                    <l>Oli 3535. Norjan Spta: sanoo Kolmet tuhatta, Viisisatoa,</l>
+                    <l>Kolt=kymmentä Viisi, Norjan Spesitaaleria. ~</l>
+                    <l>Ja saivat, kymmenen Ajastaikoa Päiviä, Näitä Rahoija</l>
+                    <l>Maxoa: Ja nyt tänä Talvena ovat ne ostajat, hakanneet</l>
+                    <l>kaxi satoa Toltoa tukkia siltä mehältä. – </l>
+                    <l>Niin nämä Kolmet Taloin poikoa, Joolta Kÿlät ja mehtä</l>
+                    <l>poiš ostettiin, Rukevat sinua Rakas Herra, ettäš tekisit niin</l>
+                    <l>hyvin, ja puhutteleisit Ruunua heijän etest, Još mah<hi rend="underline">to</hi>onlinen olis:</l>
+                    <l>Että heijätkiin ostaiš, samassa, kuin Suomalaisia Rupea ostamaan:</l>
+                    <l>Vaan još ej heitä Ruunu tah<hi rend="underline">oi</hi> ostoa, niin he Rukuile<hi rend="underline">vat</hi>, että</l>
+                    <l>Ruunu tekis niin hyvin, ja lainnoaš heillen niin monta Rahoa</l>
+                    <l>Ruotsin Kassasta. Kÿllä näillä on hyvät Taloit ja mehtä, ne saiš</l>
+                    <l>olla pantissa niin kaũvan Kunnikka se tulis maxetuxi. ~</l>
+                    <l>Nämä Taloin poijat, tahtois, että heillä pitäis olem<hi rend="underline">aan</hi> perilli</l>
+                    <l>sũũs Rättä, ite ostamaan; Vielä nytkiin. kuin Ruunu heitä aũtais</l>
+                </p>
+                <p>Vaan Teällä Norjassa ej ole yhtään perillisũũs Rätteä. ~</p>
+                <pb n="2" facs="0268_0077781_008" />
+                <p>
+                    <l>Nämä Taloin poijan ovat asuneet samassa Ah<hi rend="underline">t</hi>isstoxessa</l>
+                    <l>kuin mekiin Suomalaiset! Vaan nyt, kuin ej Ruunu heitä</l>
+                    <l>aũta, niin tulevat hyö pahempaan Ahtistoxeen, kyllä he suaavat</l>
+                    <l>asua, niin kaũvan kuin he Elävät; Niillä on senmoiset kirjat </l>
+                    <l>elina<hi rend="underline">ij</hi>ax, kuin Matti Karvaisella, Jonkas näit Reholtassa. ~</l>
+                    <l>Vaan niin pien kuin hyö Kuolevat, niin Ajetaan Lapset poiš,</l>
+                    <l>ja ostajat omista Kylät. ~</l>
+                    <l>Aũta hyvä Herra! Jos suũnki mah<hi rend="underline">t</hi>oo<hi rend="underline">n</hi>linen on, näitä</l>
+                    <l>Poloisia Taloin poikia, joi<hi rend="underline">t</hi>en Nimet ovat Erki Olan poike</l>
+                    <l>Hoforsista, ja Gunnar Anununnin poika Hoforsista.</l>
+                </p>
+                <p>Brede Arnin poika Bratforsista. ~</p>
+                <p>
+                    <l>Tämän sinä ite paraite ymmärät! Tokko heitä taijat</l>
+                    <l>aũtoa Tahi ej: Vaan Ruohtalaista Vastaũsta Tahtoisin</l>
+                    <l>tämän piäälle, tulis Kummin Tahaan: ~</l>
+                    <l>Nämät antoivat minullen Nimensä, jotka nyt kansa</l>
+                    <l>seuraa; Ja sanoivat! Još hän mitä maxaa, niin he</l>
+                    <l>palkan antaa kuinš heitä aũtat, ja Läh<hi rend="underline">ä</hi>ttävät vielä pa=</l>
+                    <l>remmat Kirjutokset heijän asjosta. ~</l>
+                </p>
+                <p><hi rend="underline">Öijerisä</hi> sinä 26. paivänä Januari kuussa 1822. ~</p>
+                <p>
+                    <l>Poavo Pietrin poika</l>
+                    <l>Räisäinen. – </l>
+                </p>
+                <p>
+                    <l>Herrallen</l>
+                    <l>Korkiast oppinulle ja hyvin ku<ref>n<note>viivallinen n-kirjain</note></ref>ioitettavalle</l>
+                    <l>Kuarle Axel Gottlund<hi rend="underline">ille</hi></l>
+                    <l>Upsala<hi rend="underline">ssa</hi></l>
+                </p>
+                <pb n="3" facs="0268_0077781_009" />
+                <p>
+                    <l>Minun pitäiš! Toimittamaan,</l>
+                    <l>Etej Rosinkransi eneä meijän</l>
+                    <l>ylitse Hallihte.__</l>
+                    <l>Još täst eteš kirjutat Rosinkransin</l>
+                    <l>Contoriin, Niin pitä sinun</l>
+                    <l>kirjuta<hi rend="underline">maan</hi>. til Rosenkrantzeš</l>
+                    <l>Boedš=arviger. Tahi Overst=liute=</l>
+                    <l>nant, Veimester Ingjääl. –</l>
+                    <l>Ja Petter Julille. Ja Rasmusšen.</l>
+                    <l>Näillen kolmellen.__</l>
+                </p>
+                <p>
+                    <l>Öijerissä sinä 26.p: Jan: k_1822.</l>
+                    <l>Herrallen</l>
+                    <l>Kuarle Axel G.</l>
+                </p>
+                <p><hi rend="underline">Poavo Räisäinen</hi></p>
+                <pb n="4" facs="0268_0077781_010" />
+                <p>
+                    <l>Poavo Räisäinen.</l>
+                    <l>Herrallen Kuale axel Gottlund<hi rend="underline">ille</hi>.</l>
+                </p>
+                <p>
+                    <l>Tämä oli juri paho<hi rend="underline">i</hi>n kuin en minä ennen Kirjoa suaanut.</l>
+                    <l>Sitä poik<hi rend="underline">oa</hi>, jotas puhuit, osin minä mielelläini antanut</l>
+                    <l>mä<hi rend="underline">nnä</hi> sinun kansane Stokholmiin; ja poikakiin oiš tahtoina</l>
+                    <l><hi rend="underline">Völjätä</hi> teitä, <hi rend="underline">Tohtinna</hi> sinä oisit meihen hänestä tehä. ~</l>
+                    <l>Vaan intä kuin tuon vielä ottaisit sinne! Kuin wuos johiin</l>
+                    <l>kulke, poijalla on hyvä oppi lukemaan, ja Riski on kanssa. – </l>
+                    <l>Kuin kuult<hi rend="underline">aa</hi>n ja näähään mitinkä tuloo Kirkoijen ja mehtai=</l>
+                    <l>jen kanssa. ~</l>
+                    <l>Niit<hi rend="underline">ä</hi> nimi<hi rend="underline">ä</hi> joitas minun tahoit selittämään, o<hi rend="underline">n</hi> näin:</l>
+                    <l><hi rend="underline">Jaakolan</hi> miehet ovat Hotakkoita Isän puolelta, vaan Emän</l>
+                    <l>puolelta Valkoisia, Nämä ej tienneet sitä niin wissiin ennen</l>
+                    <l>kuin nyt, ovat perään kyselleet. – </l>
+                    <l>Niin <hi rend="underline">Salmen</hi> Erkki sanoo, että Herra on wiäärin kuullu</l>
+                    <l>hän ej oo jkään muutoin sanonna kuin oinoisia. –  </l>
+                    <l>Niin <hi rend="underline">Lehtomäin</hi>, ovat Emän puolelta Oraisia, Waan Isän</l>
+                    <l>puolelta Nikaraisia, Tätä ej he tienneet silloin kuin sinä</l>
+                    <l>siellä kävit, jsän puolta, Laũr Heikin poika ej ollut kotona</l>
+                    <l>Joka Vanhin oil Kylässä. ej suinkaan <hi rend="underline">Lehtoimäin</hi> miehet</l>
+                    <l>ennen ole <hi rend="underline">kaha puhetta</hi> muisa asjoissa pitäneet, he olevat</l>
+                    <l>toim<hi rend="underline">ee</hi>lliset miehet. ~</l>
+                    <l>Niitä nimia joitaš perään kysyit, tokko ne ovat walmiit.</l>
+                    <l>En minä ole tai<hi rend="underline">nn</hi>a ottoa, ennen kuin teiltä tuloo wastaus</l>
+                    <l>tänne upsal<hi rend="underline">ass</hi>ta, minä tykkäisin sinua niin sanonee<hi rend="underline">nš</hi> Reholtasa</l>
+                    <l>jotej ole ennen kiirettä. – vaan kuins täst etes kirjutat ja niitä</l>
+                    <l>nimia tarvitaan; niin kyllä minun pitä ne ottam<hi rend="underline">aa</hi>n. – </l>
+                    <l>Niitä on monta Suomalaista vielä kirjuttamata, jotka tahtoiš</l>
+                    <l>piäästä Herroista Ruunun ala. ~</l>
+                    <l>Rosinkransin Centoriin Haltiat, Panevat tämän Öijarin=mehan</l>
+                    <l>Axionin kaupita<hi rend="underline">k</hi>, joka enimmän antaa se suaa hanen piteä,</l>
+                    <l>Ja <add>tämä</add> kaupa=axion ylös pannaan Christianin=kaupunnissa, sinä</l>
+                    <l>6.<hi rend="underline">tena</hi>. päiväna Februari kuusa tänä wuonna, se on nyt ylös</l>
+                    <l>Luvetta meijän Kirkoissa. Ja Salmen Erikki tuli Eillön Kaupun=</l>
+                    <l><hi rend="underline">n</hi>issta, sekiin sitä puhui että se on totta. ~</l>
+                    <l>Mitenkään tuo s<hi rend="underline">i</hi>tte meijän kaviš; kuin tuon joki<hi rend="underline">in</hi> ostais. – </l>
+                    <l>Tokkoon Ruunu s<hi rend="underline">i</hi>tte siltä oiss hyvä pois ottamaan, kuin ej</l>
+                    <l>se sitä myyvä tahtois. ~</l>
+                    <l>Tämän hyö nyt tekövät wissiin sillä, kuin työ sinne kirjutitton.</l>
+                    <l>Luulovat Lian Vähä Rahoija Ruunulta suaav<hi rend="underline">aa</hi>nsa. ~</l>
+                    <l>Elä hyvin Jumala teitä tervennä pitäköön, sillä kuin hyvin</l>
+                    <l>meillen Vaivasillen tahoit. ~</l>
+                </p>
+                <p><hi rend="underline">Öijerissä</hi> sinä 26. Januari kuusa 1822. –</p>
+                <p>Herrallen Kuarle Axel gottlund<hi rend="underline">ille</hi></p>            
+                <p>
+                    <l>Poavo Pietarin poika</l>
+                    <l>Räisäinen.</l>
+                </p>
+                <pb n="5" facs="0268_0077781_011" />
+                <p><hi rend="underline">Recommende</hi></p>
+                <p>
+                    <l>Herrallen</l>
+                    <l>Korkiast oppinulle ja Hyvin ku<ref>n<note>viivallinen n-kirjain</note></ref>ioitettavale</l>
+                    <l>Carl, Axel Gottlund<hi rend="underline">ille</hi></l>
+                </p>
+                <p>Upsala=sta</p>
+                <p>Ruotsin Waltakunnassa.</p>                
+            </div>
+        </body>
+    </text>
+</TEI>

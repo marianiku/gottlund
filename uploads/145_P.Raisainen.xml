@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:28</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>145</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Muut nimet: Paavo Pietarinpoika Räisäinen</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1822-06-29">29.6.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_074" />
+                <p>Öijärillä sinä 29. paiw. Kesäkuussa 1822.</p>
+                <p>Poawo Räisäinen! Herra Gottlundille.</p>
+                <p>
+                    <l>Minä en jounna männä Lauantaina Kaikkia asjoia</l>
+                    <l>kirjuttaman joita ma meinasin, Silla kuin oil, nin se wäin</l>
+                    <l>kuhina, ja Postin tahoin Laittoa paperloitain._ __</l>
+                    <l>1. On, ettie myö suinkaan o, teällä Norin puolla Kirkkoja</l>
+                    <l>otottanna suaahaxenmo, ennen kuin Kuninkas oiš</l>
+                    <l>meita Lunastanna. Ja wielä sittenkin myö oonmo</l>
+                    <l>sen ymmärtännä, että teillä on ollu kyllä tekemistä</l>
+                    <l>tästä toisesta asiasta, ettie työ o, tainna Kirkon asjoa</l>
+                    <l>wielä sisään suaaha, ja mistäs hirsiä Kirkon pykeämi=</l>
+                    <l>seen ois suaatu, Ennen kuin mehtiä suaahaan._</l>
+                    <l>Waan kyllä mä tuon oon Kuullu että Pohjos</l>
+                    <l>Leikawaitnalaiset ja kehköiset, oisiwat jo tahtoinna Papia</l>
+                    <l>tänä kesänä, ja Ruwetä Kirkoa pykēmään, waan ne</l>
+                    <l><hi rend="underline">ej tiä</hi> mitään meijän tarpeista._</l>
+                </p>
+                <p>
+                    <l>2. Kyllä Myö Turun wiikko=Sanomia suaamme joka 2.</l>
+                    <l>wiikkon piäästä; kax wiikkon sanomoa aina kerralla,</l>
+                    <l>ja ne owat seilattu ja ulko kirjutus Mulle, ja Östmarkin</l>
+                    <l>Pappi Lähättää mitä kautta aina paraite Lule ne</l>
+                    <l>eis tulewan, Milloin tulewat Etelä åskaperin kautta,</l>
+                    <l>Milloin Huitke<ref>r<note>viivallinen r-kirjain</note></ref>nan kautta, Anti Porkan kautta on</l>
+                    <l>Lian pitkä. Ja kyllä minä nuota hywin ymmärän</l>
+                    <l>ja taijan Lukea, ja sanoo nuo muutkin heitä ym=</l>
+                    <l>märtäwänsä, waan se on kaikkian pahin, meitä</l>
+                    <l>on lian monta, Jos minä ehtäänne Lähätän eli</l>
+                    <l>toisanne; niin ennen kuin ne wiimeset suaawat</l>
+                </p>
+                <pb n="2" facs="0268_0077781_075" />
+                <p>
+                    <l>Niin ne tulewat kulutetux rikki, ja sitten ensmältä</l>
+                    <l>oliwat niin tuhmat ettiewät ymmärtännä kukaan</l>
+                    <l>uloš luotaan heitä Lähätteä, još kuluttiwat siinä ai=</l>
+                    <l>na rikki Johoonka tuliwat, waan sitten kuin ma sen</l>
+                    <l>hawain; niin minä oon kirjutta<ref>n<note>viivallinen n-kirjain</note></ref>a kunkiin wiikko sano=</l>
+                    <l>man ala, että kirusti Lähätteä jokaisen pois luotaan,</l>
+                    <l>että kaikkien suaaha lukea jotka sisään kirjuttitiwat.</l>
+                    <l>Että kyllä ne nyt niitä paremmin wälillään kulettaa.</l>
+                    <l>22. Wiikko=Sanomoa myö olemme jo suaanna, ja siinä</l>
+                    <l>wiimesesšä seisoi siita Oulun Kaupunkin surkeasta</l>
+                    <l>Tulipatosta. Että ej meillä nyt suinkaan taija olla</l>
+                    <l>toiwomista apua Kirjonpykeämiseen Suomesta, Koska</l>
+                    <l><hi rend="underline">niin suuri</hi> wahinko on tapahtunna.__</l>
+                </p>
+                <p>
+                    <l>3. Mitä wouwista tuloo sanottawax, oon Minä jo</l>
+                    <l>Kirjutta<ref>n<note>viivallinen n-kirjain</note></ref>a Ruun piää= Kirkon palossa, Jos poara</l>
+                    <l>Lie kirja eis tullu. Wout paloi ylös, Ejkä sitten</l>
+                    <l>o mitään Herroista kuullunna; Ja Norlaisetkiin</l>
+                    <l>owat jo tuppi suuna; Tukki merkkalit Kanssa owat</l>
+                    <l>jo mahtanna suaaha tukkeen suuhuunsa; waan auk=</l>
+                    <l>siunin nuo sanoo Torstaina olleen, waan ej oo wielä</l>
+                    <l>suaatu tietä miten käynnä on tämän meijän mehän </l>
+                    <l>keralla; waan ejkös tuo Lie jo Rūnulta wastuus tullu </l>
+                    <l><hi rend="underline">Kauppa</hi> Miehille, tokko tuolla lie ollu auksionia._</l>
+                </p>
+                <p>
+                    <l>4. Niin totta kyllä se on, Ettie mulla oo Ruohia joutawia</l>
+                    <l>Kustata, waan ostmarkin Pappi sanoi ens kerran</l>
+                    <l>kuin minä panin Postin että <del>Remo</del> Rekomentterattu</l>
+                    <l>Kirja paraite eis tuloo, jlman sitä en minä oiš</l>
+                    <l>Reçomenteroamisesta mitään tiennä, Minä ej o e<ref>n<note>viivallinen n-kirjain</note></ref>en</l>
+                    <l>Postin Kirjoa pannu, ja Minä <add>olin</add> kiwas meininkiltäin;</l>
+                    <l>Kyllä se sanoi että ne taitaa tulla eis ilman Reco<ref>m<note>viivallinen m-kirjain</note></ref>teroa=</l>
+                    <l>mata: waan minä oon atellu että ne taitaa tiellä tulla</l>
+                    <l><unclear>saltuxi</unclear>; Pappikin Repeis jo wiimeisellä Kieltämään</l>
+                </p>
+                <pb n="3" facs="0268_0077781_076" />
+                <p>
+                    <l>Minua siitä Lika kustinkista, kuin näki että</l>
+                    <l>multa tuli kowin monta kirjoa, waan ej pä sen</l>
+                    <l>ois Renkännä mulle mainita Recomenteroamista</l>
+                    <l><hi rend="underline">niin en</hi> minä sitä ois ymmärtännä,‒</l>
+                </p>
+                <p>
+                    <l>5. Kostjumala siitä kuins minua neowot; En minä</l>
+                    <l>tuota pahuellain tehny još ma teitä <hi rend="underline">Armoillisex</hi></l>
+                    <l>Kuhuin, Minä tykkäisin ettei meille ole yxkään pa=</l>
+                    <l>rempata armoa o näyttännä kuin työ, tahoitten näyt=</l>
+                    <l>teä. Kyllä totta on se, että Tukki Merkkäillöitä ej O</l>
+                    <l>jkään suaatu nokka armotellux. Waikka kyllä wähä</l>
+                    <l><hi rend="underline">armoa hyö</hi> on meille näyttännä.__</l>
+                </p>
+                <p>
+                    <l>6. Se Räisäisten suku tarina oli Lysti, Minä oon</l>
+                    <l>sitä Raisaisille Lukenna, hyö owat sillä nauraneet,</l>
+                    <l>Ja olemme nyt Löynnä että se on totta, Että enin=</l>
+                    <l>mällä osalla Miehen puolella Räisäisen suwussa, on</l>
+                    <l>teälläkin, yx suoin joka käy pitkin nenän wartta</l>
+                    <l><hi rend="underline">ja Lyö</hi> pienen koukun eli paukaman nenän juressa;</l>
+                </p>
+                <p>
+                    <l>7. Nyt minä suaan wimex jlmi antoa mitenkä</l>
+                    <l>teäll seisoo teliin; warain tiäällä Kyntö aika tuil,</l>
+                    <l>että myö jo teinmö kyntö aijan pois luotaanme tässä</l>
+                    <l>Öijärin kylässä Huhtikuun 24. paiw:, ja tähkäpiää</l>
+                    <l>Rukiissa Näkyi jo alusta Toukokuuta._</l>
+                    <l>Waan nyt on niin pitkä ja anakara pouta ollu,</l>
+                    <l>Että mahtaa kaikki pellonni kaswu ulos kuiwoa,</l>
+                    <l>Niitut ne on jo aikoa kuiwilla paikoilla ulos kui=</l>
+                    <l>wanna, että Makoawat walkoissa kuin palttina.</l>
+                    <l>Ja Mehtä kulku walkeat, kulkewat niin Raiwosti</l>
+                    <l>että Kylät owat ylös paloa; ja ejkä wäki muta</l>
+                    <l>suaa tehä jos walkeata posi warjella Kylistä, niissä</l>
+                    <l>paikoin joissa se pahinmiten kulke.__</l>
+                </p>
+                <pb n="4" facs="0268_0077781_077" />
+                <p>
+                    <l>Tiäällä ej o wettä satanna, että muaa on wäheä=</l>
+                    <l>kään kastunna, Sitten kuin 26. paiw: Huhtikuussa,</l>
+                    <l>Että eölöin oil jo 9. wiikkoa sitten kuin muaa kastui.</l>
+                </p>
+                <p>
+                    <l>Helluntak muaanantaina satoi niin <unclear>passi</unclear> kuin oa=</l>
+                    <l>mu kasteen, ja sinä Perjantaina jälkein tuil toais,</l>
+                    <l>saitta niin passi ettie tiellä wywin multa suaa<ref>n<note>viivallinen n-kirjain</note></ref>a höy=</l>
+                    <l>rûtuxi. Enemmän tiäällä ej o saitta suaatu.</l>
+                    <l>Jumala tietköön, Minne muaalima ens wuonna</l>
+                    <l>Joutunoo, Eläinten <del>tuloo</del> ja hewoisten kanssa tuloo</l>
+                    <l>kaikkian pahin; jmeisille tuota Ryösteäs wielä wähä</l>
+                    <l>Eloa tula, kuin het saitta tulisi, waan kuin ej sitä</l>
+                    <l>tule, niin on <hi rend="underline">hunninko newona</hi>; Jos ej tuo</l>
+                    <l><hi rend="underline">Juma</hi>lan armoo wielä lie paremp.</l>
+                </p>
+                <p>
+                    <l>8. Jumala han jes, pitäköön teitä Terwennä.</l>
+                    <l>Oisi se Lysti Mielestän, jos minä wielä sen</l>
+                    <l>päiwän näkisin, että minä saisin teitä person=</l>
+                    <l>liasti puhutella, Myö jotka niin pitkän matkan</l>
+                    <l>piäässä toistaamme puhuttelemme. Waan tokkos</l>
+                    <l>minä sitä suaanen nähä, Tokkos työ eneä näiheen</l>
+                    <l>tulletto kuin kerran Suomeen määtten._ waan</l>
+                    <l>jos niin on, <hi rend="underline">ettet</hi> eneä Upsalaanka takaisin tule;</l>
+                    <l>Jota <unclear><add>me</add></unclear> suurest pelkeän, Niin Kirjuta weikkoinen kui=</l>
+                    <l>tenkiin Suomesta jonkun kerran mulle, Että mä</l>
+                    <l>saisin teitä jälleen terwehtiä, ja saisin nähä mi=</l>
+                    <l>tenkäs Elät._ Elä hywin, Terweyyxiä sinun </l>
+                    <l>Ystäwältääs</l>
+                </p>
+                <p><hi rend="underline">Poavo Räisäiseltä</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

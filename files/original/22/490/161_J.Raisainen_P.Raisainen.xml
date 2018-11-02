@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Juhoi Räisäinen ja Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Juhoi Räisäinen ja Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-14">14.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:9:2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Juhoi</forename></author>
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>161</bibl>
+                        </msItem>
+                    </msContents>          
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1834-06-25">25.6.1834</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078095_004" />      
+                <p>Kunnioitettava Herra C.A. Gotlund!</p>
+                <p>   
+                    <l>Myö käsitimme teijän kirjanne jo sinä 25<hi rend="superscript"><hi rend="underline">tenä</hi></hi> päivänä</l>
+                    <l>männeešsä kuušsa kušsa myö saimme 14<hi rend="superscript"><hi rend="underline">sta</hi></hi> Nomeroa teijän</l>
+                    <l>hyvin aivoityista Sanomistanne, vaan koska myö emme</l>
+                    <l>oo tulleet tostamme puhuttelemaan, kuinka myö heijän kan=</l>
+                    <l>sa oisimme tehneet; tahi još heitä muut oiš tahtoneet</l>
+                    <l>eli ei, <unclear>niin</unclear> olemme meistä nyt muutamat ruenneet yh=</l>
+                    <l>teen että myö heitä taitasimme suaha täst eešpäin</l>
+                    <l>ehtimistään tämän vuon Numrot, tahtoišimme</l>
+                    <l>tietä kuinka paljo hyö tulevat maxamaan Post Ra=</l>
+                    <l>han kanša niin kyllä meijän pitäis lähätteä</l>
+                    <l>Rahat nopeimmiten: minä luulen että on paraš</l>
+                    <l>kun Posti tulee Östmarkin (til Her Herman Weštberg)</l>
+                    <l>joka ašuu Längeron Tullissa ja että hyö sen sievem=</l>
+                    <l>min tulisivat eeš niin oiš ehkä niin hyvä että pani</l>
+                    <l>sitten heitä mäneemään (til Bonden Peder Mathišen</l>
+                    <l>Karvainen <add>från Byen kalneset</add> på Grue Findskog.)</l>
+                </p>
+                <p>
+                    <l>Koška sitten on niin kauka kuin myö toistamme</l>
+                    <l>puhuttelimme niin minä pyän että työ etten ota</l>
+                    <l>pahaxenne minun huonoa kirjutoštaini se on kyl=</l>
+                    <l>lä pienen Opin ja Valaistuxen kuin minä oon suan=</l>
+                    <l>na sitten kuin minä tulin poiš teijän luotanne</l>
+                    <l>vaikka kyllä minä vähä ymmärsin teijän hyvyt</l>                    
+                </p>
+                <pb n="2" facs="0268_0078095_005" /> 
+                <p>
+                    <l>tänne siiheen aikan sen tähteen minä nyt kiitän</l>
+                    <l>teitä suuresti kaikein Aikaijen eite minä asun nyt</l>
+                    <l>Öijerillä toisella puolella minun Jsäini kotia ja</l>
+                    <l>Mathi on ostanut talon Norjan Suokunnassa.___</l>
+                </p>
+                <p>
+                    <l>Suomalaišet myö elämme täällä niinkun ennenkin</l>
+                    <l>suren Vaivan ja puutten allaišina.__</l>
+                </p>
+                <p>
+                    <l>Minulla taitaiš ehkä olla paljon teillen kirjutta=</l>
+                    <l>mistä, vaan ehkä toišten paremmin taitaiš paš=</l>
+                    <l>sata  - Jsäini tervehti teitä juur poljon vaan hä=</l>
+                    <l>nen silmänšä ovat huonot ettei hän neä eneä lail=</l>
+                    <l>len kirjuttoa ja Jumala pitäkön teitä terven=</l>
+                    <l>nä minun puolestain.</l>
+                </p>
+                <p>
+                    <l>Öijerellä sinä 25<hi rend="superscript"><hi rend="underline">tenä</hi></hi> p Juni kuussa v 1824</l>
+                    <l>Juhoi Räisäinen</l>
+                    <l>Talon poika Öijereltä</l>
+                </p>
+                <pb n="3" facs="0268_0078095_006" />
+                <p>
+                    <l> Koska on paperia, Eikä Juhoi oo kaik=</l>
+                    <l>kia kirjuttanna; Niin=mä käwin Noapurišsa</l>
+                    <l>Lainnoamasša wara Silmät ja kirjuttan muuta=</l>
+                    <l>man ratin minäki.__</l>
+                </p>
+                <p>
+                    <l>Enš on se, Että minä <add>kiitän </add>ja kosten Teitä A=</l>
+                    <l>wisistä, ja siitä kuinš wielä mustat minun.</l>
+                    <l>Meittä on 3.<hi rend="superscript"><hi rend="underline">met</hi></hi> jotka awisia tahtoo. Minä,</l>
+                    <l>ja Juhoi, ja Pekka Karwainen Kalnesisša.</l>
+                    <l>waan enš wuonna tuloo useampi Klasša</l>
+                    <l>tänne Lähätettäwäxi, sillä nitä on monta</l> 
+                    <l>jotka heitä haloawat.__</l>
+                </p>
+                <p>
+                    <l>Minun pitaiš Teiltä kysyä mitä näille</l>
+                    <l>Suomalaisille Kirjoille tehän jotka teällä</l>
+                    <l>on myötäwänä? Eipä niitä moni eneä</l>
+                    <l>osta.___</l>
+                </p>
+                <p>
+                    <l>Syy minkä tähe Awisit pitää enš Lähätteä</l>
+                    <l>Pekka Karwaiselle Kalnäsiin; on se, että Posti</l>
+                    <l>paremmin sinne kulke, ja sitte, että awisit</l>
+                    <l>tulewat täsšä stanoaman, ne owat Lystit</l>
+                    <l>piteä ja Lukea, ja wuoten Lopulla suaa</l>
+                    <l>heistä tehä Kirjan.___</l>
+                </p>
+                <p>Poawo Räisäinen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

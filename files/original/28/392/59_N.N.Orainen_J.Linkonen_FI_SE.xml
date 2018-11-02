@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nils Nilsson Orainen &amp; J. Linkonen > Carl Axel Gottlund</title>
+                <author>Nils Nilsson Orainen &amp; J. Linkonen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:25:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Orainen</surname>
+                                <forename>Nils Nilsson</forename></author>
+                            <author><surname>Linkonen</surname>
+                                <forename>J.</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>59</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="30">suomi</language>
+                <language ident="se-SE" usage="70">svenska (norska?)</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Norra Lekvattnet">Norra Lekvattnet</placeName>
+                        <date when="1830-04-01">1.4.1830</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077770_001" />
+                <p>[n. 2/3 sivusta norjaa tai ruotsia]</p>
+                <p>
+                    <l>Minun täuttu juko <gap/> kautta kiriutta</l>
+                    <l>sillä Minun näköin puttu ja minun</l>
+                    <l>Luotain ei ole <unclear>kiaskain</unclear> ollu kirian herran</l>
+                    <l>Luoxe ei kä hännen Luota Minnullekin –</l>
+                    <l>olen hän Mina nyt nähnyt herrien <unclear>ysön tiötn</unclear></l>
+                    <l>joka han on tehnyt <unclear>ottoesan</unclear> kanssa joka Mina</l>
+                    <l>nyt olen Lainanna Pårkalta.</l>
+                    <l>Ja Monta tuhatta kitosta ja tervexsin herrallen</l>
+                    <l>kaikista hänen toimitoxsistan.</l>
+                </p>
+                <p>
+                    <l>Nils Nils son</l>
+                    <l>Orainen </l>
+                </p>
+                <p>
+                    <l><ref>*<note>Lisätty s. 1 marginaaliin</note></ref>Tervesysia Hänellen, Herra Coral Gottlundilen = Minūlta; Nöfrimäjseltta Palvlaltta <gap/>–</l>
+                    <l>Joho Linkonen Ormhöfrisa – Äleä <unclear>han</unclear> <gap/> Ja ylestyyellä. Nöwrjmäst J. Linkonen. N: M:</l>
+                    <l><hi rend="underline">Telin Antin</hi> <gap/> nūorimmasta. <unclear>miehiä</unclear>. I. M. S</l>. 
+                </p>
+                <pb n="2" facs="0268_0077770_002" />
+                <p>[ruotsia/norjaa]</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka > Carl Axel Gottlund</title>
+                <author>Antti Porkka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:24</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>89</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Carlstan">Carlstan</placeName>
+                        <date when="1826-04-22">22.4.1826</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_068" />
+                <p>Carlstan den 22. Aprill 1826.</p>
+                <p>Herra gottlundi!</p>
+                <p>
+                    <l>Minä olin tulossa Tukullmin, wan</l>
+                    <l>kuin minä puhutelin Maaherroa</l>
+                    <l>Niin hän Lupaisi tehänsä kaik</l>
+                    <l>Mittä kuninkas pyytä, Ja Mitä</l>
+                    <l>Hän ei pyytä sitä hän ei taita</l>
+                    <l>tehtä. Nyt minä pyyän Herroa</l>
+                    <l>että hän teke niin hyvin ja</l>
+                    <l>krono prinsiltä kysy tokko</l>
+                    <l>nämä Ruunun viliat on kunin=</l>
+                    <l>kallta köyhillen jälken annetuxi</l>
+                    <l>tullut.</l>
+                </p>
+                <p>
+                    <l>Nyt siinä <unclear>Kansakuninsissa</unclear> joka</l>
+                    <l>pietin östmarkissa, siinä tuli wie=</l>
+                    <l>kaus sisän wetyxi, että moni tuli</l>
+                    <l><unclear>uskontuinkin</unclear> joka oli <unclear>veänmieska</unclear>=</l>
+                    <l>rolin maxana, ja moni jonka eosmies</l>
+                    <l>| <unclear><hi rend="underline">Löslessman</hi></unclear> | oli vilat saanut – tuli</l>
+                </p>
+                <pb n="2" facs="0268_0077775_069" />
+                <p>
+                    <l>köyhäien sakon Luuatuxi Nỹt me</l>
+                    <l>olemme keskenämme ulos valinneet</l>
+                    <l>Ne köyhinmät joila ej ole muuta</l>
+                    <l>pantin panna kuin stũbbrattä, Ja</l>
+                    <l>moinallia joku verohopär, kuin ne</l>
+                    <l>nỹt miötän niin tule Heikari Johko</l>
+                    <l>suuremmasi –. se Lista tässä nyt <unclear>seana</unclear></l>
+                    <l>ja tohtis Herra nỹt autoa Minua</l>
+                    <l>tässa asiassa – muuten minä tulisin</l>
+                    <l>sinne wan ne poloiset ej ole Rahoia</l>
+                    <l>pannet että minä <unclear>uuskallan</unclear> matkalla</l>
+                    <l>kuin Herra antaisi minulle <unclear>Nopeimittain</unclear></l>
+                    <l>tieton tästä asiasta.</l>
+                </p>
+                <p>
+                    <l>Jmmoisen minä nyt Laitan <unclear>Lỹs</unclear>=</l>
+                    <l>vikiläisten kansa, jossa on yx Suo=</l>
+                    <l>malainen jokossa Minä en Jouva</l>
+                    <l>nỹt enimb kierutoa, kyllä Immoinen</l>
+                    <l>tjetä puhua kaik – </l>
+                </p>
+                <p>Anti Porka</p>
+            </div>
+        </body>
+    </text>
+</TEI>

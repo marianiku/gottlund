@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka > Carl Axel Gottlund</title>
+                <author>Antti Porkka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>66</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Runsjön">Runsjön (Rumsjön, Rensjön)</placeName>
+                        <date when="1822-03-24">24.3.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_001" />
+                <p>
+                    <l>a<ref>n<note>viivallinen n-kirjain</note></ref>etu Runsjönilä sinä 24 päivänä Malis Koosa w.</l>
+                    <l>1822.</l>
+                </p>
+                <p>
+                    <l>Anti Porkkalta, Hyvin Kunnioitatavale</l>
+                    <l>Ja Korkiasti opinele herra Gotlundilile!</l>
+                </p>
+                <p>
+                    <l>Nyt me oleme hänen Kiriansa jälken</l>
+                    <l>Lähätänä Niles Oraisen Koarlestain mänemän,</l>
+                    <l>niitä Suomalaisia Kiirioia noutaman.</l>
+                    <l>Ja täisä nyt Seoroa niten nimet, niin</l>
+                    <l>fryxin Kuin Östmarkin Suomalaisia, jotka</l>
+                    <l>tahtoi Lauta Salmen Kiirkon antaita.</l>
+                    <l>teälä miös löüty paika paikoin senmuoltoisa</l>
+                    <l>Suomalaisia, jotka ei oiken taia puhua, ejkä</l>
+                    <l>ymärteä Ruotsin Kjeltä Exempl: Oli Orainen</l>
+                    <l>ja Erki wäräläinen Leikavailnala, waimo</l>
+                    <l>Kertoi Pekan tytär Rijtamäilä Oli Jusoinen</l>
+                    <l>Huitkjennälä, Ja vielä  uuseampi pohois</l>
+                    <l>Suomalaisia; Jonka minä Siilä toitistan,</l>
+                    <l>etä Silen Kuin minä oilin Lautamiesä</l>
+                    <l>olii näita monta <unclear>vetinässi</unclear> Kutsutu Käräisin, </l>
+                    <l>nin minun piti jistuimeltain ylös, ja nitä</l>
+                    <l>Suomenkjelen puhutaman ja siiten Ruoitsin</l>
+                    <l>Kjelen Tuomarile toimitaman; Kuinka sen=</l>
+                    <l>muotoiset ymärtänevät Jumalan palveluxen</l>
+                    <l>Ruoitsin Kjalelä, Se on minulta Sanomata</l>
+                </p>
+                <pb n="2" facs="0268_0077775_002" />
+                <p>
+                    <l>Poavo Raisäinen Öiärilä varoi maniata</l>
+                    <l>Pyha=Sanoia olewan Jokamata, nin täsä on</l>
+                    <l>Kolmet miestä nimitäin Oli Pekan poika</l>
+                    <l>Räisäinen Rotinankankala, Köihä ja palion </l>
+                    <l>lapsia, lukoo hyvin Suomea, ja Anti Antin</l>
+                    <l>poika Mojlainen teälä Purũs torpala, Ja</l>
+                    <l>Joho Juhonpoika Porkka waiskamäisä,</l>
+                    <l>Jotka kansa lukoo suomea, nämä pytä</l>
+                    <l>nöyrästi, Kuin he Pyhä=Sanansa saisi.</l>
+                    <l>Täsä tulo meiltä nyt wailitosta. Joka tulo nin</l>
+                    <l>pilkä etä Herra taita Kylästyä wan pytäme</l>
+                    <l>Hänen tämän ylen Katsoa.</l>
+                    <l>Me Köyhimät nin Fryxin kuin Östmarkin</l>
+                    <l>Suomalaisia, Jotka ej olut hyvä Koarlestain</l>
+                    <l>markinasa, niin wiliala kuin Rahala, maxoa</l>
+                    <l>meitän Ruunun vilioia, on nyt tulut</l>
+                    <l>benynad Ja werningskarat pantoa ainuut</l>
+                    <l>tavarat Ja taloit, Ja Joilei mitän löyty</l>
+                    <l>niin Eusmiehiä pantatan. niin miös</l>
+                    <l>uulos panoista ja Bewilminglöystä. eikä</l>
+                    <l>mitän neowoa Rahan ole: sentähten me</l>
+                    <l>tätä jlmoitame, etää Kuin meilen Köyhile</l>
+                    <l>Suomalaisile <add>armoo</add> Löytys, <del><gap/></del> Jos ei enemän, nin</l>
+                    <l>paiviä Ruunun viliaslen Syxyn asti</l>
+                    <l>etä</l>
+                </p>
+                <pb n="3" facs="0268_0077775_003" />
+                <p>
+                    <l>etä tavarame <add>saisem</add> jtse Kapita ja jolakin tavala</l>
+                    <l>pyytää Rahoa, muuten ne niitä meiät <del>niissa</del></l>
+                    <l><del>lämät</del> neänytävät.</l>
+                    <l>Nyt minä täisä Herrale suota näytän</l>
+                    <l>minun <unclear>wäyrahan</unclear> Sedeliin mitnu ysö</l>
+                    <l>Bowilminy 2 Henyelä on, Ja Jola on enem=</l>
+                    <l>pi yhtä niin on enempi toista, Ja silä</l>
+                    <l>anoisin tjetä, tokko näin on Kuningkan</l>
+                    <l>tahto; niin pitä meidän sen Kärsimän,</l>
+                    <l>Sanomat ooli; Kuin se Herrain päwilä</l>
+                    <l>peälen pantiin <add>etä</add> <del>jota</del> 3 aiastaikoa pana,</l>
+                    <l>nyt on Kauvas Jo Sen meärän ylize Käynä,</l>
+                    <l>Jotka Kowasti neänytävät meitä Suoma=</l>
+                    <l>laisia, silä ej minkälaista tjenastia ole</l>
+                    <l>Raahan, wan wiliaa ostaa joka wuosii</l>
+                    <l>minä näytan täisä yhen toisen uulospanö</l>
+                    <l>Kjirjan, Joka on meilä täisä Kyläisä maxetavana,</l>
+                    <l>Joka on niitä, Kaihnoimia Suomalais Kyliä</l>
+                    <l>Josa Harvoin vuata tulo, Ja Jlman näitä,</l>
+                    <l>niin on meilä, kuin Herra tjetä, Probtin=<unclear>tjiloa</unclear></l>
+                    <l>Ruunun=tjiloa, Nihin=palka, pienet puntit</l>
+                    <l>Maantjen ylöspitämiset 2<hi rend="superscript"><hi rend="underline">sa</hi></hi> paikasa, yxi</l>
+                    <l>gräsmorkin Ja Tryxin-wäililä århan=metäxi</l>
+                    <l>Kutsutan 3<hi rend="underline">A</hi> penniKulmoa <del>metän</del> meitän</l>
+                    <l>Kylästa, Ja 2<hi rend="underline">en</hi> Suunin Silaxi Kutsutan</l>
+                    <l>Östmarkin ja Tryxin vaililä, Jotka</l>
+                    <l>Kaiki</l>
+                </p>
+                <pb n="4" facs="0268_0077775_004" />
+                <p>
+                    <l>Kaiki meitä vuois vuolitä neänytävät</l>
+                    <l>ja jos se päiwä Kerran valkeneisi etä</l>
+                    <l>me Ruohtalaisista tulisime erilen Ja</l>
+                    <l>Joisaikin paikasa Huoistetuxi tuilisime.</l>
+                    <l>Ruohtalaiset Lausuvat palio pahaa</l>
+                    <l>ja pilkana pitäwät meitä ja Herroakin.</l>
+                    <l>wan Suomalaiset jo Kaiki pitä Häntä</l>
+                    <l>suuresa Arvoisa ja palio terveäxiä</l>
+                    <l>Lähätävät, ja minulta Kaikin Einimän</l>
+                    <l>olen aina Herran</l>
+                </p>
+                <p>
+                    <l>Nöyrimäinen tjenari</l>
+                    <l>Anti Porkka</l>
+                </p>
+                <p>
+                    <l>Niles Orainen ja mut Leikavatinala</l>
+                    <l>niin miöskin Runsjönila soisime sen</l>
+                    <l>Kjerkan Lupauxen Tulman, nin ma</l>
+                    <l>Heiti papia taiwaisime.</l>
+                </p>
+                <p>
+                    <l>Juho Kähköinen ei ole miinun mielestäni</l>
+                    <l>Rättä toimenlinen Mies, <del>sä</del> se olis</l>
+                    <l>parempi Jos Herra minun Kauta tahtos</l>
+                    <l>Kjeriat pana Niles Oraisele jonka mina</l>
+                    <l><unclear>ussan</unclear> paraite meitän aisioisa.</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

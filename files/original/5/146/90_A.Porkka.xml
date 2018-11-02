@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka > Carl Axel Gottlund</title>
+                <author>Antti Porkka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:25</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>90</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Runsjön (Rumsjön, Rensjön)">Runsjön (Rumsjön, Rensjön)</placeName>
+                        <date when="1826-10-27">27.10.1826</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_070" />
+                <p>Runsjön H: 27 october 1826.</p>
+                <p>Armonlinen Herra!</p>
+                <p>
+                    <l>Minulla olisi muutamia asioita,</l>
+                    <l>kum minä tohtisin pyytä Herroa</l>
+                    <l>niitä minulle selitämän:</l>
+                </p>
+                <p>
+                    <l>on tämä Supliki, jonka minä </l>
+                    <l>tahtoisin Kuninkan eten, sillä</l>
+                    <l>kuin Hän on armosta meäränyt</l>
+                    <l>Sukkarit joka pitäjäšsä Etes auta=</l>
+                    <l>man <unclear>Rupuilin</unclear>, tahi Rokon pane=</l>
+                    <l>misen. Lapsillen, niin miös Shou=</l>
+                    <l>lun pitämisen, Ja heilen siitä</l>
+                    <l>palkaxi meäränyt 25. Rixia Pan=</l>
+                    <l>kossa wuodessa; niin ej Lukkari</l>
+                    <l>tässä östmarkin pitäjässa tuosta</l>
+                    <l>kumpasestakan Huoli, jos Rakon</l>
+                    <l>pane</l>
+                </p>
+                <p>
+                    <l><ref>*<note>Lisätty marginaaliin</note></ref>P:S: Jos Rahaa tarvihte tähän suplikin, niin minä</l>
+                    <l>tahtoin sen maxoa, niin miös Hänen waiwan.</l>
+                </p>
+                <pb n="2" facs="0268_0077775_071" />
+                <p>
+                    <l>paneminen käyletän entyisen papin</l>
+                    <l>sisarelta Sisa Maria frykuxelta, ja</l>
+                    <l>Schulun pitäminen kesällä kierko=</l>
+                    <l>herran läsnä ollessa suokunantämi</l>
+                    <l>nässä pantin minun peälle, jonka</l>
+                    <l>wiran minä nyt eteskytän; sillä</l>
+                    <l>mun Luuloin perästä, minäkin olisin</l>
+                    <l>Likisemb pitämän Rakon panemisen=</l>
+                    <l>kin tässä Suokunassa, ja peälisexi</l>
+                    <l>minä tahtoisin pyyteä armonlista</l>
+                    <l>kuninkasta, että saha Rokkoa panna</l>
+                    <l>muien Suokunoien Suomalisissa, niin</l>
+                    <l>Norin kuin Ruotin puola, sillä hei=</l>
+                    <l>iän on 4 elli 5 peninkulma Lukkarien</l>
+                    <l>sa luoxe, Ja ne ej Suomalaisin tule</l>
+                    <l>sitä paneman, kuin ej he lapsian</l>
+                    <l>kuleta heiiän Luokse. Norin Suoma=</l>
+                    <l>laisissa en minä oo kūlut, jos tätä</l>
+                    <l>tanpelistä asiata ensinkän Ruukatan.</l>
+                    <l><add>2<hi rend="superscript"><hi rend="underline">nen</hi></hi></add> tässä östmarkin Suokunassa on monen</l>
+                    <l>köyhän welkoa Ruunun wihoa, Nimitän</l>
+                    <l>wuoten 1816, 17, 18 Jan 19. ja heilä ej olut</l>
+                    <l>mitän</l>
+                </p>	
+                <pb n="3" facs="0268_0077775_072" />
+                <p>
+                    <l>mitän neuwoa tätä maxaman, jos ainut</l>
+                    <l>torpat olisi pantixi käynyt, ja wäki olisi</l>
+                    <l>tulut maantielen, ja muutamien eosmie=</l>
+                    <l>het olisi pitännä maxaman toisen welkoa,</l>
+                    <l>siten tuli oikeus, että pitämän suokunan=</l>
+                    <l>täminöitä, ja walita ulos kaiki köyhät,</l>
+                    <l>ja Lengnat tuli Lähätös miehiltä pois</l>
+                    <l>otetuxi, ja papi Nils Fryçhius sanoi: että</l>
+                    <l>ne on Ruunulta jälken annettu. tuo oli</l>
+                    <l>tuoltan yhen ajastaian, elli wiimen kewäisin</l>
+                    <l>asti, niin tuli lengnat takaisin, ja kaiki</l>
+                    <l>piti jlman armota maxaman; ne köyhät</l>
+                    <l>peätiwät että Lähätteä yhen miehen Tuk=</l>
+                    <l>hulmin, wan he ej saanut nin palio Rahoa</l>
+                    <l>että sinne yxkän tuli; mut minä käwin</l>
+                    <l>maaherran puheila, Ja hän sanoi: että</l>
+                    <l>ej yxkän oo niitä jälken saanut, mut</l>
+                    <l>pitä maantjen työllä ne maxaman,</l>
+                    <l>minä lähäitin lengnat gottlundille ja</l>
+                    <l>pyysin Hänen krunu Printsiltä tätä</l>
+                    <l>asiata kysymän, wan minä en oo häneltä</l>
+                    <l>mitän kuulu_ kuin Herra tok niin hy=</l>
+                    <l>win tekisi ja kysysi Ruunulta, tokko</l>
+                    <l>yxikän köyhä on näitä saanut antex,</l>
+                    <l>wai tjentekemisella kö ne pitä maxa</l>
+                    <l>man</l>
+                </p>
+                <pb n="4" facs="0268_0077775_073" />
+                <p>
+                    <l>Niin hän tohtisi tämän asian mullen</l>
+                    <l>Ruhin kjellelä toimitoa.</l>
+                </p>
+                <p>
+                    <l><add>3<hi rend="superscript"><hi rend="underline">nes</hi></hi></add> febakkalaiset pyytäwät tjetoa, eikö asia</l>
+                    <l>Tuomarin kansa oo wielä Peättesty Hof=</l>
+                    <l>Rälässä.</l>
+                    <l><add>4<hi rend="superscript"><hi rend="underline">es</hi></hi></add> siitä Lånsjöninmäin Torparin asiasta, josta</l>
+                    <l>minä oon ennen Herrallen kierjuttanna</l>
+                    <l>Ja hän neowoi, että maaherrale antoa</l>
+                    <l>Suplikin Jossa pyytäwät Torpia ja</l>
+                    <l>mehteä Ruunun weron ala. He teki=</l>
+                    <l>wät sen, kesä kuula 1825 jonkir yx mies</l>
+                    <l>jalan syten vei Carlstahan, wan ej wielä</l>
+                    <l>mitän Peätös sitä saanut, Hyweä ekä</l>
+                    <l>Pahoa, Mut tuliwat fryksändin kjerkon</l>
+                    <l>waltiolta Heärän käräisin syökätyxi</l>
+                    <l>sillä kuin oliwat Hakanna moniaita</l>
+                    <l>Tolttia Tukkia, ja saiwat 800 Rixiä an=</l>
+                    <l>toa sowinnoxi. Nyt on kierkon waltiat</l>
+                    <l>peätänet että myywä mehän ja ostoa</l>
+                    <l>kappalaisen Puustelliä fryksändin.</l>
+                    <l>Minä pyyän antex että minä niin paljon</l>
+                    <l>Herroa Rasitan kjeniutuxen kansa, ja </l>
+                    <l>tohtis hän kuitenkin niin nopen kuin</l>
+                    <l>mahollinen on antoa minulle vastauxen.</l>
+                    <l>Jumala olkon hänen kansa</l>
+                </p>
+                <p>AntjPorka</p>
+            </div>
+        </body>
+    </text>
+</TEI>

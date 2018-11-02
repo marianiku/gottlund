@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka > Carl Axel Gottlund</title>
+                <author>Antti Porkka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:31</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>96</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Viiken (?)">Viiken (?)</placeName>
+                        <date when="1831-03-23">24.3.1831</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_093" />
+                <p><unclear>viiken</unclear> den 23 Mars 1831</p>
+                <p>Herra Kaarle Gottlund<hi rend="underline">ille</hi>!</p>
+                <p>
+                    <l>Räisäinen minulle Kjeriutti, että mun</l>
+                    <l>piti tulla viikeron näitä Suplikia Kjer</l>
+                    <l>iuttaman, sillä hän ej sanonna taita=</l>
+                    <l>vansa oiken Ruohtia, van minäkin</l>
+                    <l>en hyvin tunne tätä asiata, muuten</l>
+                    <l>kuin he toimittivat niin minä parai=</l>
+                    <l>ten jälken koin Kjeriuttoa, Kuitenkin</l>
+                    <l>pelkeän että se ej onk lailen, van</l>
+                    <l>jos Herra Löytäsi siinä vikoa, niin</l>
+                    <l>Minä pyyan häntä Nöyrästi, että</l>
+                    <l>hän jolla kulla oppinalla Miehellä</l>
+                    <l>Hänen parantai, Ja silla Puuvin Miehella</l>
+                    <l>laitaisi Kuninkallen.</l>
+                </p>
+                <p>
+                    <l>Räisäinen, niin Miöis kuin kaiki väräl-</l>
+                    <l>lin mehän Miehet Lähättä paljon</l>
+                    <l>Terveuxiä Herrallen.</l>
+                    <l>minä</l>
+                </p>
+                <pb n="2" facs="0268_0077775_094" />
+                <p>
+                    <l>minä olen Käsittännä Herran Kjerjan, kussa</l>
+                    <l>hän pyytä mun Tuomarilta ottaman <unclear>beni=</unclear></l>
+                    <l>näistä totistusta. Minä kohta mäinin</l>
+                    <l>Lauri Riekisen Luokse, Ja hän Lupaisi</l>
+                    <l>Rahoia kahvoaman, van ej niitä ouk </l>
+                    <l>vielä tänä päivänä Killinkiä näkynnä,</l>
+                    <l>Minä mäinin männä Torstaina skalbyn</l>
+                    <l>Tuomarin Luokse ja oisin omilla Ra=</l>
+                    <l>holain ottanna ne, van hän sanoi</l>
+                    <l>että hän ej taija görsherän miehille</l>
+                    <l><add>antaa</add> totistosta, sillä hän ej ouk heian Tuo=</l>
+                    <l>mari, Ja hän on Jo yhen totistuxen</l>
+                    <l>antanna niien ylte Jotka on hänen</l>
+                    <l>heärästä; Niin se jäi siltän. Minä lai=</l>
+                    <l>tan toisella Kerralla welka Setelin <unclear>takui</unclear></l>
+                    <l>sin kuin ej Lauri Rahoiia tuok.</l>
+                    <l>palion Terveyxna</l>
+                </p>
+                <p>AntjPorkalta</p>
+                <p>
+                    <l>Lauri Riekisellä ej ouk <unclear>mitän</unclear> Jos hantä</l>
+                    <l>Lain kauta pitäis ottamān. Sillä kuin ej</l>
+                    <l>täman kierian ouk kiire, laitan minä sen</l>
+                    <l>Matti Hämäläisen kansa, Joka Lähtö Tukullmia</l>
+                    <l>kahtoman</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

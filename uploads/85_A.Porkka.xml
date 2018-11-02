@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka > Carl Axel Gottlund</title>
+                <author>Antti Porkka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:20</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>85</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Runsjön (Rumsjön, Rensjön)">Runsjön (Rumsjön, Rensjön)</placeName>
+                        <date when="1823-07-05">5.7.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_054" />
+                <p>
+                    <l>Runsjönillä sinä 5 p: heinä kuusa</l>
+                    <l>v. 1823.</l>
+                </p>
+                <p>Antti Porkalta Koarle gottlundile.</p>
+                <p>
+                    <l>Minä oon Jo käsittä<ref>n<note>viivallinen n-kirjain</note></ref>a kolmet kjerioa,</l>
+                    <l>van en millä tawalla o Joutanna wa=</l>
+                    <l>staaman ennen. Ensmäinen oli 5 viikoa tiellä.</l>
+                    <l>Minä tulin suuren katrakan siitä</l>
+                    <l>Reisussta, sillä kaik minun työn</l>
+                    <l>Jaivät tekemätä, eikä olut siementä</l>
+                    <l>jos sitä piti minun norgista hankiä,</l>
+                    <l>ja kauwan wiipy ennen kuin sain</l>
+                    <l>kylvetyxi, Jotta Jumala ties, Jos meitän</l>
+                    <l>mäilä tänä vuonna mitä tule.</l>
+                    <l>Teälä Ruotin puolella on täna kevä<ref>n<note>viivallinen n-kirjain</note></ref>ä</l>
+                    <l>olut niin kova kaohnan puutos,</l>
+                    <l>että paion Eläimiä on kuolut</l>
+                    <l>nälkän, niitä ei saatu männäsyxynä</l>
+                    <l>kän myyä, jotta teällä on niin</l>
+                    <l>paha Rahan puutos, <add>tullut</add> etei miesmui=</l>
+                    <l>stin oo sen kaltaista ollut, Ja <del>Ruoh</del></l>
+                    <l>Ruohtalaiset meitä kaikilla tawalla</l>
+                    <l>saastuttoa, pyytä, niin että meiän</l>
+                    <l>on aiwan paha es ottaita.</l>
+                </p>
+                <pb n="2" facs="0268_0077775_055" />
+                <p>
+                    <l>kaiki maakunnan wäki meitä</l>
+                    <l>pilkawat; ja naoravat meitän Rei=</l>
+                    <l>susta, sanoin: mitä työ sjelä saitte?</l>
+                    <l>niin miös östmarkin papi on minulle</l>
+                    <l>nin willissä, wan tokos tuo minua</l>
+                    <l>Elävänä Jaxano mahtä, kaiki suo=</l>
+                    <l>malaiset toiwowat sitä Comitetä, että</l>
+                    <l>Joku päätös tulisi.</l>
+                </p>
+                <p>
+                    <l>Minä käwin männellä wiikolla pohios</l>
+                    <l>Suomalaisissa, sillon minä käwin val=</l>
+                    <l>bergissä kin kuulostamassa niitä Kar=</l>
+                    <l>hun poikia, ne owat nyt wielä sjollä</l>
+                    <l>Herran Räkninkillä, wan kuin on minä</l>
+                    <l>nyt olis tullut, niin ne olis wiety</l>
+                    <l>Kaarlestahin miötoä, sillä ne sanoiwat</l>
+                    <l>kieriuttanensa kaxi kierioa Herralle,</l>
+                    <l>van eivät oo mitän tjetoa saa<ref>n<note>viivallinen n-kirjain</note></ref>a,</l>
+                    <l>nyt käkesivat Lainoan Rahaa Ja</l>
+                    <l>markinasta eloa Hankiman Jtellen</l>
+                    <l>ja karhun poiilen, ne siöwät palion</l>
+                    <l>sillä ne on Jo melken suuria. minä</l>
+                    <l>näin sen yhen, se Leikiteleitin</l>
+                    <l>Imeisten kansa kuin koira, Ja oli</l>
+                    <l>niin korea ja Lihawa – nyt tahtoi-</l>
+                    <l>wat</l>
+                </p>
+                <pb n="3" facs="0268_0077775_056" />
+                <p>
+                    <l>minun kautta tiotä, milloin Herra</l>
+                    <l>niitä tule perimän.</l>
+                </p>
+                <p>
+                    <l>minä oon sanat laitanna kaikillen jotka</l>
+                    <l>viiko sanomia soapi, wan ei oo viela saana</l>
+                    <l>Rahoia kokon, ne ei oo oiken kulke<ref>n<note>viivallinen n-kirjain</note></ref>a</l>
+                    <l>meiän pois ollessa, josta Leikavaitinlaiset</l>
+                    <l>nuhtalowat, wan se ei o mun sytä, sillä</l>
+                    <l>minä oon Lähättänä ne heti pois kuin</l>
+                    <l>owat tullet. Se minun syni kirian ei</l>
+                    <l>tullut täyvellen tehyxi, sillä kuin Herralta</l>
+                    <l>tuli niin kiire pois Tukholmista, ja</l>
+                    <l>se jäi hänen <unclear>paperilaihen</unclear>, minä</l>
+                    <l>en oo Joutanna teäläkan pitämän</l>
+                    <l>syyniä. wielä.</l>
+                </p>
+                <p>
+                    <l>kuin papit meitä sanovat niin köyhix,</l>
+                    <l>etei me Jaxa kierkoia pywätä, siitä</l>
+                    <l>ej heiän tarvihte huolia, vaika ei</l>
+                    <l>meilä oo niin palion Rahaa, niin</l>
+                    <l>miö taiiame Jte työtä tehä, etei me</l>
+                    <l>siihen niin paljon Leiioa kuin Ruoh=</l>
+                    <l>talaiset tekevat, Ja soisimme kuin</l>
+                    <l>Jo ens talvena soatas kiwiä ja hier=</l>
+                    <l>siä aioa, niin nähtäis eikö Suoma=</l>
+                    <l>laiset kierkoia sais. kukin pitäiä</l>
+                    <l>tahtoiwat omat kierkonsa tehä.</l>
+                </p>
+                <pb n="4" facs="0268_0077775_057" />
+                <p>
+                    <l>Minun pois allessain oli minun</l>
+                    <l>vaimoin soanut kuollen Lapsen,</l>
+                    <l>oli jtekin vähältä Henkensä panna</l>
+                    <l>wan, Jummala kiitetty! hän oli Jo pa=</l>
+                    <l>rempana toissa pänä Helluntakia kuin</l>
+                    <l>minä koitin tuilin. </l>
+                </p>
+                <p>
+                    <l>öylön minä kävin Räisäisen luona,</l>
+                    <l>ja tein Bibellistan Joka tässä seoroa,</l>
+                    <l>wan Reäsän ja kunneron suomalaiset</l>
+                    <l>minä en tunne, Jos ei muutamia taitais</l>
+                    <l>Lähätteä tänne, jos waroa olisi, että</l>
+                    <l>kuin minä kuulostan perän mikä</l>
+                    <l>heitä tarwihteis, taiiettais niile</l>
+                    <l>Jakaila.</l>
+                </p>
+                <p>
+                    <l>Minulla ei ollut kotoapitäin täyten</l>
+                    <l>10 Rxiä Rikssalissä, minun piti kumpal=</l>
+                    <l>loiltain jo Lainata ennen kuin <unclear>kuinin</unclear></l>
+                    <l>kalta soatin. sitten minä ne maxoin,</l>
+                    <l>wan piti toais Poppiuxen Rahoia 4:</l>
+                    <l>Rixiä Rikssalessa attaman.</l>
+                </p>
+                <p>
+                    <l>Minulla ei oo muuta tälla kertoa</l>
+                    <l>Jos Jumala olkoon Herran kanssa,</l>
+                    <l>Ja hän antakon meitäkin asioissa<ref>m<note>viivallinen m-kirjain</note></ref>e</l>
+                </p>
+                <p>AnttjPorkka</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen, Hindrich Erichson Haljainen, Lars Olsson Millominen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen, Hindrich Erichson Haljainen, Lars Olsson Millominen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-28">28.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:22</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <author><surname>Haljainen</surname>
+                                <forename>Hindrich Erichson</forename></author>
+                            <author><surname>Millominen</surname>
+                                <forename>Lars Olsson</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>183</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Haljainen ja Millominen sanelleet kirjeensä Räisäiselle</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-02-20">20.2.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_059" />                        
+                <p>Fullmaçkt in Blanço</p>
+                <p>
+                    <l>Hindrich Erichson Haljainen,</l>
+                    <l>från Halwarstorp.</l>
+                    <l>Larš Olsson Millominen,</l>
+                    <l>från Halwarstorp.</l>
+                </p>
+                <p>    
+                    <l>Nämä Martilan Miehet, jotka tässä on an=</l>
+                    <l>tanna Wullmahtinsa. Nämä rupea suoma=</l>
+                    <l>Laisten seuraan. Ja sitten wielä piäälisex</l>
+                    <l>niin hyö pyytä ja Rukuilewat teitä ettäs tekisit</l>
+                    <l>sen Laupinen heille, ja antaisit heitä. Että hyö</l>
+                    <l>sais hiemmansa Ruunun werolle; Sillä hyö tah=</l>
+                    <l>tois ennen panna weron Ruunulle kuin Ruoh-</l>
+                    <l>talais puontiloille. Ja nämä tykkeä että se</l>
+                    <l>mehtä jolla hyö asuu, kuuluis pare<ref>m<note>viivallinen m-kirjain</note></ref>in Kunin=</l>
+                    <l>kālle kuin Ruohtalaisille. Sillä mehtä on 1 ½.</l>
+                    <l>peninkuormoa pois Ruohtalaisten Kartanoista,</l>
+                    <l>ja ulko reunaan mehteä on 2.<hi rend="underline">si</hi> peninkuormoa.</l>
+                    <l>Ja wielä sitten, niin on heijän jsännät ruen=</l>
+                    <l>na niin wirattomax että joka wuosˇ koroitta=</l>
+                    <l>wat huusLeijoa tahi weroan. Tämä Millumi=</l>
+                    <l>nen pain enš kertoa weroa 4. plottia, niin nyt</l>
+                    <l>owat jo Lisäilleet, että hänen pitä pa<ref>n<note>viivallinen n-kirjain</note></ref>a 5. Rik=</l>
+                    <l>siä wuoissa. Ejkä Haljainenka pannu enšker=</l>
+                    <l>toa kuin hän siheen tuil još 4. plottia wuoišsa.</l>
+                    <l>niin nyt pitää hänen jo panna weroa 6. <unclear>Riksiä</unclear></l>
+                    <l>wuoista, waikka nämä on nyt ostannai mehtä</l>
+                    <l>weroa itelleen. Millaminen on ostanna 227.<hi rend="underline">nen</hi>.</l>
+                </p>
+                <pb n="2" facs="0268_0078096_060" />     
+                <p>
+                    <l><hi rend="underline">nen</hi> hopeärin weron. ja Haljainen on ostanna</l>
+                    <l>320.<hi rend="underline">nen</hi> hopeärin weron mehtään; Niin kuitenki</l>
+                    <l>owat niin wirattomia että <del>kuitenki</del> lisäilewät</l>
+                    <l>muaa weroa heille. .__</l>
+                </p>
+                <p>
+                    <l><hi rend="underline">Poawo Räisäinen</hi></l>
+                    <l>Heikki Erikin poika Haljailen</l>
+                    <l>Martila</l>
+                    <l>Lars Ollin poika Millominen</l>
+                    <l><hi rend="underline">Martila.</hi></l>
+                </p>
+                <p>Öijärillä sinä 22. helmekuussa w: 1823__</p>
+                <p>
+                    <l>Herralle</l>
+                    <l>Aiwan Kunnioitettawalle</l>
+                    <l>Ja</l>
+                    <l>Korkiast oppinulle</l>
+                    <l>Koarle Gottlundille.</l>
+                </p>    
+                <p>_________</p>
+                <p>
+                    <l>N:B: Niin Ruunun Weroa nämä Martilan mie=</l>
+                    <l>het pane wielä erittäin siitä josta hyö on ostan=</l>
+                    <l>na. Riksin pane Haljainen. Millominen pa=</l>
+                    <l>ne 2. plottia. _ . _</l>
+                </p>
+                <p>Poawo Räisäinen</p>               
+            </div>
+        </body>
+    </text>
+</TEI>

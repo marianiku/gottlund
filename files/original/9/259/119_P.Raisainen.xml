@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author> 
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>119</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1821-11-22">22.11.1821</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_003" />
+                <p>Hyvin Kunioitettava Herra C:A: Gottlund.</p> 
+                <p>                    
+                    <l>Minä Tykkeän paljon hyvin kuin mä Suomen=</l>
+                    <l>kielisiä kirjoja saisin; Van teällä on niin </l>
+                    <l>harva joka niitä taita Lukea, Van Ejkös </l>
+                    <l>nuo tok taitas oppia! Läh<hi rend="underline">ä</hi>tä heita kuiten=</l>
+                    <l>kiin, kyllä minä heista Rahat talven ajkaan </l>
+                    <l>kahvoaan Koarloistahaan. – </l>
+                </p>
+                <p>
+                    <l><del>N</del> Nyt luulen, etta me tuulemmä kokoon </l>
+                    <l><unclear>Reholtassa</unclear> huomen Aumulla, niin saame </l>
+                    <l>yli tehta, jos tahtoivat panna Rahoja Suomen </l>
+                    <l>Tidninkihiin. –</l>
+                </p>
+                <p>
+                    <l>Saanotaan että Anti Porka on saanut Rukiin=</l>
+                    <l>sa jalleen Sater Pekalta.</l>
+                </p>
+                <p> 
+                    <l><hi rend="underline">Öijerissä</hi> <hi rend="underline">sina</hi> 22 p: Novemb kuussa 1821.</l>
+                    <l><hi rend="underlline">Puavo Räisäinen</hi>.</l>
+                </p>
+                <pb n="2" facs="0268_0077781_004" />
+                <p>[Gottlundin muistiinpanoja]</p>
+            </div>
+        </body>
+    </text>
+</TEI>

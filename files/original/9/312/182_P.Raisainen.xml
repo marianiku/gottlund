@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-28">28.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:21</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>182</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-02-20">20.2.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_057" />                        
+                <p>
+                    <l>Öijeren den 20. Februari 1823.__</l>
+                    <l>Herra Gottlundille</l>
+                </p>
+                <p>
+                    <l>Hanssi Laurinpoika Pentikäinen Ejkinsäteriltä</l>
+                    <l>Pyytä minua teille jlmi antaman, Mitenkä</l>
+                    <l>hänen Lanherrat nyt häntä kiusoa;__</l>
+                    <l>Tällä on ollu Jsäntänä Ole Olssen eeg. Waan</l>
+                    <l>tämä Ole Olssen möj Nyt kesällä poijillesa</l>
+                    <l>tämän Ejkinsäterin ja Ejkinkartanon.__</l>
+                </p>
+                <p>
+                    <l>Nyt on nämä poijat kuletelleet tätä Pentikäistä</l>
+                    <l>Commisioniloisa ja tahtoisiwat häntä huusman=</l>
+                    <l>työssä käymän 8. killinkin päiwän; Ejkä hän</l>
+                    <l>tuosta niin paljon taitais wastaan sanoa kuin</l>
+                    <l>poara saiš kohtoonlisen päiwä palkan; waan</l>
+                    <l>tämä e<ref>n<note>viivallinen n-kirjain</note></ref>en majnittu Ole Olsson e joo tehny Räknin</l>
+                    <l>kiä Pentikäisen kanssa 7. astaikaan; Ejkä suaa hän=</l>
+                    <l>tän Räkninkille waikka pentikäinen sanoo hänelle</l>
+                    <l>paljon työtä tehneensä. Ja muutama wuoiš sitten,</l>
+                    <l>niin oil tämä Ole <unclear>Olssön</unclear> otta<ref>n<note>viivallinen n-kirjain</note></ref>a 50. tyskeä Ranniltaan</l>
+                    <l>Ole Perssoinilta, jotka rahat pentikäinen oil tiena<ref>n<note>viivallinen n-kirjain</note></ref>a</l>
+                    <l>tukin ajolla; ja ne rahat oil Ole Persoin suaa<ref>n<note>viivallinen n-kirjain</note></ref>a kau=</l>
+                    <l>pu<ref>n<note>viivallinen n-kirjain</note></ref>ista. Niin sitten tule Ole Olsson napurisa Luoxe, ja</l>
+                    <l>sanoo, Minä taijan wiiä huusma<ref>n<note>viivallinen n-kirjain</note></ref>illein ne rahat jotka</l>
+                    <l>sinä oot suaa<ref>n<note>viivallinen n-kirjain</note></ref>a kaupi<ref>n<note>viivallinen n-kirjain</note></ref>ista, niin hän nuo sai.__</l>
+                </p>
+                <p>
+                    <l>Wän pentikäinen ej suaa<ref>n<note>viivallinen n-kirjain</note></ref>a enemp näistä Rahoista.</l>
+                    <l>kuin <del>33. tyskeä</del> 17. tyskeä. Niin pentikäisen jäi suaamista</l>
+                    <l>33. tyskeä ja 2. tyskeä oil hänen saanista wielä teliin.</l>
+                    <l>Waan kiun pentikäinen räwäis näitä rahoija, niin te=</l>
+                    <l>kiin Ole Olssen Williin; ja kirjutti wielä 8. tyskeä welkoa. +</l>
+                </p>
+                <p>
+                    <l><ref>+<note>lisätty marginaaliin</note></ref> hänen piäähänsä: Ja fyöräis ne 8 Rs<hi rend="superscript"><hi rend="underline">n</hi></hi> hänen Jako kirjaan, sillä hän oil</l>
+                    <l>Lesk Mies siheen ajkaan ja oil pitä<ref>n<note>viivallinen n-kirjain</note></ref>ä jaon Lapsillen. Waika tämä kiels welan</l>
+                    <l>niin kuiteki Riwail fyörais welan jako kirjan. Riwalit tekiwät mitä he tahtoo.</l>  
+                </p>  
+                <pb n="2" facs="0268_0078096_058" />      
+                <p>Fullmaçk in Blanço</p>
+                <table>
+                    <row>
+                        <cell>Ole Gunderssen,</cell>	
+                        <cell>Peder Mattissen Kuikka</cell>
+                    </row>
+                    <row>
+                        <cell>fr: Bottilsrud.</cell>	
+                        <cell>fr: Åskasberget a% Östmark</cell>
+                    </row>
+                    <row>
+                        <cell>Ole Eriçhsen,</cell>	
+                        <cell>Johan Olssen Walkoinen</cell>
+                    </row>
+                    <row>
+                        <cell>fr: Bottilsrud</cell>		
+                        <cell>fr: Millomtorp a% Östmark</cell>
+                    </row>
+                    <row>
+                        <cell>Ammund Ammudsen</cell>	
+                        <cell>Anders Anderssen Keltinen</cell>
+                    </row>
+                    <row>
+                        <cell>fr: Karterud.</cell>		
+                        <cell>fr: Halwarstorpets  ‒ Do</cell>
+                    </row>
+                    <row>
+                        <cell>Amund Olssen,</cell>	
+                        <cell>Staffen Carlsen Sikainen</cell>
+                    </row>
+                    <row>
+                        <cell>fr: Karterud</cell>		
+                        <cell>fr: Lilrenbäg. Do</cell>
+                    </row>
+                    <row>
+                        <cell>Anders Andersson</cell>	
+                        <cell>Mikkel Hindriçhson Walkoinen</cell>
+                    </row>
+                    <row>
+                        <cell>fr: Kartrudsfätter</cell>	
+                        <cell>fr: Ernsiön</cell>
+                    </row>
+                    <row>
+                        <cell>Christopher Larson</cell>	
+                        <cell>Anders Hansson Walkoinen</cell>
+                    </row>
+                    <row>
+                        <cell>Gås wiiken‒</cell>		
+                        <cell>fr: Ernsjön.</cell>
+                    </row>
+                    <row>
+                        <cell>Nils Eriçhson</cell>
+                        <cell/>
+                    </row>                    
+                    <row>
+                        <cell>fr Kalberget.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>
+                    <l><ref>*<note>rivin yläpuolella Gottlundin omaa kirjoitusta</note></ref>Nämä wullmahit oikealla kätellä, on Östmar=</l>
+                    <l>kin Suokunnasta. Waan nämä wasemmalla</l>
+                    <l>kätellä on winkerin Suokunnasta kotoisin.</l>
+                    <l>Otin ma hyö; suaanette ha tehä heijän kanssa</l>
+                    <l>mitä tahoitte.</l>
+                </p>
+                <p>Poawo Räisäinen</p>   
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Petter Månsson, Olof Olsson, Sip Siwinpoika Riekinen > Carl Axel Gottlund</title>
+                <author>Petter Månsson, Olof Olsson, Sip Siwinpoika Riekinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:23:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Månsson</surname>
+                                <forename>Petter</forename></author>
+                            <author><surname>Olsson</surname>
+                                <forename>Olof</forename></author>
+                            <author><surname>Riekinen</surname>
+                                <forename>Sip Siwinpoika</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>49</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Månsson ja Olsson ilmeisesti sanelleet kirjeensä, Riekinen toiminut kirjurina.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Strutstorpet tai Moilasen torppa under Bogen">Strutstorpet tai Moilasen torppa under
+                            Bogen</placeName>
+                        <date when="1823-03-20">20.3.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077768_001" />
+                <p>Armålien hera</p>
+                <p>
+                    <l><unclear>Täsä</unclear> meidän kiriasa anamå mye</l>
+                    <l>heran iliedån millä tawalla meidän</l>
+                    <l>bijenetä Bapåa <unclear>äij</unclear> åttetto vastan <unclear>silldä</unclear></l>
+                    <l>bowin tallåin båijalila jånga nỹtt <unclear>bỹitait</unclear></l>
+                    <l>ålleman <gap/> pållmida mejdän <unclear>kayien</unclear></l>
+                    <l>Bofwilaisten ejtä sijdä bapåa jånga mỹe</l>
+                    <l>meijdän naporillamå läpäilijimö <unclear>ållỹ</unclear></l>
+                    <l>meijdä Comalitagin 12. <gap/> bal se ållỹ</l>
+                    <l>pijeni <unclear>Baba</unclear> wan meijllä eij Sijllä</l>
+                    <l>hafw aijalla enbaitä löitỹnnä wan sijllä</l>
+                    <l>mỹe hännen <gap/> <unclear>magåa</unclear> hänen</l>
+                    <l>håijilin itellitön nỹtt mỹe åmå gỹllä belgä</l>
+                    <l>wäijdet jåtta meijtän <gap/> itolleman ollår</l>
+                    <l>siitä luotta lallinen Kirgån Kirjåtosta</l>
+                </p>
+                <pb n="2" facs="0268_0077768_002" />
+                <p>
+                    <l>wan mÿe kũöũitengin loutamå</l>
+                    <l>armålisen heran ollår tåijinitogru </l>
+                    <l>galgen giåtta mÿe åmå bowijluijten</l>
+                    <l>Kansa koijtengin gÿlä mÿe bowin</l>
+                    <l>itallåijn båijan meijitän aulienlån</l>
+                    <l>galgen koijaten magamå pännen</l>
+                    <l>kåijitin tollitoen<del>en</del></l>
+                </p>
+                <p>
+                    <l>Sorållasa Kirjåttuto ten 20<hi rend="superscript">de</hi> martiit</l>
+                    <l>1823</l>
+                </p>
+                <p>mÿe nöräit heran Balweliad</p>
+                <p>
+                    <l><unclear>Peder</unclear> Månsson</l>
+                    <l><unclear>Avus</unclear> torp os</l>
+                    <l>Olof Olofson på</l>
+                    <l><gap/> torp</l>
+                </p>
+                <p>
+                    <l>efter begeran <unclear><del>med</del></unclear></l>
+                    <l>srifwit</l>
+                    <l>Sip Siwin Boiga Riekinen	</l>
+                </p>
+                <p>
+                    <l><ref>*<note>lisätty s. 2 marginaaliin</note></ref>hera taitais miolen watayan antåa</l>
+                    <l>sillä <unclear>jhimisad</unclear> åfwat belgäwilat asiåiåta</l>
+                    <l>Sip Riekinen</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

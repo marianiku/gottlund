@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka &amp; Matj Hämäläinen > Carl Axel Gottlund</title>
+                <author>Antti Porkka &amp; Matj Hämäläinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:34</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <author><surname>Hämäläinen</surname>
+                                <forename>Matj</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>99</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Porkka kirjoittanut kirjeen ja toiminut kirjurina, Hämäläinen sanellut oman kirjeensä.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="70">suomi</language>
+                <language ident="se-SE" usage="30">svenska</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Stensgards utsby">Stensgards utsby</placeName>
+                        <date when="1831-07-22">22.7.1831</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_099" />
+                <p>Stensgards <unclear>ũtsby</unclear> den 22 Juli 1831.</p>
+                <p>Herra Koarle Gottlund<hi rend="underline">ille</hi>!</p>
+                <p>
+                    <l>Minä tämän kauta soan Ilmi antoa,</l>
+                    <l>että minä oon tervennä tullut Koitin,</l>
+                    <l>Ja Kaarlestassa Markinassa tavaisin</l>
+                    <l>Tuomarin Svänbyysta, Ja kahta annoin</l>
+                    <l>Hänellen paperit. Nỹt minä olen saa=</l>
+                    <l>nut vetinöiltä senmoisen totistuxen</l>
+                    <l>Kuin voatitan, Ja muut tarpeliset</l>
+                    <l>Kjeriat tässä Seoraa, Jonka tauta</l>
+                    <l>minä atelen asiain hyvin Käyvan</l>
+                    <l>kuin Herra valvo sen puolesta, van</l>
+                    <l>kyllä Tuomarista pyrk pahoa Läh-</l>
+                    <l>teman, Ja Sanoi: teitä on vähä Suoma=</l>
+                    <l>laisia, pitäis olla 15. Ja <unclear>vissaisi</unclear> mun</l>
+                    <l><unclear>tappoavain</unclear> niin kuin ennenkin.</l>
+                    <l>Minä pyyan Herran Kjeriuttaman</l>
+                    <l>kohta vastauxen tämän Kjerjan peälle</l>
+                    <l>jotta minä soan nähä sen oiken</l>
+                    <l>eis</l>
+                </p>
+                <pb n="2" facs="0268_0077775_100" />
+                <p>
+                    <l>eis tullen. Ei muuta tällä Kerralla</l>
+                    <l>Kuin palion Terveyxiä Herralle, niin</l>
+                    <l>miös Rouvalle ja kaikille hänen</l>
+                    <l>tykenänsä. Jumala olkon hänen Kansa!</l>
+                </p>
+                <p>Matjj Hämäläinen</p>
+                <p>
+                    <l>P,S. Herran pitä palkan olla vissin</l>
+                    <l>Peälle iinkuin sanattu on, kuin hän</l>
+                    <l>asian voita. Jos ej näma Kjeriat nyt</l>
+                    <l>Kelpoa, niin pitä mun väkise papillta</l>
+                    <l>saaha totistuxen, van mina en tohti<ref>n<note>viivallinen n-kirjain</note></ref>a</l>
+                    <l><unclear>kokottoa</unclear> Enemt. näitä</l>
+                </p>
+                <p>
+                    <l>Mitä hyveä han Hämäläison siitä oli</l>
+                    <l>valhetta mun peälen? kuin se sanoi, Puuvi=</l>
+                    <l>laisten <unclear>Kjerilaisesti</unclear> Kjeltänen mun niitä toi=</l>
+                    <l>tistuxia Tuomarilta ottaman, minä en ouk</l>
+                    <l>sillä välilla suulistesti tahi kjerialsesti</l>
+                    <l>yhäkan Puuvin <unclear>sikereltä</unclear> Puhutellut.</l>
+                    <l>mūten kuin Mylly Laurilta <unclear>Räsäisin niitä</unclear></l>
+                    <l>Rahoia, van en Killinkiä saanut, sen minä</l>
+                    <l>tai ian tehä Laki valain peälle, Mūtta oisin</l>
+                    <l>omilla Rahoilla ottanna van en sanut, niin</l>
+                    <l>kuin minä siitä Kjeriuitin, Ja Tämän Ja Tukul-</l>
+                    <l>min välin Kjeriutoxen, minä heitan, siitä ej</l>
+                    <l>ouk muuta, kuin tyhjä palka Ja tūrha Kunnia.</l>
+                </p>			
+                <p>A.Porka </p>
+                <pb n="3" facs="0268_0077775_101" />
+                <p>[ruotsinkielinen asiakirja]</p>
+                <pb n="4" facs="0268_0077775_102" />
+                <p>[ruotsinkielinen asiakirja]</p>
+                <pb n="5" facs="0268_0077775_103" />
+                <p>[ruosinkielinen asiakirja]</p>
+            </div>
+        </body>
+    </text>
+</TEI>

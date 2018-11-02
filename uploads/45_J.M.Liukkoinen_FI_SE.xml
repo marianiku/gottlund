@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jan Mattson Liukkoinen > Carl Axel Gottlund</title>
+                <author>Jan Mattson Liukkoinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:20:2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Liukkoinen</surname>
+                                <forename>Jan Mattson</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>45</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="60">suomi</language>
+                <language ident="se-SE" usage="40">svenska</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Ormshöjden">Ormshöjden</placeName>
+                        <date when="1823-01-19">19.1.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077765_005" />
+                <p>Ormhofwasa sinna 19<hi rend="superscript"><hi rend="underline">tten</hi></hi> päivänä Janüari Cüussa 1823.-</p>
+                <p>
+                    <l>Herra C. Axell Gottlund ylenpalioitta <unclear>Tarwa<del>ni</del></unclear> Minulta hänen</l>
+                    <l>Kajiken Nöfrimajesaltta <unclear>Tienairilta</unclear>. – </l>
+                    <l>Ja Tola Minnu kiettää sietta Männen Kässan asiasta Kũjn Ej hän</l>
+                    <l>Paha<del>nen</del> ottana Minnu on vähä Kirianejni Jonka Minä hänellen Lähätin</l>
+                    <l>Ja Pÿfwän Minna Nicu Käien hän Kiriotti attä Käin Tilujsos Tola pitajan</l>
+                    <l>Minnu wastätta Kiesta Erinomiaistin asesisotte Jottka Mninä olen <unclear>Salana</unclear></l>
+                    <l><del>Ji</del> <unclear>säieni</unclear> pitänä Minnu Lunajniini.___</l>
+                    <l><del>Ja</del> Ej Minuttan ole <unclear>Toiloun</unclear> vajmoa Hänellen Tietaväni antoa Mutta</l>
+                    <l>Nista ajsiosta sielä Tähääni päiwän asti wajka Minna ollen</l>
+                    <l>Hajittu <unclear>Hakena</unclear>.___</l>
+                    <l>Mittä Mieden Rippi Lapisista <unclear>Tollo</unclear> Härrallen Kiriottoa</l>
+                    <l>Nien Kyllä se on Nien ätta yx Minnu Lähäla asuwaisista</l>
+                    <l>Löftty yx Mies Hulsten Hulstenson Kartoinen se Koiri –</l>
+                    <l>Joka olj Kyllä nien Thymä ätta hän Ej Tajtuna Mina Lolen</l>
+                    <l>Totisosti ästa Ej hän Tajna Fader vårin, Mutta Kujn hän on Likella</l>
+                    <l>Jossa Mutt Jimesett Rukosta pÿtta Ja Laflũlia pittä, Nien</l>
+                    <l>hän Lanwala hyfvin Korkiaston Ja <unclear>völjysttä</unclear> häjdan änta Nietin</l>
+                    <l>Myettin.__ van on hän yftta hÿfwin päsängtt <unclear>Rippslina</unclear></l>
+                    <l>Ja najnoitti Nien hyfvin Kuju Minäkin. J Niittä on Minna Toja</l>
+                    <l>Härallen Kirioittoa, Mutta Kyllä Nietta Löfvtty ũsäampiakin</l>
+                    <l>sällasta uppi Niskajsia Miehia.__</l>
+                    <l>sumalajst Tämän pittajen olla van Kyllä Silla Härra Tajtta saaha</l>
+                    <l>Nafwraa, Minä än olle Sommalaista änen Kirjottana Mutta älkäpän hän</l>
+                    <l>Hära Pahaxen ottaa</l>
+                </p>
+                <pb n="2" facs="0268_0077765_006" />
+                <p>Kirje jatkuu ruotsiksi.</p>
+                <pb n="3" facs="0268_0077765_007" />
+                <p>Ormhöfvasa <unclear>Tÿkisin</unclear> Soma Laijsisa</p>
+                <p>
+                    <l>Älköon Hära Majitria Kylästyän Somalaisia</l>
+                    <l><unclear>Närkasty</unclear></l>
+                </p>
+                <p>
+                    <l><hi rend="underline">Till</hi> Miehelen</l>
+                    <l>Hyfvin Kunnjotettavalen</l>
+                    <l>Ja Korkiasti oppinulen</l>
+                    <l>Hära Koarle</l>
+                    <l>Gottlundilen</l>
+                    <l>Upsalasa</l>
+                </p>
+                <p>
+                    <l><gap/> <gap/> <gap/> i Stockholm</l>
+                    <l>Stad</l>
+                </p>
+                <pb n="4" facs="0268_0077765_008" />
+                <p>
+                    <l>ormhöfwasä sinnä 19<hi rend="superscript"><hi rend="underline">tenä</hi></hi> päivänä Jannäri Cuussa v 1823.</l>
+                    <l>Härras C:A: Gottlund Tärfvajnia <gap/><gap/></l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

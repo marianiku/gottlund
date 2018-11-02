@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:14</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>131</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1822-05-07">7.5.1825</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_033" />
+                <p>Öijärillä sinä 7. p: Toukkuussä w:1822.</p>
+                <p>Kaikkein Armoillinen Herra Gottlundi</p>
+                <p>
+                    <l>Työ Sanoitten! Ett’=ej työ mitään pal=</l>
+                    <l>koa tahoi waiwastaanne, mutt Jumala</l>
+                    <l>suaa maxoa. ~ Kyllä se niin on, että</l>
+                    <l>Jomalan palka paras on, ja hän</l>
+                    <l>on hywä paraite palkihtemaa. ~ ~</l>
+                    <l>Vaan kuin kaikki hywin käwis;</l>
+                    <l>niin tahoinme myökiin waiwaanne</l>
+                    <l>Maxoa; Se ois meillä <add>niin</add> suuri synti,</l>
+                    <l>ettej myö herin jkään taitais an=</l>
+                    <l>teix suaaha, kuin myö teijtä unhe=</l>
+                    <l>uttaisimme. Myö ej oo ikään wielä</l>
+                    <l>näissä, yhtään nähny joka niin paljon</l>
+                    <l>meijän puolta on pitanna kuin työ</l>
+                    <l>ootten tehny.</l>
+                </p>
+                <p>Poawo R – nen</p>
+                <pb n="2" facs="0268_0077781_034" />
+                <p>Öijärillä sinä 7. p: Toukokuussa w:1822.</p>
+                <p>Kaikkein Armoilinen Herra Gottlundi</p>
+                <p>
+                    <l>Teällä on Kax Taloin poikoa, jotka</l>
+                    <l>walittawat siitä kuin ej hyö ole suaa=</l>
+                    <l>na tietä niitä Kokouxia joissa niimia</l>
+                    <l>otettiin. hyökiin oisiwat tahtoinna full=</l>
+                    <l>mahtinsa antoa. ~</l>
+                    <l>Yx on mun weljein. Mattiš Pedersson R – nen</l>
+                    <l><del>Toinen on</del> i Halwarkiernbäg tahi Sarw=mäki</l>
+                    <l>Toinen on Jac<add>o</add>bi Erichsson Hotakka i <unclear>Ht</unclear></l>
+                    <l>adskogsberget tahi Millomin alla. ~</l>
+                    <l>waan minä on hejle sano<ref>n<note>viivallinen n-kirjain</note></ref>a, tokkos</l>
+                    <l>työ tullette pois Suomalaisten Seurakun=</l>
+                    <l>nasta, jotka asuu niin keskellä Suo=</l>
+                    <l>malaismehteä: Näin minä heitä oon </l>
+                    <l>Lohtuttanna. ~</l>
+                </p>
+                <p><hi rend="underline">Poawo R – nen</hi></p>  
+            </div>
+        </body>
+    </text>
+</TEI>

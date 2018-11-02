@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Juhoi Räisäinen > Carl Axel Gottlund</title>
+                <author>Juhoi Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:35:2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Juhoi</forename></author> 
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>117</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Kalnäset (Kalneset)">Kalnäset (Kalneset)</placeName>
+                        <date when="1848-01-11">11.1.1848</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077780_003" />
+                <p>
+                    <l>Kalnäsissa sinä 11<hi rend="superscript"><hi rend="underline">toista</hi></hi></l>
+                    <l>kymmentenä päivänä Tammi</l>
+                    <l>Kuuta Vuonna 1848</l>
+                </p>
+                <p>
+                    <l>Korkeast oppinut ja hyvin kunnioitettava</l>
+                    <l>Herra Lehtori!</l>
+                </p>
+                <p>
+                    <l>Koska mun Isäin on lyhykäisesti Herralle</l>
+                    <l>kirjuttanut, mitenkä meijän asiat teäällä</l>
+                    <l>on tällä ajalla; niin ei mulla taija ol=</l>
+                    <l>la siiheen mitä lisätä, muuta kuin voan</l>
+                    <l>että minä oon nyt Koulumiessä Branvaalan</l>
+                    <l>Suomalais=mehällä, ja elän tervennä joukkonein</l>
+                    <l>van mun varain tahtois olla pienesti, niin et=</l>
+                    <l>ten minä jaksa kirjoja lunastaa Suomesta</l>
+                    <l>jos minä kuinka hyvin tahtoisin; vaan Avi=</l>
+                    <l>sit oisivat lystiä lukea kuin heitä taitais</l>
+                    <l>suaaha tänne jotenni lähätetyx pakottain</l>
+                    <l>reisuvaisten kansa aikoja myöten, niin tuo</l>
+                    <l>ei taitais tulla maksamaan niin paljo</l>
+                    <l>Otavan osat myö kernaasti tahtoisimme</l>
+                    <l>kuin taitaisimme heitä suaaha jotenni</l>
+                </p>
+                <pb n="2" facs="0268_0077780_004" />
+                <p>
+                    <l>tännä. Ei muuta tällä kertoa mut Terveyk=</l>
+                    <l>siä paljo, ja Kiitoksia Herralla, joka päivän</l>
+                    <l>eite kuin hän on entysinä aikoina minun</l>
+                    <l>tauttain nähnyt vaivoa ja mun eitten huo</l>
+                    <l>linut toivoo teijän ystävanne kuolemaan</l>
+                    <l>asti.</l>
+                </p>
+                <p>
+                    <l>Juhoi Räisäinen</l>
+                    <l>Skolelarer paa Brandvold</l>
+                    <l>Findskov i Norge</l>
+                </p>
+                <p>
+                    <l>Ois lysti jos Herra Lektori tahtois niin</l>
+                    <l>hyvin tehä ja kirjutoa muutaman sanan</l>
+                    <l>vielä vastaukseksi meillen.-</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

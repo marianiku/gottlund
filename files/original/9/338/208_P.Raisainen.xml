@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-13">13.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:47</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>208</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Epäselvää, ovatko kirjeen alleviivaukset Räisäisen, Gottlundin vai jonkun muun.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Kehköillän torppa">Kehköillän torppa</placeName>
+                        <date when="1826-04-19">19.4.1826</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_171" />
+                
+                <p>Kehköillän torpasša s:19. p Huhtikuussa 1826</p>
+                <p>
+                    <l>Nyt on täsšä Immoisen keralla; waan eipä</l>
+                    <l>nyt Porkka tiä wisšiin tokko häneltä toloo</l>
+                    <l>Reisšu eimmäx kuin Kaarlestahaan. Porkka</l>
+                    <l>Luulo Lanšherran anntawan ihtesä <hi rend="underline">keänn<del>ä</del>itä</hi>,</l>
+                    <l>se on Ruunun wiljan tautta kuin hän aikoo</l>
+                    <l>Tukulmiin, Ruunun willja annettiin heille anteix</l>
+                    <l>männä kesänä, waan nyt taaš Räwätään Rahoi=</l>
+                    <l>ja samoistä willjosta. Jumala tiennöö mitenkä</l>
+                    <l>Jmmoinen sitte eesš <del><hi rend="underline">lol</hi></del> <hi rend="underline">tulloo</hi>, kuin ej Porkka</l>
+                    <l><hi rend="underline">eenmäs</hi> <unclear>mämis</unclear> hän ej <hi rend="underline">mierukka</hi> taija Ruohtia</l>
+                    <l>puhua. waan oonma tuota Porkkoa pyytännä</l>
+                    <l>että hän kirjoittaiš hänen keralla, jotta saiš näytteä</l>
+                    <l>jhmisille, ja että Lansherran saisiwat pasšin piääl</l>
+                    <l>le kirjoittaman, niin eiköš tou jotenni eesš tulis.</l>
+                    <l>Nyt piäälisex, minä Rukoilen sinua hywä</l>
+                    <l>Herra, ettet ylen anna suommalaisia, waikka</l>
+                    <l>suuri osa heistä on Langenna epäuskoon.</l>
+                    <l>Kyllä hyö sitte sentähe jhastuiš kuin asja toi</l>
+                    <l>meen käwis. Arwele pa hyö wälistä, ja sano=</l>
+                    <l>wat. Ejkö han Gottlundi wielä tule tänne.</l>
+                    <l>Hywäst, nyt tällä kerralla. Jumala <del>pitkön</del></l>
+                    <l>olkoon kanšsaiš.</l>
+                </p>
+                <p><hi rend="underline">Poawo Räisäinen</hi></p>
+                <pb n="2" facs="0268_0078096_172" />
+                <p>
+                    <l>Herra.</l>
+                    <l>Koarle </l>
+                    <l>Gottlundille</l>
+                    <l>Upsalasša</l>
+                    <l><del><gap/></del></l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

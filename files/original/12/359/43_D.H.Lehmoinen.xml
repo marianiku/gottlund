@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Daniel Halvorsen Lehmoinen, Paũl Maardensen Kâmi, Hendrich Olsen Mulikka > Carl Axel Gottlund</title>
+                <author>Daniel Halvorsen Lehmoinen, Paũl Maardensen Kâmi, Hendrich Olsen Mulikka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:19:2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Lehmoinen</surname>
+                                <forename>Daniel Halvorsen</forename></author>
+                            <author><surname>Kâmi</surname>
+                                <forename>Paũl Maardensen</forename></author>
+                            <author><surname>Mulikka</surname>
+                                <forename>Hendrich Olsen</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>43</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Revholttet i Kalnäset">Revholttet i Kalnäset</placeName>
+                        <date when="1822-08-16">16.8.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077764_003" />
+                <p>
+                    <l>Tisdaina 30 tenä Päivänä Heinä kuusa tul Gũlbransi ra 2 Lau</l>
+                    <l>damiestä Siÿnie te män Huutia ia Paloia ia meina meitä Pahon</l>
+                    <l>Sada gevällä tämmösi väd, meiiät kaiki iokka ova Gũlbransinalla</l>
+                    <l>ia hännen ies trekis sänsä nÿt mei na tulla Pantamai ia valtiera</l>
+                    <l>mai ia kaÿ killä tavon meitä Pahon Sata mio <unclear>Piÿtä</unclear> Simme –</l>
+                    <l>Herra dokko hän tie täs mitä Parannosda tähän assia nin mio</l>
+                    <l>kernasden tahtosimme tietä no Pin mattai kun taitas elikkä</l>
+                    <l>mio tulen me Pahon ulos nin minä nimitä ioka Pai kan iossa</l>
+                    <l>Gũlbransi kulex Sendelin Rodneberget Lòvbergets Lũkashoũgen</l>
+                    <l>Lóvhoũgen Fvinsberget Mottũsen Lintórbet Waalberget Kalsióberget</l>
+                    <l>Braaden Kalneset Rerholtt Helgeberget Sũrńberget ad Krosberget Krasberget</l>
+                    <l>Reũnholtt den 16 aũgũsti 1822 -</l>
+                    <l>Lemonen Daniel Halvorsên</l>
+                    <l>Paũl Maardensen Kalneset Kâmi</l>
+                    <l>Hendrich Olsen Kalneset Mulikka</l>
+                </p>
+                <pb n="2" facs="0268_0077764_004" />
+                <p>
+                    <l>Herrallen</l>
+                    <l>Korkeesena PPinellen</l>
+                    <l>ia Hyvinkunniaised</l>
+                    <l>Tavallen Carl axel</l>
+                    <l>Gott Lund</l>
+                    <l>a</l>
+                    <l>uPsalassa</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

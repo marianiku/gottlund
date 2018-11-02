@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka > Carl Axel Gottlund</title>
+                <author>Antti Porkka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:29:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>65</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Erotettu Paavo Räisäisen kirjeiden yhteydestä.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1822-03-22">22.3.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077774_001" />
+                <p>Talonpoika Anti Porka! Ajvan armoilliselle Herralle Kuarle Gottlundille.</p>
+                <p>
+                    <l>Minä oon nähn<hi rend="underline">y</hi> Poavo Räisäisen Luona, että Minun-</l>
+                    <l>kiin pitää suaamaan Pyhä Roamattun Uũtatestamenttia.--</l>
+                    <l>Niin Monta Satoa Kost jumaloa olkoon teilen, sen etestä.</l>
+                    <l>Ja <hi rend="underline">ett</hi>es Minua olle uneuttan<hi rend="underline">n</hi>a, Vaika Minä olen Köyhä.</l>
+                    <l>Ja ojsin, kuin mä tohtisin; Pyytänyt sinua, koskas avun</l>
+                    <l>suaat Talonpojiille Suomalaisista; Että Minakiin Saisin</l>
+                    <l>tehä Saunan piään piäälle, ja Ruuveta Muaata Kaivelemaan</l>
+                    <l>ite koh<hi rend="underline">t</hi>astain.--</l>
+                </p>
+                <p>
+                    <l>Ruukiit, nemä yhtähyvin sain jalleen, Pekkalta Säterin. ---</l>
+                    <l>jumala Tervennä pitäköön teitä. ---</l>
+                </p>
+                <p>Öijärillä s<hi rend="underline">inä</hi> 22. <hi rend="underline">dena</hi> p: Maalis Kuusa 1822.---</p>
+                <p>Anders Anderssen Porka i <hi rend="underline">Naimaho</hi></p>
+                <pb n="2" facs="0268_0077774_002" />
+                <p>
+                    <l>Herrallen Hyvin</l>
+                    <l>Kunnioselle</l>
+                    <l>Kuale Gottlund<hi rend="underline">ille</hi></l>
+                    <l>---------</l>
+                    <l><gap/>. B.</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

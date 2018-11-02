@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lauri Kymöinen > Carl Axel Gottlund</title>
+                <author>Lauri Kymöinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-07-30">30.7.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:3:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Kymöinen</surname>
+                                <forename>Lauri</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>154</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Erotettu Paavo Räisäisen kirjeiden yhteydestä. Kymöinen ilmeisesti sanellut kirjeen Räisäiselle. Kirjeen lopussa mainitut muut henkilöt asianosaisia.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-02-08">8.2.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078089_001" />
+                <p>
+                    <l>Öijärillä sinä 8. päiwänä Helme Kuussa w:1823.</l>
+                    <l>Laruri eli Lauri Kymöinen Herra Gottlundi</l>
+                </p>
+                <p>
+                    <l>Meitä on wiis torparia jotka asuu Höljyxen Mehällä!</l>
+                    <l>Luoteseen päin Höljyxen kylästä, 1½. penninkuormoa.</l>
+                    <l>Myö Rukoilemme teitä Rakas Herra kaikkein hartaimmal=</l>
+                    <l>la sytämmellä, ettäs tekisit sen <hi rend="underline">Laupiuen</hi> meijän <del>kohtaan</del></l>
+                    <l>waiwaisten Kohtaan, ja anttasit meitä, että myö peäsisim=</l>
+                    <l>me Ruunun werolle, sillä myö tykkeä<ref>m<note>viivallinen m-kirjain</note></ref>e että se mehtä</l>
+                    <l>jolla myö asumme on niin hywin Ruunun oma, kuin</l>
+                    <l>Höljyxenni. Ne e joo ikään siitä mehästä mitään tarwin=</l>
+                    <l>neet ite ottoa, mutt owat tukki mehanni muille <del>ulos</del></l>
+                    <l>leiin etestä ulos `´panna, että kuin owat Leiju suaaneet,</l>
+                    <l>niin on muut suaanna rikierta ja hakata tukia niin pal=</l>
+                    <l>jo kuin owat tahtonna. Waan kuin myö Löywämme jou=</l>
+                    <l>ni suo holin josta kauhua tukko suaahaan, niin sen ottawat</l>                    
+                    <l>meiltä pois; ja kuitenki panewat meijän piäälle niin suu=</l>
+                    <l>ret werot ettej myö taija herin jaxoa esä seisoa. sillä wanhim=</l>
+                    <l>malla torparilla on 9. Riksiä Rikselissä wuossa. Niin niile </l>
+                    <l>jotka nuoremmite owat pyyännet, on Leiwiskä woita wuos=</l>
+                    <l>sa.</l>
+                </p>
+                <p>
+                    <l>Ja näillä Holiyxläisillä <add>en</add> wielä Loajemmat mehät jtä</l>
+                    <l>puollaan; että heillä on wielä sittenki Liax Mehteä weroon=</l>
+                    <l>sa jälkeen, Još se mehta jolla myö asumme tulis Ruunun</l>
+                    <l>alle.__</l>
+                </p>
+                <p>                    
+                    <l>Lars Larsson Kymöinen</l>
+                    <l>från Haalsjön</l>
+                    <l>Hans Jansson Huskoinen</l>
+                    <l>fr: Bringsåsen.</l>
+                    <l>Hindriçh Swensson Honkoinen</l>
+                    <l>fr: Skåråholen.</l>
+                    <l>Brede Andersson Lehmoinen</l>
+                    <l>fr. Skåråholen. +</l>
+                </p>
+                <p>
+                    <l>+ Haiwor Halworsen Kiikkalainen</l>
+                    <l>från Halsjön.</l>
+                    <l>a./. Talpo Soçken alla.</l>
+                </p>
+                <pb n="2" facs="0268_0078089_002" />
+                <p>
+                    <l>Tämä Hindriçh Swenson Honkoinen on köyhä mies,</l>
+                    <l>tämä on yhtähywin peäässy tähään asti weroa pa=</l>
+                    <l>nemasta.</l>
+                </p>
+                <p>Lars Larson Kymöinen</p>
+                <p>
+                    <l><ref>*<note>poikittain sivun vasemmassa alakulmassa</note></ref>Herralle</l>
+                    <l>Aivan Kunnioitettavalle</l>
+                    <l>ja</l>
+                    <l>Korkiast O<ref>p<note>viivallinen p-kirjain</note></ref>ulle</l>
+                    <l>Koarle Gottlundille</l>
+                    <l><hi rend="underline">Upsala=ssa</hi></l>                    
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

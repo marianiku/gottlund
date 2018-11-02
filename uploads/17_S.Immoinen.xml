@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Staffan Immoinen > Carl Axel Gottlund</title>
+                <author>Staffan Immoinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-05">5.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:11:3</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Immoinen</surname>
+                                <forename>Staffan</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>17</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Kirjeen lopussa olevat nimi, paikka ja aika kirjoitettu eri käsialalla; Mahdollisesti Paavo Räisäisen kirjoitusta.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Lekvattnet (Lautasalmi)">Lekvattnet (Lautasalmi)</placeName>
+                        <date when="1826-01-22">22.1.1826</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077754_007" />
+                <p>
+                    <l>Linna 22 p Tami kuus<gap/></l>
+                    <l>Rakas herra</l>
+                    <l>minä en jouva nyt</l>
+                    <l>kirjttaman yhtä mun</l>
+                    <l>t minä tiion anna teite</l>
+                    <l>Siitä jotta siellä <del>t</del> ei</l>
+                    <l>kåy se muan ruki luatu</l>
+                    <l>Siitä oli hyvä minun</l>
+                    <l>mielstäi jotta työ niin</l>
+                    <l>lain iutito jotta minä</l>
+                    <l>piåsen pois siellä ei</l>
+                    <l>tue mitä vaste mina</l>
+                    <l>oun siellä niin ei siitä</l>
+                    <l>tule mitä mut ios ne kir=</l>
+                    <l>iut os tullunna teille niin</l>
+                    <l>työ Saista tuo mitekä</l>
+                    <l>minun kansain siellä</l>
+                    <l>on</l>
+                </p>
+                <pb n="2" facs="0268_0077754_008" />
+                <p>
+                    <l>tervek siis törnlle</l>
+                    <l>ia häne papillens</l>
+                    <l>pulkiselle minä soipi[--]</l>
+                    <l>minä taiia telä</l>
+                    <l>kiriutoksen luke</l>
+                    <l>hyvsti</l>
+                </p>
+                <p>
+                    <l><hi rend="underline">Jmmoinen</hi></l>
+                    <l>Wenksperissä sinä 22 paiw Ta<ref>m<note>viivallinen m-kirjain</note></ref>i</l>
+                    <l>Kuussa w: 1826,</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

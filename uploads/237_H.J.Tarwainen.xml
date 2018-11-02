@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hindrich Jansson Tarwainen > Carl Axel Gottlund</title>
+                <author>Hindrich Jansson Tarwainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-17">17.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:19:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Tarwainen</surname>
+                                <forename>Hindrich Jansson</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>237</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc><p>Erotettu Paavo Räisäisen kirjeiden yhteydestä</p></physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1822-09-23">23.9.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078105_001" />
+                <p>
+                    <l>Öijärillä sinä 23. p Syyskuussa</l>
+                    <l>1822</l>
+                </p>
+                <p>Taloin Mieš Hindriçh Jansson Tarwainen</p>
+                <p>
+                    <l>Minä pyytäsin teitä Rakas Herra!</l>
+                    <l>Että myökin saisinme tulla Suoma=</l>
+                    <l>laisten seuraan, Kyllä Herra jo</l>
+                    <l>ylös kirjutti Minut, ja meijat män=</l>
+                    <l>nenä Syyssä kulkiišsan Rämälässä.__</l>
+                    <l>waan toko ojsitten tainna unheuttoa</l>
+                    <l>meitä, Sillä minä <hi rend="underline">Rukujlen</hi> teitä</l>
+                    <l>Rakaš Herra. Ettäš tekisit niin hywin</l>
+                    <l>ja jlmoittasit Ruunulle Näitä Meh=</l>
+                    <l>tiä joilla myö asumme, että myökin</l>
+                    <l>piääsisimme Ruunun ala, poiš Ruohta=</l>
+                    <l>laisten alta, ja saisimme weron jtelleen-</l>
+                    <l>me, sillä Ruohtalaisilla on nämä me=</l>
+                    <l>hät jhan ilman, ne je oo jkään weroa</l>
+                    <l>enemmän pannu kuin omista Karta=</l>
+                    <l>noistaan, sen taijamme myö kyllä totistoa</l>
+                </p>
+                <pb n="2" facs="0268_0078105_002" />
+                <p>jos syyni tulis mehille.__</p>
+                <p>
+                    <l>Minä ja kax mun kanssain asuu</l>
+                    <l>Alpin mehällä.__ Kax Öwerbyn</l>
+                    <l>mehällä. _ Yx Kynsiökolan mehällä</l>
+                    <l>Neljä Nyssuokunnan Kirkon Mehällä.</l>
+                    <l>Myö Kymmenen olemme yhessä neuw=</l>
+                    <l>wossa; ja kuin Ruunu poaara rupiaš</l>
+                    <l>meita antamaan, niin myö ej ikäänš</l>
+                    <l>taitais Sakoa ta<unclear>jo</unclear>ata.__</l>
+                </p>
+                <p>
+                    <l>Nyt näitä neljeä, jotka asuuwat nyys=</l>
+                    <l>suokunnan Kirkon mehällä; Tahtoi pa<ref>p<note>viivallinen p-kirjain</note></ref>i</l>
+                    <l>pois ajoa torpiltaan.__ __ __ __</l>
+                </p>
+                <p>
+                    <l>Hindriçh Jansson Tarwainen</l>
+                    <l>från</l>
+                    <l>Kropkiärnsberget.</l>
+                </p>			
+                <table>
+                    <row>
+                        <cell/>
+                        <cell>Bonder</cell> 
+                        <cell>per</cell>
+                    </row>
+                    <row>
+                        <cell>Aspe Skogen i fryksende Kropkiarnsberget</cell>
+                        <cell>2.</cell>
+                        <cell>7.</cell>
+                    </row>
+                    <row>
+                        <cell>Bratbakken</cell>
+                        <cell>1.</cell>
+                        <cell>5.</cell>
+                    </row>
+                    <row>
+                        <cell>Owerby Skogen I Fryksende Bugbrun</cell>
+                        <cell>1.</cell>
+                        <cell>6.</cell>
+                    </row>
+                    <row>
+                        <cell>Frangbraden.</cell>
+                        <cell>1.</cell>
+                        <cell>5.</cell>
+                    </row>
+                    <row>
+                        <cell>Kynsjögårds Skogen Fryks: Bratfors.</cell>
+                        <cell>1.</cell>
+                        <cell>6.</cell>
+                    </row>
+                </table>
+                <pb n="3" facs="0268_0078105_003" />
+                <table>
+                    <row>
+                        <cell/>
+                        <cell>Bond</cell>
+                        <cell>per</cell>
+                    </row>
+                    <row>
+                        <cell>Nysoçken Kyrkke Skog I nyssoçken</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Ruskåsen</cell>
+                        <cell>1.</cell>
+                        <cell>5.</cell>
+                    </row>
+                    <row>
+                        <cell>Wolberg</cell>
+                        <cell>1.</cell>
+                        <cell>6.</cell>
+                    </row>
+                    <row>
+                        <cell>Kolförhöiden</cell>
+                        <cell>2.</cell>
+                        <cell>14.</cell>
+                    </row>
+                </table>
+                <table>
+                    <row>
+                        <cell>Hindriçh Jansson</cell>
+                        <cell>Tarwainen från Krepskiärn berget</cell>
+                    </row>
+                    <row>
+                        <cell>Matts Persson</cell>
+                        <cell>Pennainen, från Kropkiärnberget</cell>
+                    </row>
+                    <row>
+                        <cell>Matts Sigfridsson</cell>
+                        <cell>Hämäläinen från Bratbakken</cell>
+                    </row>
+                    <row>
+                        <cell>Anders Hindriçhson</cell>
+                        <cell>Tarwainen från Bugbrun</cell>
+                    </row>
+                    <row>
+                        <cell>Sigfried Mattsson</cell>
+                        <cell>Hämäläinen från Tängbraten</cell>
+                    </row>
+                    <row>
+                        <cell>Eriçh Eriçhsson</cell>
+                        <cell>Hämäläinen från Bralforš</cell>
+                    </row>
+                    <row>
+                        <cell>Lars Sönison</cell>
+                        <cell>Ruskåsen</cell>
+                    </row>
+                    <row>
+                        <cell>Anders Andersson</cell>
+                        <cell>Wolberg</cell>
+                    </row>
+                    <row>
+                        <cell>Mattes Månsson</cell>
+                        <cell>Kolförhöjden</cell>
+                    </row>
+                    <row>
+                        <cell>Nils Person</cell>
+                        <cell>Kolförhöjden</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hindriçh Tarwainen</cell>
+                    </row>
+                </table>
+                <pb n="4" facs="0268_0078105_004" />
+                <p>
+                    <l>Minä pyyän pienta wastuusta</l>
+                    <l>tämän piäälle! Kuins tekisit niin hywin</l>
+                    <l>ja Lähättäsit sen Per Jensson Mannišen</l>
+                    <l>Luoxe Roatsyönin Mäkeen, Ostmarkin <del>pipi</del></l>
+                    <l>Pappilan kautta._ _ _</l>
+                </p>
+                <p>
+                    <l>Hindriçh Tarwainen</l>
+                    <l>Kropkiärnberget</l>
+                </p>
+                <p>
+                    <l>Herralle</l>
+                    <l>Korkiast oppinulle ja Hywin</l>
+                    <l>Kunnioitettawalle Koarle Gottlundille</l>
+                    <l>Upsalassa</l>
+                </p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

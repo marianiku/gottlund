@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen, Nils Orainen, Danjel Lehmoinen, Antti Porkka > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen, Nils Orainen, Danjel Lehmoinen, Antti Porkka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-30">30.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:23</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <author><surname>Orainen</surname>
+                                <forename>Nils</forename></author>
+                            <author><surname>Lehmoinen</surname>
+                                <forename>Danjel</forename></author>
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>184</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Tukholma">Tukholma</placeName>
+                        <date when="1823-05-06">6.5.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_061" />                        
+                <p>Tukulmissa sinä 6. p: Majikuussa 1823.</p>
+                <p>Poawo Räisäinen! Herra Gottlundi</p>
+                <p>    
+                    <l>Sunnuntaina kello 3. jälkeen puolen päiwän</l>
+                    <l>Olimme myö, Kuninkaan puheilla; waan</l>
+                    <l>hyweä hän meille Lupais. Eölön oltiin</l>
+                    <l>toais prinssin puheilla sekin Lupais walvoa=</l>
+                    <l>xeen meijän asjasta; waan se minusta on</l>
+                    <l>wärstin! kuin Lansherra on tunkeinaan tätä</l>
+                    <l>meijän sakoa fyöreämän ja hän tahtoo</l>
+                    <l>tulla kesällä meijän Luoxe kahtoman.</l>
+                    <l>Waan Lupais tuo prinsi että <del>Lähalle</del></l>
+                    <l>tellätäxeen Senmoisia Herroja jotka taitaa</l>
+                    <l>Suomea: Waan Jumala tieš mitenkä</l>
+                    <l>han ruwenna käũmän, minä pelkeän että</l>
+                    <l>ej suomalaiset piä yhtä puhetta. –</l>
+                </p>
+                <p>
+                    <l>Hywä Kultainen Herra! Jos mahonli=</l>
+                    <l>nen on. niin tie, niin hywin ja tule ite</l>
+                    <l>niien herraien kanssa, jotka käs kesällä</l>
+                    <l>tuloo meijän Luoxe.</l>
+                </p>
+                <p>Poawo Räisäinen</p>
+                <pb n="2" facs="0268_0078096_062" />   
+                <p>
+                    <l>Tänä pänä myö Lulemme piääse<del>me</del></l>
+                    <l>wämme koto tielle.</l>
+                </p>
+                <p>
+                    <l>Ole siis Terweytetty Meilta kaikilta.</l>
+                    <l>7/5_ _1823_</l>
+                </p>
+                <p>
+                    <l>Poawo Räisäinen</l>
+                    <l>Nils Orainen</l>
+                    <l>Danjel Lehmoinen</l>
+                    <l>Anti Porkka</l>
+                </p>
+                <p>
+                    <l>Terwehtä kaikkia suomalaisia tutenti=</l>
+                    <l>Löitä, ja ja jsäntätääs Karma<ref>n<note>viivallinen n-kirjain</note></ref>ia_</l>
+                </p>
+                <p>Paawo Räisäinen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

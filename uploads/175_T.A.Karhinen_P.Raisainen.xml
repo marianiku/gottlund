@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tommas Andersson Karhinen, Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Tommas Andersson Karhinen, Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-21">21.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:14</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Karhinen</surname>
+                                <forename>Tommas Andersson</forename></author>
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>175</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Karhinen sanellut kirjeen Räisäiselle, joka mahdollisesti myös asianosainen. Muut kirjeessä mainitut henkilöt asianosaisia.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-01-26">26.1.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_044" />     
+                <p>Öijärillä sinä 26. Ta<ref>m<note>viivallinen m-kirjain</note></ref>ikuussa 1823__</p>
+                <p>   
+                    <l>Nyt on tässä meitä 12. miestä, Jotka asuwat</l>
+                    <l>Niien almenimk mehtäijen piäällä.__</l>
+                    <l>Jotka on niimittäin. Johan Persson <add>Nawilainen </add> Swartbergen,</l>
+                    <l>Ole Henriçhsson <add>Kahi</add >Storberget, Tommis Andersson <add><unclear>Kahi</unclear></add> Hyd=</l>
+                    <l>jastorpet, Jaç<del>b</del>ob Haansson walkoinen Lönhöjden,</l>
+                    <l>Ole Hansson walkoinen Lönhöjden, Henriçh Erik</l>
+                    <l>son Lehmoinen Tyskelorpet, Ole Hågensson <add><gap/></add> Do. Ole An=</l>
+                    <l>denssĕn Lehmoinen Tyskelorpet, Poul Olson Räisäinen</l>
+                    <l>Skasberget Pers Person Nawilainen Bjölsjotorper</l>
+                    <l>Poul Olsson Räisäinen Linberget, Ole Tommasson Navi-</l>
+                    <l>Lainen Ryökä,___ </l>
+                </p>
+                <p>
+                    <l>Nyt meijen pyynös on näin hartain=mittain että</l>
+                    <l>myö taitasi<ref>m<note>viivallinen m-kirjain</note></ref>e Norlaista tulla erillen, ja piäästä hejeän</l>
+                    <l>Karjostansa kesilä. meillä on lian ysö ahistos heista=</l>
+                    <l>Sitten wiellä piälisex niin hakkoawat aijat rikki</l>
+                    <l>kuin myö josai Niitu ka<ref>p<note>viivallinen p-kirjain</note></ref>aleen Raiwoa<ref>m<note>viivallinen m-kirjain</note></ref>e.___</l>
+                </p>
+                <p>
+                    <l>Ja myös pyyä<ref>m<note>viivallinen m-kirjain</note></ref>e ; että jos ero <unclear>tuliso</unclear>, niin me taho<ref>m<note>viivallinen m-kirjain</note></ref>e </l>
+                    <l>Norlaisten jännoxet Mehissa niin kuin tukki ruukit</l>
+                    <l>Ruishalmēt piteä. Ja maxoa ne Ruunulle sillä se pai-</l>
+                    <l>raitain kuulu hänelle, Nyt on tämä Pyösjönin torpa</l>
+                    <l>niin ulos roakattu meijän päpiltä, että huonet <add>on</add> moahan</l>
+                    <l>maranńyt pellot jännä <unclear>Linnoix</unclear>, heinät pois ajet=</l>
+                    <l>tu. Kuin tämä torpa ois Laillen Ruukinkissa niin taitais</l>
+                    <l>hänessä elattea <unclear>omtrent</unclear> 5. henkeä.__</l>
+                </p>
+                <p>
+                    <l>Tommas Andersson Karhinen</l>
+                    <l><hi rend="underline">från Hydjastorpet</hi></l>   
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

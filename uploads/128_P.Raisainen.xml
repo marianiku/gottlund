@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:11</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>128</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="puuttuu">puuttuu</placeName>
+                        <date when="1822-04-22">22.4.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_025" />
+                <p>
+                    <l>Poavo Räisäinen!</l>
+                    <l>Armoillinen Herra Gottlundi.</l>
+                </p>
+                <p>
+                    <l>Minä Luulen Kieskiitetty, Etej tuosta kuitenkaan</l>
+                    <l>Meijän Esiwalta huoli, jos myö Kirkot saisinme, ja</l>
+                    <l>tulisinme Ruunulta Lunastetuxi. ~</l>
+                    <l>Minä Kavin wero=käräissä sinä 11.<hi rend="underline">nä</hi> päiv: Huhti Kuusa.</l>
+                    <l>Siel oill Wouti ja Tuomari; waan ej ne mitään wir=</l>
+                    <l>kaneet. Waan Länsmanni se otti minut Kahenkesken puhu=</l>
+                    <l>tellaxeen, waan se oill, se toinen Länsmanni, meillä on Kax</l>
+                    <l>Länsmannia Se ej ollutkaan se, josta minä oon ennen Kijut=</l>
+                    <l>tanna. ~</l>
+                    <l>Hän Kysele minulta, ootkos nyt äsköittain Kirjuttana [n:n päällä viiva]</l>
+                    <l>Jtäänpäin; Minä wastaisin; mitinkäs minä sinne oon</l>
+                    <l>tainna Kirjuttoa, joka on tullu kielletyxi; Hän siiten Wastaa;</l>
+                    <l>Mitäs meijän pitää jotai sanoa, Teällä mahta Norlaiset</l>
+                </p>
+                <pb n="2" facs="0268_0077781_026" />
+                <p>
+                    <l>tulla, reenti Hulluxi, Sen miehen tautta joka siellä käve=</l>
+                    <l>li. ~ Ne pelkeävät mestoawansa mehtänsä, ja torparin=</l>
+                    <l>sa jotka heijän mehillä asuwat: waan minä sanoin, ejpä</l>
+                    <l>hän tok se sita sanonut, jotta yxkään mestoa jlman joka</l>
+                    <l>ej myyä tahoi; Kylläpä minäkiin sen ymärän sanoi hän.</l>
+                    <l>Waan muaakunta on niin hullu, etej heitä yxkään suaa</l>
+                    <l>Lohtutetuxi, sillä meijän on pitännä heillen Luwata sitä</l>
+                    <l>miestä Gottlundiä kiini ottoa Kuin hän tänne tuloo. ja että</l>
+                    <l>sinua pahoin suattoa. jos hänen puolta enemän [m:n päällä viiva] pität.</l>
+                    <l>Waan nyt minä sanon sinulle, etej se ole Kielty Kirjuttoa</l>
+                    <l>yhöllenkään kuin totuutta poara Kirjuttaa, ja ej Walletta. ~</l>
+                    <l>Näistä sanoista minä ymmärän, Ettej Se ole muuta kuin</l>
+                    <l>muaakunnan sytä, kuin ne sinua kävi kiini tapaille, eli he</l>
+                    <l>owat suaaneet tietä mualta mikä mies sinä olet. . ~</l>
+                    <l>Waan sitä Kirjoa josa työ käskitte, niitä niimiä ottamaan, sitä sanoi</l>
+                    <l>Länsmanni Wouwwin tahtoiwan nähä ~</l>
+                </p>
+                <p>
+                    <l>Poavo Räisäinen. ~</l>
+                    <l>Wuonna 1822. – </l>
+                    <l>22. Aprill.</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Heikki Pietarinpoika Sikainen > Carl Axel Gottlund</title>
+                <author>Heikki Pietarinpoika Sikainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-13">13.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:13:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Sikainen</surname>
+                                <forename>Heikki Pietarinpoika</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>228</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Erotettu Paavo Räisäisen kirjeiden yhteydestä, Sikainen sanellut kirjeen</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-02-11">11.2.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078099_001" />
+                
+                <p>Øijeren sinä 11.p: Helmekuussa  1823.</p>
+                <p>Heikki Sikainen!  Herra Gottlundi__</p>
+                <p>
+                    <l>Minä tahoin teilen jlmi antoa minkalaisia</l>
+                    <l>meijän tullarit on meitä suomalaisia wasten,</l>
+                    <l>Nyt joulu aamuna Läximme me kirkkoon</l>
+                    <l>niin tultiin Tulliin, siinä tule wahtmestair</l>
+                    <l>pihalle ja rupea meijän Rekiä syynihte=</l>
+                    <l>män ja repimän, Minun Sisarein Marjet=</l>
+                    <l>ta jstui rekessä, wahtmestar Sewen se mäne</l>
+                    <l>Reen Luoxe ja tahtoo syynitä. Niin sanoo mun</l>
+                    <l>sisarein, jo pa tuo on kumma kuin ej Joulu</l>
+                    <l>aamunakaan suaa rauhassa kulke, jos okuu</l>
+                    <l>Rekiäi syynitän; Niin silloin otti Sewen ja</l>
+                    <l>Meisain Lyä Suuta wasten tak<del>ä</del><add>a</add>käteen, waan</l>
+                    <l>ej osanna jos muotolle sil<del>lan</del>män kohtalle, että</l>
+                    <l>tuli suuri kuhmun tahi pahka.___</l>
+                    <l>Ja tähän <add>on</add> kolmi totistajata jotka on</l>
+                </p>
+                <p>
+                    <l>Heikki Heikinpoika</l>
+                    <l><del>Put</del> Sikalasta</l>
+                    <l>Heikki Eriçhpoika</l>
+                    <l>Puttoilasta</l>
+                    <l>Juua Johoinpoika Haljainen</l>
+                    <l>Puttoilasta</l>
+                </p>
+                <p>
+                    <l>Heikki Pietarinpoik Sikainen</l>
+                    <l>Sikalasta.___</l>
+                </p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

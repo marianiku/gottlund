@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka > Carl Axel Gottlund</title>
+                <author>Antti Porkka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:7</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>72</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Runsjön">Runsjön (Rumsjön, Rensjön)</placeName>
+                        <date when="1822-07-04">4.7.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_022" />
+                <p>
+                    <l>Runnsjönilä sinä 7 päivänä <del>Tassä</del></l>
+                    <l>Heinä Kuusa w. 1822.</l>
+                </p>
+                <p>Herra gottlündile!</p>
+                <p>
+                    <l>Nÿt on minä Matti Hämäläistä <unclear>glansa</unclear>:</l>
+                    <l>puuhutelu, Ja Sä on östmarkin papia</l>
+                    <l>tänä pänä sitä asiasta Kÿsynä, van ej mitän</l>
+                    <l>tjetoa Saanut, Sjlä Hän nÿt tahtoi minun</l>
+                    <l>Kauta sitä asiaa tjetä, papi oli weilisä</l>
+                    <l>Kuin Häntä puuhuteltin, Ja Sanoi: Luuleteko</l>
+                    <l>työ Etä tiö puontilolta metsiä otate;</l>
+                    <l>silä Herra on Hyvä ja minule Sen tjetä</l>
+                    <l>anta, ne on Kaiki yximielisiä sitä asiala,</l>
+                    <l>niin minä sen selkiästi toimitan. Ja</l>
+                    <l>monta Tuuhata Kitosta uuwir Testaments Hämä=</l>
+                    <l>läiseltä.</l>
+                </p>
+                <p>
+                    <l>Orainen täsä nyt walita, Etä hän on tulut</l>
+                    <l>niin ysön vihan fryxin papien Kansa, silä</l>
+                    <l>Kuin Suomalais mehtä on ulos Sanoinan</l>
+                    <l>sitä Kjerko Herran puustelistä, Ja ej yhtän</l>
+                    <l>Raaha ole, Jos ej Herra jotai neowoa mitän</l>
+                    <l>puulen Heiti anna, ja Kunika meitän pitä</l>
+                    <l>wastoaman, Jos Herra meillen Jonkuun avun</l>
+                    <l>usko soavansa, Jota me wielä uskooe,</l>
+                </p>
+                <pb n="2" facs="0268_0077775_023" />
+                <p>
+                    <l>vaika papit sano: Jota me oleme tỹhmiä,</l>
+                    <l><del>Ja</del> Kuin me uskome yhen juaxiamen Ja</l>
+                    <l>sen Sanojansa.</l>
+                    <l>Herra on Hyvä ja anta tietoa toko Hän</l>
+                    <l>ymärtä Jos oraisen <unclear>Sjgil</unclear> on Koskemata</l>
+                    <l>se on N: N: S. silä se pelkeä Etä ne</l>
+                    <l>takovät skelmyytä. puhet Kuulu Sjlä ta=</l>
+                    <l>vala Etä fryxin papiit on mahtanna</l>
+                    <l>östmarkin papinkin Juopoitana Heitän</l>
+                    <l>puoltan pitämän, ja Kaiki meilen pahaa</l>
+                    <l>luupoawat. Jos ei nyt tämä meitän asia</l>
+                    <l>Etes Käy, niin ej meitä noo aatelenkän</l>
+                    <l>Etes päin, me oleme nỹt wähältä <unclear>tule</unclear></l>
+                    <l>niiltä, niihen aastui lauaxi, ja läyty pian</l>
+                    <l>meitän niihen Kuustonnexen otaman, Jota</l>
+                    <l>me niin wäxe Rupeaisime.</l>
+                    <l>Minä pelkeän Etä Herra Jo ois pois lähtenä</l>
+                    <l>van soisin Etä täma Hänen tawoaisi</l>
+                    <l>Eleän Hän nyt Hywin ja palio Terveyxiä</l>
+                    <l>niin Hämälaiselta ja Oraiseta, niin minul=</l>
+                    <l>takin</l>
+                </p>
+                <p>Anti Porka</p>
+            </div>
+        </body>
+    </text>
+</TEI>

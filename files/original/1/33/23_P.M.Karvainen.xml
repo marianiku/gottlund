@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pekka Matinpoika Karvainen > Carl Axel Gottlund</title>
+                <author>Pekka Matinpoika Karvainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:14:4</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Karvainen</surname>
+                                <forename>Pekka Matinpoika</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>23</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Julkaistu myös Suomen Julkisissa Sanomissa nr. 48, 2.7.1857 https://digi.kansalliskirjasto.fi/sanomalehti/binding/471367 Kansalliskirjaston
+                        digitoidut aineistot</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Kalnässet, Øyern">Kalnässet, Øyern</placeName>
+                        <date when="1855-05-04">4.5.1855</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077759_014" />
+                <p><unclear>Hyvast</unclear> kunnioitettava ystävä C. A. Golllund!</p>
+                <p>
+                    <l>Teköö mielein toimitteleman mitenkä teällä</l>
+                    <l>Norin j Ruhin rajolla mejän sukuväkemmö näillä ai=</l>
+                    <l>jolla elävät ja mänestũũvät <del>j</del> En tunne yhtää mũũta</l>
+                    <l>Imeista koko Suomen-Mualla sen tähen lähätän</l>
+                    <l>nämät sanat Teillen. Eipä nũo meiän vanhat</l>
+                    <l>Suomenmoan Sukulaiset maha tieteä mejän teällä </l>
+                    <l>eneä olovan helessäkän ja <del>tun</del> tũlokin tuo sukũ niin</l>
+                    <l>vanhoa jotta eipä tuosta maha yxkä eneä huoilia</l>
+                    <l>jos puora Työ yxinän otten ollut ja kaikin aijon</l>
+                    <l>ollut. meiän pulestamme, josta mejän kai<ref>k<note>viivallinen k-kirjain</note></ref>ien</l>
+                    <l>teälla tuloo Teita kostella ja kiitellä. 25<hi rend="superscript"><hi rend="underline">nä</hi></hi> vimissä</l>
+                    <l>männessä Huhti kuussa kuil meiän Sukulai=</l>
+                    <l>semme <hi rend="underline">Poavo Räisainen</hi> turvotos tautin;</l>
+                    <l>hänen jälkensä elä hänen Akkansa Kax poikoa</l>
+                    <l>ja kax tytärtä – jonka tätä kautta toimitan ys=</l>
+                    <l>tävänlisesti. – Työ tunnetton Student D. E. D. Europaeu-</l>
+                    <l>xen se on ollut teällä meiän luona tänä kevänä,</l>
+                    <l>teältä hän mäin Christianan (:Christioanin:) sitten</l>
+                    <l>ei oo hänest kulunna mitää. se sanoi hyvin tunto=</l>
+                    <l>vansa Teiät – Sillä oil kanssansa moniaita Hellsinkin</l>
+                    <l>Avisia (:Suometair:) osin mielelläin ottanut heita</l>
+                    <l>enskertoa ¼ Årgang, nähäxein tokko heiän Postra=</l>
+                    <l>hat tulio yltö Ruohin kovin kallit. – Kuin ei ois kovin </l>
+                    <l>paljon omakia sitä elli nistä niin lähätä tänne</l>
+                    <l>heita hetimiten van niitä usimmia, sen jälken kuin</l>
+                    <l>ne tsykista tuloo. Telleä jotta minä ne suan maxoa</l>
+                    <l>jollenni teiän tuttavallen Tuckolmissa eli Grislehami-</l>
+                    <l>nassa. Paras ois <del>ne</del> ne suaha lähatetyx Östmarkin</l>
+                    <l>Kirkon Kylään <hi rend="underline">Arfvid Jönssonin</hi> lũoxe joka</l>
+                </p>
+                <pb n="2" facs="0268_0077759_015" />
+                <p>
+                    <l>ne sitten lähattais tänne. Myö kaikki Suomalaiset</l>
+                    <l>näillä Tienoilla elämme ja mänestumme efter omfrån</l>
+                    <l>degheterne, elämme rauhassa emmäkkä plåkannu</l>
+                    <l>eli vaiva<ref>n<note>viivallinen n-kirjain</note></ref>u ritaien tahi muien taũtien tautta, tälla eli</l>
+                    <l>nailla aijolla. Hyviä vuoisiakin on teälla nyt tũllũ mon-</l>
+                    <l>ta vuotta perätyxin. Myö Suomalaiset sikiämme</l>
+                    <l>teällä vahvasten van mejän vanha Suomen kielem=</l>
+                    <l>me tahtoo vähetäk kansan seasta vuois vuoilta,</l>
+                    <l>sitä kuni pitaa puhua norin ja ruhin kielta kovin</l>
+                    <l>paljon. Teällä on ruvennut kulkeman <add>van</add> eninosa norin</l>
+                    <l>miehiä joita almũ kũhtäũ Helig Karler, jotka käũvat</l>
+                    <l>ja suarnovat aivan paljon ja Imeiset ysö osa ottavat</l>
+                    <l>kieskitetty hyvät tavat, opeteleilovat vahvasten</l>
+                    <l>lukemaan ja laulaman, ja lulen ysön osan heittä-</l>
+                    <l>vän pois monta kehnoa kujetta ja tapoa. Eikös se</l>
+                    <l>oo korea kuulla meiän luotamme? Kuin Imeisit</l>
+                    <l>asuvat ja mänestyvät Christinlisessä holhouxessa</l>
+                    <l>ja ũskossa. – Kuin teillä ois aikoa Kirjuta tän=</l>
+                    <l>ne heitmiten ois rattoisa suaha tietä joita kuita</l>
+                    <l>ũsia asjoita Yx Paavo Raisais vainoan Syskenbarnen</l>
+                    <l>poika (:Christian Kassinmäista:) on tullut yx vahva</l>
+                    <l>Suarna-Mies, ja yx tyttö Lehtomain Sukua minä</l>
+                    <l>lulen Nikaraisia, ovat renti hyviä suarnoaman</l>
+                    <l>ulkoa niinkũin parat Papit. – Neätton jotta</l>
+                    <l>Suomalaisten suvũissaki löũtũũ Imeisia niin hyvin kuin</l>
+                    <l>Norlaisten ja Ruohtalaisten seassakin. - - </l>
+                    <l>Elä nyt hyvin Ihe, Rouvans ja Lapsies kanssa <del>yskeä</del> <add>ũnskeä</add> teiän</l>
+                    <l>vanha tuttava.</l>
+                </p>
+                <p>
+                    <l>Peder Mattsson Karvainen</l>
+                    <l>Kallnäsissa</l>
+                </p>
+                <p>Kalnässissa sinä 4 p. Toukokuuta v. 1855</p>
+                <pb n="3" facs="0268_0077759_016" />
+                <p>
+                    <l>P.K.</l>
+                    <l>Meilläkin oil yx 20 astaian vanha poika joka</l>
+                    <l>muien Suomalaisten kanssa <hi rend="underline">i Juni månad</hi></l>
+                    <l><hi rend="underline">1853</hi> läx teältä <add>Pohjos</add> Amerikan siella hän kuil Coleran</l>
+                    <l>yhessä uuvessa kapunnissa jonka nim oil</l>
+                    <l>Saint Paul i Territorie Minnesota. Ne muut</l>
+                    <l>sen kumpalit jäivät sinne puara yx poika</l>
+                    <l>Wenksberista tuil kotin <hi rend="underline">männa vuonna</hi></l>
+                    <l>Helluntak pyhinä – ei se siella rivastunna.</l>
+                </p>
+                <p>Pekka Karvainen.</p>
+                <p>
+                    <l>Onko Suomenmoasta männũ yhtää Imeiste</l>
+                    <l>asuman American? S.S.</l>
+                </p>
+                <pb n="4" facs="0268_0077759_017" />
+                <p>
+                    <l>Telleä hetimiten Tidninget</l>
+                    <l>kuin kaũ laillen puutä</l>
+                    <l>S.S.</l>
+                </p>
+                <p>Lektoren Höglärde</p>
+                <p>
+                    <l>H<hi rend="superscript"><hi rend="underline">r</hi></hi> Carl Axel Gottlund</l>
+                    <l><unclear>D</unclear>rösj Grislehamn <hi rend="underline">Hellsingfors</hi></l>
+                    <l><hi rend="underline">Finland</hi></l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

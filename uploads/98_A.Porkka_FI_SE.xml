@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka > Carl Axel Gottlund</title>
+                <author>Antti Porkka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:33</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>98</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="80">suomi</language>
+                <language ident="se-SE" usage="20">svenska</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="puuttuu">puuttuu</placeName>
+                        <date when="1831-03-29">29.3.1831</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_096" />
+                <p>Rũnsjön den 29 Maj 1831</p>
+                <p>Herra Kaarle Gottlund<hi rend="underline">ille</hi>!</p>
+                <p>
+                    <l>Minä vasta mänelä viikolla kä-</l>
+                    <l>sitin Hänen Kjeriansa, Jonka</l>
+                    <l>tauta minä on ŷla Jönsiltä</l>
+                    <l>saanut yhen totistoxen, van</l>
+                    <l>papin Luokse en minä Jouta=</l>
+                    <l>na männä, Ja se osi ollut ŷhtä</l>
+                    <l>paljon, se on heitämän niin</l>
+                    <l>virattomaxi jottej silta saa</l>
+                    <l>omma Suokunan väki atestiä</l>
+                    <l>elli totistuxia, Jopa Jotta muun</l>
+                    <l>Suokunan Mies, ejpä hän Ri=</l>
+                    <l>sti Lapsiakan viikolla kuin</l>
+                    <l>papilan tulovat, Jos sano: ej</l>
+                    <l>pä hän onk heiän Suokunan</l>
+                    <l>papi. Minä oisin tahtoinna</l>
+                    <l>Erikin käkkälässä ottaman</l>
+                    <l>sen</l>
+                </p>
+                <pb n="2" facs="0268_0077775_097" />
+                <p>
+                    <l>sen papilta kuin hän mäini</l>
+                    <l><unclear>kjenkallen</unclear>, van ej hän voinut</l>
+                    <l>sitä tehä. Minä olen sen</l>
+                    <l>tähten antanna yhen <unclear>totistũxen</unclear></l>
+                    <l>Jos se mitän autaisi.</l>
+                </p>
+                <p>
+                    <l>Mattin akka Laita paljon</l>
+                    <l>Terveyxia Matillen Ja Herrallen.</l>
+                </p>
+                <p>
+                    <l>Myllytorpan Lauria en mi-</l>
+                    <l>nä ouk tavannut kaukan</l>
+                    <l>ejka saanut häneltä mitän.</l>
+                </p>
+                <p>
+                    <l>viiko Sanomat oisi kyllä</l>
+                    <l>Rattoisia soaha, van Rahan</l>
+                    <l>puute estä niitä saamasta.</l>
+                    <l>fäbenkalaisillen minä oon</l>
+                    <l>toimittanna asian, van ejhan</l>
+                    <l>ouk vielä Kuulunna Rahoia.</l>
+                    <l>Jumala olkon Herran</l>
+                    <l>Kansa</l>
+                </p>
+                <p>APorkka </p>
+                <pb n="3" facs="0268_0077775_098" />
+                <p>[ruotsinkielinen asiakirja]</p>
+            </div>
+        </body>
+    </text>
+</TEI>

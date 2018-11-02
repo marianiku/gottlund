@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-28">28.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:19</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>180</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-02-09">9.2.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_053" />             
+                <p>Øijärillä s: 9. p: Helmi kuussa 1823.</p>
+                <p>
+                    <l>Herra Gottlundi</l>
+                    <l>Nyt tällä hetkellä tuil minun poikain Pietair Christianis=</l>
+                    <l>ta. Nyt oon toaiš Öijärin mehta myöty auksionissa 10,050. – </l>
+                    <l><hi rend="underline">nestä </hi>Speisi=tyskästä. waan nyt Lähätimme myö epuusˇ</l>
+                    <l>kirjan, ettej meitä wieraille myömään, ja tämän kirjan oliwat</l>
+                    <l>Laskenna auksion pöũwalle, waan ej yxkään ollu kirjasta pi=</l>
+                    <l>tännä lukuan, mutt’ oliwat sanonna mikä meitä estää Friissa</l>
+                    <l>auksionissa; <del>lu</del> tulkaatte piäälle tarjoamaan, koska teillä</l>
+                    <l>on lupa Kuninkaalta Rahoin; sillä kirjassa seisoi, jonka myö</l>
+                    <l>sisään Lähätimme, teijän ej piä meitä wieraille myömän, myö</l>
+                    <l>oonme männy Kuninkaan kanssa yhteen että suaahakse<ref>m<note>viivallinen m-kirjain</note></ref>e rahoi=</l>
+                    <l>ja Lainnax meijän mehtäijemme Lunastoxeks. Niin nämä jotka</l>
+                    <l>kirjan weisisään ejwät tainna mitään sanoa. ja ejkös tuo</l>
+                    <l>lie ollu yhtä paljon kuin hyö woan kirjan sai. – </l>
+                </p>
+                <p>Poawo Räisäinen</p>
+                <pb n="2" facs="0268_0078096_054" />    
+                <p>
+                    <l>Herralle</l>
+                    <l>Aiwon Kunnioitettawalle</l>
+                    <l>Ja</l>
+                    <l>Korkiast Oppinulle</l>
+                    <l>Koarle Gottlundille</l>
+                    <l>Upsalassa</l>
+                    <l>Ruohissa</l>  
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

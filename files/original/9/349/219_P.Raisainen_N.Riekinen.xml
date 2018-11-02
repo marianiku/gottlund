@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen, Niles Riekinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen, Niles Riekinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-13">13.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:58</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <author><surname>Riekinen</surname>
+                                <forename>Niles</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>219</bibl>
+                        </msItem>
+                    </msContents>  
+                    <physDesc><p>Räisäinen toiminut kirjurina, Riekinen sanelija tai asianosainen</p></physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Kömin-mäillä">Kömin-mäillä</placeName>
+                        <date when="1830-09-19">19.9.1830</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_210" />
+                
+                <p>Kömin=Mäillä s: 19.p: Maalisk; 1830.__</p>
+                <p>Poawo Räisäinen   Herra Gottlundille</p>
+                <p>
+                    <l>Puwilaiset Rukoili minua, että minun</l>
+                    <l>kirjuttoa sulle; miten heijän keralla seisoo te=</l>
+                    <l>liin, jonka minä lupasin tehä. Se on näin._</l>
+                    <l>Heijän Herrat Frederuusisša; On nyt 2.<hi rend="superscript"><hi rend="underline">sti</hi></hi></l>
+                    <l>heitä ulloš sanonna torpiltaan, ja 3. masti</l>
+                    <l>pitännä heitä Käräisšä, waan ei <del>l<hi rend="underline">u</hi></del> o tullu</l>
+                    <l>Tuomiolle, sillä että Herrat ei taija muuta</l>
+                    <l>eteen weteä; mutt tahtowat Puontien sopiman,</l>
+                    <l>sillä tawalla, että Puontien panna wissit rahat;</l>
+                    <l>tahi Kahwata wisšit koil=Ryssät wuotessa; Joka</l>
+                    <l>käy paljon yltö sen wanhan meärän; waan</l>
+                    <l>Puo<ref>n<note>viivallinen n-kirjain</note></ref>it ei taija männä sowinnoille heijän keralla,</l>
+                    <l>sillä ettei höy o hywä wuotessa niin paljon ra=</l>
+                    <l>hoja, eli kolia, kahwoaman. Niin Puonnit on</l>
+                    <l>nyt tämän wetäneet <del><hi rend="underline">että Puwin</hi></del> eteen, että Puu=</l>
+                    <l>win hiemma, on <hi rend="underline">Frelsse</hi> hiemma, ja kuulu</l>
+                    <l>Ruunulle, ja tarhtowat Herraijen eesš näyt=</l>
+                    <l>tämän wanhat lainliset Kauppa kirjat.___</l>
+                </p>
+                <p>waan niitä ei heillä löywy; mutt yx wanha</p>
+                <pb n="2" facs="0268_0078096_211" />
+                <p>
+                    <l>Konraht, jonka Puonnit ja herrat oiš</l>
+                    <l>pitännä wälillään tehä, wanhuuten. waan</l>
+                    <l>sinäkään sanoiwat, ei löytywän Puontien ala=</l>
+                    <l>kirjutosša.___ Niin höy nyt Rukoile sinua!</l>
+                    <l>että sinä tekisit niin <add>hywin</add> ja neuwoisit heitä</l>
+                    <l>täsšä asjasša, ja antasit heille tion, tokko ne</l>
+                    <l>wanhat paperit löytywät, Kammair=kuleijassa</l>
+                    <l>ylitse Puuwin hiemman; hyö on heitä 2.sti Sal=</l>
+                    <l>puusta jo kuulostanna, waan eiwät sano tullen.</l>
+                    <l>Nileš Riekkinen Pennala.  <hi rend="underline">Räisäinen</hi></l>
+                </p>
+                <p>
+                    <l>Wärälin Miehet neki myöš Rukoiliwat minua.</l>
+                    <l>Että teille jlmoittoa heijän Elonkertoa. Joka on</l>
+                    <l>myöš Näin.__ Ne miehet, jotka pakotti wärä=</l>
+                    <l>linmiehiä mänemän kauppaan, tahi tilan oston;</l>
+                    <l>ne nyt pantoawat ens tawarat, sitten pa=</l>
+                    <l>newat tilat Autionin peälle; Ja kuin ei</l>
+                    <l>yhtää tule jaka peälle tarjoa niin sitte lyöttä=</l>
+                    <l>wät ihhellen, ja se käy sillä tawalla; Se torpa</l>
+                    <l>joka kauppasša tuil maxaman 200. Speçtyskeä, Sen lyöttä=</l>
+                    <l>wät itelleen 20. <hi rend="superscript"><hi rend="underline">neen</hi></hi> Sptskj: ja se torppa joka</l>
+                    <l>toaš kauppasša tuil maxaman 500. Speciskj:, se</l>
+                    <l>Lyötetään itelleen 100.sta tyskästä. Tällä tawalla mei=</l>
+                    <l>noawat</l>
+                </p>
+                <pb n="3" facs="0268_0078096_212" />
+                <p>
+                    <l>noawat hyö n<gap/> pietä tilat siitä hinnasta;</l>
+                    <l>ja takauš miehillä ottoa ne yli rahat.__</l>
+                </p>
+                <p>
+                    <l>Nyt Helmikuusša, niin myytiin Juhoi Haikosen</l>
+                    <l>tila wärälinkyläsšä 100. taab Sptysk; Joha kau=</l>
+                    <l>pasša muka tuil Haikoiselle maxaman 500. Sptyskej:</l>
+                    <l>Ja samaten myöš myötiin <del><hi rend="underline">Att</hi></del> Antti Antinpoikan</l>
+                    <l>Porkan torpa<del>n</del> 20.<hi rend="superscript"><hi rend="underline">neen</hi></hi> Speçityskään, Joka hänelle</l>
+                    <l>kaupasša maxoi 200. Sptyskj. Ja kaikki tämä teh=</l>
+                    <l>tiin sekä Haikoisen että Porkan tietämätä, ja myöš</l>
+                    <l>Taukaušmiesten.___ Ja nyt sanowat ostajoijen</l>
+                    <l>meinoawan nämät poiš ajoa hiemmoiltaan; ja</l>
+                    <l>ne yli rahat otetaan takaušmiehiltä.__</l>
+                </p>
+                <p>
+                    <l>Tätä kaikkia ne Rukoilewat sinun jlmiantaman</l>
+                    <l>Prinsille, että hän taaš ilmoittaiš Kunnikaalle.___</l>
+                </p>
+                <p>
+                    <l>Siitä ansökninkistä jonka wärälin miehet sisään</l>
+                    <l>pani, eiwät o wielä mitää kuulunna.___</l>
+                </p>
+                <p>
+                    <l>Kuin sinä wastä mulle kirjutat niin pane niän</l>
+                    <l><hi rend="underline">Till Bonden Paul Räisäinen Øijern, aflefnäs på Kymš=</hi></l>
+                    <l><hi rend="underline">berg; oçh widare fendeš till Stora Bogen.</hi></l>
+                    <l>Minä oon nyt tulu tässä tutux. Tässä on siweitä</l>
+                    <l>Herroja.</l>
+                </p>
+                <p>Poawo Räisäinen</p>
+                <pb n="4" facs="0268_0078096_212" />
+                <p>
+                    <l>Til</l>
+                    <l>Höglärde Herr</l>
+                    <l>Carl Axel Gottlund</l>
+                    <l>a:</l>
+                    <l><hi rend="underline">Stokholm</hi></l>
+                </p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

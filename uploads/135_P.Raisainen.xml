@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:18</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>135</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Kalnäset (Kalneset)">Kalnäset (Kalneset)</placeName>
+                        <date when="1822-05-11">11.5.1825</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_043" />
+                <p>Kalnesissa sinä 11. p: Toukokuussa 1822,</p>
+                <p>Armoilinen Herra Gottlund. – </p>
+                <p>
+                    <l>Minun pitäis teille jlmiantoa. että Soijnmkin </l>
+                    <l>pykärit. Tuomas Tuomaan poika Räisäinen,</l>
+                    <l>ja Ola Mortin poika, oliwat Sowinto Käräisä</l>
+                    <l>sinä 4. päiv Joulukuussa wuonna 1821. –  </l>
+                    <l><del>Sillä</del> Siellä ois Herrat tahtoinna Näijen</l>
+                    <l>sopimaan, että maxamaan hirret jotka huo=</l>
+                    <l>neix oliwat ottanna, Ja sen Huuhan jonka</l>
+                    <l>niitux owat hakanna; Ja sitten <del>p</del><add>M</add>uaahaan</l>
+                    <l>Hajottoa Huoneet, ja pois männä Enstulewa=</l>
+                    <l>na Kewänä; niin siten, ej heillen muuta</l>
+                    <l>Rahwia ois pitännä tulla. kuin nämä</l>
+                    <l>tämän Lupauksen ois tehneet. – </l>
+                    <l>Waan nämä Pykärit, Ejwät tainneet siiheen</l>
+                    <l>Sowintoon männä, niin sitten se on ollu</l>
+                    <l>silläänsä. wa<ref>n<note>viivallinen n-kirjain</note></ref> talwella ois Gull Bransi </l>
+                    <l>tahtoinna Räisälän miesten hajottamaan.</l>
+                    <l>heijän huoneet, waan ej hyökään sitä tehneet</l>
+                    <l>Ejkä hyö oo mitään oikeust siilä asjasta</l>
+                    <l>kuullunna Käräisä ylös Luwettawän. – m</l>
+                </p>
+                <p>Poawo Raisainen</p>
+                <pb n="2" facs="0268_0077781_044" />
+                <p>Kalnesissa sinä 11. p: Toukokuussa 1822</p>
+                <p>Herra Gottlundi</p>
+                <p>
+                    <l>Tässä on nyt Toas Kax Taloin poikoa</l>
+                    <l>Jotka wailittawat siitä kuin ej hyö</l>
+                    <l>oo suaanna tietä niitä Kokouxia</l>
+                    <l>Joissa Niimiä otettiin, Että hyökiin ois,</l>
+                    <l>suaanna Fullmahtiinsa.___</l>
+                </p>
+                <p>
+                    <l><hi rend="underline">Yx Naistä Oll.</hi></l>
+                    <l>Ber Olsson Petkäisiä i Rotnebärget.</l>
+                    <l><hi rend="underline">Toinen on.</hi></l>
+                    <l><hi rend="underline">Ander Bersson Nawinen i Rotnebärget</hi></l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:12</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>129</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1822-04-25">22.4.1825</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_027" />
+                <p>Armoillinen Herra Gottlundi!</p>
+                <p>
+                    <l>Ej tiäällä wielä muaakunta, tahi Norlaiset, Taukoa Kuhi=</l>
+                    <l>semasta, ja sotoa pitämästä; Siitä kuin myö Suomalaiset</l>
+                    <l>olemme männy anumuuxien kanssa Kuninkaalle. – </l>
+                    <l>Jos sanoowat, että Norlaiset anuwat Eswallata Lupoa,</l>
+                    <l>Suaahaxeensa Conpernian Sota=wäkeä, Tyräilemään</l>
+                    <l>Suomalaisia: Elikkä suomalaiset turmeloo Norjan</l>
+                    <l>Rigierinkin tahi oikeuet, sillä me ej ole männy Ruohin</l>
+                    <l>oikeuxiin Kuninkaan kanssa, niin kuin nyt Suomalai=</l>
+                    <l>set meinoa tehä. – tain kaltaisia syytä he eteen</l>
+                    <l>wetelööwät. Ja siiten että minun pitäis olla kaik=</l>
+                    <l>kian Wärstinmän, joka muitakiin Suomalaisia wil=</l>
+                    <l>lihtöö ja Kirjotteloo niiten etestä. – </l>
+                    <l>Ejkös nuo wiimen suaane Esiwaltoa wietellyxi, että nuo</l>
+                    <l>minut, kiini otattaa Ja Arestiin panettaa.</l>
+                    <l>Waan minä luulen Kieskiitetty; Että myö Suomalaiset</l>
+                    <l>olemme niin yhtä pitäwäiset, että jos nuo minut</l>
+                    <l>kiini ottaa, niin tulewat kaikki yximielisesti minua</l>
+                    <l>Jrti=ottamaan. Sen owat sanoneet, sekä Norjan Ja</l>
+                    <l>Ruohin Suomalaiset; Ja jos siellä meijän pitäis kuolla,</l>
+                    <l>niin kerran meijän pitä kuolla, ejpä meillä teälläkään</l>
+                    <l>ole yhtään hyweä elämeä tällä tawoin, kuin ej parenp</l>
+                    <l>tullek: Sais hyö siiten muaa=waki kaikki sisäänsä, niin</l>
+                    <l>kuin tahtonoowatkiin, naitä myö suomalaiset olemme</l>
+                    <l>Lausunna wälilläämme. – </l>
+                </p>
+                <p>Paavo R: – nen.</p>
+                <pb n="2" facs="0268_0077781_028" />
+                <p>
+                    <l>Ej wielä Bibelit ole tullu näihiin suokuntiin!</l>
+                    <l>Waan Talpuan puolelle, sanotaan jo tulleen Bibelien</l>
+                    <l>ennen piäässiästä. Niles Orainen Kirjutti mulle sinä 17. p:</l>
+                    <l>Huhti Kuussa, että Se mies on käũnnä Kahiste Kuarlestaassa</l>
+                    <l>Kuullostamassa Bibellöitä, jonka hän eiteens tellais niitä</l>
+                    <l>kulettamaan: waan se on Käũnnä turhaan, Sillä Bruseliuxen</l>
+                    <l>ois pitännä Lähteä Fastninkin markkinasta, sinne Upsalaan,</l>
+                </p>
+                <p>
+                    <l>Turun Wiikko=Sanomia, olen minä suaanut Kolmeen</l>
+                    <l>kertaan, Muaarjan=pänä sain 9. Wiikk<hi rend="underline">on</hi> Sanomoa <unclear>Östmarj:</unclear></l>
+                    <l>papilassa, siiten sain pitkänä perjantaina 1.<hi rend="superscript"><hi rend="underline">hen</hi></hi> wiikon</l>
+                    <l>Sanoman, ja nyt, sinä 22 Huhti Kuussa, sain 3. Wiikon</l>
+                    <l>Sanomoa. Nämä kaikki Sanomat, oon minä Lähättännä</l>
+                    <l>kulkemaan, niijen 40. miehen wälillä Jotka Reholtassa</l>
+                    <l>ala Kirjuttiin, useammalle ej yhet Wiikkon=Sanomat ytöty,</l>
+                    <l>Ja kyllä myö <del>Sen ense</del> tämän wuois=kunnan Sanomat</l>
+                    <l>maksa<ref>m<note>viivallinen m-kirjain</note></ref>e, kuin suaamme tietä mitenkä paljon ne mak=</l>
+                    <l>sapi. ~ Näistä Sanomista oisiwat tahtoineet Ruohin=</l>
+                    <l>puolla mutamat miehet, Ja owat kyselleet multa ejkö</l>
+                    <l>myö suaa Wiikkon=Sanomia joita sulle on Lähätetty. ~</l>
+                    <l>Kaupa Kirjoia, on jo moini kyselly! Ja ojsiwat tahtoi=</l>
+                    <l>neet ostoa. Ne pitäis jo piän Lähättämään, jos meino=</l>
+                    <l>at. Ja paras ois, eninmän osan Lähätteä Wirsi kirjoja,_</l>
+                    <l>ja Kateskismuja, ja a. b.c. Kirjoja. Niitä ne eninmä kysyy. ~</l>
+                </p>
+                <p>Öijärissä siä 25. p: Huhti Kuussa, 1822</p>
+                <p>Poawo Räi<hi rend="underline">säinen</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

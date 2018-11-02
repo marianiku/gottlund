@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-30">30.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:30</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>191</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Östmarkin pappila">Östmarkin pappila</placeName>
+                        <date when="1823-08-17">17.8.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_083" />
+                <p>
+                    <l>Östmarkin pappilassa sinä 17 p: Elok:</l>
+                    <l>1823.</l>
+                </p>
+                <p>Herra Gottlundille</p>
+                <p>
+                    <l>Minä sanoin kirjoissain Lähättäwäin</l>
+                    <l>Rahat Turun wiikosanomista. Multa,</l>
+                    <l>ja Heikki Hartikaiselta Latåsasta.__</l>
+                </p>
+                <p>
+                    <l>Waan nyt en minä taija niitä Lähätteä</l>
+                    <l>sillä kuin en suaa waihtoa ysömmäx</l>
+                    <l>Sedelix Hartikaisen Rahat on niin rik=</l>
+                    <l>kinäisiä ja paikkasia ettei Mamselli niitä</l>
+                    <l>ej tahoi. Ja Pappi sen piti Suokunan puo=</l>
+                    <l>tiin Mullikiäärnälle. ejkä hän tule kotiin</l>
+                    <l>tänä pänä että minä suaan yhtää ruohia</l>
+                    <l>parempiin rahoin, ja jos ma nämä lähät=</l>
+                    <l>täsin niin tulis Kirja painaman Kymmen=</l>
+                    <l>kunta Luotiā.</l>
+                </p>
+                
+                <pb n="2" facs="0268_0078096_084" />
+                <p>
+                    <l>Niin minä annan olla Rahāt Lähättämätä</l>
+                    <l>tällä kertoa; ja kahwoan parempia ra-</l>
+                    <l>hoja, ja panen rahat Anti Porkan Luoxe</l>
+                    <l>että hän suaa: Lähätteä minun Rahain</l>
+                    <l>silloin kuin omaansaki._ _</l>
+                </p>
+                <p>
+                    <l>Nyt tässä pappilassa toais paljon pilkoa</l>
+                    <l>puhuttin meijän kirkon pyykeämisestä._</l>
+                    <l>Ja Pappikin sanoi pois Lähtiissän, työ olit-</l>
+                    <l>te narrin Lapsia jotka uskoitte sen Narrin</l>
+                    <l>piäälle. Nyt on Gottlundi Lanbysätty pois</l>
+                    <l>Ruohin Rikistä; Nyt ett eneä taija ikään</l>
+                    <l>suaaha rätteä poikaies piäälle, kuins ne</l>
+                    <l>sen haltuun panit; joka wieraalta muual-</l>
+                    <l>ta ja niin kaukoa. Minä atelin Kuninkān </l>
+                    <l>heitä halttusa ottaneen niin tuo ois tainna</l>
+                    <l>jonai olla, se oil minusta ku<ref>m<note>viivallinen m-kirjain</note></ref>a kuin sinä</l>
+                    <l>Uskoit heitä hänen halttuun. Näitä Östmarkin</l>
+                    <l>pappi mulle Lansutteil ja ois minua peloitellu.</l>
+                </p>
+                <p><hi rend="underline">Poawo Räisäinen</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

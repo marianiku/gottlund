@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pekka Matinpoika Karvainen > Carl Axel Gottlund</title>
+                <author>Pekka Matinpoika Karvainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:14:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Karvainen</surname>
+                                <forename>Pekka Matinpoika</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>20</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Kalnässet, Øyern">Kalnässet, Øyern</placeName>
+                        <date when="1823-02-22">22.2.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077759_001" />
+                <p>
+                    <l>Pekka Karvaiselta, Herrallen Hyvästi Kunioitetullen </l>
+                    <l>ja korkeasti oppinellen Coarle Gottlundille upsalassa </l>
+                    <l>Øijärillä Sinä. 22. p. helme. kūssa. 1823. </l>
+                </p>
+                <p>
+                    <l>Teiiän kirianne on minä käsittännä ja kiitos olkoon tei=</l>
+                    <l>len sen Suloisen vastauxen eiten kuin työ mun kiriani </l>
+                    <l>piällen vastasitten – kyllä se on niin ja näin atelttava </l>
+                    <l>olevan näissä mun kirioissaini – wan ymmärustäini en minä Ruo=</l>
+                    <l>voa niin kuin minä se on suanna niin minä sen suaa</l>
+                    <l>nen piteä. Wan jonka minä sanon Sen pitää totuten ole<hi rend="underline">man</hi></l>
+                    <l>Se oli paha kuin minä teille kirutin tästä asiasta <del>minä</del> </l>
+                    <l>minä joka niin wähä ja kehnosten kiriuttoa taiian wan</l>
+                    <l>kyllä tuo se Sama ois kuin ei hyö tällä suomalaisissa</l>
+                    <l>tuota tietä sais – wan nyt minä puwän teitä <del>Armonlinen</del> </l>
+                    <l>Armonlinen Herra jotta työ tekisitten niin hywin ja etten</l>
+                    <l>Näitä mun wirheitäini toimittais Näillen miehillen jotka</l>
+                    <l>tälta tuloowat Herraiien päiwillen. En minä teiiän kirianne </l>
+                    <l>yhellen kää sen sisällä pitoa o toimittanna.</l>
+                    <l>työ sanatton jotta ei näillä wirheillä o kenkän naurettava wan ei </l>
+                    <l>hyö niin tällä sano još Ryösteäwät Ruweta Ryöruämään </l>
+                    <l><unclear>hirstin</unclear> miten kuin hyö taitawat ja seittyinen on paha kuulla – </l>
+                </p>
+                <p>
+                    <l>Mikä lienöö mullen ymmaryksen antanna se lienöö temmoiset </l>
+                    <l>aiatuxet koulun käumisen piällenki antanna – Enpä minä </l>
+                    <l>mitää mūta hankia taho kuin mullen taivaan jsä laittanna </l>
+                    <l>lienöö Enkä minä yhenkää työtä ylen kahtoa taho. niin </l>
+                    <l>kuin se laitettu on niin sen pitänöö mun hankiaini niin kuin </l>
+                    <l>muiienki Ihmisten joko se sitten on parempaan eli pahempaan </l>
+                    <l>tilaan – ylpeuxestä ja yxivakasutesta en minä </l>
+                    <l>mitään sano sillä sitä minä tahtoisin teiiän kysy=</l>
+                    <l>mään mun tuttaviltaini kuin hyö sinne tulevat </l>
+                </p>
+                <p>
+                    <l>Tokko tuota ymmärystä multa enemmän Kävät=</l>
+                    <l>tänen kuin mullen on annettunna -  </l>
+                    <l>ja mun pitänöö Nouvattoani niitä laitumia </l>
+                    <l>kuin minä on Ansaitsevainen – </l>
+                </p>
+                <pb n="2" facs="0268_0077759_002" />
+                <p>
+                    <l>Enkä minä jlman työtä ja waiwata eleä taho </l>
+                    <l>sen minä totiseti sanon, kyllä tämä on tuh</l>
+                    <l>män työxi luvettava kiriuttoa temmoisesta asias=</l>
+                    <l>ta Armon lisellen Herrallen – </l>
+                </p>
+                <p>
+                    <l>Wan mulla osi niin hyvä tahto ollut <del>ki</del> kouluun </l>
+                    <l>antaita kuin jotenki tilaisuus Ollut Ois. wan </l>
+                    <l>minä on köuhä ei mulla mitää O. jotta minä </l>
+                    <l><add>hywä on</add> kouluun kostoäitemaan teiianne kirianne se liexi </l>
+                    <l>totuten toimetta kaikella lailla –</l>
+                </p>
+                <p>
+                    <l>Enkä minä koulua kysynnä Ois kuin minä </l>
+                    <l>sen tietännä Oisin. van joka kysuu ni<add>i</add>n tietää </l>
+                    <l>joka hakoo niin löutää niin minaki on tehn<unclear>u<ref>n<note>viivallinen n-kirjain</note></ref>ä</unclear></l>
+                    <l>Sen <del>jok</del> jonka minä sanon sen minä eisä seison – </l>
+                </p>
+                <p>
+                    <l>Jos miten paha koulussa olla ois niin kyllä minä </l>
+                    <l>sen <del>ol</del> kestän jonka mūtkin kestäwät – </l>
+                </p>
+                <p>
+                    <l>wan tohtii Niillä jotka kouluun rupeawat </l>
+                    <l>Olla kovin hywä muisto jotta kuin hyö kir=</l>
+                    <l>jan kerran eli kahisten lukōvat, jotta hyö</l>
+                    <l>taitavat sen sitten ulkoa lukea Sanasta Sanaan </l>
+                    <l>ja pun ktista punktin wan ei mulla niin hywä </l>
+                    <l>muisto. O. – </l>
+                </p>
+                <p>
+                    <l>Mitä wielä kouhän koulusta sanotaan </l>
+                    <l>ei mun jsal<del>l</del>äin o mitän enempätä </l>
+                    <l>kuin hän tarkoin tarwihtoo joka kesässä </l>
+                    <l>kašvaa se mänöö hyvin teliin ennen kuin </l>
+                    <l>toista kaswaa – </l>
+                </p>
+                <p>
+                    <l>Se mullän oni suri Iloo kuin työ niin sulo=</l>
+                    <l>sesti wastasitten mun kiriain piällen – </l>
+                </p>
+                <pb n="3" facs="0268_0077759_003" />
+                <p>
+                    <l>Eipä minua o yhenkä welkoa piteä koulussa </l>
+                    <l>kuin en minä o siksi Miehexi piätunnä jotta minä </l>
+                    <l>on kouluun ihe hywä kostoaitemaan – </l>
+                </p>
+                <p>
+                    <l>Wan kuin mullan ois ymmärrystä annetunna </l>
+                    <l>ja lukku laitettunna niin <del>enköis</del> en kös minä </l>
+                    <l>taitais suaha kouluun <del>ruveta</del> <add>antoita</add> – </l>
+                </p>
+                <p>
+                    <l>Wan kuin ei tilaisutta O niin eipä lukkuäkä </l>
+                    <l>O mullen luotunna </l>
+                </p>
+                <p>
+                    <l>Wan meiiän tällä suomalaisissa Mahtais </l>
+                    <l>Olla welkoa teillen persson liasten kaikkien </l>
+                </p>
+                <p>
+                    <l>Minä on niin kehnosten oppinna kiriuttamaan </l>
+                    <l>jotta minä <del>oni</del> en o nin selwästen kiriutuxella </l>
+                    <l>meininkiäini <del>o niin selwasten</del> toimittamaan </l>
+                    <l>kuin suu sanalla. </l>
+                </p>
+                <p>
+                    <l>Tämän minä sanon totisesti en minä yhellenkää </l>
+                    <l>Herrallen talla Ois uskottanna kiriuttoa </l>
+                    <l>Tästä Asjasta Näin kuin minä teillen kiriutin </l>
+                    <l>sillä jotta ei työ yhenkä kirioja pahoin ylös <hi rend="underline">ota</hi> </l>
+                    <l>jos minä Näin jollenkii herrallen oisin </l>
+                    <l>kiriutanna niin hyö osivat häpeällisesti wastanna </l>
+                    <l>mullen jotta osi ollut häpeäxi niin kauvan </l>
+                    <l>kuin minä eläisin – Terveuxiä multa ja mun </l>
+                    <l>wanhemmiltaini ja Silkaltaini – </l>
+                </p>
+                <p>
+                    <l><add>alimaiselta</add> <hi rend="underline">Pekka Karvaiselta Øijärillä</hi></l>
+                </p>
+                <pb n="4" facs="0268_0077759_004" />
+                <p>
+                    <l>ei minulla mitän Muta kiriuttamista </l>
+                    <l>Ollut Jos tästä Asiasta – Auta hȳvä kunnian=</l>
+                    <l>linen herra minua jossas jotenkiin taiiat</l>
+                </p>
+                <p>
+                    <l>Terveyxiä Minulta sinun Kakkiin </l>
+                    <l>Nöyrin<ref>m<note>viivallinen m-kirjain</note></ref>altä ja Alimaiselta</l>
+                    <l>Pietar Karvaiselta</l>
+                    <l>Öijärillä</l>
+                </p>
+                <pb n="5" facs="0268_0077759_005" />
+                <p>
+                    <l>Til Herr</l>
+                    <l>Wela Og Höylade</l>
+                    <l>Carl Axel Gottlund</l>
+                    <l>Upsala <gap/></l>
+                    <l><hi rend="underline">Sverige</hi></l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

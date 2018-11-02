@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Staffan Immoinen > Carl Axel Gottlund</title>
+                <author>Staffan Immoinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-05">5.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:11:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Immoinen</surname>
+                                <forename>Staffan</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>15</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Lekvattnet (Lautasalmi)">Lekvattnet (Lautasalmi)</placeName>
+                        <date when="1824-07-14">14.7.1824</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077754_001" />
+                <p>
+                    <l>tässä minä annan teillen tieto mitenkä</l>
+                    <l>siellä elletän nillä ej ouki kuin porkkiia</l>
+                    <l>ja ollkiia parrastan syötävänäminä</l>
+                    <l>osin tultupois nihen miehiin kansa</l>
+                    <l>ja minä osin piästy kaikkiin paraltta</l>
+                    <l>jn mutiminä tallven asti <add>olen</add> siellä osi</l>
+                    <l>pallion sellaisiia maita kuin kävis</l>
+                    <l>kyntäminen muti hyö ei usko sitä</l>
+                    <l>niin minä laitan tästä syksyn</l>
+                    <l>uatran ja koittelen <unclear>kuisi</unclear> sänkiiä</l>
+                    <l>siitä minä tiiän tako palon kyn=</l>
+                    <l>tö käypi luatun muti sen pitem= </l>
+                    <l>pän minä en ouki sillä kontrahila</l>
+                </p>
+                <pb n="2" facs="0268_0077754_002" />
+                <p>
+                    <l>kuini <del>syss syssn</del> talven asti siellä</l>
+                    <l>ei suaki kuin kaxsi toista killikiä</l>
+                    <l>päivältä seun mahoton jotta minä</l>
+                    <l>siellä oun kuin minä oun talven</l>
+                    <l>asti niin minä en suaki kuin</l>
+                    <l>vuattet talvex piällein minä tiiän </l>
+                    <l>sen iotta se ei tule niiltä maxetux </l>
+                    <l>kuin työ sanoiton jotta tolva joka</l>
+                    <l>talosta minä min niän iota se ei</l>
+                    <l>käyki toten mut io hyö tekö sela=</l>
+                    <l>isen kontirahin iota yxi mies ma=</l>
+                    <l>kasa tahi ios hyö suavat runulta</l>
+                    <l>iokin palkan ios minä eni suaki</l>
+                    <l>sycsyn sitä tieto niin minä tulen</l>
+                    <l>pois minä en tule aikan nihen elämälä</l>
+                    <l>leikan vatinala 14 heinä kusa 1824</l>
+                    <l>Tahvn Imononen</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

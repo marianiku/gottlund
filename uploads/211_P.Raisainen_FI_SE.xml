@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-13">13.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:50</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>211</bibl>
+                        </msItem>
+                    </msContents>  
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="50">suomi</language>
+                <language ident="se-SE" usage="50">svenska</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="puuttuu">puuttuu</placeName>
+                        <date when="1826-00-00">0.0.1826</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_181" />
+                <p>Tässä seuraa yx Copio, yhestä tämminkistä.</p>
+                <p>
+                    <l>Warmunnin Miehet on tullu tämmätyx yhestä wiää=</l>
+                    <l>rästä asjasta. Poawo suastainen osti Auksionisša Kyö=</l>
+                    <l>län mehän s: 27 p: Syyskuusša w:1823. Hän tuil korkein</l>
+                    <l>tarjo mies, hänelle sitten Lyötiin mehtä 12,352. Norin</l>
+                    <l>Speçityskään. Waan sitte eiwät suaanna yhtää takauš</l>
+                    <l>miestä, ejwätkä tullu ite uskotux. Niin pantiin taaš</l>
+                    <l>sama mehtä toisen kerran autionin piäälle s: 20.p:</l>
+                    <l>Joulu Kuusša samana wuo<ref>n<note>viivallinen n-kirjain</note></ref>a: Sitte ei tullu Mehän</l>
+                    <l>hintä korkeampaan kuin 11,555. Norin Speçityskään.</l>
+                    <l>Nyt tahoitaan niitä Lika rahoija Poawo Suaastai=</l>
+                    <l>selta ja hänen napuriloilta. Näitä Lika rahoja</l>
+                    <l>on 797. Tyskeä.</l>
+                </p>
+                <p>
+                    <l>Nyt tykkeä nämä warmunnin Miehet että se on</l>
+                    <l>heille weäryyttä maxoa näitä rahoja, kuin ei hyö</l>
+                    <l>suaanna piteä Mehteä enšmaisen tarjon jälkeen</l>
+                    <l>jonka hyö oiš mielellään pitännä, kuin oisiwat suaa<ref>n<note>viivallinen n-kirjain</note></ref>a</l>
+                    <l>takauš miehen eli tulleet uskotux.</l>
+                </p>
+                <p>
+                    <l>Niin Nyt pyytä Poawo Suaastainen ja Hannu Lehmoinen</l>
+                    <l>warmundperistä. Ettäs tekisit niin hywin ja näyttäsit</l>
+                    <l>tätä Copiota Norin Rikerinkille Tukulmisša; još joskuš</l>
+                </p>
+                <pb n="2" facs="0268_0078096_182" />
+                <p>
+                    <l>tulisitte sinne mänemään; Ja kysyisitte heiltä,</l>
+                    <l>tokko se on Lupa näitä rahoila Räwätä kuin ej</l>
+                    <l>hyö oo mitää suaa<ref>n<note>viivallinen n-kirjain</note></ref>a Mehästä rukata, Ejkä suaa=</l>
+                    <l>neet mehteä tarjoonsa jälkeen.__</l>
+                </p>
+                <p>
+                    <l>Jos nyt tekisit niin hywin, ja kysysit tätä asjoa, niin</l>
+                    <l>pyytäwät ettäs antasit heille wastauxen, minun kauttain,</l>
+                    <l>mitä Norin Rikerink tähään wastoa.</l>
+                </p>
+                <p>
+                    <l>Tämä Poawo Suaastainen ja Hannu Lehmoinen, owat</l>
+                    <l>toimeenlisia Miehiä, hyö ej ole niin Hällä pääitä</l>
+                    <l>kuin Weteläinen, että hyö ajattele yhtä, yhtenä</l>
+                    <l>pänä, toistä, toisšä pänä. Heijän kirjasšansa seisoo,</l>
+                    <l>että hyö wiälä Luotta sinun piäälleiš, ja myöš</l>
+                    <l>Kuninkaan Armon piäälle; waikka asja on pit=</l>
+                    <l>källe joutunut.___</l>
+                </p>
+                <p><hi rend="underline">Poavo Räisäinen</hi></p>
+                <pb n="3" facs="0268_0078096_183" />
+                <p>[ruotsinkielinen liite]</p>
+                <pb n="4" facs="0268_0078096_184" />
+                <p>[ruotsinkielinen liite]</p>
+            </div>
+        </body>
+    </text>
+</TEI>

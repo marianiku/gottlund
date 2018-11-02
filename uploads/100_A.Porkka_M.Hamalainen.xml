@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka &amp; Matti Hämäläinen > Carl Axel Gottlund</title>
+                <author>Antti Porkka &amp; Matti Hämäläinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:35</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <author><surname>Hämäläinen</surname>
+                                <forename>Matti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>100</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Stensgards utsby">Stensgards utsby</placeName>
+                        <date when="1832-03-22">22.3.1832</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_104" />
+                <p>Stensgards <unclear>ũtsby</unclear> <gap/>: 22 Mars 1832</p>
+                <p>Herra Gottlund<hi rend="underline">ille</hi>!</p>
+                <p>
+                    <l>Minä Sūresti Ihmehtelen Kuin</l>
+                    <l>ej Herra ouk vastanna Minun</l>
+                    <l>Kjeriaan peälle, Ja <unclear>Lähättanyt</unclear></l>
+                    <l>minun välka setelin pois;</l>
+                    <l>Sen tauta minun täyty vielä</l>
+                    <l>kysya Herralta, Mitenkä se</l>
+                    <l>oli kuin ej minun Lähätetyt</l>
+                    <l>Bewiisin tullut sisan, ennen kuin</l>
+                    <l>saka Tuomittin – Imeiset</l>
+                    <l>peloitelevat paljon minua</l>
+                    <l>että saavain Maxoa sen</l>
+                    <l>ulos annetun Setelin, vaika</l>
+                    <l>Saasta ej ollut mitän.</l>
+                </p>
+                <p>minä</p>
+                <pb n="2" facs="0268_0077775_105" />
+                <p>
+                    <l>mina Lähtän Kuninkan Tuo=</l>
+                    <l>mion kansa Jotta Herra soa</l>
+                    <l>nähä <del>jotta</del> <add>että</add> saka, on Tuomittu</l>
+                    <l>ennen kuin Meärä päiva ulos</l>
+                    <l>kävi, Ja pyytäisin Tjetoa ejkö</l>
+                    <l>häntä enempi sais auki.</l>
+                    <l>sen että minä pyyan, että han</l>
+                    <l><unclear>Heita</unclear> postisa Lähättä vastauxen</l>
+                    <l>Ja Setelin tänne, <unclear>Intei</unclear> kuin</l>
+                    <l>Mylly Lauri vipy <del>vipy</del> siellä</l>
+                    <l>kauan jonka kansa minä</l>
+                    <l>Lähätan Kjerian.</l>
+                    <l>paljon Tervyxiä</l>
+                </p>
+                <p>Matti Hälaiselta</p>
+                <p>
+                    <l>Mylly Lauri ei Jaxanut kantea tätä</l>
+                    <l>Kjerioa, Jos Lähti hänen takaisin</l>
+                    <l>sillä mun täyty tämän postin</l>
+                    <l>panna.</l>
+                </p>
+                <pb n="3" facs="0268_0077775_106" />
+                <p>
+                    <l>kyllä se meinoa Lähteä <add>den 25 mars</add> Tukulmin,</l>
+                    <l>asiaitan ajaman. minä meinaisin</l>
+                    <l>Lähätteä Tuomion sinne van nyt se</l>
+                    <l>Jeä koitin, Jos häntä tarvitais niin</l>
+                    <l>sais tuon postin kauta sinne.</l>
+                </p>
+                <p>Matti Hämäläinen</p>
+                <p>
+                    <l>Herra Gottlundille!</l>
+                    <l>Minä on nyt <unclear>syökännä</unclear> Tuomion sillä</l>
+                    <l>Setelillä Mylly Laurin peälle, Kuin</l>
+                    <l>Herra hänen sielä Tavaa, niin Hänen</l>
+                    <l>pitä Lauria hyvin peloitaa, Ja sanoa:</l>
+                    <l>että pitä työ Tuomion syökätä Ja ottaa</l>
+                    <l>hänen Tukulmin työta tekeman kuin</l>
+                    <l>ej se maxa velkoan. Minä kävin hänen</l>
+                    <l>Luona männä Torstaina silloin Juoksi</l>
+                    <l>Mehtan Joten saanakan puhtella.</l>
+                    <l>kuin Herra vastoaisi tämänkin peälle.</l>
+                    <l>Tokohän teältä sais Suomalaisia</l>
+                    <l>Muutoa Suomen? se puhe teällä käypi</l>
+                    <l>van Herrat on siitä <unclear>villissä</unclear></l>
+                </p>
+                <p>AntjPorkka</p>
+                <pb n="4" facs="0268_0077775_107" />
+                <p>
+                    <l>Magister </l>
+                    <l>Hoŷlande Herr</l>
+                    <l>C:A: Gottlund</l>
+                    <l><hi rend="underline">Stokholm</hi></l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

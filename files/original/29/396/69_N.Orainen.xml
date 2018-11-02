@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nils Orainen > Carl Axel Gottlund</title>
+                <author>Nils Orainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:4</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Orainen</surname>
+                                <forename>Nils</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>69</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Erotettu Antti Porkan kirjeiden joukosta. Orainen sanellut kirjeen, Porkka toiminut kirjurina.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="se-SE" usage="100">svenska</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Norra Lekvattnet">Norra Lekvattnet</placeName>
+                        <date when="1822-05-15">15.5.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_011" />
+                <p>
+                    <l>annetu pohois Leikavaatnalla Sinä 15</l>
+                    <l>päivänä <del>huh</del> Touko Kuusa w=</l>
+                    <l>1822.</l>
+                </p>
+                <p>
+                    <l>Hyvin Kunnioitettava Ja Korkiasti opinut</l>
+                    <l>Herra Gottlundi<del>le</del>!</l>
+                </p>
+                <p>
+                    <l>Minä olen hakenut meitän vanhoia maa=</l>
+                    <l>Kierioia van en ole saanut jälen mut Kaxi</l>
+                    <l><unclear>patäästä</unclear> meitän Ensimäisestä Kaski Kjeriasta</l>
+                    <l>misä ei ole täyvillen vuuin Luku, mut</l>
+                    <l>yxi Tuhat Kuus Sataa, <unclear>Siihe</unclear> on poikensa,-</l>
+                    <l>Ja Emterviikin <unclear>suokunansa</unclear> Siiloin Kärät on</l>
+                    <l>Seisonna, Enemän ei niistä Soaha Jällen.</l>
+                    <l>Siite minä on Löytännä yyhen ulos Kjeria=</l>
+                    <l>toxen, Joka on <del>vuonna</del> v. 1805, sina 11 päivänä</l>
+                    <l>Tammi Kuusa Stokholmisä Kuninkan Ca<ref>m<note>viivallinen m-kirjain</note></ref>er</l>
+                    <l><unclear>arkivi</unclear> Contorisä vanhoista maa Kjeriosta</l>
+                    <l>uulos Kjeriutetu, miilenkä p: Leikawaitna Ensi=</l>
+                    <l>Kertoa ylos <unclear>otatin</unclear>, Joka vuona 1644 yheltä</l>
+                    <l>Paavo nimeltä, ylös otetin, <ref>*<note>lisäys s. 1 marginaalissa</note></ref><unclear>Stuns</unclear> gårdin mehälle, Ja v. 1650 ¼ osaxi</l>
+                    <l>werohiemaxi pantin. Tämän ulos Kjeriutoxen</l>
+                    <l>löysäisvät Kuin Slengärdin Ja Kjelkerũun</l>
+                    <l>Kartanot olivat p: Leikawaitnalta Kaiki</l>
+                    <l>mehät pois, min hiös mäinivät Kuininkan</l>
+                    <l>luoxe, Såkaansa uuwesta ylos saaman,</l>
+                    <l>van</l>
+                </p>
+                <pb n="2" facs="0268_0077775_012" />
+                <p>
+                    <l>van Kuininkas ei siihen Löytäna mitän</l>
+                    <l>neowoa, Ja on Stockholmin Slotilla anetu</l>
+                    <l>sinnä 14 päiv: Huhti Kuusa v. 1807, Ja Kuinin=</l>
+                    <l>kan poikesa olesa, hänen Ruoi-herroilta</l>
+                    <l>aala Kjeriutetu; Se Tulo <unclear>mieten</unclear> vilä tänä=</l>
+                    <l>pänä <unclear>vailitoa</unclear>, Et ej meilä siiloin ollut</l>
+                    <l>Senlaista miesta Kuin Herra on, Joka</l>
+                    <l>meitän Sakame wastaisi, Ja siihen ei</l>
+                    <l>taia ola nyt mitan neovoa silä Kuin</l>
+                    <l>Kuininkas Sen Kerran on Tuomnina</l>
+                    <l>Stensgortin Ja Kelkeron Kartanot, ne otivat</l>
+                    <l>meilta Laumetarin Jaossa <del>pois</del> kaikki</l>
+                    <l>mehät pois, Jot ei me saana puita uunin</l>
+                    <l>ejkä Karian Kansa peästy pihale <unclear>aiostanu</unclear>,</l>
+                    <l>se vähä mehtä Joka meitän Kyläle <unclear>Jaitin</unclear></l>
+                    <l>se on Etelä <unclear>Leikawaitnan</unclear> Reialta luiten</l>
+                    <l>norin Rajalle Et ei me siitä mitän</l>
+                    <l>Tarwista tule soaman. Nyt on Stensgar=</l>
+                    <l>din Ja Kelkeron Miehet, Miönä sen <unclear>mehtäys</unclear></l>
+                    <l>teälä Ja nin palio weroa, Et ei moiniala</l>
+                    <l>maha palio ola Jällellä, Teälä on jo</l>
+                    <l>Enempi Kuin Kolmans osa Kartanon</l>
+                    <l>weroa. Tokohän minä tohtisin pyytää</l>
+                    <l>Herralta Neowoa, Jos me taitaisime</l>
+                    <l>meillä tavala soaha uuta Laumatarnin</l>
+                    <l>jakoa</l>
+                </p>
+                <pb n="3" facs="0268_0077775_013" />
+                <p>
+                    <l>jakaa nin hyvin Stensgårdin Kartanole,</l>
+                    <l>Kuin Kaikile Suomalais Kylile jotka sen</l>
+                    <l>alla on ollut, Ja Kelkerån Kartanole,</l>
+                    <l>nin Kuin sen ulkomehäle; Että Kaiki</l>
+                    <l>tulisi <del>ollt</del> uuvasta mitatuxi Ja Taxieratuxi,</l>
+                    <l>Silä Huitkiernän kylä on yhela tavala</l>
+                    <l>Kuin Leikavaitina, Stensgårdin mehältä</l>
+                    <l>yles otettu, ne on Soanut piitää meh=</l>
+                    <l>tänsä, Ja meiltä Kaiki otettin.</l>
+                    <l>Kähköläiset nekin tekivät veärytä</l>
+                    <l>jonka taisvat, Ja otivat osan meitän</l>
+                    <l>mehästä – <unclear>fepakalaiset</unclear> Joilla on Stensgårdin</l>
+                    <l>veroa, nekin tahtois täin Kaltaista</l>
+                    <l>Jakoa, van tohtis se tulla nin vaikea,</l>
+                    <l>Eta me siinä neännysimme, silä minä</l>
+                    <l>pytäisin Herralta Neovoa, mitenkä</l>
+                    <l>paras ois, Ja toivon vastausta häneltä.</l>
+                    <l>Ruohtalaiset on Kaikisa paikoisa elänet</l>
+                    <l>Kuin Tyrannit Suomalaisten Kansa, Ja</l>
+                    <l>Jos hän sen aian Kerran nähtäisni Etä</l>
+                    <l>Heistä Jollai Tavalla pos Eroitetuxi</l>
+                    <l>tuilisimme, nin se <del>oli</del> oilisi meitän</l>
+                    <l>ysin Riemu. palio terveyxsiä Kaikilta </l>
+                    <l>suomalaisilta ja Enimän</l>
+                </p>
+                <p>Niles Oraiselta</p>
+            </div>
+        </body>
+    </text>
+</TEI>

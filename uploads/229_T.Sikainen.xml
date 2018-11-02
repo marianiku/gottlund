@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tahvo Sikainen (Staffan Carlsen) > Carl Axel Gottlund</title>
+                <author>Tahvo Sikainen (Staffan Carlsen)</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-13">13.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:14:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Sikainen</surname>
+                                <forename>Tahvo (Staffan Carlsen)</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>229</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc> 
+                        <p>Erotettu Paavo Räisäisen kirjeiden yhteydestä, Sikainen sanellut kirjeen</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-02-21">21.2.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078100_001" />
+                <p>Öijärillä sinä 21. Helmekuussa 1823.__</p>
+                <p>Tahwo Sikainen Herra Gottlundille</p>
+                <p>
+                    <l>Minä oon suaa<ref>n<note>viivallinen n-kirjain</note></ref>a teiltä kirjan Räisäisen</l>
+                    <l>kautta, josta kirjasta minä neän, ettej minun</l>
+                    <l>poijastain tule miestä. Ja toais oon Räisäiseltä</l>
+                    <l>suaanna tietä että poika on wielä Pietairpo=</l>
+                    <l>rissa oppimassa Wenäjätä puhuman. Waan</l>
+                    <l>mitäs hän sillää oppilla tehnöö <unclear>h</unclear>uin ei hän</l>
+                    <l>muuhunka oppinut. Minä soisin kernaasti kuin</l>
+                    <l>Herra tekis niin hywin ja telleäs pojan kotiin,</l>
+                    <l>koska ej hän, häntä tykkeä, ejkä suaa häntä oppi=</l>
+                    <l>maan muutakan. Mullen on se Lanke<ref>n<note>viivallinen n-kirjain</note></ref>a suurex</l>
+                    <l>huolex, koska minä sain tietä että pojka ej <hi rend="underline">Lait</hi>=</l>
+                    <l><hi rend="underline">tamnaan</hi> miehex, ejkä ollu nöyrä teita wastaan, ja</l>
+                    <l>wielä sitte se kuin poika on jeännä yxnään Pietair=</l>
+                    <l>poriin. Kuka häntä nyt siellä wieraassa wallaš=</l>
+                    <l>sa holhonnoo tahi kostin eli muut tarpeet ulos</l>
+                    <l>Laskee, Tuosta ej mulle oo tullu mitään tietoa.</l>
+                    <l>Waan minä Rukolen Herroa että hän teke niin</l>
+                    <l>hywin ja antaa mulle tion mitinkä poijan nyt</l>
+                    <l>seisoo teliin, ja mitenkä se oil kuin poika jäi</l>
+                    <l>Pietairporiin. Niin Jumala han ies pitäköön</l>
+                    <l>teitä terwennä, ja poikoa myöš.</l>
+                </p>
+                <p>
+                    <l>Staffen Carlsen Sikainen</l>
+                    <l>Kotämäki</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

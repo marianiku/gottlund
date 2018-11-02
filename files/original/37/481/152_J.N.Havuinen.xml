@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johan Nilson Havuinen > Carl Axel Gottlund</title>
+                <author>Johan Nilson Havuinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-07-30">30.7.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:1:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Havuinen</surname>
+                                <forename>Johan Nilson</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>152</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Erotettu Paavo Räisäisen kirjeiden yhteydestä. Havuinen ilmeisesti sanellut kirjeen Räisäiselle.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1822-08-11">11.8.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078087_001" />
+                <p>Öijärillä sinä 11.p: Elokuussa w: 1822 __</p>
+                <p>
+                    <l>Taloin poika Johoi Hawuinen</l>     
+                    <l>Herra Gottlundi</l>
+                    <l>Minä ilmotin teille sinä 26. p: Heinäkuussa. Että minun</l>
+                    <l>jsäpuolein Johoi Purkainen, on antanna mulle testamentin</l>
+                    <l>Tilansa Kuarlelan piäälle, ja tawaransa piäälle; Waan</l>
+                    <l>nyt on hän männy Länsmannin (tahi uuen Lanherran) Kanssa</l>
+                    <l>yhteen ja kirjuttainnaan sisään kylän eteen, waikka mulle</l>
+                    <l>on antanna kätensä, ja se wanha Lanherra Anders Meldal</l>
+                    <l>kirjutti jo mun kulän eteen, samalla muotoa kuin jsäpuolenki,</l>
+                    <l>waan Länsmanni ej suostunna siheen kuin minut oil pan=</l>
+                    <l>tu tilan etehen, sillä hän est, sekä jsäpuolen että minut</l>
+                    <l>tuwan hirsiä hakkoamasta ja Muitakin tarpeita Mehäs=</l>
+                    <l>tä ottamasta. waan osi se hywä jos työ taitasitten minua </l>
+                    <l>neuwoa mitenkä minä ruupeasin Lansmannin ja jsä=</l>
+                </p>
+                <pb n="2" facs="0268_0078087_002" />
+                <p>
+                    <l>puolen, kanssa tällä asjalla Juttelemaan, Ejkös minun</l>
+                    <l>täûtys heitä tännätä Käräöisiin, waan teällä Norissa</l>
+                    <l>ej suaa yhtään rätteä.__</l>
+                </p>
+                <p>
+                    <l>Johan Nilson Hawuinen</l>
+                    <l><hi rend="underline">från Koarlela.</hi></l> 
+                </p>   
+                <p> 
+                    <l>Herrallen</l>
+                    <l>Koarle Gottlundille</l>
+                    <l>q upsalassa</l>                            
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

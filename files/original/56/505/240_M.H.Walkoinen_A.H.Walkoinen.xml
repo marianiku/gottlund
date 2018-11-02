@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mickoi Heikinpoika Walkoinen, Anti Hanssinpoika Walkoinen > Carl Axel Gottlund</title>
+                <author>Mickoi Heikinpoika Walkoinen, Anti Hanssinpoika Walkoinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-17">17.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:22:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Walkoinen</surname>
+                                <forename>Mickoi Heikinpoika</forename></author>
+                            <author><surname>Walkoinen</surname>
+                                <forename>Anti Hanssinpoika</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>240</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc><p>Räisäinen kirjeen kirjoittaja, muut sanelleet Räisäiselle.</p></physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Eärsjön">Eärsjön</placeName>
+                        <date when="1823-03-04">4.3.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078108_001" />
+                
+                <p>
+                    <l>Eärsjönillä sinä 4. p: Maaliskuussa 1823.</l>
+                    <l>Herra Gottlundi</l>
+                </p>
+                <p>
+                    <l>Myökin Eärsyönin puonnit, Miçkoi Heikin</l>
+                    <l>poika Walkoinen ja Anti Hanssin poika</l>
+                    <l>Walkoinen! Rukoilemme teitä Rakas Herra.</l>
+                    <l>Ettäs pitäisit meitäki muistissaa<ref>n<note>viivallinen n-kirjain</note></ref>e ja, autaisit</l>
+                    <l>meitä, kuin suinni mahtoonlin oliš.</l>
+                    <l>Meillä on herin ne ysimmät werot Ruukin=</l>
+                    <l>kin jälkeen kuin suomalaisissa Löyty. Sillä</l>
+                    <l>myö pyytäisi<ref>m<note>viivallinen m-kirjain</note></ref>e että me saisimme tämän</l>
+                    <l>mäin Renperin jonka piäällä myö asu<ref>m<note>viivallinen m-kirjain</note></ref>e,</l>
+                    <l>pois Ruohtalaisilta. Sillä Ruohtalaisilla</l>
+                    <l>on kaikkein paraš rinne ulko niittuinaan.</l>
+                    <l>Ruohtalaiset Joutaiš kyllä olla jlman niitä</l>
+                    <l>Jotka asuu sileillä mailla, ja kuin Ruunu</l>
+                    <l>oiken asjan tietäis, niin me ej ikään toisin</l>
+                    <l>Uskois, mutt Ruunu auttais suomalaisia.__</l>
+                </p>
+                <p>
+                    <l>Ja wielä piäälisex niin pitä meijän tästä</l>
+                    <l>Eärsyönin kylästä käywä muuan tien teossa</l>
+                    <l>3.<hi rend="superscript"><hi rend="underline">met</hi></hi> peninkuormoa poiš kotoamme; waikka</l>
+                    <l>meillä on pitkät mehtä tiet joita pitä yläällä</l>
+                    <l>piteä! Joista teistä Ruohtalaiset ej mitää tijä.</l>
+                    <l>Nyt on meillä toista peninkuormoa Norjan ra=</l>
+                    <l>jalle, ja neljä<ref>n<note>viivallinen n-kirjain</note></ref>eš alaa muaantielle, sitä rumoa</l>
+                    <l>Renperiä. Joka on kuin puun Latwaan <hi rend="underline">kipuais</hi>.</l>
+                    <l>Jos –</l>
+                </p>
+                <pb n="2" facs="0268_0078108_002" />
+                <p>>
+                    <l>Još niin on ettej Herra tahoj, eli taija mei=</l>
+                    <l>tä muusta waiwasta autoa. Niin me rukoi=</l>
+                    <l>lemme että myö taitasi<ref>m<note>viivallinen m-kirjain</note></ref>e peästä muaan</l>
+                    <l>tien teosta, sen taitais Ruohtalaiset kyllä hy=</l>
+                    <l>win yläällä piteä.__</l>
+                </p>
+                <p>Olepas meiltä Terweytetty sata kertasest.__</p>
+                <p>
+                    <l>Mickel Hindrichson</l>
+                    <l>Ensjön Walkoinen</l>
+                    <l>Anders Walkoinen</l>
+                    <l>Ensiön </l>
+                </p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

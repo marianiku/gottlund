@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-13">13.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:54</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>215</bibl>
+                        </msItem>
+                    </msContents>  
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="95">suomi</language>
+                <language ident="se-SE" usage="5">svenska</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1829-06-06">6.6.1829</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_194" />
+                <p>Öijärillä sinä 6 p: Kesäkuusša wuonna 1829.____</p>
+                <p>Poawo Räišäinen	Herra C. Gottlundille   !</p>
+                <p>
+                    <l>Minä käsitin Sinun kirjaiš männä Sunnuntaina sinä wiimesšä</l>
+                    <l>Maijina, ja se oil silloin astaijan ja 7. päiwän wanha. Misšä</l>
+                    <l>han tuo lie niin kauan maanna !!</l>
+                </p>
+                <p>
+                    <l>Sinä mahat kyllä arwata että minä oon sitä ja tätäi ajatellu</l>
+                    <l>kuin ei mulla oo ollu yhtää kirjoa sinulta; minä oisin aikoa</l>
+                    <l>kirjoittanna sulle, waan oon atellu ettäš oisit männy Suomeen ja kyl=</l>
+                    <l>lästynnä olla Ruohisša; waan koskaš tuota wielä männä kewänä</l>
+                    <l>Oleskelit Tukkulmisša, tohitpaš tuolla olla wieläi, waan rulia</l>
+                    <l>tuo on, kuin etsä lystin päihen oo mitää tänä talwena kirjoittan=</l>
+                    <l>na. Sitä asjoa jota minä puhuin tahi kirjutin, wiimesesšä</l>
+                    <l>kirjasšain; Että suaaha Krunu Prinsšin ostaman meijän tiloija ja meh=</l>
+                    <l>teä, tahi paneman rahat meijän eite; ja jonka peälle sinä myöš</l>
+                    <l>wastoat täsšä astaijan wanhasša kirjasša. Se ei oiš wieläkä</l>
+                    <l>lian Myöhäista.__</l>
+                </p>
+                <p>
+                    <l>Meijän jsäntä Ole Rein Holm, on nyt pelanna Pankia, Että hänen</l>
+                    <l>luona astaika sitte, lukottiin Conturin owet, hänen hantu, ja rens=</l>
+                    <l>kawit, owat siitä aijasta seisoneet, ettei yxkää jolla on ollu suaamista</l>
+                    <l>tahi welkoa eiwät oo suaanna räkninkiä, eiwätkä wielä suaa en=</l>
+                    <l>nen kuin Elokuun 8. päiw: silloin awaantu Conturin owet ja suaa=</l>
+                    <l>wat räkninkin. Sen jälkein sanotaan että meijän tilat ja mehtä</l>
+                    <l>tuloo pannux Auktionin piäälle, ja myyän siihen rahaan kuin taije=</l>
+                    <l>tään suaaha.__ Nyt minä uskoisin ettei meijän tilat ja mehtä eneä</l>
+                    <l>tuliš niin kowin kalliix, sillä että Norisša on lian paha rahan pe=</l>
+                    <l>rään, ja tukki Kauppa on aleš käynnä, sillä että lauwat ei</l>
+                    <l>kelleä ulkomailla.__ Minä luulisin ettei tämä Mehtäkunta tuliš</l>
+                    <l>nyt kalliimmax kuin Neljä tahi wiiš tuhatta, (4000. a: 5000.) No=</l>
+                    <l>rin Speçiä, liotenki kuin oiš walmiš raha, l eli niin että</l>
+                    <l>Krun=Prinsši panisi Rahat.__</l>
+                </p>
+                <p>
+                    <l>Niin Myö nyt wielä nytki Rukoilemma sinua! Ettäs tekisit</l>
+                    <l>tuon Laupiuen ja puhuttelisit Krunu=Prinsiä Meijän eistä</l>
+                </p>
+                <pb n="2" facs="0268_0078096_195" />
+                <p>
+                    <l>että hän paniš rahat ja lunastaiš Meijät ettei eneä jouwuttaiš</l>
+                    <l>Kauppa Miesten ala; kyllä Prinsin pitäiš suaaha rahasa takasin</l>
+                    <l>10.<hi rend="superscript"><hi rend="underline">nen</hi></hi> wuoten sisään Räntyn keralla; Myö antaisimme hänelle ker=</l>
+                    <l>naasti senlaisen panti Kirjan, että kuin ei myö oo hywä 10.<hi rend="superscript"><hi rend="underline">en</hi></hi></l>
+                    <l>wuoteen maxaman täysiä rahoia Rantyien kera<del>tt</del><add>ll</add>a, niin suaa hän</l>
+                    <l>panna meijan tilat ja mehän täyten auktionin piäälle ja ottoa</l>
+                    <l>loput Rahasa, ja myö suaamme olla welkapeät mänemään poiš</l>
+                    <l>tiloiltamme.___</l>
+                </p>
+                <p>
+                    <l>Waan minä luulisin että se oiš parasta kuin sinä tekisit yhten</l>
+                    <l>pienen ja myöš kore<del>ä</del><add>a</add>n ansökninkin meijän niimeen, ja sanoi=</l>
+                    <l>sit meiltä suaaneenš Kopion tahi Fullmahin sen piäälle.___</l>
+                    <l>Sinä taitasit selitteä tästä Seuroawasta Listasta <del><add>selitteä</add></del> kuinka monta huš=</l>
+                    <l>hollia ja henkeä joutu kulkuisaan ja luopurille, kuin ei hän auta.</l>
+                    <l>Kuin hän tämän saiš oikein nähä, niin ryösteäiš hän meitä aut=</l>
+                    <l>toa ja olla meille niin armoillinen.___</l>
+                </p>
+                <p>
+                    <l>Waan <add>se</add> on mulle mahoitoin selitteä, kuinka monta Tynnyrin aloa</l>
+                    <l>tämä Öijärin mehtä sisällänsä pitää, sitä räkninkiä ei ruukata</l>
+                    <l>Norisša. Waan wero wärterinkisšä, niin tämä Öijärin mehtä</l>
+                    <l>tuil uloš arwatux, että 150. tolttoa tukkia pitä joka wuoiš, kau=</l>
+                    <l>paxi tulla, niin kauan kuin muaalima seisoo. <hi rend="underline">Oijer oçh Fensjö Skog</hi></l>
+                    <l><hi rend="underline">er antaget at kunne årligen afgifwe 150. tyltter Saug=Tömmer</hi></l>
+                    <l><hi rend="underline">till Salo</hi>. Waan sen kuinka loaja, pituelta ja leweyweltä, sen mä</l>
+                    <l>taij<del>ä</del><add>a</add>n selitteä. Etelästä pohuiseen, niin se on yhten peninkuorman</l>
+                    <l>pituinen. ja taaš Jtästä luoteseen, niin se on yhten peninkuorman pi=</l>
+                    <l>tuinen. waan jtäpohjoš piäästä, luoi=Eteläpiäähän niin se on 1 1/4 . pe=</l>
+                    <l>ninkuormoa pitkä. Ja taaš samaten jtä=Etelä piäästä, luoi=pohjošpiää=</l>
+                    <l>hään, wiittä neljännestä pitkä; Ja se mahtaiš tulla ympäri mitaten liki=</l>
+                    <l>pitäin 4 1/2 . peninkuormoa.___</l>
+                </p>
+                <p>
+                    <l>Kuin nyt wuan Prinsši oiš meille niin armoillinen että hän paniš</l>
+                    <l>Rahat meijän eistä; niin sinun pitäiš tehänš niin hywin ja kirjoittoais</l>
+                    <l>mulle, niin myö mänisimme jo het kauppoa hieroman asjan omai=</l>
+                    <l>sten keralla, jlman auksionita. Ja Prinsši saiš kirjoittoa Norin Rikie=</l>
+                    <l>rinkille että hän pane rahat meijän pyywöxen peälle Öijärin Mehästä;</l>
+                    <l>niin kyllä meistä yx tähi kax, saiš tulla sinne Tukulmiin takauš kirjaijen ke=</l>
+                    <l>ralla, ja toimittoa kuinka paljon rahoa tarwittaiš mehän lunastoxeen.</l>
+                    <l>Tahi kuinka Prinsši tahtoiš tellätä oston keralla.__</l>
+                </p>
+                <p>
+                    <l>Täsšä nyt seuroa se Lista kuinka monta Hushollia meitä on, ja miten <unclear>kuseai</unclear></l>
+                    <l>Hušhollisša.___</l>
+                </p>
+                <pb n="3" facs="0268_0078096_196" />
+                <p>
+                    <l>Tbel som wiser, huru många Hestar oçh kreatur hwar</l>
+                    <l>och ån, kan hållaš och födeš, paa Oijer och Fensiö Skog ‘</l>
+                    <l>famt huru många tũnlann åker en=hwaår kan hafwa,</l>
+                    <l>oçh huru många Skippun hö enhwar awflar årligen.</l>
+                    <l>Oçh huru många personer där finnaš I hwar hušhol.__</l>
+                </p>
+                <table>
+                    <row>
+                        <cell>Gårders Namne</cell>
+                        <cell>Bönders Namne</cell>
+                        <cell>Hestar</cell>
+                        <cell>Koer</cell>
+                        <cell>Får</cell>
+                        <cell>Geder</cell>
+                        <cell><unclear>SKH</unclear>:hölj:</cell>
+                        <cell>Tunlan åker</cell>
+                        <cell>Persone<unclear>r</unclear></cell>                        
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>                        
+                    </row>
+                    <row>
+                        <cell>Öijeren</cell>
+                        <cell>Paul Persson.</cell>
+                        <cell>2.</cell>
+                        <cell>13.</cell>
+                        <cell>16.</cell>
+                        <cell>4.</cell>
+                        <cell>40.</cell>
+                        <cell>9.</cell>
+                        <cell>12.</cell>                        
+                    </row>
+                    <row>
+                        <cell>Öijeren</cell>
+                        <cell>Mathis Persson</cell>
+                        <cell>2.</cell>
+                        <cell>13.</cell>
+                        <cell>16.</cell>
+                        <cell>4.</cell>
+                        <cell>40.</cell>
+                        <cell>9.</cell>
+                        <cell>10.</cell>                        
+                    </row>
+                    <row>
+                        <cell>Smetorpet</cell>
+                        <cell>Enkan Berte Jansd<gap/></cell>
+                        <cell>2.</cell>
+                        <cell>13.</cell>
+                        <cell>16.</cell>
+                        <cell>4.</cell>
+                        <cell>40.</cell>
+                        <cell>9.</cell>
+                        <cell>12.</cell>                      
+                    </row>
+                    <row>
+                        <cell>Löwhöiden</cell>
+                        <cell>Lars Hindriçhson</cell>
+                        <cell>1.</cell>
+                        <cell>6.</cell>
+                        <cell>8.</cell>
+                        <cell>2.</cell>
+                        <cell>20.</cell>
+                        <cell>4 1/2.</cell>
+                        <cell>10.</cell>                        
+                    </row>
+                    <row>
+                        <cell>Ditto.</cell>
+                        <cell>Hindrich Hindriçhson</cell>
+                        <cell>1.</cell>
+                        <cell>7.</cell>
+                        <cell>8.</cell>
+                        <cell>2.</cell>
+                        <cell>20.</cell>
+                        <cell>4 1/2.</cell>
+                        <cell>8.</cell>                            
+                    </row>
+                    <row>
+                        <cell>Öijerberget</cell>
+                        <cell>Johan Mattisson</cell>
+                        <cell>1.</cell>
+                        <cell>7.</cell>
+                        <cell>8.</cell>
+                        <cell>2.</cell>
+                        <cell>20.</cell>
+                        <cell>4 1/2.</cell>
+                        <cell>8</cell>                        
+                    </row>
+                    <row>
+                        <cell>Bolneset</cell>
+                        <cell>Eriçh Olsson.</cell>
+                        <cell>1.</cell>
+                        <cell>7.</cell>
+                        <cell>8.</cell>
+                        <cell>2.</cell>
+                        <cell>20.</cell>
+                        <cell>4 1/2.</cell>
+                        <cell>12.</cell>                        
+                    </row>
+                    <row>
+                        <cell>Måsewandet</cell>
+                        <cell>Hindriçh Samelsson</cell>
+                        <cell>1.</cell>
+                        <cell>6.</cell>
+                        <cell>8.</cell>
+                        <cell>2.</cell>
+                        <cell>20.</cell>
+                        <cell>4.</cell>
+                        <cell>9.</cell>                        
+                    </row>
+                    <row>
+                        <cell>Ditto.</cell>
+                        <cell>Pehr Erichson</cell>
+                        <cell>1.</cell>
+                        <cell>6.</cell>
+                        <cell>8.</cell>
+                        <cell>2.</cell>
+                        <cell>20.</cell>
+                        <cell>4.</cell>
+                        <cell>11.</cell>                        
+                    </row>
+                    <row>
+                        <cell>Swenstorpet</cell>
+                        <cell>Johan Johanson</cell>
+                        <cell>1.</cell>
+                        <cell>6.</cell>
+                        <cell>8.</cell>
+                        <cell>2.</cell>
+                        <cell>20.</cell>
+                        <cell>4.</cell>
+                        <cell>6.</cell>                          
+                    </row>
+                    <row>
+                        <cell>Trolowes brenden</cell>
+                        <cell>Eriçh Mattisson</cell>
+                        <cell>1.</cell>
+                        <cell>4.</cell>
+                        <cell>5.</cell>
+                        <cell>1.</cell>
+                        <cell>14.</cell>
+                        <cell>2.</cell>
+                        <cell>7.</cell>                        
+                    </row>
+                    <row>
+                        <cell>Ronketorpet</cell>
+                        <cell>Anders Hindriçhson</cell>
+                        <cell>1.</cell>
+                        <cell>5.</cell>
+                        <cell>5.</cell>
+                        <cell>1.</cell>
+                        <cell>14.</cell>
+                        <cell>3.</cell>
+                        <cell>6.</cell>                        
+                    </row>
+                    <row>
+                        <cell>Löwåsen</cell>
+                        <cell>Ole Nilssen.</cell>
+                        <cell>1.</cell>
+                        <cell>6.</cell>
+                        <cell>5.</cell>
+                        <cell>4.</cell>
+                        <cell>14.</cell>
+                        <cell>4.</cell>
+                        <cell>7.</cell>                        
+                    </row>
+                    <row>
+                        <cell>Skomager=Ryen</cell>
+                        <cell>Ole Sigfridsson</cell>
+                        <cell>"</cell>
+                        <cell>2</cell>
+                        <cell>4.</cell>
+                        <cell>2.</cell>
+                        <cell>4.</cell>
+                        <cell>1 1/2.</cell>
+                        <cell>7.</cell>                        
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>                        
+                    </row>
+                    <row>
+                        <cell>14. Gårder</cell>
+                        <cell>14. Bönder</cell>
+                        <cell>16.</cell>
+                        <cell>101.</cell>
+                        <cell>123.</cell>
+                        <cell>37</cell>
+                        <cell>306.</cell>
+                        <cell>67 1/2.</cell>
+                        <cell>125.</cell>                        
+                    </row>
+                </table>
+                <p>
+                    <l>Tämä tabel, tahi lista, on tehty sen 1825 wuotisen, wero Listan</l>
+                    <l>jälkein; Siloin käytiin ympäri Koko Norin Muaata ja wärterat=</l>
+                    <l>tiin joka Taloi, kuinka monta Eläimtä, ja Heinä Kipuntoa, ja wilja</l>
+                    <l>tynnyriä Taloišsa kylwetään wuotesša. Ja sen jälken tehtiin uusi we=</l>
+                    <l>ro Luku yltö koko Norin muaan. Ja sitä wero rahoa kutšutan nyt</l>
+                    <l><unclear>Skylddaler</unclear></l>
+                </p>
+                <pb n="4" facs="0268_0078096_197" />
+                <p>
+                    <l>Skylddalerix, ja Näitä Skylddaleriloita on nyt Öijerin Mehtäkunna.</l>
+                    <l>peällä pantu 40. Skylddaleria 4. Orttia 1. Skillink. Näin ysö on nyt</l>
+                    <l>Öijärin mehtä werosša ja Fensiönin. Sitä kallataan nyt yhöx Egendo<ref>m<note>viivallinen m-kirjain</note></ref>ix</l>
+                    <l>ja yhöx wero=hemmax, <hi rend="underline">under nye Metrikulskyld af 40 Skyldd= 4.<hi rend="superscript">owt</hi> 1.</hi></l>
+                    <l>Näistä wero Rahoista Nyt tahoitaan meiltä wanvoilta</l>
+                    <l>wero Puontiloilta, 76. Speç<add>x</add>ityske wuotessa, joka teke 228. Riksiä</l>
+                    <l>Rikselissä; Meitä on 4. Puontia poara paneman Näitä suuria rah<gap/></l>
+                    <l>Se tule Puonnin osalle 19. Speçityskeä, ja myöš Ruohin Rahana 57. <unclear>Rixiiä</unclear></l>
+                    <l>osalle; Kuinkaš tämän luulet käywän? Myö ei oo ennen maxan=</l>
+                    <l>na weroa enemp kuin 1 1/2 . Speçiä wuotesša Puonnin osalle.__</l>
+                </p>
+                <p>
+                    <l>Tästä wero asjasta myö olemma ruwenna Riitan jsännän kerall=</l>
+                    <l>myä seisomme sen piäälle, etä Kauppa=Miehen maxoa ne werot <unclear>kain</unclear></l>
+                    <l>lankio Torppalien osalle ja heijän ruukinkista, ja myöš sen weron,</l>
+                    <l>kuin Lankio Tukki Mehän osalle; waan tähään ei oo wielä tullu yh=</l>
+                    <l>tää peäätöstä, kuinka han tuo ruennoo käymän !! waan ei myö <unclear>un</unclear>=</l>
+                    <l>naite ennen kuin tullan Kuninkaisiin tällä asjalla; Myö ei taija tulla</l>
+                    <l>Tuomitux maxaman weroa siitä, jota meillä ei oo ruukinkisša</l>
+                    <l>niinkuin Torppailloijen Ruukinkista, Kauppa Mieš Ruowoa Torppalit, ja</l>
+                    <l>otta myöš heiltä Huušleijan, niin hän mahtaiš tulla Tuomitux <unclear>max</unclear>=</l>
+                    <l>saman weronni heijän Ruukinkista; samaten myöš Tukki Mehästä, hän</l>
+                    <l>ruukoa mehän tukkiloix, kieltää meitä Huuhtia hakkoamasta, ja tah=</l>
+                    <l>toiš meijän weron maxaman.___ Tämmän asjan minä selitän sulle wasta</l>
+                    <l>paremmin, kuin ma suaan kuulla ettäš wielä oot Tukulmisša.___</l>
+                </p>
+                <p>
+                    <l>Se mitä Poikiin tuloo, niin se ei oo eneä weäärti, hyö tulewat jo lian</l>
+                    <l>wanhax kirjatöihin muist se katoa niin pan kuin jhminen tule</l>
+                    <l>wähä ijälle.___ Johannes se on ollu palweliana yhöllä Herralla</l>
+                    <l>Hafšlunnin Kartanosša sitte männeen kewäin, waan nyt mesšumaa=</l>
+                    <l>rina aikoi han tulla kotiin. Matti on ollu wiinan polttajana, meij<gap/></l>
+                    <l>Tukki Merkkälin tykönä tänä talwena, waan nyt hänni aikoi tulla</l>
+                    <l>kotiin, Ej Johanneš wielä oo Naimisiin ruenna, se on mun wanhin</l>
+                    <l>Poikain joka on Nainna.___ Jumala pitäkön sinua Terwennä! se on</l>
+                    <l>minun hartain toiwoin, ja että rupeaisit Ruohin miehex, ja tulisit</l>
+                    <l>joxi kuxi wirka miehex, niin kyllä myö wielä keskusteleisimme</l>
+                    <l>Eren kullai asjalla wälillämme.</l>
+                </p>
+                <p><hi rend="underline">Poawo Räišäinen</hi></p>   
+            </div>
+        </body>
+    </text>
+</TEI>

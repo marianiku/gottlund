@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka > Carl Axel Gottlund</title>
+                <author>Antti Porkka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:12</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>77</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Runsjön">Runsjön (Rumsjön, Rensjön)</placeName>
+                        <date when="1822-11-24">24.11.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_034" />
+                <p>Rumsjönilä sinä 24 päiwänä Marras Kuusa v. 1822.</p>
+                <p>Anti Porkalta Koarle gottlundile!</p>
+                <p>
+                    <l>Minun tule paljon Kjitelä Herroa, Kuin</l>
+                    <l>Huolen pitä, yxin mun Reisustain Koarle=</l>
+                    <l>staihin; Kuinka minä ja muut Suoma=</l>
+                    <l>laiset wielä palkinneme Kaiki Hänen</l>
+                    <l>Hywä teot ja waiwat.</l>
+                </p>
+                <p>
+                    <l>Tassä nyt seoroa maxu wiikko Sanomista,</l>
+                    <l>Joka on Kauwan wiipynnä, se tule siitä</l>
+                    <l>Rahan puutoxesta Kuin teälä on, minä</l>
+                    <l>En o wielä saanut Kaikilta, wan pitä</l>
+                    <l>minun panna täywen maxun, Enkömäs </l>
+                    <l>nuoita Saane. wielä miö pyywäme Ens</l>
+                    <l>vuodenkin peäle niitä.</l>
+                </p>
+                <p>
+                    <l>Huomenna sanotan Kärät tulowan.</l>
+                    <l>Mängan Jaanile, Mitenkä Hän tuo</l>
+                </p>
+                <p><unclear>Leiki</unclear></p>
+                <pb n="2" facs="0268_0077775_035" />
+                <p>
+                    <l>Leiki Käönö, Länsmanni männä Käskvikon</l>
+                    <l>möi tienastinsa, spektor Harlingile, Joko</l>
+                    <l>Hänen lie Karvalle Käönä.</l>
+                </p>
+                <p>
+                    <l>Norjasta on tullut Hyviä Sanomia</l>
+                    <l>niihen asioista, joka on Jloitanna Kaiki</l>
+                    <l>tämän pualen Suomalaiset, ja toiwome</l>
+                    <l>päiwä päiwältä meiänkin eroa Ruohta=</l>
+                    <l>laisista, Eikö hän tuo jo tämmän talven</l>
+                    <l>seutun tapahtune.</l>
+                </p>
+                <p>
+                    <l>palion terweyxiä Ja Kiitoxia niin <unclear>Kauwan</unclear></l>
+                    <l>AntjPorka</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

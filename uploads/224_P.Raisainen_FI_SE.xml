@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-13">13.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:63</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>224</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="66">suomi</language>
+                <language ident="se-SE" usage="33">svenska</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1831-01-31">31.1.1831</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_229" />
+                <p>Øijärillä s: 31. päiw: Ta<ref>m<note>viivallinen m-kirjain</note></ref>i=Kuusša w:1831.__</p>
+                <p>
+                    <l>Herra Gottlundille! Wärälin Mehtäkun=</l>
+                    <l>nalta!!</l>
+                </p>
+                <p>
+                    <l>Täsšä myö nyt lähätämme ne 20.<hi rend="underline">tä</hi></l>
+                    <l>Riksiä Pankosa, joita sinä puhuit</l>
+                    <l>Puuwilaisten kirjasša, tahtoiwaiš</l>
+                    <l>waiwastaiš još meijän asjan wielä</l>
+                    <l>ylöš ottasit; Ja tahoimme sinua</l>
+                    <l>kaikkein nöyrimmästi Rukoilla ettäš</l>
+                    <l>tekisit niin hywin ja ilmoittasit</l>
+                    <l>tämän meijän <add>asian</add> Grewe Brahelle; Ja</l>
+                    <l>ilmoittasit hänelle kuinka kauan</l>
+                    <l>meijän ansöknink on Norin Herroi=</l>
+                    <l>jen wälillä wiipynyt, ja miten huo=</l>
+                    <l>non wastauxen Norin Rikierink meil=</l>
+                    <l>le on antanut. Tässä seuraa Copio</l>
+                    <l>siitä</l>
+                </p>
+                <pb n="2" facs="0268_0078096_230" />
+                <p>
+                    <l>siitä wastauksesta jonka amtman=</l>
+                    <l>ni on antanna wouwille, ja wout</l>
+                    <l>toaiš winkerin Länsmannille, Länsma<ref>n<note>viivallinen n-kirjain</note></ref>i</l>
+                    <l>taaš meille s: 26 p: täsšä Kuusša; Tämänni</l>
+                    <l>Copion taijat näytteä ja selitteä Grewel=</l>
+                    <l>le; Ja sitte tekisit wielä niin hywin</l>
+                    <l>ja ulos <add>wetäsit</add> pienen ansökninkin mieltäis</l>
+                    <l>myöten siitä männeen wuotisesta ansök=</l>
+                    <l>ninkistä uuwesta Kuninkalle, josta an=</l>
+                    <l>sökninkistä sulle jäi <hi rend="underline">afskista</hi>. Ja siinä</l>
+                    <l>samasša selittasit kuinka huonosti No=</l>
+                    <l>rin Herrat ajawat Kuninkaan asjat.</l>
+                    <l>Još niin hywin nyt tuliš, että tämä</l>
+                    <l>meijän asja, rupeaiš uuesta käymään;</l>
+                    <l>niin tekisit niin hywin ja antasit meil=</l>
+                    <l>le tion kuinka tuo asja rupea käymän,</l>
+                    <l>ja tokko rahat on oikein tullu eeš.__</l>
+                </p>
+                <p>
+                    <l>Nyt teällä taaš nämä jsännän wir=</l>
+                    <l>kaiset owat ruenneet poyhisteleitemän,</l>
+                    <l>ja mehtiä runieroaman ja Tukix hak=</l>
+                    <l>koa </l>
+                </p>
+                <pb n="3" facs="0268_0078096_231" />
+                <p>
+                    <l>koaman, tähään asti ne owat ol=</l>
+                    <l>leet wähä lymysšä.___</l>
+                </p>
+                <p>
+                    <l>Eikös myö nyt isäntiä taaš suaane</l>
+                    <l>peällemme ennen kuin lulemmeka, Män=</l>
+                    <l>nä talwena paniwat taaš kax meijän</l>
+                    <l>taloistä Auçtionin päälle, nimittäin Poh=</l>
+                    <l>još Ullala <hi rend="underline">no Swartberget</hi>, ja wälkylä</l>
+                    <l>wärälillä <hi rend="underline">mella Gården i waraldskogen</hi>. Tämän</l>
+                    <l>Pohjoš Ullalan löi Petter Solefelt itelleen auç=</l>
+                    <l>tionisša 20. Sptyskästä, waikka, <gap/> Antti Antin</l>
+                    <l>poijalle Porkalle Myyötiin 200.<hi rend="underline">sta</hi> Spesityskäš</l>
+                    <l>ta; ja taaš wäilkyle wärälillä, lyötiin</l>
+                    <l>auçtionissä Petterille 200<hi rend="underline">sta</hi> tyskästä, waik=</l>
+                    <l>ka <del><hi rend="underline">Heikki</hi></del> Juhoi Haikoiselle oil myöty</l>
+                    <l>500.<hi rend="underline">sta</hi> Specityskästä; Tällaisia tempuja</l>
+                    <l>he päälle etsiwät; Nyt <add>owat</add> ruenneet mei=</l>
+                    <l>tä kiūsoaman ja tahtoisiwat meitä</l>
+                    <l>rupeaman torpaliloix ja tahtoisiwat</l>
+                    <l>meijän peäälle panna niin suuret uloste=</l>
+                    <l>ot, ettei yxkää taija uloš seisoa, Ne pane=</l>
+                    <l>wat peäälle 20.<hi rend="underline">nin</hi> 16.<hi rend="underline">nin</hi> 14.<hi rend="underline">nin</hi> 8.<hi rend="underline">nin</hi> tys=</l>
+                    <l>kin.</l>
+                </p>
+                <pb n="4" facs="0268_0078096_232" />
+                <p>kin sen jälkein kuin tila on suuri.__</p>
+                <p><ref>*<note>seuraavan nimilistan vieressä vasemmalla</note></ref>Fullmagt in Blanço</p>
+                <p>
+                    <l>Ei muuta tällä kertoa, Jumala pitä=</l>
+                    <l>köön teitä terwennä, ja tie han niin</l>
+                    <l>hywin ja pitele kiin meijän asjasta, niin</l>
+                    <l>ei myö ikään unheota Rukouxia teijän</l>
+                    <l>etest tekemästä, ja myöš palkihtemasta.</l>
+                    <l>Johan Erichsen Soikoinen</l>
+                    <l>fr: byn waralden.</l>
+                    <l>Johan Hindrichsen Haikoinen</l>
+                    <l>fr: byn waralden.</l>
+                    <l>Johan Johansen Kirnuinen</l>
+                    <l>fr: byn waralden</l>
+                    <l>Ole Olssen Swartberget</l>
+                    <l>Anderš Anderšsen Porkka</l>
+                    <l>fr byn Swartberget.</l>
+                    <l>Erich Eriçhsen Østebyen</l>
+                    <l>Sophia Erichdotter Ratik</l>
+                    <l>Johan Johansen Oranstorp</l>
+                    <l>Peder Hindriçhsen Øberhöiden</l>
+                    <l>Hindrich Hindriçhsen Abrahams: [?]</l>
+                    <l>Eriçh Hindrichsen Wiger</l>
+                    <l>Sywer Sywersen Oranstorp.</l>
+                </p>
+                <pb n="5" facs="0268_0078096_233" />
+                <p>[liite ruotsiksi]</p>
+                <pb n="6" facs="0268_0078096_234" />
+                <p>[liite ruotsiksi]</p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

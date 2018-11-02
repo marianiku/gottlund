@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-14">14.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:4</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">        
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author> 
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>165</bibl>
+                        </msItem>
+                    </msContents>      
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1822-09-26">26.9.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_013" /> 
+                <p>Öijerillä sinä 26. p: Syyskuussa 1822.</p>
+                <p>Poawo Räisäinen Herra Gottlundille!</p>
+                <p>
+                    <l>Monta kostjumaloa siitä Talan=Suoma=</l>
+                    <l>laisten kirjasta, jonka ma käsitin Elo=</l>
+                    <l>kuussa sinä 26. paiw:_ Oli pa se Lysti</l>
+                    <l><hi rend="underline">suaahdin</hi> sitä Lukea, onpa ne <unclear>waiwaset</unclear></l>
+                    <l>ollunna niin suureš waiwassa kuin me=</l>
+                    <l>kin ja wielä suuremmassai.__</l>
+                </p>
+                <p>
+                    <l>Nyt tule minun wastata nijen kirjoijen</l>
+                    <l>piäälle jotka silloin seurais. Rahat minä</l>
+                    <l>Luulin jo suaawain walmiix tällä wiik=</l>
+                    <l>kolla, niin kuin ma jo enimmältä osalta</l>
+                    <l>oon jo suaanna tiäällä Norin puolla; waan</l>
+                    <l>Ruohin Suomalaiset owat Lähtennä tällä</l>
+                    <l>wiikolla Ompoirin=Markkinoille, sillä en</l>
+                    <l>minä nyt tullu suaaman walmiix kaikkia</l>
+                    <l>Rahoija tähään enšš postiin; Niin sillä en</l>
+                    <l>minä taija näitää Rahoija Lähätteä ennen kuin</l>
+                    <l>ma kaikki oisin suaanna yhteen postiin koska</l>
+                    <l>rahat on niin Lässä suaapuwilla, nuo on Luwan-</l>
+                    <l>na Rahat kahwataxensa kirjosta kuin Markkinoilta</l>
+                    <l>kotiin tulowat: wiikkoa jälkeen tämän kirjan</l>
+                    <l>sisään tulon, pitää Rahaijen myötystä kirjosta</l>
+                    <l>olla siellä upsalassa, niin totta kuin minä poara</l>
+                    <l>suaan olla terwennä.__</l>
+                </p>
+                <pb n="2" facs="0268_0078096_014" /> 
+                <p>
+                    <l>Silloin minä myös Luulen suaawain sisään</l>
+                    <l>Lähätetyx syyni kirjan työn teosta, sillä minä</l>
+                    <l>ej o wielä suaanna werterink miehiä, kaikil</l>
+                    <l>la on ollunna kire <hi rend="underline">ewataijan</hi> kanssa.__</l>
+                    <l>Kyllä se tais olla tyhmästi arwattu Kirkon</l>
+                    hirsistä, Minä ej ollunna <hi rend="underline">atoxinein</hi> ainu=
+                    <l>astaan Lautasalmella, minä atelin Jowan=</l>
+                    <l>niemen Kirkkoa jota on miäärä pyyätä</l>
+                    <l>Norin puolle, joka paikka on Kauppamiesten</l>
+                    <l>alla; ja sitten atelin että meijenki taitaš olla</l>
+                    <l>tarpein panna osaltaamme Kirkon hirsiä Lau=</l>
+                    <l>tasalmeen, sillä kuin meijän mehältä ois huo=</l>
+                    <l>kea hirsiä suaaha Roitnoa myöten Lekawaitta</l>
+                    <l>nalle.__ </l>
+                </p>
+                <p>
+                    <l>Fannäsen ja Tankan, ja <add>ne</add> torpat panin minä</l>
+                    <l>tok Listaan nihen toisten kanssa. Minne han ne</l>
+                    <l>tok lie joutu<ref>n<note>viivallinen n-kirjain</note></ref>a, tohtii wielä piteä ne pannain tä=</l>
+                    <l>hään, kyllä ne tahtoo kernaast ollu toisten joukossa.</l>
+                </p>
+                <table>
+                    <row>
+                        <cell>Skogens namn</cell>
+                        <cell>Sockens namn</cell>
+                        <cell>Byars namn</cell>
+                        <cell>torp</cell>
+                        <cell>per</cell>
+                        <cell>tax</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Tangnässkogen</cell>
+                        <cell>i WingerSocken</cell>
+                        <cell>Tangnäs</cell>
+                        <cell>3.</cell>
+                        <cell>18.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>11. Byar 19. torper</cell>
+                        <cell>132.personér</cell>
+                        <cell>Holmen</cell>
+                        <cell>1.</cell>
+                        <cell>"</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Bakken</cell>
+                        <cell>1.</cell>
+                        <cell>16.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Nybygge Länsmanssätter</cell>
+                        <cell>3. personer</cell>
+                        <cell>Jonsrud</cell>
+                        <cell>1. </cell>
+                        <cell>9. </cell>
+                        <cell><ref>2500.<note>kaikki rivit yhteenlaskettuna</note></ref></cell>
+                    </row>
+                    <row>
+                        <cell>Giellaråsen</cell>
+                        <cell><hi rend="underline">3. pers</hi></cell>
+                        <cell>Masterud</cell>
+                        <cell>2.</cell>
+                        <cell>18.</cell>
+                        <cell></cell>
+                    </row>
+                    <row>
+                        <cell>Su<ref>m<note>viivallinen m-kirjain</note></ref>a</cell>
+                        <cell>6. per.</cell>
+                        <cell>Tomtberget</cell>
+                        <cell>1.</cell>
+                        <cell>6.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>126.</cell>
+                        <cell>Mängen</cell>
+                        <cell>3.</cell>
+                        <cell>19.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><hi rend="underline">6.</hi></cell>
+                        <cell>Tanden</cell>
+                        <cell>4.</cell>
+                        <cell>33.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>132. personer:</cell>
+                        <cell>Söelii</cell>
+                        <cell>1.</cell>
+                        <cell>7.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Su<ref>m<note>viivallinen m-kirjain</note></ref>a</cell>
+                        <cell>17.</cell>
+                        <cell>126.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <pb n="3" facs="0268_0078096_015" /> 
+                <p>    
+                    <l>Se oil paha kuin minä niitä Liika Sanoja</l>
+                    <l>kirjutin Fulmahtijen piäälle, waan kyllä ne kaikki</l>
+                    <l>muut suomalaiset niin kuin wemuut, Jammertala,</l>
+                    <l>Frön, Mångkroken, Lystaanmäki, Nyytorpa, Stenreisperi</l>
+                    <l>Lunneronsäter, Prunskinninmäki, Russyöninmäki, Kassin=</l>
+                    <l>tammi, ja Kassinpiää, ja ne torpat siellä ympariins</l>
+                    <l>pohjos suomalaisissa, Ne owat kaikki yximielliset Kir=</l>
+                    <l>konki jutusta sekä Lautasalmeen että Jowanniemeen,</l>
+                    <l>minä oon sitä heiltä kysynyt: Waan Fannäsin ja</l>
+                    <l>Tankenin, ja Skuriruun, ja Östkalan Miehet ne</l>
+                    <l>seisowat sen piäällee että saisiwat pyyätä Kapelin</l>
+                    <l>Rakuninkankahalle; Lautasalmelle tule heille Lian pit=</l>
+                    <l>kä, ja kernaasti hyökin tahtois olla suomalaisten jou=</l>
+                    <l>kossa, sillä kuin hyökin on suomalaisten sukua.__</l>
+                </p>
+                <p>Posti wäskyä sitä ne on yximieliset kustoamaan.</p>
+                <p>
+                    <l>Se on sangen <unclear>tosi</unclear>, jotas palkasta puhuit. että kansal=</l>
+                    <l>la on semmoinen Luonto, kuin hyö piääse parempan</l>
+                    <l>tilaan, niin silloin hyö uneottaa hywäntekiänsä. niin</l>
+                    <l>nuo ennen teki Jsralinlapset, jota Roamatussa mones</l>
+                    <l>paikoin puhutaan, silloin kuin oliwat hätäs niin huu=</l>
+                    <l>siwat apua Jumalalta, waan toaisˇ kuin peäsiwät</l>
+                    <l>onneen, niin piän uneottiwat awunauttajan.</l>
+                    <l>Waan tokkos noa tok niin häwittömäx ruwennoo</l>
+                    <l>teitä wastaan, jos hyö fenni ruwennoo tekeman, niin</l>
+                    <l>en mä sitten ymmärä mitä minun pitäis sanoa?</l>
+                    <l>Taitasinma han heitä ies häwäistä; niinkuin hyö</l>
+                    <l>on mun käskennä palkoa ja kiitosta Lupoaman.__</l>
+                </p>
+                <p>
+                    <l>Nyt sanowat Kuninkaan olewan Christianinsa</l>
+                    <l>pitämässä ysöjäkäräitä; Nyt on Norlaiset</l>
+                    <l>peloissaan, että tulewan kyselmyxen mehtaijen</l>
+                </p> 
+                <pb n="4" facs="0268_0078096_016" /> 
+                <p>   
+                    <l>perään; ja kiroilewat suomalaisia siitä</l>
+                    <l>kuin ne owat sinun kauttais Saan panna</l>
+                    <l>Kuninkaisiin. Nyt 3.<hi rend="superscript"><hi rend="underline">tena</hi></hi> päiw: Lokakuussa</l>
+                    <l>tuloo toais Auksion kaikille Rosinkrasin Mehille._</l>
+                    <l>Teällä käyw männä Sunnuntaina Johoi Honkoinen</l>
+                    <l>Kirkkomäistä, ja Heikki Kuosmainen Haunamäis=</l>
+                    <l>tä, minulta Neuwoa ottamassa mitä heijän pitäis</l>
+                    <l>ruweta tekemän; pitäiskö heijan männä auksioniin</l>
+                    <l>tarjoaman mehtäijen ja tilaijen piäälle. Niin siheen</l>
+                    <l>minä heille wastasin ymmäröxein jälkein; ettej sinne</l>
+                    <l>maha olla wiäärtti männä tarjoamaan, kuin myö oon=</l>
+                    <l>me jo kerran männy Kuninkaan Luoxe anumuxien kans=</l>
+                    <l>sa että sen meitä auttoa. kuin myö nyt mänisimme Kaup=</l>
+                    <l>pa miesten kanssa kauppoa tekemän, niin minä tykkeän</l>
+                    <l>että myö turmeleisi<ref>m<note>viivallinen m-kirjain</note></ref>e kaikki sen asjan kuin myö ole<ref>m<note>viivallinen m-kirjain</note></ref></l>
+                    <l>Kuninkaalle sisään pannu. Niin nämäki tykkäis sen</l>
+                    <l>niin olewan, ja sanoiwat auksionin mänön heittäwänsä</l>
+                    <l>siltään._ _ _ _</l>
+                </p>
+                <p>
+                    <l>Nyt on Gulbrassi pitännä käräitä Reholtassa ja Kal=</l>
+                    <l>näsissä, pohjosˇ suomalaisten yliten Huhanhakkuista.</l>
+                    <l>Riwalinhuowi ja Prukuratter oliwat Gulbrassin kans=</l>
+                    <l>sa, ja meinasiwat niinpassi suomalaiset sakoittaa;</l>
+                    <l>waan siheen samaan tule yx toinen Prukraatter Nissin</l>
+                    <l>nimeltä ja otti suomalaisten saan piäällēn, ja syy=</l>
+                    <l>nyytti kaikki huuhat <hi rend="underline">ummiin</hi>, niin monjaissa Löũwet</l>
+                    <l>tiin niitun muaata, muutamissa pellon muaata;</l>
+                    <l>ja <hi rend="underline">senlaisista</hi> huuhista ej pitänyt sakkoa oleman.</l>
+                    <l>Ja wielä sitten oil Luwanna saan ylösˇ piteaxeen ens</l>
+                    <l>kewäisiin etteiwät sakoille tule.</l>
+                </p>
+                <p>
+                    <l>Se mitä Östmarkin pappi on suomalaisten ylpeyestä</l>
+                    <l>Kirjuttanna. On waletta! Ej suinkaan teällä o yxkään</l>
+                    <l>tainna olla ylpeä, minä tykkeän että norin suoma=</l>
+                    <l>laiset on kyllä suaanna olla peloissaan Norlaisten ja</l>
+                    <l>Herrajen käsissä, ja taiwuttoa kaulaansa hejiän</l>
+                    <l>jkeen ala tänäkin wuonna, jos ennenkin.___</l>
+                </p>
+                <p>Poawo Räisäinen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Olof Hämäläinen &amp; Erik Veteläinen > Carl Axel Gottlund</title>
+                <author>Olof Hämäläinen &amp; Erik Veteläinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-05"></date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:9:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Hämäläinen</surname>
+                                <forename>Olof</forename></author>
+                            <author><surname>Veteläinen</surname>
+                                <forename>Erik</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>13</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Kirje osittain suomeksi (Olof Hämäläinen), osittain ruotsiksi (Erik Veteläinen)</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="60">suomi</language>
+                <language ident="se-SE" usage="40">svenska</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Hjerptiden, Pakkala">Hjerptiden, Pakkala</placeName>
+                        <date when="1823-06-00">29.-30.6.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077752_001" />
+                <p>
+                    <l>Hierplinsa 29 päivänä kesä kusa</l>
+                    <l>1823</l>
+                    <l>Herrallen</l>
+                    <l>Koarlo Gott Lundillen</l>
+                    <l>suri kitos vimasastä minä</l>
+                    <l>on olu <unclear>muuasen</unclear> aina sitä päi</l>
+                    <l>västä kuin myö saisimmö tuk=</l>
+                    <l>hulmissä sihen asti kuin mi</l>
+                    <l>nä sain kulta Että herra on</l>
+                    <l>meidän asian saana kättä</l>
+                    <l>hyvin ja <unclear>tervennä</unclear> minä tulin</l>
+                    <l>kotin tälä on ollut monenlaiset</l>
+                    <l><unclear>puhat</unclear> kuin myö olimmon</l>
+                    <l>tukhulmissa meitä sanotin</l>
+                    <l>ja sinlä <unclear>oletux</unclear> <gap/>stin ja sitten</l>
+                    <l>on puhunat GottLund on</l>
+                    <l>Lähätatty <unclear>wenäilen meidän</unclear></l>
+                    <l>pappi oli kiriutta no sain kir</l>
+                    <l>jan Lars <unclear>mudan</unclear> joka toti tok</l>
+                    <l>kuluin Kuin myö sinä oli<ref>m<note>viivallinen m-kirjain</note></ref>o</l>
+                    <l>ja hän ois tahtonna suomalaisten</l>
+                    <l>kaikien fikku ala kiriuta man</l>
+                    <l>van</l>
+                </p>
+                <pb n="2" facs="0268_0077752_002" />
+                <p>
+                    <l>van suomalaiset hen <unclear>liswät</unclear> Että ej</l>
+                    <l>yxigän mies pitänä sihen alakin</l>
+                    <l>juttoa pappi oli kyllä vihasen ia sano</l>
+                    <l>minä kirjutan teiiän nimet jos ni</l>
+                    <l>tajä tahohan 24 Juni <unclear>kusa</unclear> puhutakin</l>
+                    <l>minä <unclear>Modiniä</unclear> pappia hän kysy multa</l>
+                    <l>ejkö hänen kiria tullut tukhulmin</l>
+                    <l>kuin myö sielä olimmo ja mitenkä</l>
+                    <l>GottLund ja myö sitä tykäsimma hän</l>
+                    <l><unclear>juahtali</unclear> kuin ei olut soana vastausta</l>
+                    <l>sen <unclear>päleni</unclear> herra GottLund kỹsỹ tokko</l>
+                    <l>ỹxikän mies ois <del>kiriutta</del> <del>nu</del> <unclear>kironot</unclear></l>
+                    <l>sitä koin hän <unclear>somalaisen</unclear> biblian</l>
+                    <l>sai <unclear>vansa</unclear> on valhaten kaiki hỹö kitää</l>
+                    <l>herroa sitä kuin hỹö on soanut</l>
+                    <l>minä olen soanut 10 <unclear>Evangeliisse</unclear></l>
+                    <l>sanaan kirjoia iottka herra on minule</l>
+                    <l>postin kauta lähätännä josta minä</l>
+                    <l>surest kitän. herroa suomalaisia oiken</l>
+                    <l>sano mia nj <unclear>mäjö</unclear> myö oo saanut ja kusi</l>
+                    <l><unclear>mäinnu</unclear> kiria oli olut <unclear>kouvantiala</unclear></l>
+                    <l>minä san sen wasten 26 pä: kesä kusa</l>
+                    <l><gap/> mahtiä i tagfild oli</l>
+                    <l><unclear>antianlaisa</unclear> laitatto myötää nỹt</l>
+                    <l>3 Juli nä Olof Danielson <app><lem>lũtũ nas</lem><rdg>liitänas</rdg></app></l>
+                </p>
+                <pb n="3" facs="0268_0077752_003" />
+                <p>
+                    <l>Uutualta) kävi minulta tutkistalamasa</l>
+                    <l>jos mina oj sin saanut GottLundiltä mitä</l>
+                    <l>tietoa jos hyö taitas <gap/> hunin halta mitä</l>
+                    <l>apua <add><gap/></add> ja mitenka hyö sen asian kansa</l>
+                    <l>laitaxen minä pỹdän nỹt Että herra</l>
+                    <l><app><lem>ois</lem><rdg>oil</rdg></app> nin hỹvä ja kiriotas minullen sitä</l>
+                    <l><gap/> palion <gap/> hänen alimai</l>
+                    <l>selta palvalialtan</l>
+                </p>
+                <p>Olj Hämäläinen</p>
+                <p>P. S.</p>
+                <p>[kirje jatkuu ruotsiksi] </p>
+                <pb n="4" facs="0268_0077752_004" />
+                <p>[kirje jatkuu ruotsiksi]</p>
+            </div>
+        </body>
+    </text>
+</TEI>

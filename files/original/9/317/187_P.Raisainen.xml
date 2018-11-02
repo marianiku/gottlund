@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-30">30.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:26</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>187</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-07-04">4.7.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_071" />                        
+                <p><hi rend="underline">Lista</hi></p>
+                <p>
+                    <l>Ulos jaetuille Bibelilöile, jotka Herra Gottlundi</l>
+                    <l>on suomesta niille Norjan <add>rajolle</add> asuwaisille Suomalaisille</l>
+                    <l>on ulos hankinut. Että jonku oikean jakamisen</l>
+                    <l>Heille on miäärätty.</l>
+                </p>
+                <p><hi rend="underline">Förteckning</hi></p>
+                <p>
+                    <l>Nitten piäälle jotka suaapi Biblia, Ja jotka toais suaapi</l>
+                    <l>uuwistestamenttia. </l>
+                </p>
+                <table>
+                    <row>
+                        <cell>Eriçh Weteläisen jakamat</cell>
+                        <cell>Bibelit ja uuettestamet.</cell>
+                        <cell>Biblia</cell>
+                        <cell>uuwistesta<gap/></cell>
+                    </row>
+                    <row>
+                        <cell>Howin, Aasnäsin, ja</cell>
+                        <cell>Waalan, Suomalaisille</cell>
+                        <cell/>
+                        <cell/>   
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Hindriçh Olssen Kuosmainen</cell>
+                        <cell>Haukamäki</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Johan Mattissen Honkoinen</cell>
+                        <cell>Kirkkomäki</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Ole Olssen</cell>
+                        <cell>Posåsen</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Carl Hendriçsen <add>Raatikai</add></cell>
+                        <cell>Södra Wermund</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Hans Larssen Lehmoinen</cell>
+                        <cell>Östra Wermund</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Eriçh Bärttilssen Weteläinen</cell>
+                        <cell>Södr Bakkala</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Hawor Larssen Lehmoinen</cell>
+                        <cell>Harm<hi rend="underline">oamäki</hi></cell>
+                        <cell/>
+                        <cell><hi rend="underline">1.</hi></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Summa</cell>
+                        <cell>4.</cell>
+                        <cell>3.</cell>
+                    </row>
+                    <row>
+                        <cell><hi rend="underline">Lehmoisen jakamat Bibelit</hi></cell>
+                        <cell><hi rend="underline">Gruefinskog.</hi></cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Hust<gap/>un Mari HindrichsDotter Karhinen</cell>
+                        <cell><unclear>F</unclear>uruperi</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Johan Staffansen Mulikka</cell>
+                        <cell>Heljanmäki</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>
+                            <l>Mattis Pederssen Röisäinen Sarwmäki</l>
+                            <l>Lars Pettersen Multiainen Sarwmaki</l>
+                        </cell>
+                        <cell>yhteen</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Paul Olssen Räisäinen</cell>
+                        <cell>Kassinmäki</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Johan Pederssen <unclear>N</unclear>awinen</cell>
+                        <cell>Orala</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Peder Mattissen Puaalainen</cell>
+                        <cell>Åskaperi</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Erich Eriçhsen Karwainen</cell>
+                        <cell>Heljanmäki</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Hindriçh Erichsen Lehmoinen</cell>
+                        <cell>Puaalala</cell>
+                        <cell/>
+                        <cell>1</cell>
+                    </row>
+                    <row>
+                        <cell>Paul Morttensen Hähmä</cell>
+                        <cell>Kalnäsi</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Ole Olssen P<unclear>a</unclear>sainen</cell>
+                        <cell>norra Löwberget</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Abraham Larssen Kiiskinen</cell>
+                        <cell>Kalsj<hi rend="underline">öninmäki</hi></cell>
+                        <cell/>
+                        <cell><hi rend="underline">1.</hi></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Summa</cell>
+                        <cell>5.</cell>
+                        <cell>6.</cell>
+                    </row>
+                    <row>
+                        <cell><hi rend="underline">Räisäisen jakamat, Bergon ja</hi></cell>
+                        <cell><hi rend="underline">Winkerin suomalaisille</hi></cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Ole Sigfridssen Hämäläinen</cell>
+                        <cell>Suutarinsanna</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Anders Hindriçhsen Hotakka</cell>
+                        <cell>Ronkaisentorpa</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Peder Hindriçhsen Nawilainen</cell>
+                        <cell>Ryöl<unclear>t</unclear>ä Fröen</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Lars Johansen Waisinen</cell>
+                        <cell>Lyystanmäki</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Jaçob Eriçhsen Hotakka</cell>
+                        <cell>Wemoolla</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <pb n="2" facs="0268_0078096_072" /> 
+                <table>
+                    <row>
+                        <cell/>
+                        <cell><hi rend="underline">Transport</hi></cell>
+                        <cell><hi rend="underline">12.</hi></cell>
+                        <cell><hi rend="underline">11</hi></cell>
+                    </row>
+                    <row>
+                        <cell>Hindriçh Samuelssen Hotakka</cell>
+                        <cell>Jaakoila</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Winkerin Mehällä</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Johan Johanssen Orainen</cell>
+                        <cell>Orala</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Peder <del><unclear>P</unclear>erssen</del> <add>Hindrichsen</add> Kirnuinen</cell>
+                        <cell><unclear>Y</unclear>öperinmäki</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Johan Eriçhsen Haikoinen</cell>
+                        <cell>Wärälä</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Anders Anderssen Porkka</cell>
+                        <cell>Ullala</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Ole Mattissen Kuikka</cell>
+                        <cell><unclear>Ä</unclear>mtilä</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Hustruen Lisbet PedersDotter Soikainen</cell>
+                        <cell>F<hi rend="underline">angnäs</hi></cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><hi rend="underline">Minun jakama Summa</hi></cell>
+                        <cell><hi rend="underline">6.</hi></cell>
+                        <cell><hi rend="underline">6.</hi></cell>
+                    </row>
+                    <row>
+                        <cell>Koko Su<ref>m<note>viivallinen m-kirjain</note></ref>a Norjan puolla on</cell>
+                        <cell>15.</cell>
+                        <cell>15</cell>
+                    </row>
+                </table>
+                <p>Olli Hämäläisen jakamat Bibelit Dalpuan pitäjän suomalaisille</p>
+                <table>
+                    <row>
+                        <cell>Bärttil Danjelsson</cell>
+                        <cell>Medskogen</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Markkus Olsson.</cell>
+                        <cell>Hierpliden</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Håkan Marçkussen.</cell>
+                        <cell>Kinsjön</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Anders Persson.</cell>
+                        <cell>Bjurberget</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Hindriçh Eriçhson.</cell>
+                        <cell>Makkerkiern</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Philpus Andersson.</cell>
+                        <cell>Skråkkerberget</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Anders Andersson.</cell>
+                        <cell>Skallbäkken</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Olof Olsson.</cell>
+                        <cell>Rögden</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dawid Olofson.</cell>
+                        <cell>Åberget</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Olof Matsson Hämäläinen</cell>
+                        <cell>Hje<hi rend="underline">rpliden</hi></cell>
+                        <cell><hi rend="underline">1.</hi></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Summa</cell>
+                        <cell>5.</cell>
+                        <cell>5.</cell>
+                    </row>
+                </table>
+                <p>
+                    Tä<l>mä Olli Hämäläinen e joo pannu yhtä sukuniimeä.</l>
+                    <l>Enkä minä <add>ei</add> heitä tunne että minä tiän panna heille suku</l>
+                    <l>niimeä. Hywin tuo sanoo kaikien niien taitawan Luke</l>
+                    <l>joita hän on niimittännä ja eninmäste köyhiä ja paljon</l>
+                    <l>Lapsia.</l>
+                </p>
+                <p>
+                    <l>Samaten myös sanoo Weteläinen että ne hywin taitaa</l>
+                    <l>Lukea ja haloawat suomalaista.</l>
+                </p>
+                <p>
+                    <l>Nin myös sanoo Lehmoinen että ne taitaa hwin Lukea</l>
+                    <l>ja haloawat suomalaisia Kirjoja.__</l>
+                </p>
+                <p>
+                    <l>Ja Sen tekewöt wissiin ne joille minä oon jakaillu.</l>
+                </p>
+                <p>Öijärin kylässä sinä 4.p Juliikuussa <hi rend="underline">1823</hi>. _</p>
+                <p><hi rend="underline">Poawo Räisäinen.</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

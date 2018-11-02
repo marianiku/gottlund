@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:27</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>144</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1822-06-29">29.6.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_072" />
+                <p><del>Öijärinä</del> Öijärillä sinä 29.p: Kesakuussa 1822</p>
+                <p>
+                    <l>Minä sanoin ettie Herroista Mitään Kuulu. Nyt. Juri kuin ma oilin</l>
+                    <l>Näitä Kirjoia seiloamassa, Tail Mies Länsmannista minua tahtoimaan</l>
+                    <l>Lansmannin puheille. ja Siellä oiš minun pitännä olla wiimeistään nyt</l>
+                    <l>ens muaanantaina. Selittämässä mitä se oil, jota minä messumuaar</l>
+                    <l>pänä Åskaperissä ylös Luwin, Sen oil jo Länsmanni suaanna tietä,</l>
+                    <l>että mina siellä oilin; waan ej kuitenkaan mitä oil ylös Luettu.__</l>
+                    <l>Minä sitten tuonne Kirjutin, ja Selitin seurawaisella tawalla; Ej se</l>
+                    <l>mitään muuta ollu: još myö suomalaiset jotka pitkin Rajoa asumme</l>
+                    <l>näijen kāhen hautuhuoneen alla, joka on ankerin ja Rusinkransin, joijen=</l>
+                    <l>ka Mehät ylöttyy wärälin järwestä, Haalin järween, myö on memä<ref>n<note>viivallinen n-kirjain</note></ref>y</l>
+                    <l>Kuninkaalta pyytämän armoa, että suaahaxeme hänen näitä mehtiä</l>
+                    <l>ostaman, tahi mänemän Porwiin 10. wuotex Meijän eistä.__</l>
+                    <l>Muuta woarallisempoa asjoa myö ej siellä ylös Lukenna, Sen oil</l>
+                    <l>Gottlund siitä Franskankielisestä Kopiosta ulos Kirjuttanna, Että Meijän</l>
+                    <l>suaaha kuulla, mitenkä hän oil inlakin meijän ejte sisään pannu.</l>
+                    <l>Ej tästä piä muaan ejkä Rikin olla wahinkoa, Ja kyllä pä se pien</l>
+                    <l>mahtais tulla tieto asjasta Rikierinkin ja amtmanni Luota teille.</l>
+                    <l>Näitä minä Kirjutin Länsmannille selitoksexi.___</l>
+                </p>
+                <pb n="2" facs="0268_0077781_073" />
+                <p>
+                    <l>waan Norlaisten mehistä ej minä mitään maininna. Ne ois toais</l>
+                    <l>tulleet huirjax. Se on lian ku<ref>m<note>viivallinen m-kirjain</note></ref>a, kuin ej jhmiset taija suutaan kini</l>
+                    <l>piteä, waikka minä heitä kielsin Suokuntaan puheita kulettamasta.</l>
+                    <l>Waan siinä mahtoi olla Suomalaisia juri <unclear>lästä</unclear> suokunoa joe ej ne</l>
+                    <l>Lie Länsmanniin puheita wiennä että siinä oil wäin kokous.__</l>
+                </p>
+                <p>
+                    <l>Sitte oil sillä Länsmannin miehellä yx Kopio siitä wastauxesta, Joka </l>
+                    <l>wouwille oil tullu hänen kysymyxeessä piäälle, Tästä meijän asiasta –</l>
+                    <l>Amtmannilta. Jonka amtmanni oil jo antanna sinä 6.p: Toukokuussa |</l>
+                    <l>Ja toais wout oil hanen piäälle Kirjuttanna sinä 8. paiw: Toukokuussa.</l>
+                    <l>ja lähättännä Länsmannille.__</l>
+                </p>
+                <p>
+                    <l>Nyt minä sain tämän Kopion, tältä Lansmannin Mieheltä Lainnax. </l>
+                    <l>Ja taijan nyt lähätteä sulle sen Lukeakseis. waan sinun pitää sen lähät= </l>
+                    <l>teä mulle toais takáperin, niin piän kuins ehit. Jos kysymys tulis</l>
+                    <l>Sen perästä.__</l>
+                </p>
+                <p>Herra Gottlundille</p>
+                <p><hi rend="underline">Poawo Räisäinen</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

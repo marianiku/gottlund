@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pekka Matinpoika Karvainen > Carl Axel Gottlund</title>
+                <author>Pekka Matinpoika Karvainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:14:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Karvainen</surname>
+                                <forename>Pekka Matinpoika</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>35</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Kalnässet, Øyern">Kalnässet, Øyern</placeName>
+                        <date when="1872-05-12">12.5.1872</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077759_072" />
+                <p>Aholla lässä Kalnäsia sinä 12, Touko kuuta 1872.</p> 
+                <p>
+                    <l>S.S.</l>
+                    <l>Lareren for de larde Skoler Hr C. A. Gottlund!</l>
+                    <l>Helsingfors</l>
+                </p>
+                <p>
+                    <l>Kirjanne 3 maliskuuta ja 1.<hi rend="superscript"><hi rend="underline">senä</hi></hi> Huhtikuuta tänä</l>
+                    <l>vuonna ovat nopeen tullet ramillen; se joka tuil Stok=</l>
+                    <l>holmin kautta se tuil paljon nopemin ramillen. Paljonko</l>
+                    <l>maxu postporto nuoin 1.loin painavalta kirjalta kuin</l>
+                    <l>se kulkis köpenhäminan ja Pietairborin kautta ja tän=</l>
+                    <l>ne Rũhũn(:Grũe:) Postaabnerihen? Minä en oo nähnyt</l>
+                    <l>Hr Qvalea pitkaan aikaan; van se kernast tahtois ne Ma=</l>
+                    <l>nuskriptit joita se on puhu<del>h</del><add>n</add>na<del>na</del>, van sillä lienöö lian=</l>
+                    <l>pien rũoi, jotta se ei ũskalla niitä lũnastaman tajian ũskoa.</l>
+                    <l>Ei oo mulla seittystä terveũttä eikä oo seittystä reissũ</l>
+                    <l>kumpalia sũaha, jos minä saisin senni eite maxoa reis=</l>
+                    <l>sun <del>jos niin tũlis</del>, ja se tũlis nukka kallix kũlkea</l>
+                    <l>teältä Helsinkin ja vielä useampankin kapũntiin</l>
+                    <l>jotta minä en sũinkan uskalla tejian luoxenne tul=</l>
+                    <l>la; van kostelen moninkertaisest siitä kuin ooton</l>
+                    <l>ollut niin erinomaist hyvätahtoinen jotta oleton</l>
+                    <l>use<add>a</add>mman kerran sanonna ja käskennä mũn sinne</l>
+                    <l>Tejiän luoxe tũlemaan ~ En minä usko jotta vanhũs</l>
+                    <l>ois mũlla sũũnä, van uskon<del>r</del> jotta on keũhkotaut</l>
+                    <l>eli</l>
+                </p>
+                <pb n="2" facs="0268_0077759_073" />
+                <p>
+                    <l>niin kũhũttä ”Lũngebetandelse” tarjona jotta</l>
+                    <l>oon ikänkuin huono ihestäin ja se on lianni ysö vika</l>
+                    <l>johonka ei yhtää rũoia mũn tietein löũvũk. En tijä</l>
+                    <l>mitää sanoa norlaisten ”Storthingistä” miten hyö lienövät otellet</l>
+                    <l>Yx <hi rend="underline">Gutzeit</hi> tũkkihantämies käv kalnasissa mũn luo=</l>
+                    <l>nain yhtenä tälvena, se oil seikerist samoja miehiä, </l>
+                    <l>niitä toisia miehiä en tjiä mistä ne taitavat olla kotoisin.</l>
+                </p>
+                <p>
+                    <l>Se on nũkka totta jotta se John <hi rend="underline">Bredesen</hi> ruovais</l>
+                    <l>Väräilinmehän Wammin ysön kylän i Naso Sogn</l>
+                    <l>Ondalan=Wärkin Pũũvin rauta=rũkin Schalothen=</l>
+                    <l>bergin Brukin ja monta ysöä kyleä ja mehteä</l>
+                    <l>sihen telin; Wan sinä tuil konkũrsi monta</l>
+                    <l>hyveä miestä mäin sen eite hyväx (i borgen)</l>
+                    <l>ne saivat maxoa niin kaũvas k<del>y</del><add>ũ</add>in yletty. Sen</l>
+                    <l>lapset ovat renti rikkaita, monjat heistä on Aũ=</l>
+                    <l>straliassa ja siellä ja teällä kaikki renti hyvin per=</l>
+                    <l>jsaitovia, ihe J. Bredesen on niin rikas jotta</l>
+                    <l>ei meäriä tietä, vaikka rikkāt miehet saivat</l>
+                    <l>maxoa sen eite ũseammat satatuhatta Speiciä.</l>
+                </p>
+                <p>
+                    <l>Elä kũitenkaa toimittelä näitä pũheita, se</l>
+                    <l>ymmäretään jotta ei ne seittysiä puheita</l>
+                    <l>kiltoa eikä li<ref>k<note>viivallinen k-kirjain</note></ref>oa _ Ryösteispä vielä suaha</l>
+                </p>
+                <pb n="3" facs="0268_0077759_074" />
+                <p>
+                    <l>vastusta ja ansvaria ja erinomaittain pahoa sanoa</l>
+                    <l>sehentelin. Se John Bredesen asũũ 3 peninkũor=</l>
+                    <l>moa Oijäriltä yhöllä ysöllä kylällä jonka</l>
+                    <l>nim on <hi rend="underline">Gjötstad</hi> 1. peninkuorman matkan</l>
+                    <l>pohjoisen Winkeristä ~ Norin Stats Styrelsi on nyt</l>
+                    <l>äsköittäin tehnyt kivillä befastatũn muantien</l>
+                    <l>Rũhinliniastä aina Glomma Elvällen lähäs vin=</l>
+                    <l>keria, se maxa meijan mũallen yltö 60,000</l>
+                    <l>Norin Speciä ~ Se on äsköittäin tehtũ ũũs Kirko</l>
+                    <l>1 ½ peninkũormoa Øyäriltä luotesen <hi rend="underline">Lũnneronsäte</hi>=</l>
+                    <l><hi rend="underline">rille</hi>. Bergosũokũnan pappi teköö siellä kirko=</l>
+                    <l>tienastin nuoin 12 kertoa aastaijassa, niin on</l>
+                    <l>tässä meijän Roitnankankaan kirkossa, sinä</l>
+                    <l>teköö tienastin Rũũn pappi ~ Onko siellä</l>
+                    <l>suomessa jokien ja elväjen varsilla niin hakko=</l>
+                    <l>amattomia mehtiä, jotta siellä löũtũũ miljonit-</l>
+                    <l>tain tũkkipũita, jo mitenkä norlaiset niitä</l>
+                    <l>hantua? Leioako ne mehät vai ostakos ne</l>
+                    <l>mehät med <hi rend="underline">bũnd og grund</hi>? Otenko tie=</l>
+                    <l>tävä onko niillä kymmenittäin penkũor=</l>
+                    <l>mia niita Tokkia ja Hirsiä flyötätä paikoit=</l>
+                    <l>tain? Onko norlaiset pannũ vielä ylös yh=</l>
+                </p>
+                <pb n="4" facs="0268_0077759_075" />
+                <p>
+                    <l>taa Höũrũsahoa ~ Teällä norissa on yx osu</l>
+                    <l>Tũkkihantämiehiä rikastũnna ja sen on me<add>ä</add>rit</l>
+                    <l>tämäst, teällä on mehät loppumassa sillä</l>
+                    <l>nyt ovat muutanna Suomeen. Kyllä ne</l>
+                    <l>Wenäläisetki toivanno Hirsiä ja <unclear>planki</unclear></l>
+                    <l>ja lautoja, onko siellä hyvin <unclear>Tukkimehti</unclear></l>
+                </p>
+                <p>
+                    <l>Poijallane Capteinillä onko sillä anfätteli<gap/></l>
+                    <l>kuin se on Polasta pois mũũtanna? Missäs</l>
+                    <l>Teijän on toinen Miehennö, ja joko se teköö <del>Maig</del></l>
+                    <l>Magisterin tienastin? Tyttärenne ne ovat <gap/></l>
+                    <l>kotona Papan ja Mamman luona? Mũn E=</l>
+                    <l>mäntäin oil Lesk sinä Kalnäsissa 221/4 aastaian va<gap/></l>
+                    <l>kuin myö tũlimmen yhteen sillä oil kax lasta sen</l>
+                    <l>entysen miehensä kanssa, sitten on meillä ollut 11<unclear>sa</unclear>=</l>
+                    <l>kymmenta ja niista mũn omistain elä 6; niistä on</l>
+                    <l>4 poikoa 2 vaimoa; ne molemmat vaimot on nain=</l>
+                    <l>nasillä vanhimmalla on ollut 12 Lasta se joka tässä</l>
+                    <l>santi aholla asũũ; 7 sen Lapsista elä. 2<hi rend="superscript"><hi rend="underline">män</hi></hi> poikoain</l>
+                    <l>on nainna yx on Rũsuokunassa toinen on sinä</l>
+                    <l>Wiikerossa jossa E. Orainen asũi. 2 Poikoa on</l>
+                    <l>naimata; se toinen niistä on Ängermalan=</l>
+                    <l>nissa toinen on kotona kalnäsissa Ystävänlisest</l>
+                    <l>Pekka Karvainen</l>
+                    <l><hi rend="underline">jatko toisellen paprillen</hi></l>
+                </p>
+                <pb n="5" facs="0268_0077759_076" />
+                <p>Bråten p<hi rend="superscript"><hi rend="underline">r</hi></hi> Kallnäs 12<hi rend="superscript"><hi rend="underline">te</hi></hi> May 1872.</p>	
+                <p><hi rend="underline">jatko</hi> </p>
+                <p>
+                    <l>Mũn Waimoin oil syntũnnä Paralassa enkä vissin</l>
+                    <l>mũũten tjiäk jos se mahta olla Haljaisia sukũni=</l>
+                    <l>meltä. Tahoin olla mũreenalainen sillä kuin</l>
+                    <l>tũloo niin paljon Lapsia mũn naineillen Lapsla=</l>
+                    <l>vallein jotta en m<ref>ũ<note>kirjaimen päällä myös viiva</note></ref>ten usko jos heitä tuloo kym=</l>
+                    <l>menittäin ja siitä yltö jokaaisellen ~ Kyllä se</l>
+                    <l>jotenni mänis yltö täma mualima, van tuloo niin</l>
+                    <l>paljo Imeisiä eli väkeä jotta mahtaa tiella ikän kuin</l>
+                    <l>kusiaisia pesissä, ja sitten kehno mua jossa asũtaan</l>
+                    <l>ei kasva Heiniä eikä tulek Wiljoa yhtenää vuon=</l>
+                    <l>na, jos se on aina ostoisassa ~ Mehät on loppunna</l>
+                    <l>jolla niitä on ollũt ja monjat on myönnä jotta</l>
+                    <l>ne ovat ysösta osasta muien Imeisten omia.</l>
+                </p>
+                <p>
+                    <l>Teällä on niin kehnoa muata jotta ei millä </l>
+                    <l>viisalla oo aatosta suha kasvamaan kuin ei Son=</l>
+                    <l>toa (Gjösleä.) panna joka toisin vũoisin; sen ar=</l>
+                    <l>voaton mistä se gjöslä ũlettũ telin kuin ei Eläi=</l>
+                    <l>miä oo hyvä elattämään ja vielä sihen teliin on</l>
+                    <l>kesähamina niin kehno enimmän osan jotta</l>
+                    <l>Elaimet eli karja on laihempia elikũin ne</l>
+                    <l>keväillä mehtän peästetään. Jos jokũũ kakko=</l>
+                </p>
+                <pb n="6" facs="0268_0077759_077" />
+                <p>
+                    <l>a, ahoja kalliojen ja Louhuien kielissä niin ei</l>
+                    <l>taija tulla vihantoa pinnoa mũũta kuin kan<unclear>a</unclear>=</l>
+                    <l>voa ja näreiköissä Karhũn ja suonsammalta.</l>
+                </p>
+                <p>
+                    <l>Mitenkäs väkjouko taita sillälailla tũlla</l>
+                    <l>paremmax – – – – ? Ei louvũk suomalais</l>
+                    <l>sukua teälla jos kolt eli neljä perekũnto= </l>
+                    <l>=a jotka joxenni sanottavax mänövät ja elä=</l>
+                    <l>vät niinkuin hyvissä muakunnissa; eikä ne=</l>
+                    <l>kä muanpräkista oo tũllet paremmax van ne</l>
+                    <l>ovat tũllet kiin hannũn kautta ja mehtä kaũ=</l>
+                    <l>paien, nyt kuin Tukit ovat tũllet niin kor=</l>
+                    <l>keasen hintaan Monjat ovat virkistynnä</l>
+                    <l>Ysöien Hevoishantuien kautta näinä vuoi</l>
+                    <l>sina kuin Hevoiset ovat teällä nousset</l>
+                    <l>nin korkeasen hintaan ~ Enkös minä liene</l>
+                    <l>sanonna jotta ej primkeppilöitä eikä ukoin=</l>
+                    <l>kynsiä ”Åskeviggar” tietä loutũvän. Kyllä</l>
+                    <l>ne Bredesönin poijat nukka tuntovat mũn </l>
+                    <l>nimein. Niinkuin äsköin sanoin elä toimita</l>
+                    <l>mũn sen Konkurssista mitää pũhũnein, jos</l>
+                    <l>vuan hyvin kaikki se käũ huokeimmiten</l>
+                    <l>yltö, ilman förtredä. Tapahtũkos milloin=</l>
+                </p>
+                <pb n="7" facs="0268_0077759_079" />
+                <p>
+                    <l>kan jotta Suomalaiset ja Wenälaiset nai=</l>
+                    <l>misella mänövät yhteen, ja mitenkäs se</l>
+                    <l>käu kuin ne viimeset ovat toisia usko=</l>
+                    <l>laisia? Jos heitä loutunöö niin kuin Helsin=</l>
+                    <l>kissä ja Turussa niillä lienöö erinomainen</l>
+                    <l>kisko tiettäväst? Eikö yhtää Wenäläistä asuske=</l>
+                    <l>le Teijän kapũnnin ympäristöllä? Minä aate=</l>
+                    <l>len omasta peästäin, kuin ne oisivat tienast=</l>
+                    <l>väkeä molemmat, Suomalainen Mies ja We=</l>
+                    <l>näläis Waimo, jotta jotta vaimo kernast tahtois</l>
+                    <l>Suomalais Miehen kuin se vuan ois muuten</l>
+                    <l>falluva. Oisko niin vai ei empä minä siitä</l>
+                    <l>enemmän hũoli? Oisko sillä Petter Erik</l>
+                    <l>Pulkkisellä Lappavirrasta yhtä veljeä joka</l>
+                    <l>kalloaito=Skips Chandler Mr P. Marker </l>
+                    <l>Bovery Stret N=10 Qvebeck: Se Pulkkinen</l>
+                    <l>oil tässä 2 tũnkiä, se oil kaikenlainen mies</l>
+                    <l>se oil mekanikker ja tek mitä tahtoi kätensä</l>
+                    <l>ottoa, nuoir korea mies, nũoin keskũis hyvät</l>
+                    <l>vũatet; van eivät sanonna sillä ollen pai=</l>
+                    <l>toa muuten käv vuateet laillen. Christjo=</l>
+                    <l>ainin se sanoi mänovansä, minne hän lienöö</l>
+                </p>
+                <pb n="8" facs="0268_0077759_080" />
+                <p>
+                    <l>joũtunna ~ Koulumies Johoi Räisäinen</l>
+                    <l>on Skollärarina Bergos Suokunan Suoma-</l>
+                    <l>laississa sen palka on 99 Speisiä van</l>
+                    <l>sitten sen pitää ihtensä piteä elon ihelleen.</l>
+                    <l>Minä en mũũten tiäk jos sen pitä piteä koulua</l>
+                    <l>36 Wiikkoa vuoissa. Se asũũ pienella tor=</l>
+                    <l>palla Grosser Thorvald Meyerin mehäl=</l>
+                    <l>lä ¼ pohuispuolla Öijarin torpan, siitä tor=</l>
+                    <l>pasta sen pitää antoa 6, Speciä arentũa ~</l>
+                    <l>Lienenko toimittanna en muuten mũista sitä on</l>
+                    <l>11.<hi rend="superscript"><hi rend="underline">tä</hi></hi> vuotta sitten kuin koulumiehen veil hirtä= </l>
+                    <l>tin, se oil niin villi viinallen jotta sihen</l>
+                    <l>ei ollũ yhtä meärä sillä se käv niinkuin se käv-</l>
+                </p>
+                <p>
+                    <l>Se Stude<del>t</del><add>n</add>ti Bergqvist Øyärinmäeltä kotoisin</l>
+                    <l>sen emä oil Wenksperistä se elä vielä: se on Räisäi=</l>
+                    <l>siä; van sen Iseä eli Isän Iseä ei tietäk; toistasatoa</l>
+                    <l>astaikoa sitten sanotiin sen tullen Borankilta van</l>
+                    <l>sen sukũnimeä en minä tiä mũũten jos kuin</l>
+                    <l>se tũil Upsalan se otti sen nimen Bergqvist</l>
+                    <l>ja se lũkoo nyt Christjoanissa; van eikös se käune hil=</l>
+                    <l>joa se oil Wuoisilla kuin se alotti. Ei sovi enemman</l>
+                    <l>tällä kerralla. Eleä hyvin ynskeä</l>
+                    <l>Pekka Karvainen</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

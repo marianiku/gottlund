@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-30">30.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:28</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>189</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-08-10">10.8.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_075" />
+                <p>Öijärillä sinä 10. päiw: Elokuussa 1823.</p>
+                <p>Poawo Räisäinen, Herra Gottlundille.</p>
+                <p>
+                    <l>Minulla ei oo olunna kirjoa teiltä</l>
+                    <l>sitten kuin 4.<hi rend="superscript"><hi rend="underline">nä</hi></hi> p: heinä Kuussa, Joko</l>
+                    <l>han Lienet Merellä hukkan joutunut | ?</l>
+                    <l>Sinä sanoit manewäss Suomeen ssinä wii=</l>
+                    <l>meses kirjassais, ja Lupasit <hi rend="underline">kirjuttoaxeiš</hi></l>
+                    <l>wielä ennen kūins Lähet, waan ei pään</l>
+                    <l>o mitään kuulunut, Etsä han tok Lie wie=</l>
+                    <l>lä meitä ylön antanna| Tokko nuo tok,</l>
+                    <l>tiellä kirjoja pois saloais; oil se Östmarkin</l>
+                    <l>Pappi yhen ke<ref>r<note>viivallinen r-kirjain</note></ref>an sanonut ettei minä eneä huoli</l>
+                    <l>Gottlundin kirjosta, minä ei eneä heitä Lähätä.</l>
+                    <l>Ne wiimeset kirjat jotka minä ja Porkka</l>
+                    <l>Lähätimme, ne pantiin Kuaarlestasta Postiin</l>
+                    <l>eikös nuo tok Lie tullu oikein ramille, jos</l>
+                    <l>poara Liewät Upsalasta Lähätäneet jälestäis</l>
+                    <l>suomeen.</l>
+                </p>
+                <p>
+                    <l>Siinä wiimeses Kirjas, jonkasˇ Tukulmista Lähä=</l>
+                    <l>tit, ett maininna mitään Poijista; Mutt puhuit</l>
+                    <l>poara Sikaisen reisust. Sikaista ei o wielä</l>
+                    <l>kotiin kuulunna. Minun Emäntäin on ruenna</l>
+                    <l>suurta huolta kantaman poijistan, sillä kuin</l>
+                    <l>ei heistä mitään oo kaukan kuulunna; hän pel=</l>
+                    <l>ke heijän taitaneen joutua Meren woaraan</l>
+                    <l>suomeen männes, minä oon kokenna häntä</l>
+                    <l>Lohtuttoa ja oon sanonna että kyllä siitä mo=</l>
+                    <l>ni yli kulke, ja wielä pitemmätkin matkat.</l>
+                </p>
+                <pb n="2" facs="0268_0078096_076" />
+                <p>
+                    <l>Waan ei hän tahoi antoa ihteä Lohtut=</l>
+                    <l>toa, jos sanoo woan, Ne on tainna joutua</l>
+                    <l>huonon aluxen piäälle, kyllä Gottlundi jo</l>
+                    <l>ois tänne kirjoittanna kuin ne telis olis.__</l>
+                </p>
+                <p>
+                    <l>Samoa surua kanta Munna, ja arwele</l>
+                    <l>Mest joka hetki mitenkä hän poikaien rau=</l>
+                    <l>hat lie, kuin <add>ei</add> heistä mitään kuulu.</l>
+                </p>
+                <p>
+                    <l>Jos tilaisuus myöten antaa, niin anna Joha<ref>n<note>viivallinen n-kirjain</note></ref>exen</l>
+                    <l>kirjuttoa kotiin omalla käillään, että waimot</l>
+                    <l>suaa nähä poikaien elos olewan. Minä ei</l>
+                    <l>ois uskonna heitä niin heikko sydämmix kuin</l>
+                    <l>hyö on, ja että heijän poikia ois pitännä</l>
+                    <l>niin suuresti huoliman._ __</l>
+                </p>
+                <p>
+                    <l>Minulla on myös ollu monta kirjoa poh=</l>
+                    <l>jos suomalaisilta ja kyselmystä; Eikö minä</l>
+                    <l>oo kuulu milloinka Tukulmin Herrat tule-</l>
+                    <l>wat, ja eikö sinä ito tule. waan minä ei o</l>
+                    <l>oikein heitä tainna wastata, Mutt oon</l>
+                    <l>sanonna eikös nuo tulle syksyllä.</l>
+                </p>
+                <p>
+                    <l>Minä pyyän sinua ettäs tekisit niin hywi<ref>n<note>viivallinen n-kirjain</note></ref> </l>
+                    <l>ja rohittasit Krunuprinssiä, että hän kiruh-</l>
+                    <l>tais Comiteen kanssa nopeenmittain kuin mah=</l>
+                    <l>tonlinen oliš; Teällä on Kauppa=Miehet ja</l>
+                    <l>Norlaiset ruenna niin wahwasti tukkia hakkoa=</l>
+                    <l>man ja runeroaman Mehtiä, että ne hakkoa</l>
+                    <l>Mehät puhtax ennen kuin piäätös tuloo asjaan;</l>
+                    <l>kuin ei Herrat kiruhta tänne jo tänä syksynä,</l>
+                    <l>niin se jo tapahtuu ens wuonna että mehät on</l>
+                    <l>ulos hakattu, millä ne suomalaiset sitten meh=</l>
+                    <l>tiä Lunasta kuin mehät tuloo ulos ruukatux?</l>
+                    <l>Nyt poara tällä Öijärin mehällä on jo hakattu</l>
+                    <l>300<hi rend="superscript"><hi rend="underline">toa</hi></hi> <unclear>toltoa</unclear> tukkia, ja wiela syxylla Meinoa<del><hi rend="underline">wat</hi></del></l>
+                    <l>wat hakata 500<hi rend="underline">toa</hi> toltoa (tylftar) niin millä  </l>
+                </p>
+                <pb n="3" facs="0268_0078096_077" />
+                <p>
+                    <l>myö mehteä sitten Lunasta<ref>m<note>viivallinen m-kirjain</note></ref>e?  Mehästä ej eneä</l>
+                    <l>suaa monta toltoa pariin Miespolween</l>
+                    <l>kuin nyt 800<hi rend="superscript"><hi rend="underline">toa</hi></hi> toltoa hakataan.__ __</l>
+                </p>
+                <p>
+                    <l>Samoin käy myön monella muulla mehällä.</l>
+                    <l>Justis Råd Poppiuxelta minä sain kirjan, kax</l>
+                    <l>wiikkoa sitten, siitä että hän on oikein suaan=</l>
+                    <l>na ne rahat jotka ma Lähätin. Sinä sa=</l>
+                    <l>massa kirjassa hän neuwoo meitä, kuin</l>
+                    <l>sinäki, mänemään Amtmannin Luokse wa=</l>
+                    <l>littaman ahistostamme ja suaaman häneltä</l>
+                    <l>kuitin sen piäälle että suaaha olla rauhassa</l>
+                    <l>niin kuin ennenki, kuinnikka piäätös tule</l>
+                    <l>asjaan; Waan sitä ennen käywi jo Räisälän</l>
+                    <l>miehet tiäällä minun tykönäin arwelemassa</l>
+                    <l>mitä hyö rupia tekemän niien sakkoien</l>
+                    <l>kanssa jotka heijän piäälle on pantu.</l>
+                    <l>Niin silloin minä kirjutin Amtmannille</l>
+                    <l>heijän wöljyssä, heitä oil meärä männä</l>
+                    <l>kax miesta amtmannin Luoxe sen kirjan</l>
+                    <l>keralla ja myös pyytämän amtmannitta ar=</l>
+                    <l>mo seteliä; Waan minä ei oo heitä sitten</l>
+                    <l>puhutellu, enkä o suaanna tietä mitä amt=</l>
+                    <l>mannin Lie heille wastanna. X._</l>
+                </p>
+                <p>
+                    <l>Meijanni Merkkäil Pekka Säteir on ruen=</l>
+                    <l>na niin wirattomax että hän on jo yhen Lainen</l>
+                    <l>kuin Jacob Nilsson; Hän willihte niitä uusia</l>
+                    <l>Landherroja kaikenlaiseen pahuutēn. Tänä</l>
+                    <l>kesänä on hän kahiste Luoxesa kuhtunna</l>
+                    <l>kaikki Öijärin=Mehän huusmannit tahi torppa=</l>
+                    <l>lit; ja kiusanna heitä, ja tahtoinna heijän</l>
+                    <l>ottaman senmosia Contrahtia kuin Nilssi antoi.</l>
+                </p>
+                <pb n="4" facs="0268_0078096_078" />
+                <p>
+                    <l>Waan ei hyö heitä wielä o ottanna, eiwätkä</l>
+                    <l>meinoa ottoakan. Waan on nämä torppalit</l>
+                    <l>tellännä mun kysymän sutta mitä hyö hänen</l>
+                    <l>kanssān rupia tekemän. Se oil Luanna täm=</l>
+                    <l>mätäxeen heitä Comisionin syxyllä, ja kuin ei=</l>
+                    <l>wät siellä sowi ja ota Contrahtia niin hän</l>
+                    <l>sanotta heijät ulos torpilta ennen Joulua,</l>
+                    <l>ja wiskoa heijät pois hyttilöistä jo ens kewä=</l>
+                    <l>na. Ja panen uusia torppaliloita siaan jotka</l>
+                    <l>ottaa Contrahtia._ __ ___</l>
+                </p>
+                <p>
+                    <l>Wärälin=Mehtäläiset, ja Fannäsin Miehet,</l>
+                    <l>ja Östkalaiset, Huusiwat ite tilansa ja</l>
+                    <l>Mehtänsä Auksionissa sinä 4 nä p: heinäkuussa</l>
+                    <l>josta ma jo ennen olen kirjuttanna. Niin nyt</l>
+                    <l>on Herrat kuitenki pitännä heitä tänä kesänä</l>
+                    <l>Comisionilla Huuhan hakkuista, ja owat heitä</l>
+                    <l>tahtoinna sakkoa Maxaman, ja mänemän siihen</l>
+                    <l>sowi<add>n</add>toon että antoa Herroille kaikki Rukiit._</l>
+                    <l>waan siihen sowintoon hyökän ej o tainna wielä</l>
+                    <l>männä; Hyökin otottaa niin hartaalla toiwolla</l>
+                    <l>sinua tänne tulemax, ja niitä Tukulmin Herroja</l>
+                    <l>tänne._ ___</l>
+                </p>
+                <p>
+                    <l>Teällä on yx poika Olli Kuaarlenpoika Mulikka</l>
+                    <l>Kalnäsistä joka pyrkis sun Luoxeis oppiin, hän </l>
+                    <l>on minua monaisti <add>pyytä<ref>n<note>viivallinen n-kirjain</note></ref>ä</add> sulle kirjuttaman eikö hän tai</l>
+                    <l>tais peästä sinne. Niin taijat han wastata hä=</l>
+                    <l>nelle kuinminkas tahoit.</l>
+                </p>
+                <p>Jumala pitäköön sinua, ja poikia Terwe´<ref>n<note>viivallinen n-kirjain</note></ref>ä.</p>
+                <p><hi rend="underline">Poawo Räisäinen</hi></p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

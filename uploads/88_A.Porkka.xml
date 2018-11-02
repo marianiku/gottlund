@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka > Carl Axel Gottlund</title>
+                <author>Antti Porkka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:23</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>88</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Runsjön (Rumsjön, Rensjön)">Runsjön (Rumsjön, Rensjön)</placeName>
+                        <date when="1826-02-05">5.2.1826</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_066" />
+                <p>
+                    <l>Rũnsjönillä sinä 5 päiwänä Helmi</l>
+                    <l>kuusa w. 1826.</l>
+                </p>
+                <p>Porkalta Herra Gottlundille,</p>
+                <p>
+                    <l>Nyt on Räisäinen tässä, Ja minä</l>
+                    <l>olen saanut sen Listan Jonka kau=</l>
+                    <l>ta östmarkin suomalisten pitäis</l>
+                    <l>tjetä kjerioia hankia, wan se oli</l>
+                    <l>paha, Että kieria oli niin miöhä</l>
+                    <l>tullut, ettj kaiki saapi tätä</l>
+                    <l>tjetä, näin Lyhwellen aiiallen, Jotta</l>
+                    <l>tämän kuun Lopulla pitäis olla</l>
+                    <l>nimet siellä – kỹllä nuitä taitais</l>
+                    <l>olla muutamia täsäi suokunassa</l>
+                    <l>jotka niitä haloais, wan minä en</l>
+                    <l>taia saaha tätä niin nopen es ~</l>
+                    <l>Listat ej ole wielä (kuulema) ennättänä</l>
+                    <l>Norin puollelakan pohios peähan,</l>
+                    <l>wan jos taitais vähä tũonemaxi kaytä,</l>
+                    <l>niin minä tätä Jlmoitan nopeimit=</l>
+                    <l>tain kuin ma taiian. suomalaisillen.</l>
+                    <l>Minulla olisi yxi asia Herrallen puhua</l>
+                    <l>jos hän siihen jonkin neovon tjetäis.</l>
+                </p>
+                <pb n="2" facs="0268_0077775_067" />
+                <p>
+                    <l>Mun wanhin poikain makaa nyt vaivaissa</l>
+                    <l>se on nyt wähä yli astaian kuin sen ensixi</l>
+                    <l>jalkoa nostaisa, pisti vasemen <hi rend="underline">sarvenan</hi>, elli</l>
+                    <l>Reien ỹläpeähän, siitä se oli kaiken männen</l>
+                    <l>talwea ja keseä, wälistä parempana, wälistä</l>
+                    <l>pahempana, wan ej Jkän nuuruimaitoina,</l>
+                    <l>Nyt Marras kuun alussa Rupeisi se pakottaman</l>
+                    <l>pitkin Reitä ja seärtä aina kantapeähan</l>
+                    <l>ja siitä aiiasta ei hän oo muuten kuin ke=</l>
+                    <l>pin kansa peäsyt ylte Lattian, ja pihalle</l>
+                    <l>jlman kantamata. siihen on sitä ja tätä</l>
+                    <l>Reistattu, wan ei mikän auta – teälla on</l>
+                    <l>paha, ei ole Lekaria jolta neowoa sais, Mit=</l>
+                    <l>kä midsamentit senmoisen olis parat – sillä</l>
+                    <l>sen peällä ei naỹ mitän aiettuwan elli muuta,</l>
+                    <l>Jos Reisi on paria Tumnma hoikempi kuin</l>
+                    <l>toinen – Miö oleme sitä arwellut Luualoxi</l>
+                    <l>jos Herra tjetäis mitän siihen, tohtis hän</l>
+                    <l>olla niin hyvä ja Jlmoitoa sen minullen.</l>
+                    <l>Orainenkin Laita palion Terveyxiä.</l>
+                </p>
+                <p>
+                    <l>Hyvästi nyt tällä kerralla Jumala olkon</l>
+                    <l>Herran kansa on minun Hartain toivoin</l>
+                </p>
+                <p>AntjPorka</p>
+            </div>
+        </body>
+    </text>
+</TEI>

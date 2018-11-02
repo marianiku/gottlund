@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:34</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>151</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1848-01-10">1848-01-10</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_096" />
+                <p>
+                    <l>Øijärillä s: 10.<hi rend="superscript"><hi rend="underline">nä</hi></hi> paiw: Ta<ref>m<note>viivallinen m-kirjain</note></ref>ikuussa 1848.</l>
+                    <l>Herra Lehtori!</l>
+                </p>
+                <p>
+                    <l>Teijän ensimäisen kirjan, minä käsitin jo Heinäkuusša</l>
+                    <l>männä Kešänä. Jonka peälle Minä nyt soan wastata.</l>
+                    <l>Että minä oikein sain Awiišit <del>aj</del> ja Kuwat; Ne tu=</l>
+                    <l>liwat tänne hetkea jälemmi, Nuoin kesk Elokuut.__</l>
+                    <l>Minä soan puolestain sanoa, Monta tuhatta Kost=</l>
+                    <l>jumaloa, ja Kiitosta; Ne Kuwat, oliwat aiwan</l>
+                    <l>Koreat ja Kauniit. Kuin Kristukšen Kuwan peälle</l>
+                    <l>kahteloo, niin ikään kuin Sywän Surkahta; että hä=</l>
+                    <l>nen on pitännä niin Surkean piinan Kärsiä; Meijän</l>
+                    <l>Syntiimme tähe. Mitä Awiišiin tuloo sanottawax;</l>
+                    <l>Niin nekii oliwat Lystit lukea; Waan eipä niitä</l>
+                    <l>muut taija Lukea kuin Mina, ja Karwainen, ja</l>
+                    <l>poikainen Juhannes. Taitaneko Niiles Orainen, en tiä;</l>
+                    <l>Eipä häneltä oo mitään kuulunna, ies kiitostaka</l>
+                    <l>Sulle Kuwista ja Awiisista, jotka minä Hänelle Lä=</l>
+                    <l>hätin. Minä oon puhutellu norjaita Miehia, jotka=</l>
+                    <l>ma waroin taitawan Suomea Lukea, tokko tahtoi=</l>
+                    <l>šiwat Awiišia Lunaštoa Suomešta; waan waštaši=</l>
+                    <l>wat; Ei Mejö Niištä huoli, Meillä on Norin ja</l>
+                    <l>Ruohin Awiišia, joita myö taijamme paremmi Lu=</l>
+                    <l>kea kuin Suomen Awiišia.</l>
+                    <l>Niin tokkoš Minä, ja Karwainenka, Awiišia Lunašta=</l>
+                    <l>nemmo; Myö ei oo tuttuja Koarloištaan Postmeštarin</l>
+                    <l>kansša, Eikä Meillä oo mitään Hantua Koarloiš=</l>
+                    <l>stansa, että myö tulemma Postmestaria puhuttelemaan.</l>
+                </p>
+                <pb n="2" facs="0268_0077781_097" />
+                <p>
+                    <l>Nyt tuloo minun waštata toisen Kirjaisi peälle; Joka</l>
+                    <l>oli kirjutettuna sinä 1. päiwänä Marraškuusša 1847._</l>
+                    <l>Ruunola, ja ne muut Painetut Kirjat; Eiwat oo tul=</l>
+                    <l>lu ramille, Missä hyö moannoo; Minä uskon heijän</l>
+                    <l>makoawan Koarloištasša, ja <add>myö</add> ei tiä minkä Luota myö</l>
+                    <l>heitä kysyšimmö, paraš kuin ihe kysyšitte siltä Herralta</l>
+                    <l>Tukulmisša, Minkä Luokse hän heijät lähätti Koarloištahan.</l>
+                    <l>Nuo ei tekiš tuollaa mitää makoamašša: Ei myökää nuol=</l>
+                    <l>la paljo taija tehä mitää; Myö ei soa Lapšia opettoa</l>
+                    <l><del>Sou</del> Suomea puhumaan sitä wähemmin Lukeman; sen on</l>
+                    <l>Papit kowašti kieltäneet, Niin että teällä nyt jo Nuoir wäk</l>
+                    <l>uneottaa Suomenkielen renti. eikä tänne oo enemp weärti</l>
+                    <l>Suomalaišia kirjoja Lähätteä: Tässä Mun Luonain makoa</l>
+                    <l>wielä kaikki Suomalaišet Kirjat myömätä, niitä ei o yxkää</l>
+                    <l>oštanna, sitte kuin kuuliwat, ettei myö soanna ruwete</l>
+                    <l>Suomen oppia harjoittaman.  Finnische</l>
+                    <l>Waan ne toiset ošat Otawišta, ja won Schröderin Fscha=</l>
+                    <l>Ruunen, niitä minä haloaišin. Waan ei niitäkä oo weärti</l>
+                    <l>Lähätellä. Mini meinoan ihe tulla Luokšeiš Helsinkiin, hei=</l>
+                    <l>tä Lunaštaman, kuin soan wielä wähä enemp Rahoa</l>
+                    <l>kerätyx, Reisu Rahax; onpa mulle Karwainenki Luan=</l>
+                    <l>na wähä Reisu=rahoa awux. Oisi lysti nähä koko</l>
+                    <l>Kaupunnin Suomalaišia. Kešäišš aikana sanowat</l>
+                    <l>Höyryalukšella huokeilla Reissu=rahoilla sinne peäše=</l>
+                    <l>wän. Ei muuta enemmän. Jumala pitäköön</l>
+                    <l>Teita terwennä.</l>
+                </p>
+                <p>
+                    <l>Poawo Räišäinen</l>
+                    <l><hi rend="underline">Wanha yštäwäänne</hi>.</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

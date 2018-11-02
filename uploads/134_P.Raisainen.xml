@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:17</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>134</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1822-05-09">9.5.1825</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_041" />
+                <p>Öijärillä sinä 9. päiw: Toukokuussa 1822.</p>
+                <p>Poawo Räisäinen! Harra K: Gottlundi</p>
+                <p>
+                    <l>Teällä on käynnä Miehiä yhestä Kyläs=</l>
+                    <l>tä, Östkalasta, tahi Norjan kielen sanoin</l>
+                    <l>Östgården. tämä Kylä makoa jtä=etelään</l>
+                    <l>pääin Fangnesistä; ja Sen Kylän, jtä=reu=</l>
+                    <l>na mehteä ylötty Liniäseen. Pohjos reuna</l>
+                    <l>wärälin mehtään. tällä Östkalan mehäl=</l>
+                    <l>lä on useamap asuujan, kuin Fangnesin</l>
+                    <l>mehällä, ja sanoiwat ettän hänessä on</l>
+                    <l>Likenmä pair Satoa Henkeä. ~</l>
+                    <l>Nämä asujamet tahtoisiwat Kirjuttaita</l>
+                    <l>Suomalaisten Seurakuntaa, ja käywä</l>
+                    <l>Lauta salmellen Kirkoon, ja suaaha</l>
+                    <l>Tilaansa Ruunun alla. Nämäkiin on</l>
+                    <l>Filiçomisin alla. Silloin kuin niitä nii=</l>
+                    <l>miä otettiin Frakuninkankahalla, niin</l>
+                    <l>nämä miehet käwiwät jo Tangalla, ja </l>
+                    <l>meinasiwat antoa fullmahin; waan</l>
+                </p>
+                <pb n="2" facs="0268_0077781_042" />
+                <p>
+                    <l>tuliwat lian myöhän, Sillä minä ej</l>
+                    <l>antanna heillen tietoa, niin ne on nyt</l>
+                    <l>tällä wiikkolla <add>owat</add> Käynnä tässä, ja oisiwat</l>
+                    <l>tahtoinna Fullmahtiinsa antoa; waan</l>
+                    <l>minä sanoin Se on nyt Lian myöhä, nin</l>
+                    <l>he pahastuit suurest siitä, ja Rukuiliwat</l>
+                    <l>minua Kysymään perään, Ejkö hyö wie=</l>
+                    <l>lä sais sisään kirjuttaita. ~</l>
+                    <l>Te siis niin hywin, ja anna mulle wastaus</l>
+                    <l>tämän piäälle. ~</l>
+                </p> 
+                <p><hi rend="underline">Paawo R: ~ nen</hi></p>
+                <p>
+                    <l>Minun oiš pitännä jlmiantoa tämän</l>
+                    <l>Öijärin mehän werterinkin. Sitä ej oo</l>
+                    <l>jkään werterattu; mutt’ kauppamiehet</l>
+                    <l>owat jte hinnan piäälle pannu 12000.</l>
+                    <l>Speçi=tyskeä; waan Sen jälkeen kuin Fili=</l>
+                    <l>çomisin mehät owat werteratut, niin</l>
+                    <l>tämä Öijärin mehta ej ole yli 2000.<hi rend="superscript"><hi rend="underline">neen</hi></hi></l>
+                    <l>wiäärtti; jos Kuninkas ostaa, niin</l>
+                    <l>kuin ma uskon. Niin pitaiš Rättä wärte=</l>
+                    <l>rinkin ottoa, Ej tuosta Likoja Rahoja</l>
+                    <l>renkeäs antoa. ~ ~ ~ ~ ~ ~</l>
+                </p>
+                <p><hi rend="underline">Poawo Räisäinen</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

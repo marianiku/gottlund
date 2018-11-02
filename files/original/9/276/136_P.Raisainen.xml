@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:19</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>136</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Norra Lekvattnet">Norra Lekvattnet</placeName>
+                        <date when="1822-05-18">18.5.1825</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_045" />
+                <p>
+                    <l>Pohjos Leikawatinalla sinä 18.p: Toukokuussa</l>
+                    <l><hi rend="underline">1822</hi></l>
+                </p>
+                <p>Armoillinen Herra Gottlundi</p>
+                <p>
+                    <l>Nyt on kuitenkiin Kirjan kaupias panuu</l>
+                    <l>Kauppa kirjat, siihen Bibel Loatikkoon.</l>
+                    <l>Ja ne nyt owat tulleet Oraisen Kanssa</l>
+                    <l>tähään Olli Antin poijan Liukoisen</l>
+                    <l>Luoxe. Ja minä oon hejiät, Bibellöijen</l>
+                    <l>Kanssa, tänä päiwänä perinyt. –</l>
+                    <l>Wān ej oo tullu mitään tietoa mitenkä</l>
+                    <l>paljon kuhii kirja maxa. Sillä nyt</l>
+                    <l>en taija <del>tyhtaan</del> minä yhtään Kirjoa</l>
+                    <l>Myyä, ennen kuin ma suaan tietä Sen, mitä</l>
+                    <l>ne Maxawat, –</l>
+                    <l>Waan nyt on tässä niin suri willitys</l>
+                    <l>tällä Oraisen Kuletoxella, nyt hän on Kus=</l>
+                    <l>tanna niin paljon tämmän asjan piäälle,</l>
+                    <l>Sillen Miehellen jonka Orainen pain ejteensä</l>
+                    <l>Bibellöita Kulostamaan, on Oraisen pitännä</l>
+                    <l>antoa 9. Riksia ja 12 skillinkia. Ejka hän oo Siellä</l>
+                    <l>turhaan mahtanna kaywä enemmän kuin pa=</l>
+                    <l>ri kertoa, Niin Kolmannella kerralla hän sai</l>
+                    <l>jo tämän Loatikon kanssase. Ejka ajanut</l>
+                    <l><del>e</del> pitenpea Matkoä kuin kax peninkuormoa</l>
+                </p>
+                <pb n="2" facs="0268_0077781_046" />
+                <p>
+                    <l>Kuarlestaasta, Frykstakaan. Se minu=</l>
+                    <l>sta oil häwitöin hinta ottoa, tuolta</l>
+                    <l>matkalta jos tuolla Kolmaisti käwi. –</l>
+                    <l>Taman miehen niim on jonka orainen</l>
+                    <l>pain ejstään. Gustaw Pettersson Gilborg</l>
+                    <l>Kilan Suokunnasta. Tältä Mahtais piteä</l>
+                    <l>perään kysyä minkä tähe hän niin</l>
+                    <l>paljon tais ottoa tästä waiwasta. –</l>
+                    <l>Wene miehille orainen oil antanna.</l>
+                    <l>44. Killinkia Riksia.- ja siitten ajoi</l>
+                    <l>Orainen Fryksistä täkään. – – –</l>
+                    <l>Niin nyt sen jälkeen kuin Tässä Bibelloi=</l>
+                    <l>tä Löytyy, Niin tule Orainen Sen ensmäisen</l>
+                    <l>meärän jälkeen suaamaan palkoa 7½.</l>
+                    <l>Rikssiä._ Sitä ej tule Niin paljon kuin</l>
+                    <l>Orainen on ulos pa<ref>n<note>viivallinen n-kirjain</note></ref>u Rahoja. Mitä siitten</l>
+                    <l>Orainen suaa waiwastaan?</l>
+                    <l>Tässa Bibel kirstussa Löytyy nyt poara</l>
+                    <l>Winkerin Suomalaisten Bibelit. ja Branwa=</l>
+                    <l>lan. ja Ruun. je Fryksin jtä ja Luo Suomalaisten</l>
+                    <l>ja Östmarkin. ja Howin Suomalaisten Bibelit.</l>
+                    <l>Åsnesin, ja ne siitä ylöspäin. Ne ej olekaan</l>
+                    <l>tässä Seurassa. Kirjan Kauppias on wissiin mahta<ref>n<note>viivallinen n-kirjain</note></ref>a</l>
+                    <l>ne Lähätteä Talpuan Bibellöjen Kanssa. Kysypas</l>
+                    <l>häneltä sitä perään.-</l>
+                </p>
+                <p>Poawo Räisäinen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

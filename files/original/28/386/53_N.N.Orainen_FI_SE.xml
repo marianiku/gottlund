@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nils Nilsson Orainen > Carl Axel Gottlund</title>
+                <author>Nils Nilsson Orainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:24:4</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Orainen</surname>
+                                <forename>Nils Nilsson</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>53</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="60">suomi</language>
+                <language ident="se-SE" usage="40">svenska</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Norra Lekvattnet">Norra Lekvattnet</placeName>
+                        <date when="1822-12-04">4.12.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077769_010" />
+                <p>
+                    <l><unclear>pokus Leikovatten</unclear> sinä 4<hi rend="superscript"><hi rend="underline">nä</hi></hi> päivana joolo</l>
+                    <l><del>kosa</del> kuussa <del>vuon</del> <add>vuonna</add> 1822</l>
+                </p>
+                <p><gap/> <gap/> kaarlo gotlundilen upsalassa</p>
+                <p>
+                    <l>Monda kost <unclear>jomarloa</unclear> kaiken <unclear>hyeven</unclear> <gap/> <gap/>issii</l>
+                    <l>ista <gap/> meilen <gap/></l>
+                    <l>minun sannon taiuk toii joko <gap/> <unclear>poiya miun</unclear></l>
+                    <l><gap/> koko <del>joku</del> <unclear>jonkan</unclear> kirisa minu luoxe</l>
+                    <l>joita mina vein <unclear>öürilen</unclear> ja koin mina tolin</l>
+                    <l>kotin nin en <unclear>suona</unclear> olla kotona <gap/> kon</l>
+                    <l>puolen timoa mot pit <unclear>käräisen paperin lien</unclear> singin</l>
+                    <l><unclear>ja</unclear> sielä miua uouelta kyselin <gap/> <gap/></l>
+                    <l><unclear>asioita</unclear> van sanottin ettei sihen ole viela piät</l>
+                    <l>töstä tollo motta <unclear>jonnin</unclear> on viety kuorlon <gap/></l>
+                    <l>ja toiset <unclear>kärät</unclear> tolo siina 16 päivänä täsä kossa</l>
+                    <l><unclear>västavikisa</unclear></l>
+                </p>
+                <p>
+                    <l>minun syni kiriain en ole vielä piälenkin</l>
+                    <l>jotottanna minä en ole voutin <unclear>rokaana</unclear> ja</l>
+                    <l>toko minä saisin pappia sitä <gap/> tekeman</l>
+                </p>
+                <pb n="2" facs="0268_0077769_011" />
+                <p>
+                    <l>pappi <unclear>näitä</unclear> suomalaisia <unclear>pilkoa</unclear> ja ien kysy</l>
+                    <l>Eike <unclear>meian</unclear> kirkko on pie valmis.</l>
+                    <l>ja muan <gap/> väki <unclear>mei</unclear> <gap/> visson ettei me</l>
+                    <l>suommalaiset piäse <gap/> pappilon ja</l>
+                    <l>prostin kartanon pykeä <unclear>mänä</unclear></l>
+                </p>
+                <p>[ruotsia]</p>
+                <p>[ruotsia]</p>
+                <p>Nils orainen </p>
+            </div>
+        </body>
+    </text>
+</TEI>

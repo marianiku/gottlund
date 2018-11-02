@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:22</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>139</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1822-06-22">22.6.1825</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_055" />
+                <p>Öijärillä sinä 22. p: Kesakuussa w: 1822._</p>
+                <p>Paavo Räisäinen! Herra Gottlund<hi rend="underline">ille</hi></p> 
+                <p>
+                    <l>Sen Kirjan, tahi kopion, siita kirjasta jonkas</l>
+                    <l>Kuninkaalle annoit. Oon minä jo enimmälle osal=</l>
+                    <l>le ulös Lukenna, ja ne on niin Mielellään Sitä</l>
+                    <l>kuunnellunna, Ja owat sanoneet, ej siitä Meistä yxkä<ref>n<note>viivallinen n-kirjain</note></ref></l>
+                    <l>ois ollu Mies, tätä sakoa niin selwästi. Eis pane=</l>
+                    <l>maan kuin hän hänet on ylös pannut; Ja owat</l>
+                    <l>sanonna, sinun Poavo pitä Lähätteä hänelle monta</l>
+                    <l>Kostjumaloa, meijän kaikkien eistä, niin kauax;</l>
+                    <l>Koska hän näin suuren työn ja waiwan meijän</l>
+                    <l>tähe on piäällesä ottanna, niin ej myökään hänen</l>
+                    <l>waiwoansa, ja Kustannustaansa tahoi tyhjään näyt=</l>
+                    <l>teä, jos tahoimme hänet maxoa ylite waan ej alaite,</l>
+                    <l>Sen hyö on kaikki sanoneet jkäänkuin yhöstä suusta._</l>
+                    <l>Ja eikö tuo niin paljon o, jos nuo tuon ym=</l>
+                    <l>martä tehä; Nyt tänä kewänä on Pohjois Suo=</l>
+                    <l>malaisten pitännä kokoon keräillä 40. Speiçityskeä._</l>
+                    <l>Ja Lähätteä Sillen Prukraatilleen joka ne Nilssin </l>
+                    <l>Bäxlöt heiltä otti. Ja saka se on yhta auk,</l>
+                    <l>Se saka ej tullu Tuomituxi sillä kuin Nilsi joutui</l>
+                    <l><add>pois</add> siitä Rikierinkista, Sen on nyt Prukrati <del><add>on</add></del> eteen wetä<ref>n<note>viivallinen n-kirjain</note></ref>ä</l>
+                    <l>ja oil sanonna, Mulle on yhtä paljon maxanna <del>jos</del></l>
+                    <l><del>la</del> nyt kuin, silloinni jos saka oi seis käynnä.____</l>
+                </p>
+                <pb n="2" facs="0268_0077781_056" />
+                <p>
+                    <l>Ja munni tuloo monta kertoa kitteä ja kostella</l>
+                    <l>teitä, kuins wielä kehtaisit tuon waiwan ottoa piääl=</l>
+                    <l>lees Sen kopion <del>jossa niin</del> Kirjuttoa ulos jossa niin</l>
+                    <l>paljon oil kirjuttamista, ettei minä häntä suinkaan</l>
+                    <l>mahtais olla mies wiikkossa ulos kirjuttamaan._____</l>
+                    <l>Enkä minä hänessä mitään wikoa ymmärä olewan,</l>
+                    <l>Jota pois pitais ottoa, tahi sijaan panna, Mutt</l>
+                    <l>kuka sen ois tainna paremmin ulos panna, Ja</l>
+                    <l>oon ma tuota kysynnä muiltai owatko hywä eisä seiso=</l>
+                    <l>maan kaikki jotka tässä on kirjutettu; niin owat</l>
+                    <l>hyö wastanna, oon me myö sen Liaxi hywä eisä seomān</l>
+                    <l>waan niitä wanhoja <unclear>tuota</unclear> ej taijeta tieteä, vaan oon=</l>
+                    <l>me myö walaanme hywä tekemään sen piäälle, että</l>
+                    <l>ne wanhat on meille niin puhunna.____</l>
+                    <l>Kax kolmet niimeä on wiäärin kopiossa kirjutettu</l>
+                    <l>waan taitaa nuo olla rättään siinä toisessa kirjassa.___</l>
+                    <l>Ronkaistorpan Miehen nim on kopiossa, Hindrich Hindrich</l>
+                    <l>sen, waan se on Anders Hindrichsen Hotakka; ja toais</l>
+                    <l>Ullalan Miehen niim on Kopiossa, Anders Samelssen,</l>
+                    <l>waan se on Anders Anderssen Porkka. ja minun Jsäin</l>
+                    <l>niim on Kopiossa Peder Mattissen, waan se on, Peder</l>
+                    <l>Poulssên; Muuta wikoa ej meijän ymmäröxen jälkeen</l>
+                    <l>hänessä tāja olla, jos on <unclear>lianni</unclear> hywin ylös pantu, että</l>
+                    <l>kuin ej sitä nyt apua suaaha, Niin ej sitä sittenkän eneä</l>
+                    <l>O toiwomista._ Waan kyllä minä, ja kaikki muutkiin,</l>
+                    <l>Nyt uskomme, Että eikös tuo tok Kuninkas Liene niin</l>
+                    <l><hi rend="underline">hyvin kaikki</hi> Meijän Elämä=kerran on suaanna tieta._</l>
+                </p>
+                <p>
+                    <l>Kirjole minä sain hinta Listan, waan ej o tietoa, mitä</l>
+                    <l>ne siotut Turun wiikko=sanomat maxaa; ejkä myös</l>
+                    <l>tietoa mitä <unclear>Pienet</unclear> Runoit Maxaa; ja samapa se on </l>
+                </p>
+                <pb n="3" facs="0268_0077781_058" />
+                <p>
+                    <l>ej pä niitä yxkään osta; waan wiikkosanomat</l>
+                    <l><del>en</del> <add>ne</add>, <del>en</del> <add>ne</add>, ostais, niisä on niin Rulioita Lukuja._</l>
+                    <l>Tien osottaia jiankaikkiseen Elämään; Ej senkää</l>
+                    <l>hinta, Maha olla pantu._ _ Anna Mulle tieto</l>
+                    <l>Milloinka Rahoja pitäis Lähätteä, Minä ōn jo</l>
+                    <l>Mest kaikki wirsi Kirjat Myyönyt ja apiskirjat._</l>
+                    <l>ja Snellit jutut owat jo ostaneet, Katekismuxet</l>
+                    <l>on puolet wielä jälellä.______</l>
+                </p>
+                <p>
+                    <l>No, sinulla on wissiin Lian paljon työtä tästä</l>
+                    <l>aijasta, waan Kyllä minä sinulle ulos ehin pal=</l>
+                    <l>kan, ylten waan ej alaiten, Ja Sen Nuo jo on Lu=</l>
+                    <l>anna, Maxoaxeen, ettei suinkaan teijän waiwan</l>
+                    <l>ja kustanuxen piä olla turhaan tehty, Jos woan hywin</l>
+                    <l>käy asjat.__ Ejkös Nut tok hywin käyne Jumalan </l>
+                    <l>puolesta.</l>
+                </p>
+                <p>
+                    <l>Minullakin on kel paljon työtä, tastä asjasta, Ettei</l>
+                    <l>Minäkän ois uskona, Silloin kuin myö syksyllä yhössä</l>
+                    <l>olimme, että hänestä ois minulle Niin paljon teke=</l>
+                    <l>mistä tullu.__ Nyt on tässä tänä pänä käynnä</l>
+                    <l>kaikki Östkalan Suomalaiset, ja antaneet wulmahtin-</l>
+                    <l>sa ja Jhmis Lukuunsa, ja tion torpistaan ja tiloistaan.</l>
+                </p>
+                <p>
+                    <l>Ja tässä <add>on</add> ollu pari Taloin miestä Skurirusta, jotka an=</l>
+                    <l>toiwat wulmaktinsa, ja tion jhmis Luwusta, niin myös</l>
+                    <l>tiloista ja torpista. Waan nämä kuus asujanta</l>
+                    <l>Skuriruussa Ruowoawat ite tilaansa, waan hyö tahtoiš</l>
+                    <l>Ruunun Mehtänsä Lunastamaan samassa kuin Muijenkin,</l>
+                    <l>Mehtä se <add>on</add> fideçomisin alla.^___</l>
+                </p>
+                <pb n="4" facs="0268_0077781_059" />
+                <p>
+                    <l>ja 4. Skuriruun torpari on tässä ollu, ja anta=</l>
+                    <l>neet wulmahtinsa, Hyö tahtoisiwat torpaansa</l>
+                    <l>Ruunun Lunastaman, ja suaaha osan Mehtään Rukin=</l>
+                    <l>kin jälkeen, ja tulla weronlisex.___</l>
+                    <l>Niin oitin Ma han heijän wulmahtinsa, ja panin</l>
+                    <l>Jhmiš Lukun, ja tilat Loppu piäähän Listoa.__</l>
+                    <l><hi rend="underline">Suaanet</hi> ite tehä heijän kanssa mitäs tahoit.__</l>
+                </p>
+                <p>
+                    <l>Östkalan Suomalai<hi rend="underline">set</hi> sanoiwat olewansa Sen Soikaisen</l>
+                    <l>poijasta Joka Fangnäsin ylös pykäis, he sanoiwat</l>
+                    <l>hänellä olleen Kolmet poikoa, yx niistä poijistä Oil Öst=</l>
+                    <l>kalan ylös pywännä, ja siitäsanoiwat tämän sukukun=</l>
+                    <l>nan ulos si<ref>r<note>viivallinen r-kirjain</note></ref>tyneen.__ Sillä Minä kysyin mikä sen teköö</l>
+                    <l><hi rend="underline">kuin työ</hi> ootten kaikki Soikaisia.__</l>
+                </p>
+                <p>
+                    <l>+ Nämä Kax ensmäistä jotka wulmahtinsa antoi, hyö owat</l>
+                    <l>Fangnäsin mehältä, ja owat äsköttäin alotta<ref>n<note>viivallinen n-kirjain</note></ref>a pykemään,</l>
+                    <l>he owat mahtanna suaaha Luwan Fangnäsin Miehiltä, waan</l>
+                    <l>ej Merkeliltä, Sillä Taloin miehet ejwät oo tohtinna heitä</l>
+                    <l>jlmi antoa, ennen kuin nyt tuliwat ite.__</l>
+                    <l>II Nämä Kolmet siitä jälkeen jstuwat huoneessa jsänsä</l>
+                    <l>Luona Kylässä Bakken Kutsutaan.__</l>
+                    <l>Tämä Johannes Johannessen Soikainen, Tällä on <del>7</del> 5. henkinen</l>
+                    <l>pere; tämä tahtois olla perinlinen siheen Neljänteen O=</l>
+                    <l>saan Fangnäsin Kylässä jota Merkkäil Rukoa._ __</l>
+                    <l>Siheen toiseen Neljänteen Osaan tahtoo Ole Olssen Soikainen</l>
+                    <l>Siikajoilta, olla perillinen; Josta Ma jo oon ennen kirjutta<ref>n<note>viivallinen n-kirjain</note></ref>a.</l>
+                    <l>Sitten tämä Anders Johannessen Sōkainen, Tämä on Joha<ref>n<note>viivallinen n-kirjain</note></ref>es</l>
+                    <l>Soikaisen welji, tämä <add>on</add> Renkinä jsällään Bakassa. Tämä</l>
+                    <l>tahtois olla perinlinen Holmān. Näijen Poikaien, jsän</l>
+                    <l>jsä asui Fangnäsin Kylässä; siitä ajoi anker hänet pois.__</l>
+                    <l>Sitten mäin hän, ja Rupeis saha mestarix ja pykäis Holman,</l>
+                    <l>Sitten Kuol hän, Niin ajettiin Lapset pois, ja pantiin usia</l>
+                    <l>saha mestarloita; ja wiimein jutui Holma Merkkäillöjen</l>
+                    <l> halttuun.<ref>*<note>Symboli, jossa ympyrän sisällä risti ja sen ympärillä neljä pistettä.</note></ref></l>
+                </p>
+                <pb n="5" facs="0268_0077781_060" />
+                <p>
+                    <l><ref>*<note>Edellisen sivun symboli toistuu.</note></ref>halttuun._ Sen tähteen tahtois nämä Kax weljestä</l>
+                    <l>olla Perillisiä näihin tiloin, ja Rukuilewat sinua,</l>
+                    <l>ettäs panisit tämän tarinan kuninkaan Luoxe kuins muis=</l>
+                    <l>takiin kirjutat._</l>
+                    <l>Tämä Kolmans Ole Johanssen, tämä jstuu huoneessa 4.<hi rend="underline">ia</hi></l>
+                    <l> Henkisen pereen kansa, siinä ennen mainitussa Bakkassa</l>
+                    <l>Appi jsänsä Luona. Tämä tahtois olla perinlinen</l>
+                    <l>yhteen torpaan Sanpakax kutsutaan, Joka on Holman kans=</l>
+                    <l>sa yhteen pantu jota nyt merkkäil Rukoa; tämän Ole Johan=</l>
+                    <l>soinin Esi wanhemmat owat sen torpan ylös pywännä._</l>
+                    <l>waan owat ankerilta ulos ajettu, ja torpa pantu Merkkäil=</l>
+                    <l>löien halttuun.__</l>
+                    <l>Sillä Bakkassa on nyt huone wäkeä 9. henkeä; ja jhteän 7. henkeä.</l>
+                </p>
+                <p>
+                    <l>Nyt on tiäällä yx Reätäil, Olli Laurinpoika Liukoinen, Se</l>
+                    <l>on Laur Liukoisen welji, tämä Olli Liukoinen on jsta<ref>n<note>viivallinen n-kirjain</note></ref>a 10. āstai=</l>
+                    <l>koa Laur Nikaraisen huoneessa Lahtomäisä. hänellä on nyt</l>
+                    <l>5. henkinen pere. Hän on suaa<ref>n<note>viivallinen n-kirjain</note></ref>a Luwan weljeltään ja Lehtomäin</l>
+                    <l>Miehiltä, pyywätä wis āstaikoa sitten; <del>ja</del> Hän on Raiva<ref>n<note>viivallinen n-kirjain</note></ref>a</l>
+                    <l>Niitua, ja tehny <add>wähä</add> peltoa, yhteen paikkaan Lehtomäin mehäl=</l>
+                    <l>lä Jota Kutsutān Mikair=talox. Männä kesänä meinais</l>
+                    <l>hän ylös Rakentoa tuwan itelleensä; waan Merkkälit</l>
+                    <l>Esti hänet siitä, ja sanoiwat hänen ulos Nikaraisen</l>
+                    <l>huoneista. Ja Merkkälit owat aina häntä estännä</l>
+                    <l>pykeämästä.__ Waan <add>nyt</add> on hän pyytännä Minua,</l>
+                    <l>teille kirjuttamaan, ja Rukuilemaan teitä, että hän sais</l>
+                    <l>sihēn mainittuun paikkaan pyywätä; ja tahtoo mun</l>
+                    <l>Kysymään teiltä, Ejkö hän sais ruweta tänä kesänä</l>
+                </p>
+                <pb n="6" facs="0268_0077781_061" />
+                <p>
+                    <l>ylöš Rakentamaan huoneita itelleen Mikair talaan._</l>
+                    <l>Niin minä pyyän hänen eistä jos Mahtoonlinen ois,</l>
+                    <l>Ettäs antaisit hanelle Luwan pyywätä, Niin taitaiš</l>
+                    <l>hänki suaaha pienen osan Mehtaan; ja Maxoa Runul=</l>
+                    <l>le <del>jlman sitä</del> ja suaaha weron; jlman sitä tule hän</l>
+                    <l>torparix Lehtomäin alla. Ejkä tuo ois Liax, jos hän</l>
+                    <l>piääsis nyt sisään, hän on syntynnä Samalla Mehällä</l>
+                    <l>ja on yhtä wäkeä molemmis puolin. Niin tie siis nin,</l>
+                    <l><hi rend="underline">hywin ja</hi> anna pien wastaus tämän piäälle.__</l>
+                </p>
+                <p>
+                    <l>Minun pitäis jlmi antoa, Että sinun pitäis ulos pyh=</l>
+                    <l>kiä sen Ole Olssoinin Niimen Fangnäsistä, hän ej ollu <ref>n<note>viivallinen n-kirjain</note></ref>a</l>
+                    <l>Trakonin=Kankaalla, jos toinen antoi hänen niimensä.__</l>
+                    <l>ja se on yx Norlainen, hänellä on omainen Kylä Suokun=</l>
+                    <l>kassa, waan hän Rukoa <unclear>oisille</unclear> Merkkälin Kanssa, yhtä pien=</l>
+                    <l>tä osoa Fangnäsin Kylässä. waan Soikaisix hän oil Ma=</l>
+                    <l><hi rend="underline">hett<del>y</del><add>u</add> Kirju</hi>tettua.__</l>
+                </p>
+                <p>
+                    <l>Teällä on niin monta jotka tahtois Kirjuttamaan asjoitān</l>
+                    <l>ja ne on niin joutawia että minua naurattaa hejiän</l>
+                    <l>asjoilla; Niitä on yli 100. ajastajan wanhoja asjoia</l>
+                    <l>ejkä mitään Kirjutoxia heijän piäälle.__ Ja sitten on</l>
+                    <l>niin monta jotka tahtoo olla perillisiä, siinä ja siinä</l>
+                    <l>paikassa. Että kuin ne Kaikki Rupeas ylös ehtimään</l>
+                    <l>niitä perillisyyš Rättiä, niin en minä tiä kulla wimesellä</l>
+                    <l>ois paras perillisyys Rättä.__ ja Norlaisia on teällä niin</l>
+                    <l>monta käynä jotka asuwat Fideçomisin ja Rusinkranssin</l>
+                    <l>alla. Ja oisiwat tahtoinna mun teille kirjuttamān että Rūnu</l>
+                    <l>heijänni mehät ostais.__ Waan wähä minä Norlaisista.</l>
+                    <l>sitä wähemmän minä Arwoaan, työ heistä <hi rend="underline">huolittenne</hi>.__  </l>
+                    <l>Elä hywin; En jouwa enemmän Kirjuttamaan, pitää</l>
+                    <l>Kirjat laitoa postiin mänem<ref>ä<note>viivallinen ä-kirjain</note></ref>n, ja yö tule piäällein._</l>
+                </p>
+                <p>Poavo Räisäinen._</p>
+            </div>
+        </body>
+    </text>
+</TEI>

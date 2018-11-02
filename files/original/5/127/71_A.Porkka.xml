@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka > Carl Axel Gottlund</title>
+                <author>Antti Porkka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:6</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>71</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Runsjön">Runsjön (Rumsjön, Rensjön)</placeName>
+                        <date when="1822-06-16">16.6.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_018" />
+                <p>
+                    <l>Annetu Runsjönilä sinä 16 päiwänä </l>
+                    <l>Kesä Kuusa w: 1822</l>
+                </p>
+                <p>Korkiasti opinut Herra Gottlundi!</p>
+                <p>
+                    <l>Minä Kostelen palion Häntä, Etä</l>
+                    <l>Hän niin selkiästi minua on</l>
+                    <l>neowanna meitän aisiossame, ja se</l>
+                    <l>on parempi papin saamisen Kansa</l>
+                    <l>niin Kuin Herra sano, siilä Hän meistä</l>
+                    <l>paran Huolen Kanta Ja tjetä.</l>
+                    <l>Nyt tahtoi meitän Kirkoherrame</l>
+                    <l>allahri meitä saatoa niin <unclear>suanen</unclear></l>
+                    <l>Koostinkiin, hänen Kartanonsa te=</l>
+                    <l>kemisen Kansa, Etä se on ylenpalti=</l>
+                    <l>nen, siitä Hän tahtoi 20<hi rend="superscript"><hi rend="underline">tä</hi></hi> Heintä,</l>
+                    <l>8<hi rend="superscript"><hi rend="underline">en</hi></hi> Leiviskiä tuohia ja 80. Rixiä</l>
+                    <l>Riksselisä Kartanolta Raaha,</l>
+                    <l>wan nyt pitais jälken mesummar=</l>
+                    <l>in tuleman toais Suokunan täminän</l>
+                    <l>niilen, Kuin Herra niin Hywin tekisi</l>
+                    <l>ja Kieriutais Kuinka me Heisä wa=</l>
+                    <l>poapine.</l>
+                </p>
+                <p>
+                    <l>Minä olin puupoista Huitkernitä</l>
+                    <l>puhutelu, ja se pyysi minun</l>
+                    <l>Kieriutanian Hänen Estän.</l>
+                    <l>Hän</l>
+                </p>	
+                <pb n="2" facs="0268_0077775_019" />
+                <p>
+                    <l>Hän tahtois tietoa, toko yhtän</l>
+                    <l>protoçoliia tahika Raia Kierioa</l>
+                    <l>Löytys, joka selitäis Kuinka <del>Lo</del></l>
+                    <l>Loava Huitkernin mehtä oli </l>
+                    <l>Kuin se wuona 1649 weroilen</l>
+                    <l>pantin; siitä sanomat on</l>
+                    <l>wanhutesa ollut, Etä pohusen</l>
+                    <l>Huitkiernin Kylästä, Kaiki</l>
+                    <l>Raitnan ja Norin Raian väliä</l>
+                    <l>olis pitänä Kuulua Huitkiernän</l>
+                    <l>len, wan siti Kuin Kieriat yles</l>
+                    <l>paloi, <del>Kieneyty</del> Kieänety Kierkon </l>
+                    <l>metäxi, sitä aisioia Hän on </l>
+                    <l>perän Kuulostana, wan ei mitän</l>
+                    <l>tiettoa soanut.</l>
+                    <l>Minä olen ne Suomalait Bibe=</l>
+                    <l>lit Jakana Östmarkin Suokuna=</l>
+                    <l>sa Ja ne on nin Rehelisesti</l>
+                    <l>Kulatoxen Koarlestaista maxana,</l>
+                    <l>Ja moniaita Kilinkiä antana</l>
+                    <l>minulenkin waiwastain, Ja pyy=</l>
+                    <l>tännä minun palio Kiitoxia</l>
+                    <l>jälen Lähätäman.</l>
+                    <l>Tänä pänä on meitän Kier=</l>
+                    <l>kosame Kuulutetu, Etä pantit</l>
+                </p>
+                <pb n="3" facs="0268_0077775_020" />
+                <p>
+                    <l>Ruunun vilioista pitä viemän</l>
+                    <l>sunnin Suokunan miötäwäxi</l>
+                    <l>sitä ej tieälä yxkän ole hywä</l>
+                    <l>niitä ostaman Rahasta, Ja ne</l>
+                    <l>Jotka nyt on Tuohia omalta</l>
+                    <l>mehältän otanna (=jotka Ruunole</l>
+                    <l>weroa wata<ref>n<note>viivallinen n-kirjain</note></ref>) Koarlestain miötä=</l>
+                    <l>växi, ja Rahaa saaman nin</l>
+                    <l>Ruunun vilian Kuin ulos pa=</l>
+                    <l>noin, nin otetan pois, silä </l>
+                    <l>östmarkin Suokunassa on</l>
+                    <l>tehty sen Kaltainen oikeus </l>
+                    <l>Suokunan täminässä, Ja</l>
+                    <l><unclear>Spaçton</unclear> J. Harling pantu</l>
+                    <l>siihen Esiwalaxi, jota Köy=</l>
+                    <l>hiä <del>nay</del> niänytäwät, minä </l>
+                    <l>tykeän se on suurulinen</l>
+                    <l>Kuin Köyhiä Kaikila tawala</l>
+                    <l>neänytetän.</l>
+                </p>
+                <p>
+                    <l>Mati Hämäläisen minä en</l>
+                    <l>olen tawana.</l>
+                </p>
+                <p>
+                    <l>Elän Hera nyt hywin ja</l>
+                    <l>Jumala olkon hänen Kansan=</l>
+                    <l>sa Kuin Hän pois Lähte</l>
+                </p>
+                <pb n="4" facs="0268_0077775_021" />
+                <p>
+                    <l>Etä terwenä asiansa toimitoa</l>
+                    <l>Ja jläla wielä toiselemo</l>
+                    <l>Kätä saisime antoa, olen</l>
+                    <l>aina Herran nöyrimmäinen</l>
+                    <l>palwelia</l>
+                </p>
+                <p>Anti Porka</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-13">13.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:62</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>223</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1830-12-02">2.12.1830</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_226" />
+                
+                <p>Øijärillä s: 2. p: Joulu=Kuusša w: 1830.</p>
+                <p>Herra Gottlundille!</p>
+                <p>
+                    <l>Täsšä on nyt mieš Puuwilta, niimit=</l>
+                    <l>täin Heikki Antin poika Kahilainen, sen</l>
+                    <l>pienen lapun keralla, Räweämäsšä nii=</l>
+                    <l>tä 3.<hi rend="superscript"><hi rend="underline">mea</hi></hi> Banço tyskeä jotka minä</l>
+                    <l>heiltä sain sinun suuresta inlaista,</l>
+                    <l>Enkä oo tullu niitä sulle Lähätäneex</l>
+                    <l>ennen. waan nyt minä suoritan mie=</l>
+                    <l>hen, ja annan hänelle ne 3.<hi rend="underline">met</hi> Ban=</l>
+                    <l>kosša. Koska minä neän että hyö on</l>
+                    <l>ite sinulle maxanna.___</l>
+                </p>
+                <p>
+                    <l>Minä kummixin suurest ettet enemp</l>
+                    <l>mulle Kirjuttanna, Ett’ han ikään Lie</l>
+                    <l>mulle wihoisaiš, siitä kuin ei Matti</l>
+                    <l>pysynnä Luonaiš, waan sitä en minä</l>
+                    <l>Ruowoa; Koska hän ite niin tuhma</l>
+                    <l>oill ettei hän tahtoinna miehex oppi=</l>
+                    <l>a.___</l>
+                </p>
+                <p>
+                    <l>Minä suaan sulle nyt toimittoa,</l>
+                    <l>että</l>
+                </p>
+                <pb n="2" facs="0268_0078096_227" />
+                <p>
+                    <l>Matti ja Pekka hänen weljenšsä; O=</l>
+                    <l>wat merkkäillöiltä yhteen ostanna</l>
+                    <l>1/8. Kahexannen osan Øijärin mehteä,</l>
+                    <l>ja tämän Kylän jolla asutaan;</l>
+                    <l>ja antaneet 1,300.<hi rend="underline">satoa</hi> Norin Spe=</l>
+                    <l>çiä; Näin Koiria oil Markalit</l>
+                    <l>poijille, waikka ei heille 1/8. yx Kahex=</l>
+                    <l>sanš osa maxanna enemp kuin 812.</l>
+                    <l>tyskeä; Hyö ottiwat poijilta yl ra=</l>
+                    <l>hoa 488. tyskeä.__ Miten han</l>
+                    <l>Poikaijen hantu käynöö-" oamulla</l>
+                    <l>meinoawat kauppa Kirjoa soaa=</l>
+                    <l>maan; ja minun pitää männä hei=</l>
+                    <l>jän eite takauxeen. Kuin ei nyt</l>
+                    <l>Poijat oo hywä 10.<hi rend="underline">neen</hi> astaikaan</l>
+                    <l>maxamaan, niin wijään multa</l>
+                    <l>kaikki mitä löytyy, ja tila pannaan</l>
+                    <l>actioniin, ja minä soaan männä</l>
+                    <l><unclear>suoan</unclear> tielle; sen kaltaisen <unclear>kannun</unclear> nyt</l>
+                    <l>Poijat tehny.</l>
+                </p>
+                <p><hi rend="underline">Poawo Räisäinen</hi></p>
+                <pb n="3" facs="0268_0078096_228" />
+                <p>
+                    <l>Herralle</l>
+                    <l>Aiwon Kunnioitetta=</l>
+                    <l>walle  Ja</l>
+                    <l>Korkiast Oppinulle</l>
+                    <l>Koarle Gottlundille</l>
+                    <l><hi rend="underline">Tukulmisša</hi></l>
+                </p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

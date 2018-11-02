@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hindrik Mattson (Heikki Matinpoika) Kavalainen > Carl Axel Gottlund</title>
+                <author>Hindrik Mattson (Heikki Matinpoika) Kavalainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:15:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Kavalainen</surname>
+                                <forename>Hindrik Mattson (Heikki Matinpoika)</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>38</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Bogen, util Gunnarskog">Bogen, util Gunnarskog</placeName>
+                        <date when="0000-00-00">0.0.0000</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077760_001" />
+                <p>
+                    <l>Hyvä sukuinen ja korkiasti kunnijoitettu Herra!</l>
+                    <l>- - - - - - Karle Gottlund!- - - </l>
+                </p>
+                <p>
+                    <l>Nöyrimmäsä mitasa rukkoilen minä Hyvä su=</l>
+                    <l>kuista Herra, jos mahdolinen taitais olla, että</l>
+                    <l>minun wiälä auki oleva ritan tulis pätety-</l>
+                    <l>xi, joka lyhykäisesti sanottu on näin:</l>
+                    <l>Minä <app><lem>Heiki<del>n</del> Mattin</lem><rdg>Mattin Heiki<del>n</del></rdg></app> poika Powilda, Kun=</l>
+                    <l>neron suoku<ref>n<note>viivallinen n-kirjain</note></ref>asta, olen köyhästä tilasta</l>
+                    <l>wjellä köyhembähän tilan satettu endisen</l>
+                    <l>Patronan Wallin kautta, joka antoi minun</l>
+                    <l>omaisudeni eli maani wjeralla ja lupais</l>
+                    <l>minulle toisen asuma sian, jota minä en</l>
+                    <l>wjelä ole saanut, engä millongan taida</l>
+                    <l>saada – wjeran kansa, nimeldä Heiki Antin</l>
+                    <l>poika, joka nyt asu minun ja minun Vanhem=</l>
+                    <l>mitten työn ja waiwan pääle en minä mitän</l>
+                    <l>Contrahtia ole tehnyt, wan ridellyt ja pytänyt</l>
+                    <l>minun Omaisuttan takaperin, ninkuin nyt</l>
+                    <l>seurasa oleva Maan Herran pätös selittä ja</l>
+                    <l>hyvin näyttä, waan kaiki turhan tähän</l>
+                    <l>asti, minä ole satettu köppikerjäläisexi</l>
+                </p>
+                <pb n="2" facs="0268_0077760_002" />
+                <p>
+                    <l>tämän ridan kauta, ja minun lapseni wesi=</l>
+                    <l>Kiville, köyhä mjes kahden tyhjän käden</l>
+                    <l>kansa ej tälä oikeutta woi löyttä; minä olen,</l>
+                    <l>mikä totuus on, se oikia Odels mies tähän</l>
+                    <l>kylän, minun Jsän on kylmästä maasta</l>
+                    <l>ylösottanut tämän tilan, waikia on kuleskel=</l>
+                    <l>la yhdestä ovesta toisen, ja ej misäkän olla</l>
+                    <l>terve tuldu sisällä, ja nähdä wjeran minun</l>
+                    <l>työn ja waiwan pääle asuwa – Jos nijn olis</l>
+                    <l>etten minä sais minun omaisuttan <unclear>takapuin</unclear></l>
+                    <l>(jota en minä wjellä uskoa taida, vaan elän</l>
+                    <l>hywäs toiwos, woitaxeni tämän ridan, hywä</l>
+                    <l>sukuisen Herran kautta, joka nijn monda</l>
+                    <l>on auttanut ojasta ylös, josa minä nytt</l>
+                    <l>makaan köyhydesä!) njn toiwon minä</l>
+                    <l>kuitengin sadaxeni maxon työstäni, wärde=</l>
+                    <l>ringin jälken – Minun Lapseni owat nyt</l>
+                    <l>työtä tekewäiset, ja taitaisin minä nytt</l>
+                    <l>tulla parempahan elon kuin ennen jos mi-</l>
+                    <l>na saisin minun oman talon takaperin -</l>
+                    <l>Tämä rjita seiso wjälä awoina, Huwä su=</l>
+                    <l>kuinen Herra, autakat minua köyhä</l>
+                    <l>miestä ja suomalaista minun endisen</l>
+                    <l>majaan ja tilaan, Jumala joka hywät</l>
+                </p>
+                <pb n="3" facs="0268_0077760_003" />
+                <p>
+                    <l>tyot salasudesa tutki ja maxa, lainatkon</l>
+                    <l>Teille monda iloistä hetkeä – Maan Herran</l>
+                    <l>Kirja tämän asian selittä, ja nämät suoma-</l>
+                    <l>laiset jotka nytt teidän korkian käskyn</l>
+                    <l>pääle Tukholmin owat tullet wjälä enä-</l>
+                    <l>min että minä olen wjekautten kautta</l>
+                    <l>Köyhytten saatettu – Totudesa kuoleman</l>
+                    <l>asti elän minä</l>
+                </p>
+                <p>Hyvä Sukuisen ja korkiasti kunnioitetun Herran</p>
+                <p>
+                    <l>kaikein nöyrin palvelia</l>
+                    <l>Heiki Matinpoika</l>
+                    <l>Kavalainen, Puwilda</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

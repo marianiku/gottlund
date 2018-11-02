@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen &amp; Johan Hawuinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen &amp; Johan Hawuinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:30</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <author><surname>Hawuinen</surname>
+                                <forename>Johan</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>147</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Räisäinen kirjoittanut myös Hawuisen viestin.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1822-07-26">26.7.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_082" />
+                <p>Oijärillä sinä 26.p: Henäkuusa, 1822</p>
+                <p>Poawo Räisäinen Herrâ Gottlund.</p>
+                <p>
+                    <l>Nyt on tässä poika Johan Nilsson <add>Hawuinen</add> Koarlle=</l>
+                    <l>Lasta, joka on Johan Paulssonin Purkaisen poika=</l>
+                    <l>puol, Hän on nyt suaanna Kyllän jsä puoleltaan</l>
+                    <l>ja téstamentin tawaroijen piäälle hänen kuolunsa</l>
+                    <l>jälkeen hanellä e joo Muita perillisiä. Tämän testa=</l>
+                    <l>mentin hyö on nyt tänä wuonna tehny wälillään sinä</l>
+                    <l>9. päiwänä Huhtikuussa._ _ _ _ _</l>
+                    <l>Tähään on heijän jsäntä Anders Meldal suostun=</l>
+                    <l>na, ja antanna ennen mainitun Johan <del>Huisen</del></l>
+                    <l>Hawuisen Riewata tilan eteen. Waan nyt on</l>
+                    <l>meijän Länsmanni (tahi LurentsRolstorph) Ostan=</l>
+                    <l>na Konkseron (tahi Kongrud) Anders Meldalilta,</l>
+                    <l>jonka Kartanon alla tahi säter Mehällä tämä</l>
+                    <l>Koarlela nyt on. Nyt ens kewänä, wasta Meinoa</l>
+                    <l>Länsmanni ottoa wastaan Konkseron. Niin nyt</l>
+                    <l>jo <hi rend="underline">eiltäpitäin</hi> Lähättelöö Kirjoja, ja epuuteloo näi=</l>
+                    <l>ta huusmanniloitansa mitään mehästä ottamasta;</l>
+                    <l>Nyt sitten kuin tämä Hawuinen piääs kylän hal=</l>
+                    <l>tiax, on hän tänä kesänä hakanna asuin tuan</l>
+                    <l>hirret, sillä että tupa on märännä ja on putoa=</l>
+                    <l>massa heijän piäälle; Niin siitä on Länsmanni Lä=</l>
+                    <l>hattanna epuuxen ettei Hawuisen pia selkaltaista Lu=</l>
+                    <l>watointa työtä tehä. Joka epuus tämän kanssa seuraa.__</l>
+                    <l>Ja sitten Lähätti toisen epuuxen, ettei yhenkään piäa</l>
+                    <l>ilman Luwata ottoa mehästä Lehtiä <del>pul</del> pienille</l>
+                    <l>Roawaille, niin kuin näissä tapa on. Tämän Kalta=</l>
+                    <l>siin</l>
+                </p>
+                <pb n="2" facs="0268_0077781_083" />
+                <p>
+                    <l>sia epuuxia ej hyö oo ennen hawainna, waan on</l>
+                    <l>tuo näijen wanha jsäntäkiin ollu niin paljon wiratoin</l>
+                    <l>kuin nämä on niitu kappaleen Mehäšsä Raiwanneet ja</l>
+                    <l>ajianneet, Niin on hän paimenillaan hakkuttanna</l>
+                    <l>aijan rikki, ja pannu heijän niit=ahot karjan jalkoin.</l>
+                </p>
+                <p>
+                    <l>Nyt on tämän poijan jsa=puolella, ollu tallessa sen</l>
+                    <l>Kuussi wainajan pöxlö=kirjan jossa <add>seiso</add> että näijän</l>
+                    <l>Raja kulke pitkin Luoreunoa etelä Röywän, ja Mäne</l>
+                    <l>sansyönin purosta Luotta koihen Reholttalan kautta Rot=</l>
+                    <l>naan tahi pohjos piäähän Heljan jarweä.__</l>
+                    <l>Tämän pöxlö=kirjan oil <unclear>Knuffi</unclear> antanna Staffen Poals</l>
+                    <l>son Purkaiselle, joka oil Johan Purkaisen jsän jsä.</l>
+                    <l>Wuonna 1759. sinä 25. paiw: Syyskuussa.__</l>
+                    <l>Waan mitäs tästä kirjasta oil, Niin piän kuin</l>
+                    <l><unclear>Knuffi</unclear> pois jouti, niin sanotān näijen kirjaijen</l>
+                    <l>tulleen ewätyxi, ettei yxkään suaa niijen <add>iälken</add> Ruowata</l>
+                    <l>joillen <del>en</del>ne oil annettu.__ Ja Knuffi oil antanna</l>
+                    <l>Muutamille Oikeuskirjoja, joita Kuninkaš Freterik</l>
+                    <l>se 5.<hi rend="superscript"><hi rend="underline">es</hi></hi> oil ulos pannu. Näienni Oikeuskirjaien</l>
+                    <l>sanotaan Norissa tulleen ewätyxi, ja wielä sitten piti</l>
+                    <l>niien pahoin kaũmään jolla niitä kirjoja Löytyi.__</l>
+                    <l>Waan kuitenkin on heitä pitännä <add>muutamat</add> suotta tallella waan</l>
+                    <l>ejwät oo tohtinna yhöllenkän naytteä.__</l>
+                    <l>Nyt on tämä Johan Hawuinen yhen niitä kirjoja hanki=</l>
+                    <l>nut itelleen, ja tahtoo Lähätteä sulle Lukeaxeis._</l>
+                    <l>Ejkö hän tuota oiš wiäärti Kuninkaalle näytteä,</l>
+                    <l>ejköön Kuninkaš sais wielä samanlaista oikeusta</l>
+                    <l>ulos panna kuin hän Rupeaiš, Sillä ettei sunkaan</l>
+                    <l>tämä Oikeus ollu Kuninkaista ewatty, mutt Norlaiset</l>
+                    <l>ja Kauppamiehet, epais ja peloitti Suomalaiset. Ja Suo=</l>
+                    <l>malaiset oil sitten niin arkoja, ja kelwoittomia, ja antoiwat</l>
+                    <l>heitänsä peloittaa ej wätkä kysy<ref>n<note>viivallinen n-kirjain</note></ref>ä Kuninkalta perään</l>
+                </p>
+                <p>Poawo Räisäinen </p>
+                <p>
+                    <l><ref>*<note>lisätty s. 2 marginaaliin</note></ref>Taitaisit ha toan oikeuskirjan Lähätteä takasin millon tahoit.</l>
+                    <l>Tahi toisit kanssaas jos joskus oisit tänne tulemoina. Johan Hawuinen.</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

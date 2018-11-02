@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-03">3.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:41</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>202</bibl>
+                        </msItem>
+                    </msContents>            
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1825-08-01">1.8.1825</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_141" />
+                
+                <p>Öijärillä sinä 1.<hi rend="superscript"><hi rend="underline">sä</hi></hi> päiw: Elokuusšsa w:1825,</p>
+                <p>Poawo Räisäinen, Herra Gottlundille!</p>
+                <p>
+                    <l>Minä oon jo aikoa meinannan kirjoittua</l>
+                    <l>sulle, waan oon uottanna Niitä miehiä</l>
+                    <l>mänewäx Tukulmiin, Että heijän keralla suaaha</l>
+                    <l>tämän kirjan Lähätetyx. Nyt aamulla hyö</l>
+                    <l>Lähtöö matkalle Pohjoš Leikawaitnalta, minun</l>
+                    <l>täytyy wöljätä tänä jltänä sitä miestä joka norin</l>
+                    <l>puoltä lähtöö Läikawaitnalle, sieltä lähtöö mieš</l>
+                    <l>Ruohin puolesta, Niimittäin Sipi Juhoin poika</l>
+                    <l>Hotakka. Tiäältä Norin puolesta Lahtöö Erik</l>
+                    <l>Erikin poika Walkoinen Oralasta winkerin <unclear>suoml.</unclear></l>
+                    <l>Nämät owat riskit ja hywän urhoon Näköiset</l>
+                    <l>Miehet; ja hywät suomalaiset; Ettei minä</l>
+                    <l>heitä ollu parempia hywä Laittaman.__</l>
+                </p>
+                <p>
+                    <l>waan onpa Mulla ollu suuri työ, ennenkuin ma</l>
+                    <l>sain heijät walmiix, sekä Pasšin, että reisu rahan</l>
+                    <l>keralla; Minä on heijän tahon perään kysynyt</l>
+                    <l>ja ottanna heiltä muutaman killinkin Reisu rahax.</l>
+                    <l>waan kaikki hyö on yximielisest wähä teliin aut=</l>
+                    <l>taneet; on nuota ollu mutamia jotka on wasta=</l>
+                    <l>hakoa tehny; kyllä mä ne miehet sulle jlmi annan</l>
+                    <l>kuin Comite tuloo, ja ite tulet tänne.</l>
+                </p>
+                
+                <pb n="2" facs="0268_0078096_142" />
+                
+                <p>
+                    <l>Tämä kirja tuloo Postiin pannux Arbåkassa</l>
+                    <l>ja taitaa jo olla sinun tykönäis upsalasša, ennen=</l>
+                    <l>kuin miehet ehti Tukulmiin. Oisi se lysti još</l>
+                    <l>sulla oiš ajkoa tahi asjoa Männä Tukulmiin</l>
+                    <l>Näitä Miehiä eesš auttamasša. waan oon minä</l>
+                    <l>heitä Neuwonna sun käskyiš perästä mänemän</l>
+                    <l>Majurin Montgommeryn tyköön Drotning kawulle,</l>
+                    <l>että hän heitä auttais Prinsin Luoxe, waan minä</l>
+                    <l>uskon että se oisi paremp kuin sinä ite oisit</l>
+                    <l>saapuwilla, waan sen han ite paraite y<ref>m<note>viivallinen m-kirjain</note></ref>ärtä=</l>
+                    <l>net. Julakin on Juhoi hywin kirjoittanna sa=</l>
+                    <l>nasta sanaan.</l>
+                </p>
+                <p>
+                    <l>Jos niin on ettet tällä kerralla joutuisi mänemän</l>
+                    <l>Tukulmiin; Niin myö kaikki yximielisesti Rukoile<ref>m<note>viivallinen m-kirjain</note></ref>a</l>
+                    <l>sinua <del>a</del> ettäs tekisit niin hywin ja käwisit Tukul=</l>
+                    <l>misša Prinssin puheilla, että hän auttaiš meitä, että</l>
+                    <l>myö jo saisimme undersökninkin tänä syksynä; sillä</l>
+                    <l>myö pelkeäme että undersökning taitaiš jeähä enš</l>
+                    <l>kesään sillä kuin Nämä Miehet joutui niin myö=</l>
+                    <l>hän matkaan. Waan myö ej heitä ennen ollu hywä</l>
+                    <l>matkaan suaaman, sillä kuin suomalaiš mehtä on</l>
+                    <l>niin Loaja; ettei minä ennen ennättännä heitä</l>
+                    <l>kaikkia putellä. Jos nyt toaiš Comite jäis sillään</l>
+                    <l>enš kesään, niin toaiš taitaiš nämä Herrat</l>
+                </p>
+                
+                <pb n="3" facs="0268_0078096_143" />
+                
+                <p>
+                    <l>joutawia kirjoitella Prinsille ja Kuninkaalle,</l>
+                    <l>että asja taitaiš aina jeähä sillänsä. Sen</l>
+                    <l>eistä se olisi paraš asjoa peällä ajoa, että</l>
+                    <l>undersökning tuliš jo syxyllä.___</l>
+                </p>
+                <p>
+                    <l>Minun pitäiš kirjoittua Poikaijen kotiin tu=</l>
+                    <l>losta. Poijat oliwat riskit ja terweet, kuin</l>
+                    <l>tuliwat Koarlestahaan. Minä kohtasin hei=</l>
+                    <l>tä ite Kahella hewoisella, ja tulin jo kel=</l>
+                    <l>lo 5. Lauantak. ehtona, Mutt Poijat ej ennen</l>
+                    <l>tullu kuin kello 3.<hi rend="superscript"><hi rend="underline">met</hi></hi> Sunnuntak ehtona.</l>
+                </p>
+                <p>
+                    <l>Ja myö läximme heit ajaman, ja tultiin</l>
+                    <l>kotiin <del>ko</del> tistah ehtona warhain. Minä</l>
+                    <l>niin uotin, siinä Koarlestaasša; ja Luulin</l>
+                    <l>että sinun olewan Poikaien keralla, ieš</l>
+                    <l>Koarlestaahan asti. Mutt ettpä ollu;</l>
+                    <l>Minun tuli juri pahax mieli; waan sitte</l>
+                    <l>kuin ma näin kirjat, ja näin miten</l>
+                    <l>asja laita oli, niin mä toaiš miellyn jäl=</l>
+                    <l>leen. Siinä Koarlestaassa oil paljo suoma=</l>
+                    <l>laisia tullu markkinoille, siinä minä</l>
+                    <l>jo paljo puhuttelin suomalaisia, ja</l>
+                    <l>hyö mieltyi suurest siitä, kuin kuuliwat</l>
+                    <l>että toinen undersökning oil saapuwilla.</l>
+                    <l>Imoinen on Renkinä Niles oraisella Pohjoš</l>
+                    <l>Laikawaitnalla, hän Elää ja riwastu hywin</l>
+                </p>
+                
+                <pb n="4" facs="0268_0078096_144" />
+                
+                <p>
+                    <l>sinä. Jmoinen tuil tänne lian myöhä</l>
+                    <l>täx wuox. Kaikki jhmiset oil jo kaskensa</l>
+                    <l>polttanna ja kylwännä, ettei hänellä ole</l>
+                    <l>kyntö työtä misšään, waan još hän teällä</l>
+                    <l>seisahtaiš enš <del>w</del> wuoteen, niin kyllä hän</l>
+                    <l>teällä työtä saiš, liotenki Ruohin puolla.</l>
+                    <l>Nysšuokunan suomalaisissa he ihanwisšiin tah=</l>
+                    <l>towat häntä koitellä, <del><hi rend="underline">hoy</hi></del> hyö oisiwat ottan=</l>
+                    <l>na hänet, jo tänä kesänä Luoksesa; waan</l>
+                    <l>minä ej tainna häntä wielä Laskea sinne</l>
+                    <l>niin kauwas wieraisiin mänemään, kuin ej</l>
+                    <l>heillä ollu Kasken kyntämistä. ‒</l>
+                </p>
+                <p>
+                    <l>Jumala pitäköön sinua terwenna. Ja</l>
+                    <l>monta tuhatta kostjumaloa, siitä kuinš</l>
+                    <l>Poijat olet niin hywin woatteettanna, myö</l>
+                    <l>ej oiš ikään tainna uskoa heillä olewan niin</l>
+                    <l>paljon waatteita.   Kyllä minä wasta</l>
+                    <l>kirjoitta enemp, waan nyt en jouwa.</l>
+                    <l>Kirjat taijat Lähätteä Östmarkinkautta</l>
+                    <l>niinkuin ennenki sieltä se paraite eisš</l>
+                    <l>tulewat.__</l>
+                </p>
+                <p><hi rend="underline">Poawo Räisäinen</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

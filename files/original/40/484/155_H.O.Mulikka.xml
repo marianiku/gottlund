@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Heikki Ollinpoika Mulikka > Carl Axel Gottlund</title>
+                <author>Heikki Ollinpoika Mulikka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-02">2.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:4:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Mulikka</surname>
+                                <forename>Heikki Ollinpoika</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>155</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Erotettu Paavo Räisäisen kirjeiden yhteydestä. Mulikka sanellut kirjeen Räisäiselle.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-02-26">26.2.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078090_001" />
+                <p>
+                    <l>Øijärillä<ref>*<note>alkukirjaimen päällä myös ö-pisteet</note></ref> sinä 26 p: Helmekuussa 1823</l>
+                    <l>Herra Gottlundi</l>
+                </p>
+                
+                <p>
+                    <l>Minä Heikki Ollinpoika Mulikka Ja<ref>m<note>viivallinen m-kirjain</note></ref>ertalasa</l>
+                    <l>tahoin teille jlmi antoa mitenkä minun kans-</l>
+                    <l>sain on Laita. Se jammertala jossa mulla</l>
+                    <l>nyt on Eloleipä. sen kylän ostin minä ja</l>
+                    <l>annoin 400. tyskeä sen ajkaisia rahoija.</l>
+                    <l>sitten annoin minä tilan poikain haltuun,</l>
+                    <l>ja otin Eloleiwaxein tynnerin alan peltoa.</l>
+                    <l>Niin poikain otti ja möj tilansa. tukki merk=</l>
+                    <l>kälille Pekka Säterille 300. Spt: Niin tämä</l>
+                    <l>Pekka Säteir otti multa pois sen Eloleipä pel=</l>
+                    <l>lon ja on mun poara anta<ref>n<note>viivallinen n-kirjain</note></ref>a kylweäin kor-</l>
+                    <l>telin alan wuoissa, ja jhe on kylvänä Rukita</l>
+                    <l>mun pelloin. Ja muut pellot han on jättänä</l>
+                    <l>Linnoix. ja huoneet repi<ref>n<note>viivallinen n-kirjain</note></ref>ä muaahan, ja niistä</l>
+                    <l>hirsistä pyyännä jhelleen säteis nawetoita.</l>
+                    <l>Silla se on nyt tiloa ruukanna säterinään 3.<hi rend="underline">met</hi></l>
+                    <l>wuotta ja niin pahoin roakanna tiloa, Eläi=</l>
+                    <l>millän hän on niitun ylös polettanna poara</l>
+                    <l><hi rend="underline">Lialle</hi>. Ja <unclear>kauhnat</unclear> tilalta joka wuois ulo</l>s
+                    <l>ajanna.</l>
+                </p>
+                <p>
+                    <l>Nyt mulla on nuorin poika Luonain, riski</l>
+                    <l>työ poika. Myö pyydämme ja Rukoile<ref>m<note>viivallinen m-kirjain</note></ref>e teitä</l>
+                    <l>Rakas Herra. Ettäs tekisit sen Laupinen ja aut-</l>
+                    <l>tasit meitä niin kuin muitaki Suomalaisia, että</l>
+                </p>                
+                <pb n="2" facs="0268_0078090_002" />
+                <p> 
+                    <l>Myö saisimme Ruunulta rahoija Lainnax,</l>
+                    <l>tahi jos peäsisimme Ruunun ala. Waan ej</l>
+                    <l>Kyllä nyt oo suinkaan enemmän wiäärti</l>
+                    <l>kuin 200. Spt: Se on wissiin 100. tyskeän estä</l>
+                    <l>roakanna tiloa., näinä 3.<hi rend="underline">na</hi> wuo<ref>n<note>viivallinen n-kirjain</note></ref>a._</l>
+                </p>
+                <p>
+                    <l>Olepas Terweytettu Minulta sata kertasest.</l>
+                    <l>Henriçh Ollinpoika Mulikka</l>
+                    <l>Jammertalasta</l>
+                </p>
+                <p>
+                    <l>Herralle</l>
+                    <l>Ajwan Ku<ref>n<note>viivallinen n-kirjain</note></ref>ioitettawalle</l>
+                    <l>Ja</l>
+                    <l>Korkiast oppinulle</l>
+                    <l>Koarle Gottlundille.</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-28">28.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:16</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>177</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-02-08">8.2.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_047" />            
+                <p>Fullmakt in Blanço.__</p>
+                <table>    
+                    <row>
+                        <cell>Kieller Håkansson</cell>		
+                        <cell>Arne Jsaçson</cell>
+                    </row>
+                    <row>
+                        <cell>från Finsrud</cell>			
+                        <cell>fr: Klemtsbråten</cell>
+                    </row>
+                    <row>
+                        <cell>Erlan Böresson</cell>		
+                        <cell>Ammun Engebretsson</cell>
+                    </row>
+                    <row>
+                        <cell>fr: Finsrud</cell>			
+                        <cell>fr: Klemtsbråten</cell>
+                    </row>
+                    <row>
+                        <cell>Böre Kiellerson</cell>		
+                        <cell>Eriçh Ammunsjon</cell>
+                    </row>
+                    <row>
+                        <cell>fr: Finsrud</cell>			
+                        <cell>fr: Klemtsbråten</cell>
+                    </row>
+                    <row>
+                        <cell>Engebret Arnesson</cell>		
+                        <cell>Eriçh Eriçhsson</cell>
+                    </row>
+                    <row>
+                        <cell>fr: Stranden</cell>			
+                        <cell>fr: Billingsöe</cell>
+                    </row>
+                    <row>
+                        <cell>Arne Gulmundsjön</cell>		
+                        <cell>Gulbran Ammunsson</cell>
+                    </row>
+                    <row>
+                        <cell>fr: Bäk=engen</cell>		
+                        <cell>fr: Billingsöe</cell>
+                    </row>
+                    <row>
+                        <cell>Nils Klemetsson</cell>		
+                        <cell>Håkan Kiellerson</cell>
+                    </row>
+                    <row>
+                        <cell>fr: Bäk=engen</cell>		
+                        <cell>fr: Billingsöe</cell>
+                    </row>
+                    <row>
+                        <cell>Ole Johansson</cell>		
+                        <cell>Lars Olofson</cell>
+                    </row>
+                    <row>
+                        <cell>fr: Bjöndalen</cell>			
+                        <cell>fr: Billingsöe</cell>
+                    </row>
+                    <row>
+                        <cell>Eriçh Arneson</cell>		
+                        <cell>Böre Håkansson</cell>
+                    </row>
+                    <row>
+                        <cell>fr: Billa</cell>			
+                        <cell>fr: Billingsöe</cell>
+                    </row>
+                    <row>
+                        <cell>Arne Andersson</cell>		
+                        <cell>Eriçh Eriçhsson</cell>
+                    </row>
+                    <row>
+                        <cell>fr Billa</cell>			
+                        <cell>fr: Norra Billingsöe</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jens Olofson</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>fr: Norra Billingsöe</cell>
+                    </row>
+                </table>
+                <p>
+                    <l>Nämä puonnit jotka tässä on antanna Wullmahtiin=</l>
+                    <l>sa, käwiwät tässä mun Luonain jo aikoa kesällä, ja</l>
+                    <l>oisiwat tahtonna <add>antoa</add> wullmahtinsa. Waan minä ej</l>
+                    <l>tainna heiltä ottoa. Waan nyt taas yhtenä pänä</l>
+                    <l>tuliwat <add>hyö</add> koko jouko stormaten ja Rukoliwat minua hei=</l>
+                    <l>tä ottamaan. Niin mä nuo otin. Waan työ suaanette</l> 
+                    <l>tehä</l>
+                </p>
+                <pb n="2" facs="0268_0078096_048" />       
+                <table>
+                    <row>
+                        <cell>S<add>k</add>o<del>ck</del><add>g</add>ens namn</cell>
+                        <cell>Sockens namn</cell>
+                        <cell>Namnet på Byarne</cell>
+                        <cell>Bönder</cell>
+                        <cell>pers</cell>
+                        <cell>tax</cell>
+                        <cell>taxten</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>
+                            <l>Finsrude Skogen</l>
+                            <l>5. Byar 9. gårder</l>
+                            <l>56. Personer</l>
+                            <l></l>
+                            <l></l>
+                        </cell>
+                        <cell>
+                            <l>i Meddsko socken</l>
+                            <l>under Winger</l>
+                            <l></l>
+                            <l></l>
+                            <l></l>
+                        </cell>
+                        <cell>
+                            <l>Finsrud</l>
+                            <l>Stranden</l>
+                            <l>Bäk=engen</l>
+                            <l>Bj<add>ö</add>ndalen</l>
+                            <l>Billä</l>
+                        </cell>
+                        <cell>
+                            <l>3.</l>
+                            <l>1.</l>
+                            <l>2.</l>
+                            <l>1</l>
+                            <l>2.</l>
+                        </cell>
+                        <cell>
+                            <l>20</l>
+                            <l>10.</l>
+                            <l>10.</l>
+                            <l>6.</l>
+                            <l>10.</l>
+                        </cell>
+                        <cell>
+                            <l></l>
+                            <l></l>
+                            <l>tax</l>
+                            <l></l>
+                            <l></l>
+                        </cell>
+                        <cell>
+                            <l></l>
+                            <l></l>
+                            <l>1,300</l>
+                            <l></l>
+                            <l></l>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <l>Klemetsbråte Skogen</l>
+                            <l>1. bye 3. gårder</l>
+                            <l>21. personer</l>
+                        </cell>
+                        <cell>
+                            <l>i Medsko Socken</l>
+                            <l>D:<hi rend="underline">o:</hi></l>
+                            <l></l>
+                        </cell>
+                        <cell>
+                            <l></l>
+                            <l></l>
+                            <l>Klemetsbraten</l>
+                        </cell>
+                        <cell>
+                            <l></l>
+                            <l></l>
+                            <l>3.</l>
+                        </cell>
+                        <cell>
+                            <l></l>
+                            <l></l>
+                            <l>21.</l>
+                        </cell>
+                        <cell>
+                            <l></l>
+                            <l></l>
+                            <l>tax</l>
+                        </cell>
+                        <cell>
+                            <l></l>
+                            <l></l>
+                            <l>700.</l>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>
+                            <l>Billingsöe Skogen</l>
+                            <l>2. Byer 8. gårder</l>
+                            <l>50 personer</l>
+                        </cell>
+                        <cell>
+                            <l>i Medsko Socken</l>
+                            <l>D<hi rend="underline">o</hi></l>
+                            <l></l>
+                        </cell>
+                        <cell>
+                            <l></l>
+                            <l>Billingsöe</l>
+                            <l>Stornäset</l>
+                        </cell>
+                        <cell>
+                            <l></l>
+                            <l>7.</l>
+                            <l><unclear>1</unclear></l>
+                        </cell>
+                        <cell>
+                            <l>44.</l>
+                            <l>6.</l>
+                        </cell>
+                        <cell>
+                            <l></l>
+                            <l>tax</l>
+                            <l></l>
+                        </cell>
+                        <cell>
+                            <l></l>
+                            <l>1,500</l>
+                            <l></l>
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>3. Skogar</cell>
+                        <cell>1. Socken</cell>
+                        <cell>8. Byar</cell>
+                        <cell>20.</cell>
+                        <cell>127.</cell>
+                        <cell>tax</cell>
+                        <cell>3,500</cell>
+                    </row>
+                </table>
+                <p>
+                    <l>tehä heijän kanssa mitä tahoitte. Waan kyllä nämä</l>
+                    <l>käsk minun teitä niin hartaast Rukuileman. Ettäs tekisit</l>
+                    <l>niin hywin ja auttasit heitä, että hyö sais Kuninkaalta</l>
+                    <l>Lainnax tämän Summan 3500. Spt: Kyllä tuo hywä</l>
+                    <l>oisˇ, još heitä olisit hywä auttaman, heijän mehät</l>
+                    <l>ja kylät; on Östkalan mehän Rajasta etelään pitkin</l>
+                    <l>Liniän warta. Waan omaan Kirkkoonsa, hyö sanoi</l>
+                    <l>tahtowaansa käywä. Ja ejkä pä ne tiennä jhellän ole=</l>
+                    <l>wa<del>t</del><add>n</add> yhtään suku niimeä. Waan minä oon kuullu</l>
+                    <l>että ne Kartanot on ylös pyyätty Suomalaisista.+ Ja</l>
+                    <l>nämä sanoi että hyö on sitä samoa sukua, kuin ne</l>
+                    <l>jotka ens kertoa pyykäiš.___</l>
+                </p>
+                <p>Öyärillä s:8.p: Helmekuussa 1823.| <hi rend="underline">Poawo Räisäinen</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

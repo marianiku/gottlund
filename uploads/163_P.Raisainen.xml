@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-14">14.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">        
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>163</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1822-08-17">17.8.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_003" /> 
+                <p>Öijärillä sinä 17. p: Elokuussa vna:1822.</p>
+                <p>
+                    <l>Poavo Räisäinen</l>	
+                    <l>Herra Gottlundille!</l>
+                </p>
+                <p>
+                    <l>Nyt minä suaan teille ilmi antoa, että</l>
+                    <l>Porkka on jo Kirjat hakenna Koarlestasta.</l>
+                    <l>ja on ottanna mest kaikki Suomalaiset kirjat</l>
+                    <l>kanssase, ja yhen Bibelin, Joijenka ylite hänen</l>
+                    <l><add>oma</add>  tekemä Lista seuraa; Niin kirjat ne nyt ma=</l>
+                    <l>koawat Runsyönillä, suaanet han ite Laittoa ja=</l>
+                    <l>kamisen kanssa mites tahoit, niitä myö ej osoa</l>
+                    <l>jakoa, ja tokko kaikki <hi rend="underline">tulloowat</hi> ilman Rahata</l>
+                    <l>jaituxi. Se oil kaikkian parasˇ minun mielestäin,</l>
+                    <l>kuin ma sain kuulla, että se Stawnäsin Rowastin</l>
+                    <l>kirja, oil oikeen ees tullu. Se oil winkeristä, Koar=</l>
+                    <l>loistahan tullu; ja <add>se</add> kirja oil wähä exyttännä Post=</l>
+                    <l>mestaria, postmestair oil Luullu teijän olewan</l>
+                    <l>winkerišsä, hän oil wähä kiroillu tämän asjan</l>
+                    <l>tautta; puhui Porkka mulle.__</l>
+                </p>
+                <p>
+                    <l>Myökiin Öijärin mehtäläiset onme ollu,</l>
+                    <l>merkkäliinme kanssa Komisionilla, Huhanhakkuista, sinä</l>
+                    <l>7. paiw. tässä kuussa, waikka ej myö oo tänä Kesänä pal=</l>
+                    <l>jon Laiuka hakanna; Ejkös ne nyt meinanne tukki merk=</l>
+                    <l>kalit wiimesix töixeen mejstä ly<hi rend="underline">timet</hi> ulos kaiwoa, ios</l>
+                    <l>ennen owat Lihan wieneet; waan ej tuo Meijän</l>
+                    <l>Merkkäil, meillen paljon mitään suaanut sillä kuin ej</l>
+                    <l>myö oo hakanna jotta siitä on, Mutt ois tuo tahtonna</l>
+                    <l>meitä wähä sakoittoa, ja sitten sopiman, ettei myö ememp</l>
+                    <l>hakkoa</l>
+                </p>
+                <pb n="2" facs="0268_0078096_004" />
+                <p>
+                    <l>hakkoa; waan myö ej tainna tuohonka sopia,</l>
+                    <l>waan sitten hän kuitenkiin est meitä, ettei meijän</l>
+                    <l>pia omoa neneäämme kohen hakata, Mutt hän tah=</l>
+                    <l>too ylös kahtoa mehän, missä hakataan; Niin myö tuon</l>
+                    <l>annoimme nuon olla, waan nyt han nähään tokko</l>
+                    <l>mies tuloo ens kesänä ylös kahtoman jos niin tarwit=</l>
+                    <l>tais._ _ _ .</l>
+                </p>
+                <p>
+                    <l>Nyt on Kulpranssi käynnä kahen Lauta miehen</l>
+                    <l>kanšsa, pohjos Suomalaisissa. Huhtia ylös syyniten</l>
+                    <l>ioita tänä kesänä owat hakanneet; ja sanotaan pal=</l>
+                    <l>jon huhtia Löywetyx; Ja nyt meinoawat tämmatä war=</l>
+                    <l>sin Käräisiin ja sakottoa heitä, kutai, sen jälkein kuin</l>
+                    <l>kuhiin on heistä hakanna; Se on minusta paha kuin</l>
+                    <l>hyö niin paljon oiš tänä <add>kesänä</add> ruwenna hakkoamaan; heitä</l>
+                    <l>ej taija Kuninkaskaan olla hywä sakosta warjelemaan</l>
+                    <l>niin kauwan kuin hyö on näijen Herroien haltussa.__</l>
+                </p>
+                <p>
+                    <l>Minun pitäis kyysyä teiltä, mitenkä myö rupiam=</l>
+                    <l>me Jsäntiemme kanssa tekemän, hyö meinoa toais</l>
+                    <l>Alusta Lokakuuta panna meijän mehän Auksi=</l>
+                    <l>onin piäälle; Ejpä ne maha meinata Kuninkān</l>
+                    <l>epuuxista huolia, pitäisköön Meijän männä</l>
+                    <l>ite Auksioniin tarjoaman Kuninkan weknerillä.</l>
+                    <l>Merkkäil <hi rend="underline">wissais</hi> joka friissä Auksionissa Myyän että</l>
+                    <l>ej Kuninkaskaan sitä suaa pois ottoa. Waan mi=</l>
+                    <l>nä tykkeän kuin Kuninkaŝ heitä kerran on ewännä</l>
+                    <l>auksionissa myömästä, ja sitten uwanpaitteella Möysiwät</l>
+                    <l>Auksionissa. Että sen kaupan sais tok Kuninkas säre=</l>
+                    <l>tyx._ Minä pyyän teitä ettäs tekisit niin hywin ja</l>
+                    <l>neuwoisit meitä tässä asjassa, Nyt alusta männettä</l>
+                    <l>Heinäkuuta ne oil taais pittännä Auksionia Öijärin</l>
+                </p>
+                <pb n="3" facs="0268_0078096_005" />
+                <p>
+                    <l>Mehän piäälle, ja oliwat jo tarjonna 9,000. <hi rend="superscript"><hi rend="underline">tuhāten</hi></hi></l>
+                    <l>Spesityskään, waan ej yxkään ollu tarjonna heijan</l>
+                    <l>tarjoonsa piäälle.__</l>
+                </p>
+                <p>
+                    <l>Niin, nyt kuin myö Oli<ref>m<note>viivallinen m-kirjain</note></ref>e Comisionissa, Niin Läns=</l>
+                    <l>Manni Kysyi multa, ejkö hän taitais suaaha nähä sitä</l>
+                    <l>suurta kirjoa jotaš Åskaperissä Suomalaisille ylös</l>
+                    <l>Luuit. Minä wastasin, ej se Mulla eneä oo; Minä</l>
+                    <l>Lähätin sen kirusti takasin kuin ma oilin perään</l>
+                    <l>kysynnä tokko se oil Laillinen; Sepä oil paha sa=</l>
+                    <l>noi Länsma<ref>n<note>viivallinen n-kirjain</note></ref>i, Ej sun sitä ois pitännä tehä, sitä</l>
+                    <l>Kirjoa oisˇ pitännä Amtmannille Näytteä sanoi hän.</l>
+                    <l>Ja toais kielsˇ Län<ref>s<note>viivallinen s-kirjain</note></ref>ma<ref>n<note>viivallinen n-kirjain</note></ref>i, niin kuiwaan, ettei kokouxi=</l>
+                    <l>a suaa piteä ejkä Bûdstikkoja Lähätteä, se on wasten</l>
+                    <l>Norin Lakia, ja toaisˇ sanoi hän, että se on ku<ref>m<note>viivallinen m-kirjain</note></ref>a,</l>
+                    <l>kuin ej se teijän Herra kirjuta Amtmannille, että</l>
+                    <l>amtmanni sais tietä mikä mies hän on, Ej hän wielä</l>
+                    <l>mitään tietoa oo Rikierinkistä suaanna.__</l>
+                </p>
+                <p>
+                    <l>Waan minä ej o huolinna näytteä heille sitä suurta</l>
+                    <l>kirjoa, sillä kuin työ kielsitten tuota norlaisten suaaha</l>
+                    <l>tietämästä, Ja Kylläpä Norlaisilla on nukka sty=</l>
+                    <l>reämistä jos ej ne sitä suaa nähä.</l>
+                </p>
+                <p>
+                    <l>Se on aiwan kumma, kuin ej minä o tietoa tahi</l>
+                    <l>wastuusta suaa<ref>n<note>viivallinen n-kirjain</note></ref>a niistä kahesta kirjasta jotkama</l>
+                    <l><add>kirjutin</add> Lauantaina ennen Messumuaaria, ja Lauantaina</l>
+                    <l>jälkein. Ej nuo tok Lie tiellä poisˇ joutunna,</l>
+                    <l>tokkos nuo tok postmestarit Lie skellmiä niin kuin</l>
+                    <l>monjaat Ruohin suomalaiset pelkeä, en suinkaan</l>
+                    <l>minä usko östmarkin Papin teköwän skelnyyttä</l>
+                    <l>se on niin Rehellisesti joka Kirjan mun Luoxeni</l>
+                    <l>Lähättännä, ja myös Turun wiikko=Sanomat.__</l>
+                </p>
+                <pb n="4" facs="0268_0078096_006" />
+                <p>
+                    <l>Se oisˇ meille sankan hywä kuin myö saisi<ref>m<note>viivallinen m-kirjain</note></ref>e</l>
+                    <l>ne Lakkikirjat joitas puhuit Joulunä Lähättäwän</l>
+                    <l>kaupan piäälle; waan norlaiset pa tuota sanoo</l>
+                    <l>ettei Norin Suomalaiset suaa Ruueta Ruohin Lakiin.</l>
+                    <l>Waan toais minä atelen, kuin poara Kuninkaŝ</l>
+                    <l>rupia meijän puolta pitämän, ja myö tahoi<ref>m<note>viivallinen m-kirjain</note></ref>e</l>
+                    <l>Niin ej Norin Rikierink o hyvä Meitä siitä estä=</l>
+                    <l>mään.</l>
+                </p>
+                <p>
+                    <l>Ej suinkaan minä tiä mitenkä, ja minkä tähe</l>
+                    <l>Baçkmanni on Suomesta poisˇ Lahtennä, tokkoŝ</l>
+                    <l>se Lie Mulleka totta puhunna, Kirkkoherran</l>
+                    <l>poijax se on mulle sanonna olewansa, ja Turussa</l>
+                    <l>syntyneensä, ja jsänsä Kuolleen kuin hän oil 7.</l>
+                    <l>aiastaijan wanha, ja Ristimä niimeensa sanoi</l>
+                    <l>hän olewan Nikolaus Edwallinpoika tahi</l>
+                    <l>(Edwalsson.) Sitten kuin hän Suomesta Läx</l>
+                    <l>mahtaa olla 23. eli 24. wuotta.__</l>
+                </p>
+                <p>
+                    <l>En jouwa enemp kirjuttaman, Porkka on Läh=</l>
+                    <l>temässä Östmarkkin. Jumala hän pitä=</l>
+                    <l>köön teitä Terwennä.</l>
+                </p>
+                <p>Poawo Räisäinen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

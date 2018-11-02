@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:26</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>143</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Åskaper">Åskaper</placeName>
+                        <date when="1822-06-24">24.6.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_070" />
+                <p>åskaperissä sinä 24. p: Kesakuussa wuonna 1822. ~</p>
+                <p>Herra Gottlundille.</p>
+                <p>
+                    <l>Minä oon tässä tänä pänä ylös Lukenna Kopiota Pohjos Suomalaisille</l>
+                    <l>Jota hyö owat mielellään Kuu<ref>n<note>viivallinen n-kirjain</note></ref>elleet. Ja Käskiwät minun Lähättämän</l>
+                    <l>monta tuhatta kostjumaloa; ja kiittiwät sinua kaiken hywyen ejstä,</l>
+                    <l>ja Liatenkin Sen eistä ettäs niin suuren huolen=pion oot pitännä hei=</l>
+                    <l>jän tautta, ja niin suuren waiwan oot piäälleis ottanna, ettäs niin paljon</l>
+                    <l>olet Kirjutta<ref>n<note>viivallinen n-kirjain</note></ref>a; ja sanoiwat, Sitä Miesta ej myö jkään taija täytenlisest</l>
+                    <l>Kiitteä ja maxoa, jonka han meijän eistä on tehnyt. ~</l>
+                </p>
+                <p>
+                    <l>Siinä oil wielä 13. Taloin poikoa Jotka Rukuiliwat minua wulmahtian</l>
+                    <l>ottaman; Minä wastasin heitä, Se on jo myöheä, ja kyllä pä siellä</l>
+                    <l>on jo nukka wulmahtilöitä jlman teitä, ja ejkös työ tuota tulis</l>
+                    <l>autetux sentahe, kuin muutkin; waan ne ej sitä uskoneet, ois pyysiwät</l>
+                    <l>mun ottaman. ~ Niin mä nuo otin heijän tahtoons jälkeen. Suaanetten</l>
+                    <l><add>han</add> työ ite tehä heijän kanssa mitä tahoitten, Kyllä heillä on sama tah=</l>
+                    <l>toi kuin muillakin Suomalaisilla.</l>
+                </p>
+                <p><hi rend="underline">Poawo Räisäinen</hi></p>
+                <pb n="2" facs="0268_0077781_071" />
+                <p>[Nimilista, "Fullmackt in Blancco"]</p>
+            </div>
+        </body>
+    </text>
+</TEI>

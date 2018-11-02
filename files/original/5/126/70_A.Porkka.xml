@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka > Carl Axel Gottlund</title>
+                <author>Antti Porkka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:5</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>70</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Runsjön">Runsjön (Rumsjön, Rensjön)</placeName>
+                        <date when="1822-05-00">16.5.1822, 25.5.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_014" />
+                <p>
+                    <l>annetu Runsjönilä sinä 16 päiw. Touko</l>
+                    <l>Kuusa w. 1822.</l>
+                </p>
+                <p>
+                    <l>Anti Porkalta</l>
+                    <l>Hyvin Kunnioitetavale ja Korkeasti oppinele</l>
+                    <l>Herra Gottlundile !!</l>
+                </p>
+                <p>
+                    <l>Eriki Mattin poika Hämäläinen Mustasa=</l>
+                    <l>mäisä, pytä minun hänen vailitostansa</l>
+                    <l>Herran Eten antaman; Joka on: Etä</l>
+                    <l><del>Hämen</del> Hänen Isän=Isä, Oli Sjiwin poika</l>
+                    <l><add>Hämäläinen</add> ylös oti sen Torpan Josa Eriki asuu</l>
+                    <l>Böndomin ulko mehäsä, puoli toista</l>
+                    <l>peninkulmoa Kartanosta pois, Jossa site</l>
+                    <l>Erikin Isä, Matti Olin poika Enemmän</l>
+                    <l>työta teki; Ja Ruohtalaiset vuis vuilta</l>
+                    <l>Husleiiä ylensivät; nyt on Eriki ostanna</l>
+                    <l>veroa Rådo<ref>m<note>viivallinen m-kirjain</note></ref>ristä fryxista, Ja soanut sitä</l>
+                    <l>mehtä, Josta Hän Kuininkale veroa vetä,</l>
+                    <l>van Kuitenkin pitä Torpasta Huusleiiä</l>
+                    <l>panna 8. Riksiä Rikeseliä vuoesa, Roohon,</l>
+                    <l>nyt on Roon miehilä wielä pieni meh=</l>
+                    <l>tä Trakti Erikin ja Johoi Karhuisen</l>
+                    <l>Torpan ympärilä, et ei ne Kariansa</l>
+                    <l>Kansa</l>
+                </p>
+                <pb n="2" facs="0268_0077775_015" />
+                <p>
+                    <l>Kansa piäse pois <del>aidansa</del>, <del>aina</del> aitansa</l>
+                    <l>luota, ja Kyllä pahoin ahtistavat; silä</l>
+                    <l><add>Hiö</add> <del>hän</del> anoi Herralta tietoa, jos Ei Roon</l>
+                    <l>Kartanolta sais jolai tawala sitä pientä</l>
+                    <l>mehteä Löysätyxi; ja soaha Kuininkalle</l>
+                    <l>veroa panna nin Torpasta Kuin mehästä,</l>
+                    <l>sitä sen on liian waikea kahela tawala</l>
+                    <l>weroa panna, Ja vielä sita ahtauesea</l>
+                    <l>Jstua; silä minä Nöyrästi pytän Herraa</l>
+                    <l>Etä hän tainkaltaisia antaisi Ruohta=</l>
+                    <l>laisista Erillen, Ja Höis saisiwat Kuinin=</l>
+                    <l>kale ja Ruunule Torpistansa weroa</l>
+                    <l>weteä. Herrale tulo minulta nin paljo</l>
+                    <l>tyätä ja wailitosta, jota Hän taita</l>
+                    <l>Kyyläistyä, wan Rukuilen Suomalaisten</l>
+                    <l>Estä, Ja luotan Etä Herra ne muistisan</l>
+                    <l>pitä, ja anta minule tjetoa näistä</l>
+                    <l>aisioista paljo Terveyxiä Kaikilta <del>Myt</del></l>
+                    <l>mustasamäisä ja Runsjöniltä, wan Kaikin</l>
+                    <l>Enimän minulta</l>
+                </p>
+                <p>Anti Porkka,</p>
+                <pb n="3" facs="0268_0077775_016" />
+                <p>friär 25 päivänä T: K: v. 1822.</p>
+                <p>
+                    <l>P:S: Minä meinaisin Lähäteä tämän <add>Suomenlais<gap/>n</add> kjerian</l>
+                    <l>wiimen Postisa, van sain Kulla, Etä Niles</l>
+                    <l>orainen oli Kieriain Kansa Tulut Leikavaiti-</l>
+                    <l>nale, Enkä Ennätännä Männä Sunnuntaina</l>
+                    <l>Soaha Kjeriat Östmarkin, minä puhutelin</l>
+                    <l>papia, se ei tahtoina Kuulutoa Kjerioia, Jos</l>
+                    <l>minä olen nyt Sanat tehnyt jokaisele Etä</l>
+                    <l>Heluntak päivänä östmarkisa wastan otoa ne ~</l>
+                    <l>joienka etestä månta Tuhata Kiitosta jällen</l>
+                    <l>Lähätän Kajkilta Suomalaisilta. minun pitäis </l>
+                    <l>Herralta Kysyä (östmarkin Torpailit on</l>
+                    <l>pỹytänä)  Eta ne on Kartanon miehiltä</l>
+                    <l>nin ahtistetu, nin Isoila husleiilä Kuin</l>
+                    <l>Kaikelä muula Tavala, ne pytäis tietoa, jos</l>
+                    <l>ei he jotais tavala Torpian ylös Kahoitas</l>
+                    <l>hyvilä miehilä, ja heitän Tuskaan, ja taitais</l>
+                    <l>tulla Ruunule veroa paneman. Juhoi Kähköi=</l>
+                    <l>nen Sanoi minule, Jotei hän fryxin papin</l>
+                    <l>tähe toihi Kieriutoa Erikoista Kierioa Herrale,</l>
+                    <l>minä tykäisin se oili tyhmästi, Kuin minä</l>
+                    <l>Totuuta Kieriutan, nin minä en taia peliä=</l>
+                    <l>tä Jumaloa eikä Ihmisiä. Täsä vielä</l>
+                    <l>on Eriki Markuxen poika Mustasamäisä</l>
+                    <l>nimensä</l>
+                </p>
+                <pb n="4" facs="0268_0077775_017" />
+                <p>
+                    <l>nimensä antanna Lauta Salmen Kierkon</l>
+                    <l>Jos taitais Kävastyä. Tässä on yxi asia Jota</l>
+                    <l>minä tahoin toimitoa: Anti Moilaisen täsä</l>
+                    <l>Purus torpala oli velkoa tukki Hantumie=</l>
+                    <l>hele Lauri Koarlen poiala fryxisa, Joka</l>
+                    <l>tuomion Kauta uulos oti, Ja piti maxaman</l>
+                    <l>3 Rixiä Pankusta, Jotka Länsmani Lauri</l>
+                    <l>ulholmi oli otana, waik ei hän yhtä ansk<gap/></l>
+                    <l>tä astuna, jos veärninskaran peäle tuomion</l>
+                    <l>Kieriuti Ja se Eritäin oti 2 Riksiä Rikselisä</l>
+                    <l>waivastan. se wailiti Länsmannia nin Koiraxi</l>
+                    <l>Eta Hänelä oli 2 muuta tuomiota, Joistei</l>
+                    <l>hän palkoa otanna Kuin heiti Rahat</l>
+                    <l>sai, nin Länsmani Kysyi palkan peran</l>
+                    <l>Ja oti 2 Riksiä Riksselisa Kummastai tuomiostaan</l>
+                    <l>ja Kuin se Länsmani pantoa niin se ota 10.</l>
+                    <l>Riksiä Rys<hi rend="underline">d</hi> ja Enemmänkin tuomiosta; silä</l>
+                    <l>minä tätä Jlmoitan, tjetä suahain, toko näin</l>
+                    <l>on oikein otoa, jos Ei, nin minä tahoin</l>
+                    <l>Etä Länsmanni tulisi syytetyxi, silä Kaiki</l>
+                    <l>veitinöilä toitistetan, ja miäikin Sckroan</l>
+                    <l>etei miun Kieriossain yhtän Sanoa <unclear>vahleta</unclear></l>
+                    <l>Löyty, sitä ej minä yhtän Pelkeä.</l>
+                    <l>Palio Terveyxiä,</l>
+                    <l>Anti Porkalta</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

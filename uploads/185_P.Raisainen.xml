@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-30">30.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:24</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>185</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-05-24">24.5.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_063" />                        
+                <p>Öijärillä sinä 24. p: Toukokuussa W: 1823.</p>
+                <p>Herra Gottlundi	Paawo Räisäinen</p>
+                <p> 
+                    <l>Myö Läximme Tukulmista sinä 9. p: Toukok;</l>
+                    <l>Ja terwennä myö kaikki tulimme kotiin. – </l>
+                </p>
+                <p>
+                    <l>Myö Norin suomalaiset tuli<ref>m<note>viivallinen m-kirjain</note></ref>e sinä 20. p:</l>
+                    <l>tässä kuussa: Jalkaamme hellety niin wahwasti</l>
+                    <l>että weri tuil jalan alta, waikka kyytiäkin</l>
+                    <l>wälistä <hi rend="underline">Leijattin</hi>. No miten kä han ajsjat ru=</l>
+                    <l>ennoo käũmän; Lansherralle prinssi antoi</l>
+                    <l>sen suuren inlakin Lukeax, sitten myö puhutte=</l>
+                    <l>li<ref>m<note>viivallinen m-kirjain</note></ref>e Lansherroa toisena pänä kuin hän sen kirjan</l>
+                    <l>oil suaanut; wān murista pa se sitä tahtoi, ja</l>	
+                    <l>sanoi että siheen on lian paljon sisään weitty! työ</l>
+                    <l>tulette wielä enemp kansan seassa haiseman</l>
+                    <l>ja minä waiwanen, jonka pita minun suurten</l>
+                    <l>syntien tähteen sen suuren kirjan Läwite Luke=</l>
+                    <l>man. Waan wiimex kuin myö Prinssiä puhutte=</l>
+                    <l>limme niin sanoi Lansherrälle kirjan antanen=</l>
+                    <l>sa ja Lupais walvoaxeen meijän asjasta, ja</l> 
+                    <l>sanoi ettej sen eneä piä jeähä uneuxeen. __</l>
+                </p>
+                <p>
+                    <l>Comiteen tahi synin Lupais Kuninkaskin pitwän</l>
+                    <l>tulla mehille tänä kesänä, ja Lupaiš kaikes</l>
+                    <l>meitä auttoaxeen kuin poara on totta jota sisän</l>
+                    <l>ootte pannu. waan kyllä ne Herrat tainno</l>
+                    <l>keänteä waleex jos kyllä totta oisˇ, kuin ej niin</l>
+                    <l>oo, että Suomalaisia Herroja tuloo, ja sinä</l>
+                    <l>itte tulet kanssa. Teällä on merkkälit ja muut</l>
+                    <l>Herrat</l>
+                </p>
+                <pb n="2" facs="0268_0078096_064" />   
+                <p>
+                    <l>Herrat olleet niin passi raiwossa meijän</l>
+                    <l>pois ollessa. Soijonmäin <hi rend="underline">nypyykarit</hi> on</l>
+                    <l>Gulbransi pihalle wiskuuttanna, ja Räisäi=</l>
+                    <l>set sakoille panetta<ref>n<note>viivallinen n-kirjain</note></ref>a; nyt on panttuuttanna</l>
+                    <l>93. Speçityyskän eistä; Sillä kuin ne oil antan=</l>
+                    <l>na Luan pyyätä. ~</l>
+                </p>
+                <p>
+                    <l>No mitenkä poijat riwastu? Tokko Lukewat?</l>
+                    <l>Minä jo sain kirjan ennen kuin ma Tukul=</l>
+                    <l>mista  Läxin että juoi Luke uskotust. __</l>
+                </p>
+                <p>
+                    <l>Jumala pitäkön sinua ja poikia terwen=</l>
+                    <l>nä. Poijat taijat jätteä Upsalaan, jos</l>
+                    <l>tänne tule Lähtö. Minä soisin sen kernas</l>
+                    <l>ti jos tulisit tänne, minä pelkeän ettej</l>
+                    <l>asjat rättään käy kuin ett’ ite tule. __</l>
+                </p>
+                <p>
+                    <l>Moijoselle minä jo maxoin Rahat ja kai=</l>
+                    <l>kille muille joille meijän oil welkoa. minä</l>
+                    <l>Lainnasin Poppiuxelt 60. Riksiä. Jotka ra=</l>
+                    <l>hat minun pitää hanelle postin kautta jäl=</l>
+                    <l>leen Lähättämään.</l>
+                </p>
+                <p><hi rend="underline">Poawo Räsäinen</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,30 @@
+{
+  "options": {
+    "leftPanelEnabled": false,
+    "minWidthBreakPoint": 610,
+    "overrideFullScreen": false,
+    "pagingEnabled": false,
+    "preserveViewport": false,
+    "rightPanelEnabled": true,
+    "searchWithinEnabled": true,
+    "nextButtonDisabled": true,
+    "prevButtonDisabled": true
+  },
+  "modules": {
+    "footerPanel": {
+      "options": {
+        "downloadEnabled": true,
+        "embedEnabled": true,
+        "fullscreenEnabled": true,
+        "minimiseButtons": true
+      }
+    },
+    "pagingHeaderPanel": {
+      "options": {
+        "localeToggleEnabled": false,
+        "pageModeEnabled": true,
+        "pagingToggleEnabled": true
+      }
+    }
+  }
+}

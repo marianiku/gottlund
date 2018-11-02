@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen, Paul Räisäinen > Carl Axel Gottlund; Paavo Räisäinen > Mats Räisäinen; Pekka Räisäinen > Mats Räisäinen</title>
+                <author>Paavo Räisäinen, Paul Räisäinen Pekka Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-13">13.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:60</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paul</forename></author>
+                            <author><surname>Räisäinen</surname>
+                                <forename>Pekka</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                            <title type="adressee"><surname>Räisäinen</surname>
+                                <forename>Mats</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>221</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Paavo Räisäinen kirjeen kirjoittaja ja Paul Räisäisen kirjeen kirjuri, Paul Räisäinen kirjeen sanelija, Pekka Räisäinen kirjeen kirjoittaja</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="66">suomi</language>
+                <language ident="fi-FI" usage="33">svenska</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1830-10-09">9.10.1830</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_216" />
+                <p>Öijeren den 9. Oçtober 1830.___</p>
+                <p>Herr Carl Axel Gottlund!</p>
+                <p>
+                    <l>Ederš Brefv af den 8. Juli d:ä: bekom jag nu först</l>
+                    <l>den 30 Sepetember, med markenš folket från Ombergšheden.__</l>
+                    <l>Gud wed hwar brefwene ligger få länge." Jag hafwar</l>
+                    <l>säkert trot, att ni och Mattiš skola warit I Finland,</l>
+                    <l>förthy jag inga bref hafwar fätt från Eder. Men nu</l>
+                    <l>feer jag att saken er annorlunda; att ni och Mattiš içke </l>
+                    <l>blifwer Öwer enš med hwar andra, och att Mattiš içke will</l>
+                    <l>lyda eder I det som ni påbjuder honnom, hwilket jag oçh</l>
+                    <l>fruçktade för, när han reste hemma ifrån, oçh förmanade</l>
+                    <l>honom med många Goda ord, och gamlaš Exemplar och sa=</l>
+                    <l>de, om dū lefwer som de, och tienar din Herre troget</l>
+                    <l>och lyder honom I alt det han beder dig, då kan dũ</l>
+                    <l>blifwa få lykkelig som dem har warit.__ Men nũ seer</l>
+                    <l>jag, att inga förmaningar hjelper Mattiš, ei heller han för=</l>
+                    <l>stär sin egen nytta.__ Nu kan jag içke annat seija oçh</l>
+                    <l>Råda häri, änn att ni låter honom komma hem, när ni nũ</l>
+                    <l>seer att han slet içke will forbettra sig, han er stor nog, han</l>
+                    <l>finner wäll weigen, men bed honom strengeligen att han fär</l>
+                    <l>flet içke begifwa sig I någon annan tienst. Men min wilja</l>
+                    <l>woro det ännu, att han bad om forläteste och blef hofš,</l>
+                    <l>eder, och tiente eder med ett troget hjärtta; Men si, det kan</l>
+                    <l>ikke wara wärt; Jag ser I hanš andra bref att han er</l>
+                    <l>redan borte ifrån er; oçh på arbete.</l>
+                </p>
+                <p>
+                    <l>Jag förjar så mycket för den poiken, när han içe kunnat</l>
+                    <l>förstå sin egen beste, oçh ni som wille honnom så wäl, oçh</l>
+                    <l>wille oplärt honom; Då hade det oçh blifwit mig än Ära.__</l>
+                    <l>Men se, alt er förgiäweš.</l>
+                </p>
+                <p><hi rend="underline">Paul Räisäinen</hi></p>
+                <pb n="2" facs="0268_0078096_217" />
+                <p>
+                    <l>Minä tahoin nyt muuta sulle kirjuttoa Suomen kielellä,</l>
+                    <l>minä en taija niin hywin uloš toimittoa minun asioain</l>
+                    <l>Ruohix kuin Suomex.__</l>
+                </p>
+                <p>
+                    <l>Nyt minä suaan sulle toimittoa mitenkä meijän mehtä</l>
+                    <l>hannnun on käynnä. Sitten kuin minä annaitin poiš</l>
+                    <l>Merkälin hannuista. Niin on hän kaikella lailla kiu=</l>
+                    <l>saillu, <del>a</del>ja yhen <del>a</del>ja toisen keralla kauppoa hioronna, kuin=</l>
+                    <l>ni wiimen sai kax miestä kerallaan myöntymän kaup=</l>
+                    <l>paan, ja nyt wiimesesšä aksionisša joka seisoi s: 6. päw.</l>
+                    <l>Syyskuusša, saiwat telslain ja weiwät meiltä mehän,</l>
+                    <l>ja tuliwat möyš Herroix meijän työn ja waiwamme yli=</l>
+                    <l>te. Ja tämä käyw tällä tawalla; Se toinen mieš näistä</l>
+                    <l>hänen hantu towerloistan Mäni Takaukseen, ja se toinen</l>
+                    <l>heistä huusi mehän itelleen; Merkäil hän ei ollu olewa=</l>
+                    <l>nasakka hanusša; ja sillä tawalla weiwät meiltä Mehän</l>
+                    <l>ja korottiwat niin korkeaseen hintaan ettei myö ikään oiš</l>
+                    <l>ollu hywä Maxaman, se korotettiin aina 6245. Norin Spe=</l>
+                    <l>cityskän. Kesällä oil meillä ensimäisisšä Açsioniloisša ai=</l>
+                    <l>na Telslai 4000. Speçistä, ja tällä hinnalla Möy wisšiin</l>
+                    <l>oisimme Mehän soanna illman Merkälitä. Eikä Mehtä</l>
+                    <l>oiš ollu enemmän weärtti, sillä tämä on uloš ruukat=</l>
+                    <l>tu mehtä, Rein=Holm hakkuutti hänestä 2000. toltia tukkia.</l>
+                    <l>Nämä kax Herroa, jotka nyt on kaupasša Merkälin keralla,</l>
+                    <l>owat kotosin meijän pitäjästä, ja <add>owat</add> hywiä ja siweytä</l>
+                    <l>miehiä; sillä myö ajattelimme, joutapa nuo soaha</l>
+                    <l>mehän koska hän niin kalliix tuloo. Waan još myö</l>
+                    <l>sen tiesimme että Merkäil oil hannusša keralla, niin</l>
+                    <l>myö oisimme ennen ite ostanna još hän oiš tullu maxa=</l>
+                    <l>man 8000. Speçia, sillä ei meijän oiš tai<ref>n<note>viivallinen n-kirjain</note></ref>a käywä pahem=</l>
+                    <l>min kuin nyt taitaa käywä. Merkälin sanotaan jo Uhwan=</l>
+                    <l>neen</l>
+                </p>
+                <pb n="3" facs="0268_0078096_218" />
+                <p>
+                    <l>neen, että hän reistoa opettoa Öijärin=Mehtäläiset tietä</l>
+                    <l>käymän, Minä telläilen heijän keralla niin kauwan, ettei</l>
+                    <l>heillä piä olla pusoa mihin hyö tikoawat. Niin köyhax</l>
+                    <l>hän jo eltäpäin käkiö meijät soattaman, kyllä hänellä nyt</l>
+                    <l>taitaa ollakki sata ruohia siheen koska hän on peäsnyt</l>
+                    <l>yhöx hallehtiax; Kyllä hän nyt willihtö ne towerinsakki</l>
+                    <l>yhtä pahax kerallaan. Se on niin kuin Sananlaskusša sanotān.</l>
+                    <l>pahalla on oaljon tekemista. waikka kyllä ne toiset miehet</l>
+                    <l>owat tähän <add>asti</add> olleet hywiä ja sieytä miehiä.__</l>
+                </p>
+                <p>
+                    <l>Niin että mitä nyt sanottawax tuloo; Niin on mulla nyt niin</l>
+                    <l>paha mielein, etten minä nyt tiä mitä pitää ruweta nyt</l>
+                    <l>tekemän; paraš oiš kuolla poiš tästä pahasta Maailmasta.</l>
+                    <l>Enš sain sen surun että mehtä poiš wietiin, ja Merkäil</l>
+                    <l>tuil yhöx isännäx. Paraillaan niin tuil kirjat lentäin,</l>
+                    <l>joisšanna sain nähä ettei Matti tahoi olla sulle Kuuliainen</l>
+                    <l>mut’ pyrki kotiin, ehkä minä oon ollu siinä toiwosša että</l>
+                    <l>hänestä oiš tullu mieš; waan neän että kaikki käypi tur=</l>
+                    <l>haan mitä yritetän.__</l>
+                </p>
+                <p>
+                    <l>Matiltä sain yhön yxnäisen kirjan, jonka hän oil itexeen</l>
+                    <l>kirjuttanna sinä 8. paiw: Elo=Kuusša. Josšama neän että hän</l>
+                    <l>on jo poiš erkainut sinun tyköäš, ja että hän on jo Moalla</l>
+                    <l>työllä, ja että hän jo aikoi olla Omperkin Markkinalla</l>
+                    <l>koto tiellä, waan eipä hän ollu wielä ehtinnä tullä sinne=</l>
+                    <l>kä, misšä han slärwä retkuilloo "Te nyt niin hywin! ja</l>
+                    <l>aja räiwä heti kotiinsa, ettei hän muihen palweluxiin ru=</l>
+                    <l>peaiš, minä tiän sen, kuin ei hän tahtoinna sinua totella</l>
+                    <l>sitä wähemmin hän muita totteloo.___</l>
+                </p>
+                <p>
+                    <l>Minä neän tästä toisesta Matin kirjasta että sinä oot soanna</l>
+                    <l>wahinkoa tylipalosta; ja että sinulta on palanna ylöš pal=</l>
+                    <l>jon kirjoja; Joka minun mielestain on sanken paha sanoma</l>
+                    <l>Kuulla</l>
+                </p>
+                <pb n="4" facs="0268_0078096_219" />
+                <p>
+                    <l>kuulla että sinun pitä kärsiä wahinkoa, muijen wastuxien</l>
+                    <l>teliin; Mitenkä hän se lie Maailmasša Laitettu että moinjai=</l>
+                    <l>jen ihmisten pitää paljon wastahaisuutta kärsiä; Niin moinjai=</l>
+                    <l>jen taaš sita wastan käypi hywin, ja niinkuin ite meinoawat.</l>
+                    <l>niin se aina kaypi meijän merkälinki. waan ei tuota taa</l>
+                    <l>tuliš minun katehtia, waan sanon ma häntä arwoltaan.__</l>
+                </p>
+                <p>
+                    <l>Meijänni Suomalaisten se taaš tuloo keil paha enš</l>
+                    <l>wuonna eeš ottaita, teällä tuloo niin kowa aika, ettei suin=</l>
+                    <l>ka oo ollu niin kowoa aikoa monen muistiin. Wilja se seiso</l>
+                    <l>kaikki ulkona wiellä, ja on jo seisonna Kuukauen ulkona</l>
+                    <l>sateen alla, ja märkänö poiš käsistammö. Enš kewäistä</l>
+                    <l>niin satoi sangen kauheasti, ja kylmä seä painoi kašwun</l>
+                    <l>poiš, ja nyt ne wähät jotka soatiin niin wielä märkä=</l>
+                    <l>nöwät.___</l>
+                </p>
+                <p>
+                    <l>Ei muuta nyt enemp tällä kertoa. Ju<del>l</del>mala pitäkön sinu=</l>
+                    <l>a aina terwennä, se on mun hartain Toiwoin.___</l>
+                </p>
+                <p>Poawo Räišäinen</p>
+                <p>
+                    <l>Kuinš kirjutat mulle, niin elä kir<del>y</del><add>iu</add>ta Kömmin kautta, sielä</l>
+                    <l>kirjat makoawat Puuwilla yhen Kuukauen, toisen wärälillä.</l>
+                    <l>Mutt kirjoita Carlstad och af lefnas hofš Communister Swen</l>
+                    <l>Dahlmann I Östmark; Sieltä kirjat tulowat Nopeenmittain</l>
+                    <l>minun luoxen.</l>
+                </p>
+                <p>Poawo R-nen,</p>
+                <pb n="5" facs="0268_0078096_220" />
+                <p>Öijeren d: 9. Oçtober 1830.__</p>
+                <p>Sonnen Matš Räišäinen.__</p>
+                <p>
+                    <l>Dina brefwer hafwer jag nu först bekommit, Den första bref</l>
+                    <l>som du hade skrifwit den 9. Juli bekom jag den 30. Septembr: som</l>
+                    <l>war med Herr Gottlundš bref. Den andra brefwet som du hade skrif=</l>
+                    <l>wit den 8. Augusti; bekom jag nu den 7. Oçtober.__</l>
+                </p>
+                <p>
+                    <l>Till swar på tit första bref; Hwad er det att jag hörer sådant om</l>
+                    <l>dig? Lärde jag dig içke, att du skulle Lyda din Herre och mestare</l>
+                    <l>I att det han dig befalte, samt att du skulle flittig taga I akt</l>
+                    <l>hwad han dig lärer. Men nu seer och hörer jag, att du will içke</l>
+                    <l>Lyda honom, ei heller efterfölja minä Goda Råd och formaningar.</l>
+                    <l>som dig kunne lenda till <del><hi rend="underline">gagn</hi></del> gagn och nytta I <add>en</add> fram tid.__</l>
+                </p>
+                <p>
+                    <l>Jag tykker du sielf kunne förstå att ingen kan blifwa Herre for än</l>
+                    <l>han tienar först; Och wille du lyda ännu mit Råd, så borde <del><hi rend="underline">de</hi></del> du</l>
+                    <l>bedja Gottlund on förlåtelse på dina förfeelser och blifwa när</l>
+                    <l>honom ännu. Men kan henda, att dina bråt er så stor hofš</l>
+                    <l>Gottlund att han will icke till gifwa dig det.___</l>
+                </p>
+                <p>
+                    <l>Och hwad er det: att du skirfwer hem, oçh Giör lika som gek</l>
+                    <l>af mig, oç seiger att dig er så långsamt, oçh att du ihög kom=</l>
+                    <l>mer de Norska Flikkor, er det någon ärä af dig? att du skrif=</l>
+                    <l>wer sådanne smedeš ord till dina Foräldrar; hwad for Flikkor skul=</l>
+                    <l>le ett barn hafwa; eller kunde du içke hafwa warit hofs dina</l>
+                    <l>Flikkor och ingen gång gåt ifrån dem, så hade jag, oçh Gott=</l>
+                    <l>lund sluppit den harman som wi nu hafwer öwer din halstarig=</l>
+                    <l>het.___</l>
+                </p>
+                <p>
+                    <l>I dit andra bref sä seer jag, att du er redan bort skiuten</l>
+                    <l>ifrån Gottlund, och er på landet, och arbetar, oçh å stunder</l>
+                    <l>att komma hem till Ombergš Marknaden; Sadant wed du, att</l>
+                    <l>det er Glädelikt för mig att få weta.___</l>
+                </p>
+                <p>
+                    <l>Pakka dig nu hem det suarest du kan. Du må icke blifwa</l>
+                    <l>der längere och strycka werlden omkring, sosom Carl Sikan</l>
+                </p>
+                <pb n="6" facs="0268_0078096_221" />
+                <p>
+                    <l>giör. Eiheller må du içke begiwa dig I någon annan</l>
+                    <l>tienst. Giör du det; så giör jag dig ledig från all Arfš</l>
+                    <l>Rett. Om dũ nu här efter skulle komma til att skrifwa</l>
+                    <l>till mig innan du kommer hem, så skrif att brefwet kom=</l>
+                    <l>mer om. Östmark, oçh içke om Kymmen, så ko<ref>m<note>viivallinen m-kirjain</note></ref>a de</l>
+                    <l>för i mina hender.__</l>
+                </p>
+                <p><hi rend="underline">Paul Räisäinen</hi></p>
+                <p>
+                    <l>Sinä kiriutit tänne että mun</l>
+                    <l>pitäs ottoa sun soamisians</l>
+                    <l>ulos. van mina en o soanna</l>
+                    <l>ulos yhtä killinkiä yhöltä ulos</l>
+                    <l>Kankkas Matti ei o maxanna</l>
+                    <l>vensperin Heikiä meit se=</l>
+                    <l>rävää minua.</l>
+                </p>
+                <p>
+                    <l>van jouvu nyt kotin niin sinä</l>
+                    <l>soat ulos kankas Matti seon tar=</l>
+                    <l>jonna että minä saisin ajoa hännen</l>
+                    <l>omilla hevosilla tukkia rotnan ja</l>
+                    <l>mūva varholmilen van minä en jou</l>
+                    <l>vo: ei mitä muta mut elä hyvin</l>
+                    <l>Johanes on tollo kotin ja on ruve</l>
+                    <l>nna koulu miehex</l>
+                </p>
+                <p>Pekka Räis<hi rend="underline">ainen</hi></p>
+                <p>
+                    
+            </div>
+        </body>
+    </text>
+</TEI>

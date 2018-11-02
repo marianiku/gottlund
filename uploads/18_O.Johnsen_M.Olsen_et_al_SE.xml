@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ole Johnsen, Mathis Olsen et al > Carl Axel Gottlund</title>
+                <author>Ole Johnsen, Mathis Olsen et al</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-05"></date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:12:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Johnsen</surname>
+                                <forename>Ole</forename></author>
+                            <author><surname>Johnsen</surname>
+                                <forename>Mathis et al</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>18</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="se-SE" usage="100">svenska</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Nordre Graaberget, Södra Graaberget på Skaaroholm">Nordre Graaberget, Södra Graaberget 
+                            på Skaaroholm</placeName>
+                        <date when="1821-09-17">17.9.1821</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077757_001" />
+                <p>[Kaksi saman päiväyksen kirjettä ruotsiksi]</p>
+                <pb n="2" facs="0268_0077757_002" />
+                <p></p>
+                <pb n="3" facs="0268_0077757_003" />
+                <p></p>
+                <pb n="4" facs="0268_0077757_004" />
+                <p></p>
+            </div>
+        </body>
+    </text>
+</TEI>

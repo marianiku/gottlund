@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nils Orainen > Carl Axel Gottlund</title>
+                <author>Nils Orainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:26:2</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Orainen</surname>
+                                <forename>Nils</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>62</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Erotettu Antti Porkan kirjeiden yhteydestä. Orainen sanellut kirjeen, Porkka toiminut kirjurina.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Lekvattnet">Lekvattnet</placeName>
+                        <date when="1822-10-24">24.10.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077771_003" />
+                <p>annetuu Leikawaitnalla sinä 24. päivänä Loka=Kuusa v. 1822</p>
+                <p>Niles Oraiselta Herra Gottlũndile!</p>
+                <p>
+                    <l>Paljo Kost Jumalajta Kajkista Neovoista, Jotka</l>
+                    <l>Hän toimita Meitän pualemme.</l>
+                </p>
+                <p>
+                    <l>Minun Ja Eriki veljnin synii <unclear>Kjeriat</unclear> oljwat</l>
+                    <l>Kesällä Kuokunan täminäisä, Ja <unclear>sielä</unclear> pappi</l>
+                    <l>ja Suokuna sanoi: Jota ei meiiän mitän</l>
+                    <l>palkiinosta tarvihtevan, Ja eikös ne</l>
+                    <l>niin liene peäle Kjerjutanna; ei ne oo</l>
+                    <l>meiltä parempoa syyni Kjerioa tahtonna</l>
+                    <l>Minä en nyt taiia useampaa syyni</l>
+                    <l>Kjeriaa tehä, Kuin Ei pappi minulen mitän</l>
+                    <l>apua tahoi antoa.</l>
+                </p>
+                <p>
+                    <l><unclear>Monsan</unclear> Jaanin asiasta minä en o muuta Kuuluna</l>
+                    <l>Jos meiiän <unclear>stäiti ulli</unclear> Kjerkon vartia puhui,</l>
+                    <l>jota Lekari oli Kesällä olut syynihtemasa</l>
+                    <l>sitä wanha Ruumista, Ja paljo wäkeä oli</l>
+                    <l>Kjerko pakkala Ja pitivät puolitain</l>
+                    <l>Käräitä, ja sanoi, Jota ei yhtän <unclear>vetineä</unclear></l>
+                    <l>olut</l>
+                </p>
+                <pb n="2" facs="0268_0077771_004" />
+                <p>
+                    <l>olut Joka sitä <unclear>tutiski</unclear>, Ja Enemmän en minä</l>
+                    <l>oo siitä asiasta Kuulunna Kjerkossa <unclear>ulii muuala</unclear>.</l>
+                    <l>Räisäinen pyytä Mainihtiman, Etä Öjjärin</l>
+                    <l>Mehtä on auksionisa miöty vieraile Kaupa=</l>
+                    <l>miehile, 8440 Sp<hi rend="superscript"><hi rend="underline">dn</hi></hi> <gap/>, Ja nyt on jte Kuninkas</l>
+                    <l>olut sielä, ejkä ostanna Noriin Miehet</l>
+                    <l>mahto Jo Ruuweta pelkiämän, van ei</l>
+                    <l>Räisäinen vielä pelkeä, Jos aatelo Kauppa=</l>
+                    <l>miesten tehnen pienen <unclear>skelmyyru</unclear> Suomalai=</l>
+                    <l>sia peloittaaxen, Ja pyyta näin tahi Porkan</l>
+                    <l>(Kumpainen ennen Kjeriuta) tämän <unclear>mainihtun</unclear>.</l>
+                    <l>Se olisi lysti saaha Kuulta Milloinkan <del>u</del></l>
+                    <l>miö taitaikme toiwoa niitä Kjerkoia, wan</l>
+                    <l>toko Herrakan sitä taitano tjetä, toivome</l>
+                    <l>Hänen nuista Jotai mainihteman.</l>
+                </p>
+                <p>
+                    <l><unclear>Niliältä</unclear> minä olen maxun saanu wiikko</l>
+                    <l>Sanomistä Ja Porkale antanna, van on minä</l>
+                    <l>tietä Toko se on vielä saana yheltäkää.</l>
+                    <l>paljo Terveyxia Kaikilta Ja enimitäin minulta</l>
+                </p>
+                <p>
+                    <l>Nils Orainen</l>
+                    <l>Lautamies</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

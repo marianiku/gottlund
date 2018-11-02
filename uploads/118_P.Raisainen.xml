@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author> 
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>118</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Muut nimet: Poawo Räisäinen, Paul Øijern, Pawali Räisäinen. Mahdollisesti myös Paul Pedersen Räisäinen.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1821-11-22">22.11.1821</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_001" />
+                <p>
+                    <l>Luve muhen tietämätä!    Jos nyt kaikki hyvin kaũvis </l>
+                    <l>että me Krunun ala tulisimme Niin tahtoivat Salmella</l>
+                    <l>Olla lähin perilsiä minun kyläini; Sillä että heitän</l>
+                    <l>isän äiti oli wanhin Sisar Maria Pietarintytär Ojnoi=</l>
+                    <l>sia. ~ Tämä Pietair Ojnoinen kuoli, Sitte tuli Ola Räisäi=</l>
+                    <l>nen ottaa hanen leskeensä Kertoi Laurintŷttären joka oli</l>
+                    <l>perillinen tähään kŷlään, jota kotsutaan ylä Öijärix.</l>
+                    <l>Sitte sua Ola Räisäinen Tämän Kertoin <del>käsä</del> kansa yhten</l>
+                    <l>tyttären, Lisa Olan tyttar. joka oli minun äitini Emä. ~</l>
+                    <l>Tämä Ola Räisäinen telleä ennen mainitun Marian</l>
+                    <l>Salmellen, ja Naita hänelle miehen Erkki Talakaran</l>
+                    <l>ja pykeä heilen huoneita taitta peltoa, ja hyö olit</l>
+                    <l>kyllä mielelläns tähään. Sitte Naitoi Oman tyttärens</l>
+                    <l>ennen mainitun Lisan tähään kylään. ~</l>
+                    <l>Minä tykkeän jos oikeuvet laillen kävis, niin</l>
+                    <l>minä olen, niin lähinen kuin Salmelaisetkiin, Sillä</l>
+                    <l>että he tyvät siheen.________ ja Salmella ovat</l>
+                </p>
+                <pb n="2" facs="0268_0077781_002" />
+                <p>
+                    <l><del>etäneet</del> eläneet nin hyvin kuin meitänkiin</l>
+                    <l>Kyläässä. Me olemme yhtä wertä sen tähe još</l>
+                    <l>minun äitini emä oli nuorempi sisar, ja tojsta</l>
+                    <l>miehestä, Sillä ej miehet olleet perillisiä Kumpanen=</l>
+                    <l>kaan, he tulivat naimisella. – </l>
+                </p>
+                <p>
+                    <l>Öijärissä <hi rend="underline">sina</hi> 22. p. Novemb: kuussa 1821,</l>
+                    <l>PaulPietarinpoika Räi<hi rend="underline">säinen</hi></l>
+                </p>
+                <p>
+                    <l>Herrallen</l>
+                    <l>Korkiast oppinulle ja Hyvin ku<ref>n<note>viivallinen n-kirjain</note></ref>ioitettavalle</l>
+                    <l>Carl Axel Gottlund<hi rend="underline">ille</hi>.</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

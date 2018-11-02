@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka > Carl Axel Gottlund</title>
+                <author>Antti Porkka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:29</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>94</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Runsjön (Rumsjön, Rensjön)">Runsjön (Rumsjön, Rensjön)</placeName>
+                        <date when="1830-04-02">2.4.1830</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_086" />
+                <p>Runsjön den 2 Aprill 1830.</p>
+                <p>Herra Gottlun<hi rend="underline">dille</hi>! </p>
+                <p>
+                    <l>Minun tule suuresti kiiteä </l>
+                    <l>Herroa kjerioista Jotka hän </l>
+                    <l>lähäti minullen, ne miehet </l>
+                    <l>toiwat Ja antoiwat kätestä </l>
+                    <l>käten – minä olen Jo Otawan </l>
+                    <l>lukena läwiten, waika se </l>
+                    <l>on ollut niin hienoa prän-</l>
+                    <l>tiä, jotel minä ouk nähnyt </l>
+                    <l>kuin ej päiwä ouk selwästi </l>
+                    <l>paistanna – se on kumma </l>
+                    <l>kuin mun silmain on </l>
+                    <l>tullut niin huonoxi Ja </l>
+                    <l>minä en ouk mut 46 aia=</l>
+                    <l>staian wanha, enkä ole </l>
+                    <l>löytänyt laisisilmia, Jotka </l>
+                    <l>kelpoa. minä olen koko=</l>
+                    <l>tanna Herran tulewan</l>
+                    <l><hi rend="underline">tänne</hi></l>
+                </p>
+                <pb n="2" facs="0268_0077775_087" />
+                <p>
+                    <l>tänne etä olisi asioita saanut  </l>
+                    <l>tarkemma puhua, wan ej ouk </l>
+                    <l>kuulunna. Minun poikaini </l>
+                    <l>on yx 16<hi rend="underline">en</hi> wuon wanha, ja toi- </l>
+                    <l>nen 14<hi rend="underline">en</hi>, wan ne ej tahoi niin </l>
+                    <l>kauvas mitenkä männä. </l>
+                </p>
+                <p>
+                    <l><ref>*<note>Seuraavat 10 riviä merkitty, lisätty huomautus "obs"</note></ref>Mammoilan Juhoi pyysi </l>
+                    <l>män kapion Lähätämän ja </l>
+                    <l>saaman tjetoa toko heila on </l>
+                    <l>oikeus ottoa niin moneta </l>
+                    <l>Reisulta maxun, se näyta etä </l>
+                    <l>se on mittarin sytä, kuin</l>
+                    <l>hän kuhtii Taxering mihet </l>
+                    <l>ennen kuin hän on walmissa</l>
+                    <l>Ja ne on ollut Talonpoikaien </l>
+                    <l>Ruuwassa. Tällä asialla ne on </l>
+                    <l>jo ollut käräisä, wan <del>ne</del> tuli </l>
+                    <l>tuomituxi maxaman, Talon=</l>
+                    <l>poiat syxivät asiain tulevin </l>
+                    <l>Lagmannin Käräisin, jossa </l>
+                    <l>hyö aikois häntä paremin </l>
+                    <l>keskutella kuin tiatoa </l>
+                    <l>saii</l>
+                </p>
+                <pb n="3" facs="0268_0077775_088" />
+                <p>
+                    <l>saisivat mitenkä hyö laitaito.</l>
+                    <l>Matti Hämäläinen <unclear>arvelo</unclear> palion </l>
+                    <l>hänen asiata.</l>
+                </p>
+                <p>
+                    <l>Ej hän kuulu niiltä pitkiltä </l>
+                    <l>Herroien päiwiltä mitän, mitä </l>
+                    <l>hän tuolla lie peällen lyöty? </l>
+                    <l>tämän kierian minä laitan </l>
+                    <l>miehillä jotka on mäneviä </l>
+                    <l>Tukkulmin töilen, ja tohtisi </l>
+                    <l>Herra olla hywä ja nopeiimitoin </l>
+                    <l>wastaita tämän peälle. </l>
+                    <l>Minulla ej ouk muuta tällä  </l>
+                    <l>kerralla kuin paljon Terveyxa</l>
+                    <l>iä, Jumala olkon Herran kan= </l>
+                    <l>sa! </l>
+                </p>
+                <p>AntjPorka</p>
+            </div>
+        </body>
+    </text>
+</TEI>

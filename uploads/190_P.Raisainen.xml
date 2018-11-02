@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-30">30.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:29</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>190</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Runsjön (Rensjön, Rumsjön)">Runsjön (Rensjön, Rumsjön)</placeName>
+                        <date when="1823-08-16">16.8.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_079" />
+                
+                <p>Runsyönillä sinä 16. p: Elokuussa 1823.__</p>
+                <p>Poavo Räisäinen Herra Gottlundille</p>
+                <p>
+                    <l>Nyt oon minä ja Porkka tässä jaka<ref>n<note>viivallinen n-kirjain</note></ref>a</l>
+                    <l>ne Köyhäijen kirjat, kullenki Listan jäl=</l>
+                    <l>keen. Ja Soikaiselle minä Lähätän omas=</l>
+                    <l>ta osastain, Kolmet Kirjoa kustai Laista,</l>
+                    <l>että hänen jakailla niitä Riääsän ja Gun=</l>
+                    <l>neron suomalaisille. Listan jälgen minun</l>
+                    <l>osallein ois pitä<ref>n<note>viivallinen n-kirjain</note></ref>ä olla 12 <hi rend="underline">tä</hi> kutai Laijja.</l>
+                    <l>waan eipä niitä niin ollu. Missä oil 9.</l>
+                    <l>10. 11. 12. aina Laista._ __</l>
+                </p>
+                <p>
+                    <l>Isääns tekemiä niitä oil 61. kappa=</l>
+                    <l>letta, ja 4. nitottua Bibliseuran kirjoa,</l>
+                    <l>jotka oil mulle, ja Porkalle, ja Carl Sikai=</l>
+                    <l>selle, ja Kirsti Mulikalle Antin=aho</l>
+                    <l>Kenkix. Niin monta tuhatta Kiitosta ja</l>
+                    <l>kostjumaloa olkon sulle niistä kirjoista,</l>
+                    <l>muuta hywä tekoa meillä ei sulle oo; ja</l>
+                    <l>tokko tahtoisitkan, niin soanoo Jumala pal=</l>
+                    <l>kita jolla paras wara on.__</l>
+                </p>
+                <p>
+                    <l>Niin monta Kiitosta olkoon sulle, siitä kuins</l>
+                    <l>oot ulos hankinna niin monta kirjoa Bibli=</l>
+                    <l>seuralta tänne meijän köyhille. Nyt hyö mah=</l>
+                    <l>tais jloita kuin niitä suaawat. Sinun pitää</l>
+                    <l>tehäis niin hywin, Ettäs kannat kiitosta Bibli=</l>
+                    <l>seuralle</l>
+                </p>
+                
+                <pb n="2" facs="0268_0078096_080" />
+                
+                <p>
+                    <l>seuralle <add>meijän etest.</add> siitä suuresta Lahjasta kuin hyö</l>
+                    <l>on meille Lahjoittanna, sekä Bibelilöillä että</l>
+                    <l>muilla Bibliseuran kirjoilla, <del><hi rend="underline">Meijän eite</hi></del>.__ </l>
+                </p>
+                <p>
+                    <l>Tässä nyt seuroa poikaien Ristimä Atest.</l>
+                    <l>Ja myös rahat Turun wiikko=Sanomista multa,</l>
+                    <l>ja myös unga Hindriçh Hindriçhsonilta Hartikainen</l>
+                    <l><hi rend="underline">från</hi> Flatåsen, että näitä Rahoja on nyt 14. Riksiä,</l>
+                    <l>jotka tässä kirjassa seura.__</l>
+                </p>
+                <p>
+                    <l>Ja sitten myös seu<add>r</add>aa Henriçh Hartikaisen Jakama</l>
+                    <l>Bibel Lista. jonka Listan minun täytyy o<ref>m<note>viivallinen m-kirjain</note></ref>iin</l>
+                    <l>kirjuttoa raskauwen tähe.</l>			
+                </p>
+                <table>
+                    <row>
+                        <cell/>
+                        <cell>Bible</cell> 
+                        <cell>Nya</cell>
+                    </row>
+                    
+                    <row>
+                        <cell>Danjel Persson Flatåsen</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>So<ref>n<note>viivallinen n-kirjain</note></ref>en Hindriçh Hindriçhsson Flatåsen</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Enkan Kari PersDotter Flatåsen</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Juhyses Lars Mattsson Flatåsen.</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Hindriçh Hindriçhson Wiggen.</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Nils Sigfridsson Öijeberget</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Enkan Marit NilsDotter Öijeberget.</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Matts Mattssson Egelsjöberget</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Hindrich Mattson Högåsen</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Matts Hindrikson Kjärnberget</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Fryksände Finnar Kring Mången</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Hindriçh Andersson Snipa.</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Pål Nilsson Mångstranden.</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Nils Nilsson Mångstranden.</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Anders Andersson Nopen.</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Markus Markusson Mongen.</cell>
+                        <cell/>
+                        <cell>1.</cell>
+                    </row>
+                    <row>
+                        <cell>Pål Hindriçhson Mongen.</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Eriçh Eriçhson Snårberget.</cell>
+                        <cell>1.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <pb n="3" facs="0268_0078096_081" />
+                <p>
+                    <l>Summa näille Bibliöille on 7. Biblia 10. uuwistesstmet:</l>
+                    <l>waan eipä tämä Hartikainen ka o, kirjutta<ref>n<note>viivallinen n-kirjain</note></ref>a yhen-</l>
+                    <l>kä suku niimeä. Listaan alla hän oil kirjuttan-</l>
+                    <l>na näin.</l>
+                </p>
+                <p>
+                    <l>du äro nången som wil Biblar, män du äro</l>
+                    <l>får som wil <unclear>görra</unclear> Gũds ord <unclear>eller sen</unclear> .__	</l>
+                    <l>	Flatåsen d: 12. Julij 1823.__</l>
+                </p>
+                <p><hi rend="underline">ũnger Hindridi Hindrickson Hartikainen</hi></p>
+                <p>
+                    <l>X. Minä sanoin toisessa kirjassain, etten oo</l>
+                    <l>wielä suaanna tietä mitä amtmanni wastais</l>
+                    <l>Räisälän Miehille; waan nyt minä oon</l>
+                    <l>suaanna tietä, Tällä wiikkolla käywi yx</l>
+                    <l>Räisälän Miehistä mulla Luettamassa sitä</l>
+                    <l>Kirjoa jonka hyö oil suaanna Amtma<ref>n<note>viivallinen n-kirjain</note></ref>ilta.</l>
+                    <l>Siinä seisoi, ettei Räisälän Miehiltä piä sakkoa</l>
+                    <l>ottoa; siitä kuin hyö on antanna pyyätä me=</l>
+                    <l>hälleen, heillä pitä olla 2<hi rend="underline">hen</hi> kuukauen päi=</l>
+                    <l>wät wapaus<del><hi rend="underline">ta</hi></del> wäiwix; ettei yxkään suaa koskea</l>
+                    <l>eikä auksionerata ennen kuin asja paremmin</l>
+                    <l>perään kahotaan, ja wielä sittenni myöten antoa</l>
+                    <l>sakkoien kanssa paraittain kuin Laki myöten</l>
+                    <l>antaa. Waan suu sanalla Amtmanni oil sanon=</l>
+                    <l>na, kyllä työ piän piääsette Fideçomisistä, mullen </l>
+                    <l>on tullu Suppliçki Kuninkaaltä, että pyyteä</l>
+                    <l>Stats=Kassasta rahoa teillen Lainnax Mehtäie<ref>n<note>viivallinen n-kirjain</note></ref>e,</l>
+                    <l>ja tilaienne Lunastoksex; ja nyt minä oon kir-</l>
+                    <l>juttanna Rikierinkiin sitä asjasta, ja kyllä minä</l>
+                    <l>reistoan antoa teitä paraittain kuin minä taijan.</l>
+                    <l>Ja sitten oil kyselly mitenkä ne teijan mehäl ja </l>
+                    <l>tilat on tullu kauppa=miesten alle; ja oil muka</l>
+                </p>
+                <pb n="4" facs="0268_0078096_082" />
+                <p>
+                    <l>hywin ollu puhuttelewanasa ja Armahellu</l>
+                    <l>suomalaisia; Tokko han sitten Lie ollu sytä<ref>m<note>viivallinen m-kirjain</note></ref>en</l>
+                    <l>pohjasta.</l>
+                </p>
+                <p>
+                    <l>Niin reistoa siis wielä piäälle rohittoa Her-</l>
+                    <l>roja, ja niitä wirka Miehiä siellä Tukulmis=</l>
+                    <l>sa, Jlman siitä ei ikään tule piäätöstä.__</l>
+                </p>
+                <p>
+                    <l>Teällä jo pelkeä suomalaiset, sinun meijät</l>
+                    <l>ylen antaneen, sillä kuin ej sulta oo nyt het=</l>
+                    <l>keen tullu kirjutosta; ja sanowat ettei Tukulmin</l>
+                    <l>Herrat, eikä sinä eneä tänne tule. Siitä on</l>
+                    <l>jo myös Norlaiset ja Ruohtalaiset jloissan kuin</l>
+                    <l>ej Herroja Näkynnä tänne Messumuaarin Aj=</l>
+                    <l>kaan; ja sanowat kyllä se nyt jo ylite halaa</l>
+                    <l>Comiteen kanssa, koska ej hyö silloin tullu.__</l>
+                </p>
+                <p>
+                    <l>Terwehtä han poikia, Että myö elämme hywällä</l>
+                    <l>terweyellä kaikki kotona. Ja wuon tulo on san=</l>
+                    <l>ken korea alkeissa, kuin poara suaa oikean kyp=</l>
+                    <l>symisen; waan Jumala ties milloinka han kyp=</l>
+                    <l>synöö; tiäällä on niin paljon satettä. Mäki</l>
+                    <l>Kylissä ja pohjan muaajlmalla ej suinka ma=</l>
+                    <l>ha joutua, niissa nyt wasta syöxe ulos putkest.</l>
+                    <l>Waan heiniä tiäällä hywin tuloo kuin poara</l>
+                    <l>huoneisiin suaatasiin; Kotona on niitetty, waan</l>
+                    <l>Mehto niitut on wielä niitämätä; kotona on</l>
+                    <l>suaatu hywiä heiniä.</l>
+                </p>
+                <p>
+                    <l>Kauppa kirjosta minä Lähätän Rahat syk=</l>
+                    <l>syllä jokoma siihen suaan ulos tahi ej, Omistain</l>
+                    <l>pa minä oon pannu Turun Wiiko=sanoma rahat=</l>
+                    <l>ki. Minä oon monta sanoa antanna Lehmoiselle</l>
+                    <l>että hänen Lähätteä sanomista rahat. waan ej=</l>
+                    <l>paan oo kuulunna.</l>
+                </p>
+                <p><hi rend="underline">Poawo Räisäinen</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>

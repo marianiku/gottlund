@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pekka Matinpoika Karvainen > Carl Axel Gottlund</title>
+                <author>Pekka Matinpoika Karvainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:14:15</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Karvainen</surname>
+                                <forename>Pekka Matinpoika</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>34</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Kalnässet, Øyern">Kalnässet, Øyern</placeName>
+                        <date when="1872-03-17">17.3.1872</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077759_068" />
+                <p>Aholla lässä Kalnäsias 17 Malisk. 1872 ~</p>
+                <p>
+                    <l>Hyväst ku<ref>n<note>viivallinen n-kirjain</note></ref>iotetũllen</l>
+                    <l>H<hi rend="superscript"><hi rend="underline">r</hi></hi> C. Axel Gottlun<hi rend="underline">nillen</hi> Helsinkissä!</l>
+                </p>
+                <p>
+                    <l>On jo kauka jo sitten kuin kirjanne tehtyn=</l>
+                    <l>nä 5 p. joũlũkũũta tũil tänne jost paljon kostelen; mũlla</l>
+                    <l>oil Sukulainen joka tahtoi Tejiän Potrettin <unclear>naũteũn=</unclear></l>
+                    <l>=sä Imeisillen, sekin kunnioitta ja kosteloo Teitä siitä.</l>
+                </p>
+                <p>
+                    <l>Waimot ja Miehet teällä kernast tahtoisivat</l>
+                    <l>nähä Tejiän Tyttärienne kuvauxsia, van niitä on</l>
+                    <l>vaikea sũaha, sillä kuin nekin maxa markoja ja vielä</l>
+                    <l>post=pennitkin, jotta niitä ei oo puhumistakan ~</l>
+                </p>
+                <p>
+                    <l>Viimesellä oon tauvista tullut paremax, van ej</l>
+                    <l>kuitenka Lũngebetandels<add>tä</add>=tahoi huokeasta katketak.</l>
+                </p>
+                <p>
+                    <l>Harvaistehen mänövät vieläkin teältä Amerikan;</l>
+                    <l>teältä mejien ranniloita yhössä voliũssa 7 eli 8 henkea</l>
+                    <l>mänöö ens <del>m</del> – kuussa; van ei eneä niin paljon kuin</l>
+                    <l>yhen ajian ~ Imeiset kũolovat vahvasten poikkien</l>
+                    <l>jotta vain on harvuan joka on vanhemp kuin</l>
+                    <l>myo – oomme nyt ~ Teällä tuil männä vuonna</l>
+                </p>
+                <pb n="2" facs="0268_0077759_069" />
+                <p>
+                    <l>joxenni hyvä vuois; van Potiset pakkaiselta</l>
+                    <l>tarttui pakkan ja nyt märkänövät vahvast ylkan=</l>
+                    <l>tensa jolla tuloo paha [ensimmäinen a lisätty rivien väliin] siemenputisten perään. Vil=</l>
+                    <l>joa löutũũ muakunnissa hyvin, van on kallista</l>
+                    <l>nokka ~ Niiles Oraiselta on monta lasta ne ovat</l>
+                    <l>siinä Leikavaitnan S<hi rend="superscript"><hi rend="underline">nsa</hi></hi> jokũũ niistä on kuollut,</l>
+                    <l>Sen vanhimman N. Oraisen poijan nim on Niles ja</l>
+                    <l>sillä on mũn sisarein <hi rend="underline">Kari</hi> emäntänä, niillä</l>
+                    <l>ei oo lapsia ja ne elävät renti hyvin, yhössä tor=</l>
+                    <l>passa orinhöuvän takan Leikavaitnan forsamlin=</l>
+                    <l>kissa, jota ne – kuhtuvat <hi rend="underline">Österberiks</hi> ~ Wanha</l>
+                    <l>N. Orainen ja sen Akka ovat jo aikoa kuollet ~</l>
+                    <l>Mun tietein ej näissä riimi koppiloita löyvũk. </l>
+                </p>
+                <p>
+                    <l>Ukkoisen kynsiä <unclear><hi rend="underline">åskevigger</hi></unclear> niitä ei sũinkaan</l>
+                    <l>näissä löũvũk ei kũũlũ yhenkän niitä puhuvan.</l>
+                    <l>Ei oo mejian Qvalella sitä <del>ruja</del> <add>rũoja</add> jotta se on hyvä
+                        maxamaan niitä sen puhumia manũskriftterilöitä.</l>
+                    <l>Minä ymmärrän jotta Qvalen meinenk ois se jotta</l>
+                    <l>se trykkũtäis ne teällä, kuin sais joxenni</l>
+                    <l>hyvällä hinnalla ~ Kuin se Overlär<add>er</add><del>ter</del> Arne=</l>
+                    <l>sen F. Hallassa rupeais sen kanssa, niin ei’</l>
+                </p>
+                <p>
+                    <l><ref>*<note>lisätty s. 2 marginaaliin</note></ref>P.S. Tokkos nämä miehet: varpasalon Hirvainen savon karjalasta ja Nilo Kosoinen</l>
+                    <l>Savolax<hi rend="underline">esta</hi> lienöö tũttuja Teijan Kanssa?</l>
+                </p>
+                <pb n="3" facs="0268_0077759_070" />
+                <p>
+                    <l>tulis niin paljon maxettavax kumpasellenkin</l>
+                    <l>osallen ~ Johannes Räisäinen, sillä on koũlũ</l>
+                    <l>Distsiktinä Branvalan Suomalais mehtä, sen</l>
+                    <l>palka on vuoissa 99, Speciä, van sitten sen pitää</l>
+                    <l>piteä elon ihtensäk, se on vahvasten halla</l>
+                    <l>sarvenastansa eli kankũsta ~ Mũn tũloin sinne</l>
+                    <l>Suomeen taita olla ovissi, puara sillä kuin reissũt</l>
+                    <l>tahtoivat tũlla kallix pitkillä matkoilla.</l>
+                </p>
+                <p>
+                    <l>Herra – Aminoff käv teällä mejiän luona – </l>
+                    <l>tuil tänne puoilpäivän aikan, sitten samana</l>
+                    <l>eftana mũn pit völjätäin sitä <hi rend="underline">puralan</hi>, sen</l>
+                    <l>oil Rouva Badeindretninkissä Gottlannin</l>
+                    <l>suarella, ja hänen pit sitä myötätä vissinä</l>
+                    <l>päivänä sillä sen oil niin kiirek sitten</l>
+                    <l>minä en oo kũũllũ Aminoffista mitää ~</l>
+                </p>
+                <p>
+                    <l>Minä en muuten ymmäräk jos tejiän kir=</l>
+                    <l>jat on tullut ramillen ~ Eikö poikanne likan=</l>
+                    <l>=na Wenäläistä | kuin se nyt tuloo kotiin?</l>
+                </p>
+                <p>
+                    <l>Se on tũkäten paljon, kuin ei Tyttärienne ai=</l>
+                    <l>koa oo tũllut, jotta ne ovat naimiseen lantain=</l>
+                    <l>naan, enimmän osan miel on seittynen</l>
+                </p>
+                <pb n="4" facs="0268_0077759_071" />
+                <p>
+                    <l>jotta sen asjan pitää tapahtũmaan; mikä sitten</l>
+                    <l>paras lienöö!! – – Se on lian besvärliä</l>
+                    <l>Tejiän kirjũttoa tänne, sillä kuin Post</l>
+                    <l>killink on niin kallis tällä välillä</l>
+                    <l>Työ joka kirjuttaa tuhansia kirjoja</l>
+                    <l>vuoissa, se maxa monta rahoa puara</l>
+                    <l>Post=Porto ~ Ei Työ ikään suanna <unclear>redoa</unclear></l>
+                    <l>pellen sen teällä olleen papis eli Studenti</l>
+                    <l>miehen Suomesta jok teällä Reäsmar=</l>
+                    <l>kin puolla mäin naimiseen; se kallai=</l>
+                    <l>tin <hi rend="underline">Niculaũs Backman</hi> Imeiset sano</l>
+                    <l>jotta ei se ollut sen rattä nim jos se vuo</l>
+                    <l>tũil tanne villi nimellä. 3 &amp; 4 astaikoa <unclear>sinne</unclear></l>
+                    <l>käv tässä yx äkta Suomalainen joka kallaitin Petter <unclear>Erik</unclear></l>
+                    <l>Pũlkkinen Leppavirta, se oil fri kirjutosmies ja <unclear>Instrũ</unclear></l>
+                    <l>mũakair ja vielä Calvanisti sihen teliin se sanoi oleva</l>
+                    <l>ihellän veljen Qvebäkissä joka on Skips Chandler Mr</l>
+                    <l>P. Marker Borvery Strét N-10 Qvebeck – Minåoo</l>
+                    <l>kulkovien kanssa sillen kirjũtanna van en oo enem=</l>
+                    <l>=män mitää sieltä kullunna. Se oil nuoir korea mies, <add>se Pulkkinen</add></l>
+                    <l>eika renti kehnoissakavuatteissa. Eleä nyt hyvin Ihek ja paljo</l>
+                </p>
+                <p>
+                    <l>terveuxiä kaikillen</l>
+                    <l>Suvuillenne unskeä</l>
+                </p>
+                <p>
+                    <l>Tejiän </l>
+                    <l>Pekka Karvainen</l>
+                </p>
+                <p>[sivun reunaan kirjoitettu jonkun toisen huomioita ruotsiksi]</p>
+            </div>
+        </body>
+    </text>
+</TEI>

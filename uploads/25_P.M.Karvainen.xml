@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pekka Matinpoika Karvainen > Carl Axel Gottlund</title>
+                <author>Pekka Matinpoika Karvainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:14:6</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Karvainen</surname>
+                                <forename>Pekka Matinpoika</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>25</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Liitteenä ollut kirje Paavo Tikkaselle erotettu omaksi dokumentikseen.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Kalnässet, Øyern">Kalnässet, Øyern</placeName>
+                        <date when="1856-01-30">30.1.1856</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077759_024" />
+                <p>Hyvin Kunniotettũ Herra C. A. Gottlund!</p>
+                <p>
+                    <l>Kirjanne ja Avisit tũlivat tänne joulun alaisina</l>
+                    <l>päivinä, josta paljon tuloo mũn kiitteä ja kostella.</l>
+                    <l>Mitä mũn, ja meijan pitää tekemään Teillen sillä kuin</l>
+                    <l>aina telleätön kirjoia ja Avisia Kartaien Kanssa tänne</l>
+                    <l>meillen; ja myö oomme Wäkeä jotka ei oo hyvä</l>
+                    <l>tienastia Teillen tekemään yhenkä killingin eitek<del>jan</del>.</l>
+                    <l>Jumala teijät palkitkoon waivoistanne ja kostan=</l>
+                    <l>noxestanne. – Teällä on meitä Suomalaisia mon-</l>
+                    <l>ta tuhatta jonka tÿo tijätten, van tämä meijän van=</l>
+                    <l>ha Sũomenkiel rupea monessa paikassa unehtumaan,</l>
+                    <l>sillä kuin pitää puhua niin paljon norin ja Ruohin </l>
+                    <l>kieltä, van en usko teältä Röuvän=järven rantalta</l>
+                    <l>unehtũvan sen vielä 2 eli 300 sataan astaikaan täst=</l>
+                    <l>eispäin; vielä settenkin ovat Nȳsũookunan puolella vah=</l>
+                    <l>vempia Suomalaisia. – Suomenkjelen lũkũ se on vah=</l>
+                    <l>vasten unehtunna nuorelta kansalta, ja se on siitä sys=</l>
+                    <l>tä kuin pitää opetteleita mũankielen.. Kysytten mitenkä</l>
+                    <l>Joh. Räisäinen seisoo teliin: hänellä miesparalla on aina</l>
+                    <l>tahtonna olla vastahakaisũũtta hän nai nũoren tytön</l>
+                    <l><hi rend="underline">jämmerdalasta</hi> luoipuolta Wemon  <add>kylän</add> sitten mũũtti Söder=</l>
+                    <l>man=Lanniin asũi siellä välistä kuin köähä tymieš</l>
+                    <l>välista kuin torpair, tek siellä vahvasten työtä, jotta</l>
+                    <l>tärväis Rũajansa tuil sielta jälleen rũpeis sitten koũlũ</l>
+                    <l>miehex: – Kax elli kolt vũotta sitten kũil hänen vaimoonsa</l>
+                    <l>ja hũkkui samalla aikoa hänen 8 astaikenen poikansa,</l>
+                    <l>loput hänen lapseens kokevat tienata Imesten lũona,</l>
+                </p>
+                <pb n="2" facs="0268_0077759_025" />
+                <p>
+                    <l>ihek hän pitää koulũa. Palkoa on vũoissa 25 Hopea Speiciä.</l>
+                    <l>Hänellä on yx veil Olli nim. tahtoi sekii niinkuin</l>
+                    <l>myö moin muutkii kiesnähköön elskata lijax juoma</l>
+                    <l>vuorua joka on se ysin vika Imeisparalla kuin</l>
+                    <l>muan peälla löũtũũ. Se ruma vika tahtoo koũ=</l>
+                    <l>heä sukukuntoa völjätäk. Yx Räisäisen tytär Mair nime</l>
+                    <l>sai miehen Lehmoisia, ne mũũttivat Norrköpingin</l>
+                    <l>tienoillu, hy asũũ siellä hän on Nihtinä. Nuorin Räisäi</l>
+                    <l>vainoan Tyttölöista on Øijärilla Emänsä kanssa, hän</l>
+                    <l>on suanna Lapsen paraimman, ja paraite perjoai=</l>
+                    <l>tovan poijan kanssa kuin löũtũũ meijän Suomalai-</l>
+                    <l>sissa: han asũũ Wenksperissä, hän ruovoa vissiin</l>
+                    <l>60,000 Riksia Ruohin Riksjelttiä. Tũllokko heiltä</l>
+                    <l>naimista sitä ei tijetä, on tahtonna jeähä pitkään</l>
+                    <l>Sen Wenksperin Poijan nim on Pekka ja on mũli=</l>
+                    <l>koita sũkũisin. Teällä on tũllut kova aika poũta</l>
+                    <l>oil lijan kova. Rukiit maxaa 24 ja 26 kaurat 12</l>
+                    <l>Rixiä Tynneir. Heinät 20 kauran olet 8 Rixiä kipunta.</l>
+                    <l>Hyvä Hevoinen 100 Hopea Speicia Lehmät 10</l>
+                    <l>ja 20 Speciä. Ruohin Leiviskä Woita, 10 Riksiä</l>
+                    <l>Bankorahassa. <hi rend="underline">Soasom Tralost</hi> ovat kallita jolla</l>
+                    <l>on Tũkkia, suavat rättään hÿvän hinnan.</l>
+                    <l>Leikavatnalla on ũũs kirko tehty, sinä on Pap=</l>
+                    <l>pina yx jonka nim on Almqvist. <del>Poo</del> Pũũvil=</l>
+                    <l>lakiin (:Bogen:) on Kirko tehty. samalla lailla</l>
+                    <l>ovat ũũvet kirkot nũnkuin Höljũxessä ~</l>
+                </p>
+                <pb n="2" facs="0268_0077759_026" />
+                <p>
+                    <l>ja Kekliassa (:Djekneliden) siellä pietään Markinoita</l>
+                    <l>aina viimessä Tistaina Helmekũũssa. Østmarkissa</l>
+                    <l>on hyvä mies Pappina Frykmanni nimeltä.</l>
+                    <l>Suokũnan Post stanoa Talonpaijan Arvid Jöns-</l>
+                    <l>sonin luona Ostmarkin kylässä. – Norin avississa</l>
+                    <l>seisoo jotta Wenään ja Sũo Mahtien välillä on aktie=</l>
+                    <l>rattũ rauhoa 3 kũũkaũvex. ens kertoa. Lienenkö [toiset e ja n lisätty rivien väliin] toimit-</l>
+                    <l>tanna ennen jotta Christianiasta on raũtatie tehty</l>
+                    <l>Myösinjärveen ast. se on 6 Peninkuormoa pitkä</l>
+                    <l>sanotaan maxavan lähe<ref>m<note>viivallinen m-kirjain</note></ref>ä 3000,000 Hopea Speiciä</l>
+                    <l>sinä on Engelsmannit osamiehinä; ja paljo on Engels</l>
+                    <l>manneloita teällä. Myösinjärven rantaan tehään</l>
+                    <l>kapuntia jota <hi rend="underline">Hammarix</hi> kuhutaan, sihen on mũũt=</l>
+                    <l>tanna aivon paljon asũjamia. – Niiles Orainen</l>
+                    <l>elää vielä van on pakos kehno jaloistaan. Oinoinen</l>
+                    <l>Salmenlla elä hänni tuloo keh<add>n</add>onpäiväisex – .</l>
+                    <l>Minnekka hän lienöö Europaũs joutũnna eikö</l>
+                    <l>kuulũ? mitä se tek Teillen, kuin se oil vasta-</l>
+                    <l>hakainen ja mitä se sillä meinais? kesälla</l>
+                    <l>Messunmuarin aikaan oil hän vissiin pakos käuhä</l>
+                    <l>ei hänella näũttännä olovan jos kehnonlaiset</l>
+                    <l>wuatteet, eikös hänenkää liene tũllũ paha eis ottaita?</l>
+                </p>
+                <p>
+                    <l>Se on lianni paha joka kehnost skjöteäitä tässä</l>
+                    <l>kin mualimassa jotta ej tijäk missä stanoa enempi </l>
+                    <l>kuin Santa jota veis kũlettaa. – Ei oo kehũmis=</l>
+                    <l>ta jottama uskoa taijan nijenkää jotka muutivat</l>
+                </p>
+                <p>
+                    <l><ref>*<note>Lisätty s. 2 marginaaliin</note></ref>Tie hyvin paa mũnlacki Magister Tikkaisen kirjaan</l>
+                    <l>ja lähätä Hänelle Eikös työ oo Rannixia?</l>
+                </p>
+                <pb n="3" facs="0268_0077759_027" />
+                <p>
+                    <l>pohjũs Amerikkān <hi rend="underline">Illinoisin</hi>, <hi rend="underline">Wisconsiaan</hi> ja</l>
+                    <l>J<hi rend="underline">uvaa</hi>n. Tästä norinvalta kũnnosta on nyt män-</l>
+                    <l>nut sinne 70 elli 80,000 Henkeä. – Miten heijän</l>
+                    <l>seisonoo teliin, sitä ei vissiin tijetäk, silla kuin</l>
+                    <l>yks osa ei taho pũhũa niin pahoin kuin se</l>
+                    <l>taitaa olla ~ Kylät ja mehät ovat vah=</l>
+                    <l>vasten Kallit teällä, sillä kuin ne suavat</l>
+                    <l>hyvän Hinnan Tũkkiloistansa teällä; van Ruo=</l>
+                    <l>hin puolella eivät suakkaa sitä hintoa</l>
+                    <l>kuin teällä Norissa ~ Ruohin kron= Prin=</l>
+                    <l>sin on tänä talvena <add>meärä</add> muuttoa Christjoainin</l>
+                    <l>Slotillen asumaan teällä niinkuin Wise=Ku=</l>
+                    <l>ningaš. Pitää toimittoanne Rouvallene ja Lap-</l>
+                    <l>sillen meijän elämäkerrasta teällatä Ruohin</l>
+                    <l>ja norin raioilta asuvilta vanhoilta Suomen</l>
+                    <l>pois exyneeltä Kansalta. Taitakko Rouvanne ja</l>
+                    <l>Lapsenne Suomenkjeltä pũhũa? Helšoa</l>
+                    <l>meiltä Kaikillen – jotka tietäävät meijän</l>
+                    <l>teällä ausuntoa pitävän. Tietäkkö sivistynet</l>
+                    <l>Imeiset kaikessa Suomessa meitä teällä Loũtũvan</l>
+                    <l>näin paljon? Ja onko niillä tietoa miten kehnol=</l>
+                    <l>la mualla myo teällä asumme.</l>
+                </p>
+                <p>
+                    <l>Kalnæssel den 30</l> 	
+                    <l>Januar 1856.</l>
+                </p>
+                <p>       	
+                    <l>mid sand og serdeles Aktning</l>
+                    <l>Pekka Mattinpoika Karvainen</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

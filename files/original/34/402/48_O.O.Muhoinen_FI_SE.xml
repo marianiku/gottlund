@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Olof Olsson Muhoinen > Carl Axel Gottlund</title>
+                <author>Olof Olsson Muhoinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:22:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Muhoinen</surname>
+                                <forename>Olof Olsson</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>48</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="1">suomi</language>
+                <language ident="se-SE" usage="99">svenska</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Aspeberget i Dalby">Aspeberget i Dalby</placeName>
+                        <date when="1823-11-23">23.11.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077767_001" />
+                <p>
+                    <l>Talonmiehelda Olli Muhoiselda Aspbergista</l>
+                    <l>Kaarle Gottlũndille</l>
+                </p>
+                <p>[jatkuu ruotsiksi]</p>
+                <pb n="2" facs="0268_0077767_002" />
+                <p>[jatkuu ruotsiksi]</p>
+                <pb n="3" facs="0268_0077767_003" />
+                <p>[jatkuu ruotsiksi]</p>
+                <pb n="4" facs="0268_0077767_004" />
+                <p>
+                    <l>Philos. Candidaten</l>
+                    <l>Höglärde</l>
+                    <l>Herr Çarl A. Godtlund</l>
+                    <l>af finska Nation</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

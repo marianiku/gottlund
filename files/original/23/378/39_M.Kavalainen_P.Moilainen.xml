@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Matts (Matti) Kavalainen &amp; Pekka Moilainen > Carl Axel Gottlund</title>
+                <author>Matts (Matti) Kavalainen &amp; Pekka Moilainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:16:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Kavalainen</surname>
+                                <forename>Matts (Matti)</forename></author>
+                            <author><surname>Moilainen</surname>
+                                <forename>Pekka</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>39</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Pyörölamminaho; Strustorpet, under Bogen">Pyörölamminaho; Strustorpet, under
+                            Bogen</placeName>
+                        <date when="1822-08-30">30.8.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077761_001" />
+                <p>
+                    <l>Pyörän <unclear>Lamarein</unclear> ahhola sinä kuuna Augustina päivä 30.</l>
+                    <l>1822</l>
+                </p>
+                <p>
+                    <l>Meitän Rakkaunline Herra! Jumalan Siunaus olkon</l>
+                    <l>hänen Kansansa mjö Rukuileme sytämesta! </l>
+                </p>
+                <p>
+                    <l>Meö Kaiki ola Kiriudetty, <unclear>pyänne</unclear> Herroa: että hän on niin hyvä meidän</l>
+                    <l>Wastan ja Terotais meidän Kehnoo Kiriutosta, että myökin saame: jos niin</l>
+                    <l>on etta toyset fredrosan Metan asuvaiset saavat pois <add>tulla</add> Herran Kartanon</l>
+                    <l>allta myökin saame peästä samalla Laila Kun ne muotkin: että myö</l>
+                    <l>ej tule niten alla olevaiseksi: myö olemme Kuula, että ne muut metän</l>
+                    <l>piälä asuvaiset, oisevat Kiriutana siillalajla että hee saisi päästä</l>
+                    <l>Herran Kartanon alta: ja soaha oston päälä tilansa: Wan mee ej ole</l>
+                    <l><del>td</del> tiedänä siitä mitä: jos niin on: niin myökin Rukuilejleme, että</l>
+                    <l>myökin saame samalla laila soaha meitän Majjomame oston pääle: että</l>
+                    <l>Kirituksenme laitais <del>J</del> tulla Jälestä: Wan myö Luotanme <add>Herran</add> armon pääle,</l>
+                    <l>että hän <del>aittelo</del> ajatelo meitän asjame pariste: myökin oleme omalo</l>
+                    <l>Työlanme asuvaisia, Sen tauta <add>myö</add> itse <add>tahtosi</add> nautia meidän Waivaino</l>
+                    <l>Jumala! antoan meidän Herrame hyvin menestyä on <del>Med</del> meidän Rukusen=</l>
+                    <l>me </l>
+                    <l>oli oinoine Salmelta <add>Norista</add> Nainut Kaihlais Tontale</l>
+                </p>
+                <p>
+                    <l>Matti Kavalaine p= Löm</l>
+                    <l>peka Mojlane strus Torpasta</l>
+                </p>
+                <pb n="2" facs="0268_0077761_002" />
+                <p>
+                    <l><hi rend="underline">Till</hi></l>
+                    <l>Höglärde Herrn Herr-</l>
+                    <l>Carl axel Gottlund</l>
+                    <l><hi rend="underline">Upsala</hi></l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

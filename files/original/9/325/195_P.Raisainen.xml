@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-03">3.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:34</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>195</bibl>
+                        </msItem>
+                    </msContents>
+                    
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1824-01-02">2.1.1824</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_111" />
+                
+                <p>Öijärillä sinä 2.p: Ta<ref>m<note>viivallinen m-kirjain</note></ref>ikuussa w:1824.__</p>
+                
+                <p>Poawo Räisäinen 	Herra Gottlundille!</p>
+                <p>
+                    <l>Fideçomisin Mehistä ja tiloista, minä kir=</l>
+                    <l>jutin männä wuonna jotka myös täman keral=</l>
+                    <l>la seuraa._ __</l>
+                </p>
+                <p>
+                    <l>Mitä nyt tuloo sanottawax Rosinkrant-</l>
+                    <l>zin mehistä ja tiloista? Possåsan ja Kirk=</l>
+                    <l>komäin miehet, ostiwat ite mehtäsä tässä</l>
+                    <l>jo aikoa kesällä; Kaikki toiset puonnit tel=</l>
+                    <l>läsiwät Juhoi Honkoisen Kirkkomäistä mä=</l>
+                    <l>nemän eitteen aussioniin, ja puhuiwat yhteen</l>
+                    <l>jos sinä nyt suaat teilslain, ja osto tuloo,</l>
+                    <l>niin kyllä myö sen tähe taijamme kuhii maxoa</l>
+                    <l>osaamme. No, Juhoi tuon Lupais. ja mäin</l>
+                    <l>kaikkien eite auksioniin, ja sai takaus miehet</l>
+                    <l>ja osti mehät ja tilat. No mitä muuta ollak=</l>
+                    <l>kaa, kuin Juhoi Honkanen oil hywin suaa<ref>n<note>viivallinen n-kirjain</note></ref>a</l>
+                    <l>Kauppakirjat; Niin eipä meinannaa antoa</l>
+                    <l>toisten puontien olla kanssaan kaupassa jos</l>
+                    <l>meinais ite piteä kaikki, ja panna ne toiset</l>
+                    <l>puonnit koturloixeen. Mitäs puonnit haastoi</l>
+                    <l>Honkoisen Käräisiin; waan siellä yhtähywin tuil</l>
+                    <l>Tuomitux kaikki osoan maxaman. ja wout, ja Ri=</l>
+                    <l>wail oliwat torunna ja häwäsneet Honkoista,</l>
+                    <l>että Honkoinen sai seisoa häpeässä. Ja se oil</l>
+                    <l>hänelle niin kuin pitii, koska hän kelmyyttä meinais</l>
+                    <l>tehä. En minä ois Honkoisen kelmyyellä, uskonna</l>
+                    <l>tahtowan Foarata, minä oon pitännä hänet Rehellis=</l>
+                    <l>nä miessä; hän käwi jo kakiste mun Luonain mä<ref>n<note>viivallinen n-kirjain</note></ref>ä -</l>
+                    <l>kesänä</l>
+                </p>
+                
+                <pb n="2" facs="0268_0078096_112" />
+                
+                <p>
+                    <l>kesänä, ja muka oil toistenki asjoja ajawanans;</l>
+                    <l>ja puhui kyllä hywin napuriloistaan, ja <add>se</add> plää</l>
+                    <l>olla toimeenlinen mies joka hyweä puhu Ranni=</l>
+                    <l>Loistaan; niitä ei oo monta joka sen teköö.___</l>
+                </p>
+                <p>
+                    <l>Höksjöperin miehiä! en minä tiä, itekkö ne on</l>
+                    <l>ostanna mehtäsä wai wieraat?__</l>
+                </p>
+                <p>
+                    <l>Waan Graaperin mehät ja tilat, on wieraat</l>
+                    <l>ostanna.__</l>
+                </p>
+                <p>
+                    <l>Ula Tanelin poika Siekinen Lutualta, ja Pietair</l>
+                    <l>Matin poika Runflualta Ryslöstä! Kirjuttawat</l>
+                    <l>mulle, että Ryslön suomalaiset tahtowat Kirk=</l>
+                    <l>koa Runflaalle tahi Langflualle; ja rueta</l>
+                    <l>suomalaisten Kihlakuntaan ja <add>myö</add> <del><hi rend="underline">samaan</hi></del> samaan</l>
+                    <l>Käräkuntaan; waan Ruohin oppin, tahi norin.</l>
+                    <l>Eikä ne sitä tahoi että käyä kirkkoon Hoa=</l>
+                    <l>lin Järwelle, Mutt sanowat ettei siinä kirkol=</l>
+                    <l>la tie mitää, siinä ei tule niin ysöä seura=</l>
+                    <l>kuntoa kuin häijän Luona, siellä tulis pal</l>
+                    <l>jon wäkeä Ruohinpuoltaki, Ryslön kohalla,</l>
+                    <l>ja sitten kirjuttawat että ¼ peninkuormoa</l>
+                    <l>pois Runflualta tuloo Kupair tahi waski</l>
+                    <l>Ruukki ylös tehyx jo ens kesana. Sillä hyö</l>
+                    <l>uskoo että siinä tulis suuremp seurakunta</l>
+                    <l>kuin Hoalin järwella. Suomalaista oppia</l>
+                    <l>hyö kernaast muuten ottias, waan kansa on</l>
+                    <l>jo mest suomenkielen uneuttanna.__</l>
+                </p>
+                <p>
+                    <l>Tuomas Karhinen käwi myös tässa eöloin! ja</l>
+                    <l><add>pȳs</add> mun sulle kirjuttaman ja myös ilmiantaman</l>
+                    <l>asjoansa; Se hänen tilä Hyytjeälä, on ollu Krũs=</l>
+                </p>
+                
+                <pb n="3" facs="0268_0078096_113" />
+                
+                <p>
+                    <l>sotin alla. waan ankerille ja Fideçomisille, siitä</l>
+                    <l>Kytästä on wero tehty. Nyt meinais Tuomas</l>
+                    <l>Karhinen, että hän ois suaanna ostoa mehtänsä</l>
+                    <l>ja tilansa ja kahwais itelleen takaus miehet.</l>
+                    <l>waan Karhiselle ei sitä Lupoa annettu, jos</l>
+                    <l>woan sanottiin se tilä ja mehtä on ollu tämän</l>
+                    <l>Kartanon alla wahhuesta. Myö sen tahoi<ref>m<note>viivallinen m-kirjain</note></ref>e</l>
+                    <l>ostoa, wastais wout ja Gulbransi. Sitten ostiwat</l>
+                    <l>wout ja Gulbransi yhteen, Krũssetin=Kartanon, ja</l>
+                    <l>Hyytjäälän tilan ja mehän. Niin että Karhi=</l>
+                    <l>nen tiul heijän koturixi. Karhinen oil kelpa=</l>
+                    <l>hoilla mielin tästä. waan mitäs ruohia siihen</l>
+                    <l>Lie ennen kuin sinä tulet tänne; ja Armoillinen</l>
+                    <l>Kuninkas joutuu piää asjan kanssa. waan</l>
+                    <l>sitten minä uskon se käypi toisin Jumalan</l>
+                    <l>puolestä.___</l>
+                </p>
+                <p>
+                    <l>Retninkin minä Lähätän, waan ej Rahoja.</l>
+                    <l>Mina en suaa<ref>n<note>viivallinen n-kirjain</note></ref>a rahoja niin kuin ma mei=</l>
+                    <l>nasin. <unclear>Minun</unclear> oil suaamista yhestä war=</l>
+                    <l>sasta oisto ma meinasin nyt ulos suaha</l>
+                    <l>waan en suaanna niin kuin meärä oil.</l>
+                    <l>Ja siitä warsasta ois mun pitä<ref>n<note>viivallinen n-kirjain</note></ref>ä suäähä</l>
+                    <l>40. Riksiä. waan en suaa<ref>n<note>viivallinen n-kirjain</note></ref>a yhtää killin-</l>
+                    <l>kiä. waan kyllä mies on toimeenlinen,</l>
+                    <l>waan teällä on sūri rahan puutos Lioten=</l>
+                    <l>ki Ryxin puolla. Waan hywä kultänen</l>
+                </p>
+                
+                <pb n="4" facs="0268_0078096_114" />
+                
+                <p>
+                    <l>Gottlundi Elä minuun suutu. kyllä minä</l>
+                    <l>Reistoan; waan minäkä en ruowoa kaik-</l>
+                    <l>kia. waan kyllä mä wasta tylen wisaam-</l>
+                    <l>maxi ettemma porwoa kirjoja. Minä en</l>
+                    <l>oo wielä suaanna rahoija niista kirjosta</l>
+                    <l>jotkamä 1822. porwasin. waan se on</l>
+                    <l>mun oma syin siihen ei tule sun tekoa;</l>
+                    <l>sinä jo neuwoi<del>n</del><add>t</add> minua ettei Minun piä</l>
+                    <l>porwata. waan minä oon kuitenki hei</l>
+                    <l>tä porwa<ref>n<note>viivallinen n-kirjain</note></ref>a. Waan oil pa tuo miten ta=</l>
+                    <l>haan, kyllä tämä mun welka miehein</l>
+                    <l>nyt wissiin lupaa 2. tähi 3. wiikon sisään.</l>
+                    <l>ja siiheen minä Lähätän sulleki rahat.</l>
+                    <l>tämän postin jälkein.___</l>
+                </p>
+                <p>
+                    <l>Bibelit e joo wielä haittu waan nyt</l>
+                    <l>ens wiikkolla meinoa Porka Ryönilla nii-</l>
+                    <l>noutamaan. se<del>n</del> on suaanna kax kirjaa</l>
+                    <l>Bruzeliuxen puoli poijalta että hän</l>
+                    <l>niitä suaa noutoa kuin poara antaa</l>
+                    <l>Retninkin kunka Bibelöitä pita suaaha.</l>
+                </p>
+                <p>Ronsjönillä sinä 4. päiw: Ta<ref>m<note>viivallinen m-kirjain</note></ref>ikuussa 1824.</p>
+                <p><hi rend="underline">Poawo Räisäinen</hi></p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

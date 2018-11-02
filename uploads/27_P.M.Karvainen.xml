@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pekka Matinpoika Karvainen > Carl Axel Gottlund</title>
+                <author>Pekka Matinpoika Karvainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:14:8</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Karvainen</surname>
+                                <forename>Pekka Matinpoika</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>27</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Kalnässet, Øyern">Kalnässet, Øyern</placeName>
+                        <date when="1858-04-10">10.4.1858</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077759_032" />
+                <p>
+                    <l>Kallnäsissa sinä 10 p Huhtikuussa</l>
+                    <l>1858.</l>
+                </p>
+                <p>
+                    <l>Kunnianlinen</l>
+                    <l>Herra C. A. Gottlund!</l>
+                </p>
+                <p>
+                    <l>On jo kauka sitten kuin viimex kirjũtin</l>
+                    <l>Teillen, sentähten teköö mielein sũaha kũũl=</l>
+                    <l>taxemme mitenkä seisoo telin Teijan ihtenne</l>
+                    <l>Rouvanne ja Lapsienne? Wieläkö asũtten sinä</l>
+                    <l>Hellsinkissä ja ottenko terveitä??</l>
+                </p>
+                <p>
+                    <l>Teällä on tullunna paha rahan aika, jotta</l>
+                    <l>sen tautta tulo teälla <hi rend="underline">extra Ysötkärät</hi> jotka on</l>
+                    <l>meära alkoa 10<hi rend="superscript"><hi rend="underline">en</hi></hi> Mai forskommende tokko</l>
+                    <l>tuosta sitten tũlloo apua ej tietäk. Ũusia asjoita</l>
+                    <l>e joo sanottavax teälta meijan Suomalaisista,</l>
+                    <l>mũũta kuin ei oo kaukaan yhtää Suomalai=</l>
+                    <l>sta männut Amerikaan; van männä ke=</l>
+                    <l>vänä mäin monta Henkeä sinne <add>fra</add> Hoff. Åsnäs</l>
+                    <l>och Wåler Finskog, ovat siellä lyöteinnään</l>
+                    <l>muahan useampaan Statin. Nämä Imei=</l>
+                    <l>set teältä ovat enimmän osan ottanna</l>
+                    <l>asũnpaikkasa Minnesota=sa pohjois Ame=</l>
+                    <l>rikassa. Ysinmän osan mahta siellä olla</l>
+                    <l>heiän niin kuin pienest. Männä syksynä ~</l>
+                </p>
+                <p>
+                    <l><ref>*<note>Lisätty marginaaliin</note></ref>P.SK. Kuin puhex tulo jolloin kulloin minut ja mũn nimein niin</l>
+                    <l>pitää tervehtiä Kaikkia Suomalaisia mũn eittein, minä oon niin kaukana</l>
+                    <l>pois tejän luotanne jotta minä en taija muuta hyvyttä teillen tehä. Jumala</l>
+                    <l>olkoon teijän Kaikkien Kanssa!!!</l>
+                    <l>Ystavallisesti Pekka Karvainen.</l>
+                </p>
+                <pb n="2" facs="0268_0077759_033" />
+                <p>
+                    <l>tuil sielta Amerikasta tänne takaisin kax pairkũn=</l>
+                    <l>toa joka olivat Waissilan ja Skallbäkin sike=</l>
+                    <l>reelta kotoisin; hyö olivat siellä väha ylto 4jan</l>
+                    <l>aastaijan olivat asunna yhön kapunnin Luo=</l>
+                    <l>na jonka nim oil Rockford, oil heillä</l>
+                    <l>monjaita satoja RV=<add>viloita</add> miehellen kotin tũl=</l>
+                    <l>tuansa. – Monjaita meistä teällä nimittain</l>
+                    <l>Minä, ja kax tahi kolt mũn teliin oomme</l>
+                    <l>tellännä 8 Rixiä Cũarloistaan Postmestaril=</l>
+                    <l>len jotta suahaxemme Avisia, Sumetaria,</l>
+                    <l>van mitenkä meijan pitää telleämään</l>
+                    <l>jotta myö saisimme ne tänne Ruohin</l>
+                    <l>Post=Kantorilaillen, ja mitenkä meijän</l>
+                    <l>pitää tellätä maxũn heista, meijän tũtũl=</l>
+                    <l>len Ystävällemme Redaktor Poavo Tik=</l>
+                    <l>kaisellen. ~ Työ, Tikkaisen kanssa sai=</l>
+                    <l>ten plågantũa paljon nijen Sumetarien</l>
+                    <l>kanssa jotka työ teittön hyvin ja kenkä=</l>
+                    <l>sitten meillen toissa vuonna, ettönkä niistä=</l>
+                    <l>kä oo suanna jos puara Kostjũmalan</l>
+                    <l>jos vuan sekää lienöö tullũ ramillen.</l>
+                </p>
+                <p>
+                    <l><ref>*<note>Lisätty s. 2 marginaaliin</note></ref>P.K. Kuin meijän ystavaimme Pauvo Tikkainen joutaa niin</l>
+                    <l>luvetak hanella tämä Kirja. – Olisin minä tarvinna Ostoa Suo=</l>
+                    <l>men kjelisen <hi rend="underline">Nohrborin Postillan</hi>; van eikös se suane olla toistax. – </l>
+                </p>
+                <pb n="3" facs="0268_0077759_034" />
+                <p>
+                    <l>Ysö osa meistä ej tahtois kieltämme uneot=</l>
+                    <l>toa kũin sũinni käu laillen sita muistis=</l>
+                    <l>sa piteä. Meillä on teälla kaikki ne Tei=</l>
+                    <l>jän lähättämät kirjat, vielä tallella, jotta</l>
+                    <l>minä en usko meijän kielemme monjaseen</l>
+                    <l>sataan astaikaan vielä unehtuvan. ~</l>
+                    <l>Kun suinnii jonkin ruoin tijättön niin tellät=</l>
+                    <l>kea meillen Tikkaisen kanssa teijan Muanne</l>
+                    <l>Avisia, ja sanoa mitenkä ne pitää maxoa, sillä </l>
+                    <l>kuin tämä Postgångi on besvärliä. ~ Tokko</l>
+                    <l>meissa siellä Suomessa ois yxkää eneä tien=</l>
+                    <l>nä mitää kuin ej Työ ois ollut telissä!</l>
+                    <l>Pitää helsataanne erinomaitain Herra Poavo</l>
+                    <l>Tikkaisellen mun luotain ja vielä niiltä</l>
+                    <l>kaikilta, jotka saivat niitä lähätetytä Suome=</l>
+                    <l>taria lukeaxensa._Männä Wuonna oil teällä=</l>
+                    <l>kin erinomaittain sũũr hall Vuois, van teällä </l>
+                    <l>oil Imeisten seassa jotenkin hyvät tienastit</l>
+                    <l>jotta sekii vũois mäin yltö! (:på sät och vis:)</l>
+                    <l>Työ otten kuullũ jotta Leikavaitnalla on <hi rend="underline">Kirko</hi>
+                        siellä on Pappina yx jonka nim on Almqvist</l>
+                    <l>häntä päjvittää sen Suokunan Sũomalaiset ylenpal=</l>
+                </p>
+                <pb n="4" facs="0268_0077759_035" />
+                <p>
+                    <l>tisex stränkix miehex. Se on Wiljan Hantomies sano=</l>
+                    <l>taan sen nyt tahtovan 14 Riksia Tynneristä. - Niileš</l>
+                    <l>Orainen, E. Ojnoinen Salmella, ja E. Orainen Wike=</l>
+                    <l>rossa, ovat kuollet näin[ä] vimeisinä wuosina – </l>
+                    <l>Hyhälän Thomaski on kuollut, kauka sitten, –</l>
+                    <l>hanellä on poika Amerkassa sanotaan hänen</l>
+                    <l>elävan siellä renti hyvin ja rikastũvan j.n.e.</l>
+                    <l>Mittyselkä Raha aijat on nyt siellä Suomessa, ja</l>
+                    <l>Luieko nyt hyvä Wuois? Minnekkään se Eropaũs</l>
+                    <l>mahtoi ottoa tiensä? Suomen vai Ruhin Sukua=</l>
+                    <l>ko se on teijän mũan Guvernorinn<gap/> Berg?</l>
+                    <l>Onko Poikanne vielä ennättännä emmäs kuin</l>
+                    <l>Lutnantin virkaan? Onko Suomessa vielä teh=</l>
+                    <l>ty yhtää Jernbanoa? Teälla Norissa oil meärä</l>
+                    <l>tehä 2 eli kolt Jernbanoa van mahtoi rahat</l>
+                    <l>tälla ikään kuin vähimmäx jotta ej maha siitä viela</l>
+                    <l>niin nopeen tulla mitää. Mitenkään Suomaliset</l>
+                    <l>elevät Pietairporista ylöspäin Latogan ja Onekan ran=</l>
+                    <l>teilla ja Arkangelin päin; ja mitenkäs ne mei=</l>
+                    <l>jän sukulaisemme Pietarissa elävat? Jos niin pahoin</l>
+                    <l>kaũ jotta emme tule Avisia suoamaan niin kirjuta meillen</l>
+                    <l>ies ratoix joitai ũũsia asjoita! Pitää elänne hyvin ja </l>
+                    <l>helsata Rouvalleis ja Lapsilleis teijan tuttavalta</l>
+                </p>
+                <p>Pekka Karvainen</p>
+                <p>
+                    <l><ref>*<note>Lisätty s. 4 marginaaliin</note></ref>”Hikki Vinkan konst vettä lämmittämän on jo opit=</l>
+                    <l>tũ; ja mahta olla hyvä neũvo. josta kostellan”. DS.</l>
+                </p>
+                <pb n="5" facs="0268_0077759_036" />
+                <p>
+                    <l>Yx Landbruks Lärar ja Djũrlekare Johan Alarik</l>
+                    <l>Wegeliũs Mũstolasta, oil männä syksynä ollut teällä</l>
+                    <l>Guldbrandsdahlissa yxillä Markinoilla ostmassa <add>norin</add> kalli=</l>
+                    <l>=ta ja koreimmia Hevoisia, 2, Märeä ja 1. Orin; Orista</l>
+                    <l>sen sanottiin antaneen lähemmä 1600 Rixiä. siellä </l>
+                    <l>oil miehiä teältä <add>suomalaisista</add> sanottin Hänen kysellen mũn nimeäin</l>
+                    <l>ja niin eispäin. Jos sama Mies on lähettyvellä Teitä, niin helsat=</l>
+                    <l>koa hänellen jotta minä elän ja oon terve. – Pekka Karvainen</l>
+                </p>
+                <pb n="6" facs="0268_0077759_037" />
+                <p>
+                    <l>Lektoren</l>
+                    <l>Höglärde Hr C. A. Gottlund</l>
+                    <l>Hellsingforss</l>
+                    <l><hi rend="underline">Franca</hi></l>
+                    <l>Finland</l>
+                </p>
+                <pb n="7" facs="0268_0077759_038" />
+                <p>
+                    <l>Paljonko maxaa seitynen ysölänta Karta</l>
+                    <l>yltö Suomenmoan, jossa ympäri Reũno=</l>
+                    <l>ja <del>ovat</del> löũtũũvät kũinkin Moaosan</l>
+                    <l>(:Figũr:) Wapanit, korealta ja selvällä</l>
+                    <l>Trykillä kaunistetut? Minä näin seitysen</l>
+                    <l>Europaeuxellä; van minnekkä se Mies</l>
+                    <l>joutui, uppoisko Hän vai flyöttäis??</l>
+                    <l>Pekka Karvainen</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

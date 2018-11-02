@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Olli Martinpoika Hähmä > Carl Axel Gottlund</title>
+                <author>Olli Martinpoika Hähmä</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-07-30">30.7.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:2:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Hähmä</surname>
+                                <forename>Olli Martinpoika</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>153</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Erotettu Paavo Räisäisen kirjeiden yhteydestä. Hähmä ilmeisesti sanellut kirjeen Räisäiselle.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-02-25">25.2.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078088_001" />
+                <p>
+                    <l>Øijärillä sina 25.p: Helmekuussa 1823.</l>
+                    <l>Herra Gottlundi</l>
+                </p>
+                <p>
+                    <l>Minä Olli Mortinpoika Hähmä Soijonmäki</l>
+                    <l>Tahoin teille jlmi antoa Rakas Herra, min=</l>
+                    <l>kälaisen tuomion, meijän herrat nyt on mei=</l>
+                    <l>jän piäälle panna. Räisäisten, jotka meille</l>
+                    <l>Luan antoi pyyätä; pitä panna sakkoa 60. Spt:</l>
+                    <l>ja mun, ja Tuomas Räisäisen 20 Spt; ja huonet</l>
+                    <l>pitäis muaahan repiä, waan tätä tuomiota</l>
+                    <l>e joo wielä meille ylös Luettu, mutt suusanalla</l>
+                    <l>sanottuna että se niin on.</l>
+                </p>
+                <p>
+                    <l>Niin nyt myö pyyämme teitä Rakas Herra, ettäš</l>
+                    <l>tekisit sen Laupiuen ja Kirjuttaisit Meille sen=</l>
+                    <l>moisen Kirjan että myö taitasi<ref>m<note>viivallinen m-kirjain</note></ref>e piäästä siitä</l>
+                    <l>Sakosta ja suaaja jstua, ja periä sen wähän</l>
+                    <l>työmme. Sen kirjan myö pyyämme suaahaxeen=</l>
+                    <l>me nopeenmi kuin mahtoonlinen olla taitais.</l>
+                </p>
+                <p>
+                    <l>Olli Mortinpoika Hähmä</l>
+                    <l><hi rend="underline">Soijonmäki.</hi></l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

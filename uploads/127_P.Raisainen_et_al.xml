@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen, Danil Halvorsen Lehmoinen, Peder Olsen Räisäinen, Ole Olsen Mulikka, Tohmes Pålsen Räisäinen, Peder Mattusen Poalainen,
+                    Ole Eriksen Walkoisia, Ole Johanssen Kirnu, Ole Pedersen Soikainen, Torbiörn Torbiörssen Soikainen, Erich Hindrichson Orainen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen, Danil Halvorsen Lehmoinen, Peder Olsen Räisäinen, Ole Olsen Mulikka, Tohmes Pålsen Räisäinen, Peder Mattusen Poalainen,
+                    Ole Eriksen Walkoisia, Ole Johanssen Kirnu, Ole Pedersen Soikainen, Torbiörn Torbiörssen Soikainen, Erich Hindrichson Orainen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:10</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <author><surname>Lehmoinen</surname>
+                                <forename>Danil Halvorsen</forename></author>
+                            <author><surname>Räisäinen</surname>
+                                <forename>Peder Olsen</forename></author>
+                            <author><surname>Mulikka</surname>
+                                <forename>Ole Olsen</forename></author>
+                            <author><surname>Räisäinen</surname>
+                                <forename>Tohmes Pålsen</forename></author>
+                            <author><surname>Poalainen</surname>
+                                <forename>Peder Mattusen</forename></author>
+                            <author><surname>Walkoisia</surname>
+                                <forename>Ole Eriksen</forename></author>
+                            <author><surname>Kirnu</surname>
+                                <forename>Ole Johansen</forename></author>
+                            <author><surname>Soikainen</surname>
+                                <forename>Ole Pedersen</forename></author>
+                            <author><surname>Soikainen</surname>
+                                <forename>Torbiörn Torbiörssen</forename></author>
+                            <author><surname>Orainen</surname>
+                                <forename>Erich Hindrichson</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>127</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Räisäinen toiminut kirjurina, muut allekirjoittaneet kirjeen.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Revholttet i Kalnäset (Twengsbärget, Lentorpet, Lowshangen, Avskogsbärget, Tangen, Masterud, Tangnes, Tragonmoen, Wiger)">
+                            Revholttet i Kalnäset (Twengsbärget, Lentorpet, Lowshangen, Avskogsbärget, Tangen, Masterud, Tangnes, Tragonmoen, Wiger)</placeName>
+                        <date when="1822-04-20">20.4.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_023" />  
+                <p>Armoilinen Herra Gottlund</p>
+                <p>
+                    <l><del>Nyt</del></l>
+                    <l>Nyt Meita on tässä koosa 5. Miestä Poihjos Suomalai=</l>
+                    <l>sista, ja 5. Etelä Suomalaisista._ Me tahtoisimmen teillen</l>
+                    <l>jlmi antoa, että Meitä Tahtoo, Meijän Jsännät kowin Ruwe=</l>
+                    <l>ta waiwoamaan, Nyt tämmöis Gullbranssi Meistä Poihjos</l>
+                    <l>Suomalaista 20. Miestä, ja Andria Bärgiltä tul tämmätyxi</l>
+                    <l>24 Meistä Etelä Suomalaista, Huuhanhakkuistä Sowintoo=</l>
+                    <l>käräisiin. – Ja Nämä Merkälit Ojsiwat tahtoneet</l>
+                    <l>Meijän Sopimaan ett’=ej Meijän Enemmän <del>puuta</del> yhtään</l>
+                    <l>puuta hakkoamaan Huhaxi. Waan siheen Sowintoon</l>
+                    <l>ej Meistä yxkään tainna männä, Sillä Me ej sunkaan taija</l>
+                    <l>Ajkoon tulla, kinn ej Myö suaa Raiwataa wäheän Niituxi</l>
+                    <l>ja sen jonkas tijät, Niin Myö hätäännymme Eläi<ref>m<note>viivallinen m-kirjain</note></ref> eme </l>
+                    <l>Kassa Kesillä, Kuin ej Myö suaa Hakata. __</l>
+                    <l>Sillä Myö Nyt kaikki Nöũrällissest Ruukuilemme Teitä</l>
+                    <l>Rakas Herra, ettäš aũtaisit Meitä waiwaasia, tässä</l>
+                    <l>ahtistoxessa; että ej Herrt sais Kowin Meitä waiwata. –</l>
+                    <l>ja Lsähättaisit Meillen yhen Lohtutoxen Silloin kuin</l>
+                    <l>jkänän ennätät. –</l>
+                </p>
+                <p>
+                    <l>Danil Halworsen Lehmoinen</l>
+                    <l>i Reholtet</l>
+                </p>
+                <p>
+                    <l>Öijärässä s<hi rend="underline">inä</hi> 20.p: Huhtik=</l>
+                    <l>wuo<ref>n<note>viivallinen n-kirjain</note></ref>a 18<hi rend="underline">22</hi></l>
+                </p>
+                <p>
+                    <l>Peder Olsen Räisäinen</l>
+                    <l>i Twengsbärget</l>
+                    <l>Ole Olsen Mulikka</l>
+                    <l>i Lentorpet			</l>
+                    <l>Toh<ref>m<note>viivallinen m-kirjain</note></ref>es Pålsen Räisäinen</l>
+                    <l>i Lowshangen</l>
+                    <l>Peder Mattusen Poalainen</l>
+                    <l>i Avskogsbärget.</l>
+                    <l>Ole Eriksen Walkoisia</l>
+                    <l>i Tangen</l>
+                    <l>Ole Johanssen Kirnu</l>
+                    <l>i Masterud</l>
+                    <l>Ole Pedersen Soikainen</l>
+                    <l>i Tangnes</l>
+                    <l>Torbiörn Torbiörssen Soikainen</l>
+                    <l>i Tragonmoen</l>
+                    <l>Erich Hindrichson Orainen</l>
+                    <l>I Wiger ¬–</l>
+                </p>
+                <pb n="2" facs="0268_0077781_024" />
+                <p>[kääntöpuolella epäselvää kirjoitusta lyijykynällä]</p>
+            </div>
+        </body>
+    </text>
+</TEI>

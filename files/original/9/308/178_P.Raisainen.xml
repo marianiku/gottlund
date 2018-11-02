@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-08-28">28.8.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:17</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>178</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1823-02-08">8.2.1823</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_049" />            
+                <p><l>Fullmakt in Banço</l>
+                    <l>Tol Erlansson <add>Soikainen</add> Fangnäs Tangen</l>
+                </p>
+                <p>
+                    <l>Tämä mieš joka tässä on antannä Wullmahtinsa</l>
+                    <l>jstuu huonesa Tankalla wokeriinsa <del><hi rend="underline">Luona</hi></del> Amund Torbiörn</l>
+                    <l>sonin luona. tämä Amund Torbiörnin poika Kirnumen</l>
+                    <l>on jo ennen <del>t</del> antanna wullmahtinsa samasta paikas=</l>
+                    <l>ta; waan tällä Kirnuisella on yx toinen paika jota hän</l>
+                    <l>meinoa pyörtät Jälleen sillä <add>hän on</add>wanhin perillinen sihoen.</l>
+                </p>
+                <pb n="2" facs="0268_0078096_050" />  
+                <p>
+                    <l>Sillä tämä Soikainen siitä kirjuttiin, että josˇ niin tulis,</l>
+                    <l>että Kirnuinen sais oman kylänsä jälleen. Niin hän tykkäis</l>
+                    <l>että se oil paha kuin ej hänen niimeensä ollu sisään an=</l>
+                    <l>nettu.</l>
+                </p>
+                <p>
+                    <l>Waan još niin oiš ettej Kirnuinen sais kyleän jälleen.__</l>
+                    <l>Niin hän Rukoile teitä kaikkein nũrimmällä sytä<ref>m<note>viivallinen m-kirjain</note></ref>ellä</l>
+                    <l>ettäs tekisit niin hywin ja auttäsit häntä, että hän saiš</l>
+                    <l>Rueta pyykeämän Fannäsin Mehälle, siheen paikkaan jota</l>
+                    <l>kututaan Rũnnihöygen. Hän sanoi olewan itellään</l>
+                    <l>200. Spisi tyskeä walmistä rahoa; waan e joo yhessä niin</l>
+                    <l>palljon hywyyttä että suaa Mihenkä rueta pyykeämän.__</l>
+                </p>
+                <p>Öijärillä s: 8. p: Helmekuussa <hi rend="underline">18</hi>23.| Poawo Räisäinen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

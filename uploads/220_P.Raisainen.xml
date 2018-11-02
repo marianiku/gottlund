@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille II</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-09-13">13.9.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 30</repository>
+                        <idno>30:10:59</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">    
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>220</bibl>
+                        </msItem>
+                    </msContents>             
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Öijäri">Öijäri</placeName>
+                        <date when="1830-06-10">10.6.1830</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0078096_214" />
+                <p>Öijärillä sinä 10. päiw <del><hi rend="underline">Huuhti=</hi></del><add>Kesä=</add>Kuussa 1830,</p>
+                <p>Herra Gottlundille! Poawo Räisäiseltä.___</p>
+                <p>
+                    <l>Minä käsitin sinun kirjat s:1. p: tässä Kuusša,</l>
+                    <l>yhön Puuwilaiš torpalin kanšsa; Josša kirjasša</l>
+                    <l>on myöš yx ysö Afskrista Cammerkolegiumista Puu=</l>
+                    <l>wilaisten wanhoista kaupoista; Tätä afskristoa</l>
+                    <l>oiš se torppail mielellän tahtoinna kerallaan,</l>
+                    <l>waan minä en tohti<ref>n<note>viivallinen n-kirjain</note></ref>a sitä hänelle antoa sillä kuin</l>
+                    <l>ei hänellä ollu Rahoa sita Lunastoa; Eikä wielää</l>
+                    <l>o yhtää kuulunna Puuwilta sitä lunastaman.__</l>
+                </p>
+                <p>
+                    <l>waan minä tahoin nyt kuitenki tämän kirjan sulle</l>
+                    <l>Lähätteä eiltäpäin, tämän Matin (Atestin) Papin kirjan</l>
+                    <l>tähe, ettei sen tulla kowin kauan wipymän.</l>
+                </p>
+                <p>
+                    <l>Mulla ei oo nyt tällä kertoa sulle suuresti kirjutta=</l>
+                    <l>mista, waan tahoin kuiteki kostella sinua siitä!</l>
+                    <l>Ettämä neän taaš Matin olewan hywäsšä korjuusša, ja</l>
+                    <l>myöš elläwän hywin. Minä meinasin wiä tämän</l>
+                    <l>kirjan ite Kömmille, ja kulkea silloin Puuwin kautta hei=</l>
+                    <l>tä puhuttelemasša eikö hyö tahoi kirjojan lunastoa, ja sano=</l>
+                    <l>a heille näin, Narrina ko työ piätte minua ja Gottlundia,</l>
+                    <l>enš tahoitte minua hälle kirjuttaman ja hän sitte tekö niin</l>
+                    <l>suuren waiwan ja hakoo ylöš teijän wanhat kirjat, ette=</l>
+                    <l>kä sitte kelpoa heitä Lunastaman; waan en jouwa nyt tal=</l>
+                    <l>lä</l>
+                </p>
+                <pb n="2" facs="0268_0078096_215" />
+                <p>
+                    <l>lä kertoa, sillä minä oon soanna tietä, että nyt ens</l>
+                    <l>wiikkolla tuloo tämä Öijärin mehtä ja tilat Auktio=</l>
+                    <l>nin peälle, ja <add>minun</add> pitäiš siellä ihan wisšiin olla kuulosta=</l>
+                    <l>masša kuinka tuo rupea käymän. Sillä minun täyty tä=</l>
+                    <l>män kirjan panna Postiin Östmarkin kautta, ja Reku=</l>
+                    <l>mentterata että hän oikein tuloo eeš, tämän Matin atestin</l>
+                    <l>tautta.</l>
+                </p>
+                <p>
+                    <l>Sinä sanot että kirjuttoa Grewe Brahelle meijan asjasta;</l>
+                    <l>Waan Jumala tiä, pien aikoa, minne kirjuttanoo!! tämä</l>
+                    <l>mahtaa jo olla yhtä paljon kirjutti minne <del><hi rend="underline">tha</hi></del> tahaan.</l>
+                    <l>Sillä mehtä jo taita tulla myywyx ennen kuin kirjat</l>
+                    <l>ennättäiš kuleka Herroijen wäliä. waan kuin ma sai=</l>
+                    <l>sin opttännin Auktionin peälle niin kuin ma meinoan</l>
+                    <l>Syksyyn asti, niin sitte minä tahoin kirjuttoa sulle, sekä</l>
+                    <l>Brahelle sinun kauttaiš.___</l>
+                </p>
+                <p>
+                    <l>Ei muuta nyt enemp tällä kertoa, Jumala pitäkön</l>
+                    <l>Sinua terwennä se on mun hartain toiwoini.__</l>
+                </p>
+                <p>Poawo Räisäinen</p>
+                <p>Øijeren sen 10. Juni 1830.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

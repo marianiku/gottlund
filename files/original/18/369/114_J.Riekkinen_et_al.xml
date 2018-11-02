@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johan Riekkinen, Antti Riekkinen, Johan Matsson Pupoinen > Carl Axel Gottlund</title>
+                <author>Johan Riekkinen, Antti Riekkinen, Johan Matsson Pupoinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:33:1</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Riekkinen</surname>
+                                <forename>Johan</forename></author> 
+                            <author><surname>Riekkinen</surname>
+                                <forename>Antti</forename></author> 
+                            <author><surname>Pupoinen</surname>
+                                <forename>Johan Matsson</forename></author> 
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>114</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Erotettu Paavo Räisäisen kirjeiden yhteydestä.</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1822-06-16">16.6.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077778_001" />
+                <p>Öijärillä sinä 16 p: Kesäkuussa 1822</p>
+                <p><hi rend="underline">Herra Gottlundi</hi></p>
+                <p><hi rend="underline">Myö</hi></p>
+                <p>
+                    <l>Mammoilan miehet me <del>owat</del> <add>ome</add> kuulleet että</l>
+                    <l>Kammer Coleiijassa pitais Löytyä <del>heijan</del> <add>meijan</add></l>
+                    <l>wanhat paperit; Ja nyt toais <del>owat</del> <add>omme</add> kuul=</l>
+                    <l>leet että teiltä oiš pitännä tulla Kirjan sen</l>
+                    <l>piäälle Lähätetyxi, waan ej <del>hyö</del> <add>myö</add> oo siitä</l>
+                    <l>Kirjoa käsittännä.___</l>
+                </p>
+                <p>
+                    <l>Niin <del>hyö</del> <add>myö</add> nyt Rukuilewat teita Rakas Herra,</l>
+                    <l>Ettäs tekisit nin hywin, jos <del>hy</del> Kirjat siellä</l>
+                    <l>Sanotussa Kammer Coleijassa Löytyis, ettäs</l>
+                    <l>Lähättäsit ne wanhat muaa Kirjat aikoi-</l>
+                    <l>ja myöten Postin kautta Räisäisen Luoxe.</l>
+                    <l>Kyllä myö panisimme Rahat teijän Kusta=</l>
+                    <l>nuxesta Räisäisen Luona, hän sais sitten Lä=</l>
+                    <l>hätteä Rahat teille Postin kautta. Ja jos ei [lisätty rivinväliin] niin,</l>
+                    <l>niin kyllä yx meistä taitaa tulla persuunliast</l>
+                    <l>heita hakemaan; Kuin Myö poara suaame [m:n päällä viiva]</l>
+                    <l>tietä että kirjat siellä Löytywat.__</l>
+                </p>
+                <p>
+                    <l>Meillä on Ma<ref>m<note>viivallinen m-kirjain</note></ref>oilassa årstal 1649. kuin</l>
+                    <l>Ma<ref>m<note>viivallinen m-kirjain</note></ref>oila tuil weroille.__ </l>
+                </p>
+                <p>
+                    <l><hi rend="underline">Johan Riekkinen</hi></l>
+                    <l><hi rend="underline">Atti Riekkinen Murtolehosta</hi></l>
+                </p>
+                <pb n="2" facs="0268_0077778_002" />
+                <p>
+                    <l>Ja nyt minin pois kotoa ollessa oil</l>
+                    <l>Baçkammi, Minun Emännättäin Narran=</l>
+                    <l>na suaaha nähäxeen niitä Kirjoja, Jotka</l>
+                    <l>minä Sain teiltä autiomäissä. Meillä</l>
+                    <l>on se usko että Baçkmanni pitä, Etelä</l>
+                    <l>Leika walinalaisten Kansa, Kanssakäymis=</l>
+                    <l>tä.____</l>
+                </p>
+                <p>
+                    <l>Antti Riekkinen</l>
+                    <l><hi rend="underline">Murtolehost</hi></l>
+                </p>
+                <p>
+                    <l>Nyt minä Pupoinen Huitkeärnältä olen</l>
+                    <l>Kuullunna että teijän jo ois pitännä Kuullos=</l>
+                    <l>tella meijän wanhoja muaa Kirjoja Kammer</l>
+                    <l>Coleijasta; Waan minä Rukuilen wielä</l>
+                    <l>teitä etes päin, Ettäs tekisit niin hywin,</l>
+                    <l>ja heitä kokisit wielä ylös ehtiä, jos suunni</l>
+                    <l>mahtoonlinen ois. – Ja sitten tekisit niin</l>
+                    <l>hywin, ja Lähättäisit Kirjat ylös Ma<ref>m<note>viivallinen m-kirjain</note></ref>oilaisten</l>
+                    <l>Kirjaijän Kanssa, Niin kyllä minä Teijän</l>
+                    <l>Kustanuxen maxan yliten, waan ej alaiten.</l>
+                </p>
+                <p>
+                    <l>Johan Malsson Pupoinen</l>
+                    <l><hi rend="underline">Huitkeärnältä</hi></l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

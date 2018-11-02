@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antti Porkka > Carl Axel Gottlund</title>
+                <author>Antti Porkka</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-06">6.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:30:10</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Porkka</surname>
+                                <forename>Antti</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>75</bibl>
+                        </msItem>
+                    </msContents>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Runsjön">Runsjön (Rumsjön, Rensjön)</placeName>
+                        <date when="1822-10-18">18.10.1822</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077775_030" />
+                <p>
+                    <l>annetu Runsjönilä sinä 18 päi. Loka. Kuusa</l>
+                    <l>v: 1822.</l>
+                </p>
+                <p>Anti Porkalta Koarle gottlundjle!</p>
+                <p>
+                    <l>Se oli jlautawa asia saaha Kuulta Herran</l>
+                    <l>terwex tullen, minä olen nyt taas Hywäisä</l>
+                    <l>toiwoisa meitän asian peäle.</l>
+                </p>
+                <p>
+                    <l>minä en o wielä ennättännä ulos Räkinöiä</l>
+                    <l>synni Kostinkiä, silä minä en o wissiä tjetoa</l>
+                    <l>saanut Kuinka palio <unclear>tuomari</unclear> oti Rooisa</l>
+                    <l>Kuin se Roon tammea synihti samala</l>
+                    <l>Reisula, van minä sen neän Etä se on</l>
+                    <l>liaxi otanna tämän oikouvan Jälken,</l>
+                    <l>Kyllä minä sen pian Lähätän Kuin Rahot</l>
+                    <l>viiko Sanomistakin.</l>
+                </p>
+                <p>
+                    <l>minulla olisi tarpelinen asia, Jota minä</l>
+                    <l>tahtoisin Herralta pyyteä: Etä minun vaimoin</l>
+                    <l>weliillä Juhoi Mojlaisela Lekavatinalla, on</l>
+                    <l>täisä Kyläisä Monjahta wero=äyri Kaupaxi,</l>
+                    <l>minä aikoisin mielelläin nuita ostaa, wan</l>
+                    <l>teälä on niin jso Rahan puutos, Eta</l>
+                    <l>ej</l>
+                </p>
+                <pb n="2" facs="0268_0077775_031" />
+                <p>
+                    <l>ej mies muistin sen Kaltaista ole olut</l>
+                    <l>sitä Kuni niin wähä maan pääle on tulut</l>
+                    <l>Etä ej Eläimillä ja Hevoisilla soaha mitän,</l>
+                    <l>Jos Enin osa pitä tappaman; niin minä</l>
+                    <l>pyytäisin Jos Herrala eli Jolai muuta</l>
+                    <l>olisi juträstin peäle Lainata 200. Riksiä</l>
+                    <l>Rikselisä, Kuni minä 2<hi rend="superscript"><hi rend="underline">xi</hi></hi> varakkaimiä</l>
+                    <l>miehiä saisin <unclear>Porjjin</unclear> ja papin toitistuxen</l>
+                    <l>niihen peäle, 2 eli 3 aiastaiaxi, eli Jos <del>ei</del></l>
+                    <l>Dissũntitista saisi näitä Lainaxi. teälä</l>
+                    <l>ei yhelä Rahaa Löyvy, ja Jos Jollai Ruoh=</l>
+                    <l>talaisela olisi, niin sille pitäis olla</l>
+                    <l>Kulltaa jos Riksiä sais. Kuin niin Hyvin</l>
+                    <l>oisi Etä niitä löytys saaha, niin minä pyyän</l>
+                    <l>Etä Herra nopeimitain antais minule tjion</l>
+                    <l>Ja minkälaisen Kjerjutoxen niitä wastai teällä</l>
+                    <l>pitäis lähätäman. minulla oisi wielä <unclear>puhumista</unclear></l>
+                    <l>wan aika ej anna tilaa. mun <unclear>Rannin vaimo</unclear></l>
+                    <l>jtä Kylästa on Kuolut ja mun pita sitä</l>
+                    <l>maahan Laulaman. Eleän Hän nỹt hyvin</l>
+                    <l>ja Jumala piteän Hänen terwennä</l>
+                </p>
+                <p>
+                    <l>Rukuile</l>
+                    <l>Antj Porka</l>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

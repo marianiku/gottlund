@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paavo Räisäinen > Carl Axel Gottlund</title>
+                <author>Paavo Räisäinen</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>Metsäsuomalaisten kirjeitä Carl Axel Gottlundille I</edition>
+            </editionStmt>
+            <publicationStmt>
+                <distributor>Suomalaisen Kirjallisuuden Seura</distributor>
+                <date when="2018-06-25">25.6.2018</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Helsinki</settlement>
+                        <repository>Suomalaisen Kirjallisuuden Seuran arkiston kirjallisuuden ja kulttuurihistorian arkistoaineistot, C. A. Gottlundin arkisto, kirjekokoelma 29</repository>
+                        <idno>29:36:33</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem n="1" class="letter">
+                            <author><surname>Räisäinen</surname>
+                                <forename>Paavo</forename></author>
+                            <title type="adressee"><surname>Gottlund</surname>
+                                <forename>Carl Axel</forename> </title>
+                        </msItem>
+                        <msItem n="2" class="transcription">
+                            <bibl>150</bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <p>Muut nimet: Pawail Räisäinen</p>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="fi-FI" usage="100">suomi</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div type="kirje">
+                <opener>
+                    <dateline>
+                        <placeName type="kirjoituspaikka" n="Øyern">Øyern</placeName>
+                        <date when="1846-09-24">24.9.1846</date>
+                    </dateline>
+                </opener>
+                <pb n="1" facs="0268_0077781_090" />
+                <p>Oijärillä sinä 24 piäw: Syyskuussa w: 1846.</p>
+                <p>Herra Gottlundille!</p>
+                <p>
+                    <l>Nyt on aiwon kauka, sitten kuinma kirjutin</l>
+                    <l>Sullen. Waan nyt täytyy minun wastata sinua</l>
+                    <l>Kirjaijens peälle; Sillä että Johanneš ei o näissä.</l>
+                    <l>Minä käsitin yhen sinun kirjojaiŝ, joka tuil Øst=</l>
+                    <l>markin pappilan kautta sina 30.<hi rend="superscript"><hi rend="underline">na</hi></hi> p: Elokuussa. Sen</l>
+                    <l>toisen kirjan, joka tuil winkerin kautta, käsitin</l>
+                    <l>minä wasta 19. tässä kuussa.</l>
+                    <l>Mitä nyt Johannekseen tuloo sanottawax. Niin</l>
+                    <l>Johannes ei oo näissä ollu 9<hi rend="superscript"><hi rend="underline">sään</hi></hi> Astaikaan.__</l>
+                    <l>Hän antoi pois luotan Koulun pion, ja Nai</l>
+                    <l>yhen köyhän Pijan; ja muuti Øster=Götlandiin.</l>
+                    <l>Jossa hän on asunna Norrköpinkin tinuilla,</l>
+                    <l>ja ollu Tolparina yhellä Papilla Dagsperin pi=</l>
+                    <l>täjässä.__ Se sama Pappi on aina narranna</l>
+                    <l>Johannesta, ja Luanna hankiakseen hanelle pa=</l>
+                    <l>remman Elo=kerran. Mitäs ollakaan, Pappi on</l>
+                    <l>köyhtynnä itekiin, että Puonnit nyt Ruukoawat</l>
+                    <l>pappilan, ja maksawat Papin welkoja.</l>
+                    <l>Niin Johanneksen täyty Kewäillä panna Auksionin</l>
+                    <l>peälle kaikki mitä hänellä oil, ja muutoa pois</l>
+                    <l>Torpaltaan. Tänä kesänä hän on ollu Riisinkin</l>
+                    <l>pitäjässä yhellä Kirkon pykyyllä, sillä että hanen</l>
+                    <l>on täytynnä uoittoa niitä Auksion Rahoja.</l>
+                    <l>Waan nyt tänä Syksynä, hän tuloo takaisin</l>
+                    <l>koti</l>
+                </p>
+                <pb n="2" facs="0268_0077781_091" />
+                <p>
+                    <l>Kotimaiheen ja Rupea samaan kouluwirkaan,</l>
+                    <l>Meijän Pappi tahtoo häntä jälleen Koulumiehex.</l>
+                    <l>ja Johannes on kirjoijen kautta Luanna tullak=</l>
+                    <l>seen, ja rupeawasa Koulumiehex.</l>
+                    <l>Niin jos, niin hywin tahtoisitten tehä, että hänelle</l>
+                    <l>Kirjoja lähätteä, Koarloistad kautta Conrads=</l>
+                    <l>forsbrukille. (Ruotiksi Conradsforsbruk.) Se on yx</l>
+                    <l>uusi Ruukki tehty yläpuolle Östmarkin, jota on</l>
+                    <l>ennen kuhuttu Lonkerox (Långrudsgränsetul.)__</l>
+                    <l>Tälle Ruukille kulko Ajopost Koarloistadsta.</l>
+                    <l>Mitä Matista tuloo Sanottawax; Niin Matti on </l>
+                    <l>Kuollu. Hän kuoil Tukulmissa jo w:1942 Keuh=</l>
+                    <l>kotautiin, ja hauwattiin Juhannuxen päiwänä.</l>
+                    <l>Se kirja, jonkas kirjutit tänne 2. Astaikoa sitten</l>
+                    <l>senni minä käsitin, seki tuil tänne Vinkerin kautta.</l>
+                    <l>Senni peälle minä wastasin, ja kirjutin paljon</l>
+                    <l>Sulle; ja Lähätin sen kirjan Johannexen Luokse,</l>
+                    <l>ja Johannes sanoo mulle, että hänki on wastanna</l>
+                    <l>Sen kirjan peäälle, ja pain Postiin Norrköpinkissä.</l>
+                    <l>Minne han sitte lie kirja joutunna, koskei se oo</l>
+                    <l>tullu sinun käsiis.___</l>
+                    <l>Niin mitä minä ihestäin taijan sanoa, niin kyllä mi=</l>
+                    <l>nä wielä soan Eleä; Minä olin nyt 10<hi rend="superscript"><hi rend="underline">nä</hi></hi> p: Elo=</l>
+                    <l>kuussa 60<hi rend="superscript"><hi rend="underline">nen</hi></hi> Vuoin wanha, ja olen wiela niin</l>
+                    <l>Riski <add>ja</add> terwes, kuin silloin kuin Tukulmissa oltiin.</l>
+                    <l>Minä oon ollu 10<hi rend="superscript"><hi rend="underline">nen</hi></hi> Astaikoa Koulumiessä Ruuš=</l>
+                    <l>suokunan Mehillä, ja oon wieläki. Minä oon Elo= </l>
+                    <l>leipämies, Mulla on ysö Eloleipä; jotta kyllä minä elän</l>
+                    <l>hywin; Vaan on arwoltaaš paha mielein, Multa</l>
+                </p>
+                <pb n="3" facs="0268_0077781_092" />
+                <p>
+                    <l>Kuoil wanhin poika joka Kylän Eessä seisoi, Että nyt</l>
+                    <l>mina <add>oon</add> Sokotti=kuin wierasten haltussa. Ja pahoin oli poi=</l>
+                    <l>kaki tellän Eläisään. Kauppakirjansa oil antanna sille</l>
+                    <l>jolta poijat tilan ostiwat yhen pienen welan pantix.</l>
+                    <l>Mitäš kuin Pekka kuoli. Niin Mies oil Kelm, ja piti</l>
+                    <l>Tilan ja Mehtä ošan omanaan, ja sanoo Pekan myönen</l>
+                    <l>kaikki itelleen, ja pain Lesken ysöllen huusleijalle. Nyt</l>
+                    <l>soas Lesk Maxoa Werot ja ysöt huusleijat, joka wuois.</l>
+                    <l>Sitten on 7<hi rend="superscript"><hi rend="underline">men</hi></hi> Astaikoa kuin Pekka Kuoil minulle ysöksi huo=</l>
+                    <l>lexi.</l>
+                    <l>Mitä nyt muiheen Suoma<del>laiis</del><add>laisiin</add> t<del>a</del><add>u</add>loo sanottawax teällä</l>
+                    <l>Norin puolla; Niin ne enin osa Elää yhtä huonolla</l>
+                    <l>kannalla kuin ennenki; Norlaiset ostiwat eni<ref>m<note>viivallinen m-kirjain</note></ref>ät</l>
+                    <l>osat Mehtiä ja tiloja, että en on Tolpariloina Norlai=</l>
+                    <l>sten alla, ja elawät herin pahemmassa kurissa kuin</l>
+                    <l>Kauppamiesten alla. Vaan ne toais jotka tuil ite</l>
+                    <l>soamaan Mehtänsä ja tilansä, Ne owat Rikastuneet</l>
+                    <l>että owat Pywänneet niin julmat Kartanot itelleen kuin</l>
+                    <l>Herroissa, waan se ei oo monessä paikoin. Wolperiläi=</l>
+                    <l>set, niinkuin Kalnäsissä ja Venksperissä, ja Kelweron</l>
+                    <l>mehällä muutamat tilat Eläwät warakkaasti.</l>
+                    <l>Niin teällä etelä Suomalaisissa ei oo muita kuin tämä </l>
+                    <l>meijän Ranni, ja sitten Lehtomäissä, jossa Eläwät wa=</l>
+                    <l>rakkasti, neki tuil ihe soamaan tilansa ja Mehtäosan=</l>
+                    <l>sa ostetux. Muut kaikki on Norlasten alla, ja Eläwät</l>
+                    <l>suuressa köyhywessä.</l>
+                    <l>Ruohin Suomalaiset mänöö jotenki, nuoilla on ieš enim=</l>
+                    <l>män osalla omaiset mehät. Kirjoja ne nyt soawat</l>
+                    <l>Ruohin puolella, yx on aikoa ollu walmissa Kekliassa; ja</l>
+                    <l>toinen Höljyksessä; niillä on yx Pappi.</l>
+                    <l>Lautasalmella on jo tehty Kirkonmoa Walmiksi, se <unclear>wihit</unclear>=</l>
+                    <l>tiin</l>
+                </p>
+                <pb n="4" facs="0268_0077781_093" />
+                <p>
+                    <l>tiin kewät=talwella, siheen on jo 11<hi rend="superscript"><hi rend="underline">tä</hi></hi> Ruumista hau=</l>
+                    <l>wattu. Puuwilla wihittiin nyt toissa Sunnuntaina</l>
+                    <l>sinä 13<hi rend="superscript"><hi rend="underline">na</hi></hi> p: tässä kuussa Kirkonmoa. Että niitä</l>
+                    <l>tuloo nyt jo 3<hi rend="superscript"><hi rend="underline">met</hi></hi> Kirkoa Rajalle. Vaan niihin ei</l>
+                    <l>myö peäsö yhteenkä Norin puolta. Siitä hyö soa=</l>
+                    <l>wat sinua kiitteä, eiwät suinkaan ois wielä soana [n:n päällä viiva]</l>
+                    <l>yhtään Kirkoa kuin ett’ sinä ois teällä käwelly.</l>
+                    <l>Daniel Lehmoinen Reholtasta, Seki ost tilansa ja meh=</l>
+                    <l>tä osan; waan kuoil lian nopeen ettei ollu wie=</l>
+                    <l>lä tila maxettu. Sitte tuil tila Auksionen peäälle,</l>
+                    <l>Lapsissa ei ollu kelpoa, että saiwat takaus miestä;</l>
+                    <l>mutt’ tuil wieraille myyxi. Nyt kulkoo Lapset</l>
+                    <l>moalimalla Köyhyessä. Lehmoinen kuoli w:1832.</l>
+                    <l>Anti Porka kuoil Kax astaikoa sitten. Lesk elää</l>
+                    <l>suuressa köyhywessä. Laur Moijonen kuol mä<ref>n<note>viivallinen n-kirjain</note></ref>ä</l>
+                    <l>kesänä. Olli Hämäläinen Hjärpliasta Kuoli</l>
+                    <l>nuoin 7‒8. wuotta sitten. Myö muut jotka</l>
+                    <l>Tukhulmissa käwimme, Elämme Riskiste.__</l>
+                    <l>Minun Rannin poika, Pekka Karvainen;</l>
+                    <l>Hän Nai Kalnäsiin, sai siellä Lesken Vai=</l>
+                    <l>moxeen. Hän on siellä tullu niin Rikkaax että</l>
+                    <l>hänellä on 4<hi rend="superscript"><hi rend="underline">iin</hi></hi> 5<hi rend="superscript"><hi rend="underline">sin</hi></hi> Hewosiin, ja 40.<hi rend="superscript"><hi rend="underline">tä</hi></hi> Lypšy Leh=</l>
+                    <l>meä; ja Pyännä ihelleen Kartanon kuin Herroissa.</l>
+                    <l>Tämä Pekka Karvainen, on minua pyytännä, Että</l>
+                    <l>Sulle kirjuttoa Awisien perän, että saisimme Vuois=</l>
+                    <l>kulun niinkuin saimme Turunwiikkosanomat.</l>
+                    <l>Niin nyt minä pyywän tämän kirjain kautta!</l>
+                    <l>Ettäs tekisit niin hywin ja Laittaisit, Mulle, ja</l>
+                    <l><ref>#<note>viittaus seuraavalle sivulle</note></ref></l>
+                </p>
+                <pb n="5" facs="0268_0077781_094" />
+                <p>
+                    <l># ennen mainitulle Karwaiselle, Helsinkin=Wiikosa</l>
+                    <l>nomat; Kuin poara saisimme wuois=kulun sillä</l>
+                    <l>hinnalla kuin Turun=Wiikosanomat, 7<hi rend="superscript"><hi rend="underline">lä</hi></hi> tahi 8<hi rend="superscript"><hi rend="underline">la</hi></hi>
+                        Riksillä Rikselissä; Wuoiskulun. Vaan kuin tulisi=</l>
+                    <l>wat kalliimmat wuoissa, niin myö ei taitais ottoa;</l>
+                    <l>sillä että meitä ei O, još myö kax maxamaan.</l>
+                    <l>Kuin myö saisimme wuoiskulun 8<hi rend="superscript"><hi rend="underline">la</hi></hi> Riksillä Rikselissä</l>
+                    <l>Niin myö tahtosimmo jo het soaha tämän wuois=</l>
+                    <l>kulun. Sitten myö tahtoisimmo kernaasti Ostoa,</l>
+                    <l>Toisen osan Ottawasta; Saisit Mulle antoa tion,</l>
+                    <l>mitä Kirja maxa, niin myö sen kernast Lunastasin=</l>
+                    <l>mo. Ja sitten myö tahtoisimme ostoa wonSChrö=</l>
+                    <l>terin Feniska Runen, jos se poara Löytysi.</l>
+                    <l><ref>#<note>viittaus seuraavalle sivulle</note></ref></l>
+                </p>
+                <p>
+                    <l>Nyt minä en tiä muuta kirjuttamista.</l>
+                    <l>Mutt Jumala pitäköön Teitä terwennä.</l>
+                    <l>Ja Terweyxiä Sulle! Meiltä Kaikilta.</l>
+                    <l>Kuins kirjutat Mulle, tahi Johannexelle.</l>
+                    <l>Niin pan<del>na</del><add>ne</add>, Till Skollâraren Paul Øijern</l>
+                    <l>Ja taijat sen kirjan Lukota, toisen kirjan si=</l>
+                    <l>sään, ja sitten kirjutat Kannelle näin"</l>
+                </p>
+                <p>
+                    <l>"S:T: Herr</l>
+                    <l>Bruksförwalter Falbeçk a: <del>Cora</del></l>
+                    <l>Conradsforsbruk</l>
+                </p>
+                <p>
+                    <l><hi rend="underline">Carlstad</hi></l>
+                    <l><hi rend="underline">Conradsforsbruk</hi></l>
+                </p>
+                <p>
+                    <l>Sitten kirja tuloo oikein eis. Minä oon tuttu sen Miehen</l>
+                    <l>kanssa. Samaten taijat sille kirjuttoa jos Viikosanomia</l>
+                    <l>tulisi Lähätettäwäx.</l>
+                </p>
+                <p><hi rend="underline">Poawo Räisäinen.</hi></p>
+                <pb n="6" facs="0268_0077781_095" />
+                <p>
+                    <l>#</l>
+                    <l>Minun pitäis arwoltaaš mainita, minkälainen</l>
+                    <l>Vuoin=tulos teällä on tullu. Teällä on ollu wahwa</l>
+                    <l>pouta tänä Kesänä. Enskertoa kahenpuolen Messu=</l>
+                    <l>moarin oil 6.wiikoa pouta. Sitten Jaakoin päiwän</l>
+                    <l>aikaan Satoi hywän kastan. Waan sitten tuil niin</l>
+                    <l>äkkinäinen Lampenen, ja joutti pellot niin äkkiä.</l>
+                    <l>Että olk tuil niin kaiseata lyhyttä, etteiwät ollu</l>
+                    <l>herin hywiä Lyhteixi sitomaan. Ja wähemmän Niesä</l>
+                    <l>Räkninkiä. Vaan Putišia tuil jotenki.</l>
+                </p>
+                <p>
+                    <l>Wielä nytki, on se sama pouta, että nyt loppuu</l>
+                    <l>wesi kaiwoista, Ja Mylly=weit Loppuu; etteiwät</l>
+                    <l>saa jaohoija wuointulostaan, mutt’ pitää sywä Pu=</l>
+                    <l>tisia ja Suoloija, ja myöš Maitoa.</l>
+                    <l>Nyt tuloo ens pyhynä 9<hi rend="underline">sän</hi> wiikoa, sitten kuin</l>
+                    <l>satoi. Eikä se wielää näytä, että siitä Laitta heit</l>
+                    <l>tuloo. Kylmä Luoipohja tuul on joka päiwä nyt</l>
+                    <l>ollu jo 2 wiikkoa; ja öyllä on pakkainen.</l>
+                    <l>Ryslössä Sanotaan tulleen jo Lunta, ettei eneä mä</l>
+                    <l>pois tänä syyssä.</l>
+                </p>
+                <p>
+                    <l>Poawo Räisäinen</l>
+                    <l>Toisen kerran</l>
+                </p>
+                <p>
+                    <l>Minä toiwon Johannesta jo kotiin, parin</l>
+                    <l>wiikon peästä. Kyllä seki soa Sulle kirjuttoa.</l>
+                    <l>Pawail Räisäinen</l>
+                    <l>Kolmannen kerran</l>
+                    <l>Tahwo Jmmoinen lupaisi</l>
+                    <l>mulle kirjuttawasa. waan eipä hän oo kehanna</l>
+                    <l>mitää mulle mainita kotimaihen tulostaan.</l>
+                </p>
+                <p><hi rend="underline">Poawo Raisainen</hi></p>
+            </div>
+        </body>
+    </text>
+</TEI>
